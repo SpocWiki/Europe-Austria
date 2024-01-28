@@ -75,12 +75,12 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "{{State}}", backgroundColor: "hsl(314, 95%, 90%)"}
-      - { label: "[[State~NordRhein-Westfahlen|State~NordRhein-Westfahlen]]", backgroundColor: "hsl(79, 95%, 90%)"}
-      - { label: "[[State~Baden-Wuerttemberg|State~Baden-Wuerttemberg]]", backgroundColor: "hsl(329, 95%, 90%)"}
-      - { label: "[[State~Bayern|State~Bayern]]", backgroundColor: "hsl(21, 95%, 90%)"}
-      - { label: "[[State~Niedersachsen|State~Niedersachsen]]", backgroundColor: "hsl(141, 95%, 90%)"}
-      - { label: "[[State~Rheinland-Pfalz|State~Rheinland-Pfalz]]", backgroundColor: "hsl(354, 95%, 90%)"}
+      - { label: "{{State}}", value: "{{State}}", color: "hsl(314, 95%, 90%)"}
+      - { label: "[[State~NordRhein-Westfahlen|State~NordRhein-Westfahlen]]", value: "[[State~NordRhein-Westfahlen|State~NordRhein-Westfahlen]]", color: "hsl(79, 95%, 90%)"}
+      - { label: "[[State~Baden-Wuerttemberg|State~Baden-Wuerttemberg]]", value: "[[State~Baden-Wuerttemberg|State~Baden-Wuerttemberg]]", color: "hsl(329, 95%, 90%)"}
+      - { label: "[[State~Bayern|State~Bayern]]", value: "[[State~Bayern|State~Bayern]]", color: "hsl(21, 95%, 90%)"}
+      - { label: "[[State~Niedersachsen|State~Niedersachsen]]", value: "[[State~Niedersachsen|State~Niedersachsen]]", color: "hsl(141, 95%, 90%)"}
+      - { label: "[[State~Rheinland-Pfalz|State~Rheinland-Pfalz]]", value: "[[State~Rheinland-Pfalz|State~Rheinland-Pfalz]]", color: "hsl(354, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -296,17 +296,17 @@ columns:
     isSorted: true
     isSortedDesc: false
     options:
-      - { label: "Afghanistan", backgroundColor: "hsl(300, 95%, 90%)"}
-      - { label: "Albania", backgroundColor: "hsl(188, 95%, 90%)"}
-      - { label: "American_Samoa", backgroundColor: "hsl(232, 95%, 90%)"}
-      - { label: "Angola", backgroundColor: "hsl(275, 95%, 90%)"}
-      - { label: "Anguilla", backgroundColor: "hsl(57, 95%, 90%)"}
-      - { label: "Antigua_And_Barbuda", backgroundColor: "hsl(123, 95%, 90%)"}
-      - { label: "Armenia", backgroundColor: "hsl(71, 95%, 90%)"}
-      - { label: "Aruba", backgroundColor: "hsl(336, 95%, 90%)"}
-      - { label: "Azerbaijan", backgroundColor: "hsl(144, 95%, 90%)"}
-      - { label: "[[Germany|Germany]]", backgroundColor: "hsl(325, 95%, 90%)"}
-      - { label: "[[Austria|Austria]]", backgroundColor: "hsl(299, 95%, 90%)"}
+      - { label: "Afghanistan", value: "Afghanistan", color: "hsl(300, 95%, 90%)"}
+      - { label: "Albania", value: "Albania", color: "hsl(188, 95%, 90%)"}
+      - { label: "American_Samoa", value: "American_Samoa", color: "hsl(232, 95%, 90%)"}
+      - { label: "Angola", value: "Angola", color: "hsl(275, 95%, 90%)"}
+      - { label: "Anguilla", value: "Anguilla", color: "hsl(57, 95%, 90%)"}
+      - { label: "Antigua_And_Barbuda", value: "Antigua_And_Barbuda", color: "hsl(123, 95%, 90%)"}
+      - { label: "Armenia", value: "Armenia", color: "hsl(71, 95%, 90%)"}
+      - { label: "Aruba", value: "Aruba", color: "hsl(336, 95%, 90%)"}
+      - { label: "Azerbaijan", value: "Azerbaijan", color: "hsl(144, 95%, 90%)"}
+      - { label: "[[Germany|Germany]]", value: "[[Germany|Germany]]", color: "hsl(325, 95%, 90%)"}
+      - { label: "[[Austria|Austria]]", value: "[[Austria|Austria]]", color: "hsl(299, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -345,16 +345,17 @@ config:
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
   enable_footer: false
   implementation: default
+  show_metadata_tags: false
 filters:
   enabled: false
   conditions:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Austria/_CityDB|_CityDB]] 
-- [[../../../../../_public/geo/Continent/Europe/Austria/_CityDB.public|_CityDB.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Austria/_CityDB.internal|_CityDB.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Austria/_CityDB.protect|_CityDB.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Austria/_CityDB.private|_CityDB.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Austria/_CityDB.personal|_CityDB.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Austria/_CityDB.secret|_CityDB.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Austria/_CityDB|_CityDB]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Austria/_CityDB.public|_CityDB.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Austria/_CityDB.internal|_CityDB.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Austria/_CityDB.protect|_CityDB.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Austria/_CityDB.private|_CityDB.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Austria/_CityDB.personal|_CityDB.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Austria/_CityDB.secret|_CityDB.secret]] 
