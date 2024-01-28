@@ -1,5 +1,5 @@
 ﻿---
-location: [48.02,15.58]
+location: [48.02,15.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.58]
-[geo-lat::48.02]
-[name::Lilienfeld]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.58] 
+[geo-lat::48.02] 
+[name::Lilienfeld] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lilienfeld
-coordinates: [[Lilienfeld]]
-markerFile: [[Lilienfeld]]
+coordinates: [[Lilienfeld]] 
+markerFile: [[Lilienfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

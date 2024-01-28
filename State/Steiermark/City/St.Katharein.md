@@ -1,5 +1,5 @@
 ﻿---
-location: [47.47,15.17]
+location: [47.47,15.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.17]
-[geo-lat::47.47]
-[name::St.Katharein]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.17] 
+[geo-lat::47.47] 
+[name::St.Katharein] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: St.Katharein
-coordinates: [[St.Katharein]]
-markerFile: [[St.Katharein]]
+coordinates: [[St.Katharein]] 
+markerFile: [[St.Katharein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

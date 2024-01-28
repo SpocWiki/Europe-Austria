@@ -1,5 +1,5 @@
 ﻿---
-location: [48.77,15.95]
+location: [48.77,15.95] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.95]
-[geo-lat::48.77]
-[name::Retz]
-[State::]
-[Country::[[Hungary]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.95] 
+[geo-lat::48.77] 
+[name::Retz] 
+State ::  
+Country :: [[Hungary]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Retz
-coordinates: [[Retz]]
-markerFile: [[Retz]]
+coordinates: [[Retz]] 
+markerFile: [[Retz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

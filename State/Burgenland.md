@@ -6,7 +6,7 @@ tags:
 - geo/State
 
 ---
-[StateId::]
+[StateId::] 
 isDeleted: false
 confidential: public
 
@@ -19,11 +19,11 @@ geojsonFolder: ./Burgenland/
 markerFolder: ./Burgenland/
 ```
 
-[ name :: Burgenland ]
-[CountryId::]
-[geo-lon::]
-[geo-lat::]
-[Population::]
+[ name :: Burgenland ] 
+[CountryId::] 
+[geo-lon::] 
+[geo-lat::] 
+[Population::] 
 
 
 

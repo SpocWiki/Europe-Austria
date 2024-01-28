@@ -1,5 +1,5 @@
 ﻿---
-location: [47.77,15.32]
+location: [47.77,15.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.32]
-[geo-lat::47.77]
-[name::Mariazell]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.32] 
+[geo-lat::47.77] 
+[name::Mariazell] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mariazell
-coordinates: [[Mariazell]]
-markerFile: [[Mariazell]]
+coordinates: [[Mariazell]] 
+markerFile: [[Mariazell]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

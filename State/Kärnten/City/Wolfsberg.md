@@ -1,5 +1,5 @@
 ﻿---
-location: [46.83,14.83]
+location: [46.83,14.83] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.83]
-[geo-lat::46.83]
-[name::Wolfsberg]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.83] 
+[geo-lat::46.83] 
+[name::Wolfsberg] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wolfsberg
-coordinates: [[Wolfsberg]]
-markerFile: [[Wolfsberg]]
+coordinates: [[Wolfsberg]] 
+markerFile: [[Wolfsberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

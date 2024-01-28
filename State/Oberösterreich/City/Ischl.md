@@ -1,5 +1,5 @@
 ﻿---
-location: [47.72,13.78]
+location: [47.72,13.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.78]
-[geo-lat::47.72]
-[name::Ischl]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.78] 
+[geo-lat::47.72] 
+[name::Ischl] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ischl
-coordinates: [[Ischl]]
-markerFile: [[Ischl]]
+coordinates: [[Ischl]] 
+markerFile: [[Ischl]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

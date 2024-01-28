@@ -1,5 +1,5 @@
 ﻿---
-location: [48.32,16.32]
+location: [48.32,16.32] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.32]
-[geo-lat::48.32]
-[name::Klosterneuburg]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.32] 
+[geo-lat::48.32] 
+[name::Klosterneuburg] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Klosterneuburg
-coordinates: [[Klosterneuburg]]
-markerFile: [[Klosterneuburg]]
+coordinates: [[Klosterneuburg]] 
+markerFile: [[Klosterneuburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

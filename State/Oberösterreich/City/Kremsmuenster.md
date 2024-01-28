@@ -1,5 +1,5 @@
 ﻿---
-location: [48.05,14.13]
+location: [48.05,14.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.13]
-[geo-lat::48.05]
-[name::Kremsmuenster]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.13] 
+[geo-lat::48.05] 
+[name::Kremsmuenster] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kremsmuenster
-coordinates: [[Kremsmuenster]]
-markerFile: [[Kremsmuenster]]
+coordinates: [[Kremsmuenster]] 
+markerFile: [[Kremsmuenster]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

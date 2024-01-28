@@ -6,7 +6,7 @@ tags:
 - geo/State
 
 ---
-[StateId::]
+[StateId::] 
 isDeleted: false
 confidential: public
 ```leaflet
@@ -18,11 +18,11 @@ geojsonFolder: ./State~Wien/
 markerFolder: ./State~Wien/
 ```
 
-[ name :: Wien ]
-[CountryId::]
-[geo-lon::]
-[geo-lat::]
-[Population::]
+[ name :: Wien ] 
+[CountryId::] 
+[geo-lon::] 
+[geo-lat::] 
+[Population::] 
 
 
 

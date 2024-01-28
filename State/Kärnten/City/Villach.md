@@ -1,5 +1,5 @@
 ﻿---
-location: [46.62,13.85]
+location: [46.62,13.85] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.85]
-[geo-lat::46.62]
-[name::Villach]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.85] 
+[geo-lat::46.62] 
+[name::Villach] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Villach
-coordinates: [[Villach]]
-markerFile: [[Villach]]
+coordinates: [[Villach]] 
+markerFile: [[Villach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

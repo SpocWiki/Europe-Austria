@@ -6,7 +6,7 @@ tags:
 - geo/State
 
 ---
-[StateId::]
+[StateId::] 
 isDeleted: false
 confidential: public
 ```leaflet
@@ -18,11 +18,11 @@ geojsonFolder: ./Tirol/
 markerFolder: ./Tirol/
 ```
 
-[ name :: Tirol ]
-[CountryId::]
-[geo-lon::]
-[geo-lat::]
-[Population::]
+[ name :: Tirol ] 
+[CountryId::] 
+[geo-lon::] 
+[geo-lat::] 
+[Population::] 
 
 
 

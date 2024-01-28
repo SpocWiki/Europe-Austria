@@ -1,5 +1,5 @@
 ﻿---
-location: [47.12,14.17]
+location: [47.12,14.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.17]
-[geo-lat::47.12]
-[name::Murau]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.17] 
+[geo-lat::47.12] 
+[name::Murau] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Murau
-coordinates: [[Murau]]
-markerFile: [[Murau]]
+coordinates: [[Murau]] 
+markerFile: [[Murau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

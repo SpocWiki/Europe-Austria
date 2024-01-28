@@ -1,5 +1,5 @@
 ﻿---
-location: [47.45,9.75]
+location: [47.45,9.75] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.75]
-[geo-lat::47.45]
-[name::Schwarzach]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.75] 
+[geo-lat::47.45] 
+[name::Schwarzach] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schwarzach
-coordinates: [[Schwarzach]]
-markerFile: [[Schwarzach]]
+coordinates: [[Schwarzach]] 
+markerFile: [[Schwarzach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

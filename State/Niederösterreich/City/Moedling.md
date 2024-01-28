@@ -1,5 +1,5 @@
 ﻿---
-location: [48.08,16.28]
+location: [48.08,16.28] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.28]
-[geo-lat::48.08]
-[name::Moedling]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.28] 
+[geo-lat::48.08] 
+[name::Moedling] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Moedling
-coordinates: [[Moedling]]
-markerFile: [[Moedling]]
+coordinates: [[Moedling]] 
+markerFile: [[Moedling]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

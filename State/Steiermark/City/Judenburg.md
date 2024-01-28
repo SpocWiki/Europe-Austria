@@ -1,5 +1,5 @@
 ﻿---
-location: [47.17,14.65]
+location: [47.17,14.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.65]
-[geo-lat::47.17]
-[name::Judenburg]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.65] 
+[geo-lat::47.17] 
+[name::Judenburg] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Judenburg
-coordinates: [[Judenburg]]
-markerFile: [[Judenburg]]
+coordinates: [[Judenburg]] 
+markerFile: [[Judenburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

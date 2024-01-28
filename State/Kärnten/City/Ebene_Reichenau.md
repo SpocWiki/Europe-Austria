@@ -1,5 +1,5 @@
 ﻿---
-location: [46.87,13.88]
+location: [46.87,13.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.88]
-[geo-lat::46.87]
-[name::Ebene Reichenau]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.88] 
+[geo-lat::46.87] 
+[name::Ebene Reichenau] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ebene Reichenau
-coordinates: [[Ebene_Reichenau]]
-markerFile: [[Ebene_Reichenau]]
+coordinates: [[Ebene_Reichenau]] 
+markerFile: [[Ebene_Reichenau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

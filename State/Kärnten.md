@@ -6,7 +6,7 @@ tags:
 - geo/State
 
 ---
-[StateId::]
+[StateId::] 
 isDeleted: false
 confidential: public
 ```leaflet
@@ -18,11 +18,11 @@ geojsonFolder: ./Kärnten/
 markerFolder: ./Kärnten/
 ```
 
-[ name :: Kärnten ]
-[CountryId::]
-[geo-lon::]
-[geo-lat::]
-[Population::]
+[ name :: Kärnten ] 
+[CountryId::] 
+[geo-lon::] 
+[geo-lat::] 
+[Population::] 
 
 
 

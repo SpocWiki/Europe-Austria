@@ -1,5 +1,5 @@
 ﻿---
-location: [46.77,14.82]
+location: [46.77,14.82] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.82]
-[geo-lat::46.77]
-[name::St.Andrae]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.82] 
+[geo-lat::46.77] 
+[name::St.Andrae] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: St.Andrae
-coordinates: [[St.Andrae]]
-markerFile: [[St.Andrae]]
+coordinates: [[St.Andrae]] 
+markerFile: [[St.Andrae]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

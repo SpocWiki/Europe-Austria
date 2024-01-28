@@ -1,5 +1,5 @@
 ﻿---
-location: [46.97,10.18]
+location: [46.97,10.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.18]
-[geo-lat::46.97]
-[name::Galtuer]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::10.18] 
+[geo-lat::46.97] 
+[name::Galtuer] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Galtuer
-coordinates: [[Galtuer]]
-markerFile: [[Galtuer]]
+coordinates: [[Galtuer]] 
+markerFile: [[Galtuer]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

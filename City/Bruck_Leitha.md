@@ -1,5 +1,5 @@
 ﻿---
-location: [48,02,16,78]
+location: [48,02,16,78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16,78]
-[geo-lat::48,02]
-[name::Bruck/Leitha]
-[State::]
-[Country[[../../Austria]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16,78] 
+[geo-lat::48,02] 
+[name::Bruck/Leitha] 
+State ::  
+Country :: [[Austria]] ] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bruck/Leitha
-coordinates: [[Bruck/Leitha]]
-markerFile: [[Bruck/Leitha]]
+coordinates: [[Bruck/Leitha]] 
+markerFile: [[Bruck/Leitha]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

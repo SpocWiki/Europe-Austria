@@ -6,7 +6,7 @@ tags:
 - geo/State
 
 ---
-[StateId::]
+[StateId::] 
 isDeleted: false
 confidential: public
 
@@ -19,11 +19,11 @@ geojsonFolder: ./Oberösterreich/
 markerFolder: ./Oberösterreich/
 ```
 
-[ name :: Oberösterreich ]
-[CountryId::]
-[geo-lon::]
-[geo-lat::]
-[Population::]
+[ name :: Oberösterreich ] 
+[CountryId::] 
+[geo-lon::] 
+[geo-lat::] 
+[Population::] 
 
 
 

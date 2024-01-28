@@ -1,5 +1,5 @@
 ﻿---
-location: [46.93,16.15]
+location: [46.93,16.15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.15]
-[geo-lat::46.93]
-[name::Jennersdorf]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.15] 
+[geo-lat::46.93] 
+[name::Jennersdorf] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jennersdorf
-coordinates: [[Jennersdorf]]
-markerFile: [[Jennersdorf]]
+coordinates: [[Jennersdorf]] 
+markerFile: [[Jennersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

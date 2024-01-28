@@ -1,5 +1,5 @@
 ﻿---
-location: [47.82,16.25]
+location: [47.82,16.25] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.25]
-[geo-lat::47.82]
-[name::Wiener Neustadt]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.25] 
+[geo-lat::47.82] 
+[name::Wiener Neustadt] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wiener Neustadt
-coordinates: [[Wiener_Neustadt]]
-markerFile: [[Wiener_Neustadt]]
+coordinates: [[Wiener_Neustadt]] 
+markerFile: [[Wiener_Neustadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

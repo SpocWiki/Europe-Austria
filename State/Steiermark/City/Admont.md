@@ -1,5 +1,5 @@
 ﻿---
-location: [47.58,14.45]
+location: [47.58,14.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.45]
-[geo-lat::47.58]
-[name::Admont]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.45] 
+[geo-lat::47.58] 
+[name::Admont] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Admont
-coordinates: [[Admont]]
-markerFile: [[Admont]]
+coordinates: [[Admont]] 
+markerFile: [[Admont]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

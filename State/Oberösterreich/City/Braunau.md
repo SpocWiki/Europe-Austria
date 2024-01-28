@@ -1,5 +1,5 @@
 ﻿---
-location: [48.25,13.07]
+location: [48.25,13.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.07]
-[geo-lat::48.25]
-[name::Braunau]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.07] 
+[geo-lat::48.25] 
+[name::Braunau] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Braunau
-coordinates: [[Braunau]]
-markerFile: [[Braunau]]
+coordinates: [[Braunau]] 
+markerFile: [[Braunau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

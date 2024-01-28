@@ -1,5 +1,5 @@
 ﻿---
-location: [46.82,12.78]
+location: [46.82,12.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.78]
-[geo-lat::46.82]
-[name::Lienz]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::12.78] 
+[geo-lat::46.82] 
+[name::Lienz] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lienz
-coordinates: [[Lienz]]
-markerFile: [[Lienz]]
+coordinates: [[Lienz]] 
+markerFile: [[Lienz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

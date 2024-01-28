@@ -1,5 +1,5 @@
 ﻿---
-location: [47.23,9.58]
+location: [47.23,9.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.58]
-[geo-lat::47.23]
-[name::Feldkirch]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.58] 
+[geo-lat::47.23] 
+[name::Feldkirch] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Feldkirch
-coordinates: [[Feldkirch]]
-markerFile: [[Feldkirch]]
+coordinates: [[Feldkirch]] 
+markerFile: [[Feldkirch]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

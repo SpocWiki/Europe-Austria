@@ -1,5 +1,5 @@
 ﻿---
-location: [48.3,15.42]
+location: [48.3,15.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.42]
-[geo-lat::48.3]
-[name::Aggsbach]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.42] 
+[geo-lat::48.3] 
+[name::Aggsbach] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Aggsbach
-coordinates: [[Aggsbach]]
-markerFile: [[Aggsbach]]
+coordinates: [[Aggsbach]] 
+markerFile: [[Aggsbach]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

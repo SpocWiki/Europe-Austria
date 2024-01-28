@@ -5,7 +5,7 @@ tags:
 - geo/State
 
 ---
-[StateId::]
+[StateId::] 
 isDeleted: false
 confidential: public
 ```leaflet
@@ -17,16 +17,16 @@ geojsonFolder: ./State~Salzburg/
 markerFolder: ./State~Salzburg/
 ```
 
-[ name :: Salzburg ]
-[CountryId::]
-[geo-lon::]
-[geo-lat::]
-[Population::]
+[ name :: Salzburg ] 
+[CountryId::] 
+[geo-lon::] 
+[geo-lat::] 
+[Population::] 
 
 
 
 ## Confidential Links & Embeds: 
--[[State~Salzburg|State~Salzburg]]] 
+- [[State~Salzburg|State~Salzburg]]  
 - [[../../../../../../_internal/geo/Continent/Europe/Austria/State/State~Salzburg.internal|State~Salzburg.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Austria/State/State~Salzburg.protect|State~Salzburg.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Austria/State/State~Salzburg.private|State~Salzburg.private]] 

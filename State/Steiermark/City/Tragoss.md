@@ -1,5 +1,5 @@
 ﻿---
-location: [47.52,15.08]
+location: [47.52,15.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.08]
-[geo-lat::47.52]
-[name::Tragoss]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.08] 
+[geo-lat::47.52] 
+[name::Tragoss] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tragoss
-coordinates: [[Tragoss]]
-markerFile: [[Tragoss]]
+coordinates: [[Tragoss]] 
+markerFile: [[Tragoss]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

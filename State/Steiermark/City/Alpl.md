@@ -1,5 +1,5 @@
 ﻿---
-location: [47.5,15.63]
+location: [47.5,15.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.63]
-[geo-lat::47.5]
-[name::Alpl]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.63] 
+[geo-lat::47.5] 
+[name::Alpl] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Alpl
-coordinates: [[Alpl]]
-markerFile: [[Alpl]]
+coordinates: [[Alpl]] 
+markerFile: [[Alpl]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.27,16.7]
+location: [48.27,16.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.7]
-[geo-lat::48.27]
-[name::Obersiebenbrunn]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.7] 
+[geo-lat::48.27] 
+[name::Obersiebenbrunn] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Obersiebenbrunn
-coordinates: [[Obersiebenbrunn]]
-markerFile: [[Obersiebenbrunn]]
+coordinates: [[Obersiebenbrunn]] 
+markerFile: [[Obersiebenbrunn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

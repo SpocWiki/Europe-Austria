@@ -1,5 +1,5 @@
 ﻿---
-location: [47.42,9.73]
+location: [47.42,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.73]
-[geo-lat::47.42]
-[name::Dornbirn]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.73] 
+[geo-lat::47.42] 
+[name::Dornbirn] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Dornbirn
-coordinates: [[Dornbirn]]
-markerFile: [[Dornbirn]]
+coordinates: [[Dornbirn]] 
+markerFile: [[Dornbirn]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

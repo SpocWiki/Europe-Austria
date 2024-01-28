@@ -1,5 +1,5 @@
 ﻿---
-location: [48.08,15.07]
+location: [48.08,15.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.07]
-[geo-lat::48.08]
-[name::Wolfpassing]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.07] 
+[geo-lat::48.08] 
+[name::Wolfpassing] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Wolfpassing
-coordinates: [[Wolfpassing]]
-markerFile: [[Wolfpassing]]
+coordinates: [[Wolfpassing]] 
+markerFile: [[Wolfpassing]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

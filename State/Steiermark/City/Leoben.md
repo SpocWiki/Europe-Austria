@@ -1,5 +1,5 @@
 ﻿---
-location: [47.4,15.12]
+location: [47.4,15.12] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.12]
-[geo-lat::47.4]
-[name::Leoben]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.12] 
+[geo-lat::47.4] 
+[name::Leoben] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Leoben
-coordinates: [[Leoben]]
-markerFile: [[Leoben]]
+coordinates: [[Leoben]] 
+markerFile: [[Leoben]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

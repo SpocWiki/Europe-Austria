@@ -1,5 +1,5 @@
 ﻿---
-location: [48.6,15.22]
+location: [48.6,15.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.22]
-[geo-lat::48.6]
-[name::Zwettl]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.22] 
+[geo-lat::48.6] 
+[name::Zwettl] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zwettl
-coordinates: [[Zwettl]]
-markerFile: [[Zwettl]]
+coordinates: [[Zwettl]] 
+markerFile: [[Zwettl]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

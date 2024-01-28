@@ -1,5 +1,5 @@
 ﻿---
-location: [46.75,12.97]
+location: [46.75,12.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.97]
-[geo-lat::46.75]
-[name::Oberdrauburg]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::12.97] 
+[geo-lat::46.75] 
+[name::Oberdrauburg] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oberdrauburg
-coordinates: [[Oberdrauburg]]
-markerFile: [[Oberdrauburg]]
+coordinates: [[Oberdrauburg]] 
+markerFile: [[Oberdrauburg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

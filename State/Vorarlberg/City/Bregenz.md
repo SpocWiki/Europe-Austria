@@ -1,5 +1,5 @@
 ﻿---
-location: [47.5,9.77]
+location: [47.5,9.77] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.77]
-[geo-lat::47.5]
-[name::Bregenz]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.77] 
+[geo-lat::47.5] 
+[name::Bregenz] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bregenz
-coordinates: [[Bregenz]]
-markerFile: [[Bregenz]]
+coordinates: [[Bregenz]] 
+markerFile: [[Bregenz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

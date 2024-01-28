@@ -1,5 +1,5 @@
 ﻿---
-location: [48.52,14.2]
+location: [48.52,14.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.2]
-[geo-lat::48.52]
-[name::Traberg]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.2] 
+[geo-lat::48.52] 
+[name::Traberg] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Traberg
-coordinates: [[Traberg]]
-markerFile: [[Traberg]]
+coordinates: [[Traberg]] 
+markerFile: [[Traberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

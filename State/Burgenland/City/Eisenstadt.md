@@ -1,5 +1,5 @@
 ﻿---
-location: [47.85,16.43]
+location: [47.85,16.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.43]
-[geo-lat::47.85]
-[name::Eisenstadt]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.43] 
+[geo-lat::47.85] 
+[name::Eisenstadt] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Eisenstadt
-coordinates: [[Eisenstadt]]
-markerFile: [[Eisenstadt]]
+coordinates: [[Eisenstadt]] 
+markerFile: [[Eisenstadt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [47.03,16.08]
+location: [47.03,16.08] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.08]
-[geo-lat::47.03]
-[name::Fuerstenfeld]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.08] 
+[geo-lat::47.03] 
+[name::Fuerstenfeld] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fuerstenfeld
-coordinates: [[Fuerstenfeld]]
-markerFile: [[Fuerstenfeld]]
+coordinates: [[Fuerstenfeld]] 
+markerFile: [[Fuerstenfeld]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

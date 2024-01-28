@@ -1,5 +1,5 @@
 ﻿---
-location: [46.6,14.3]
+location: [46.6,14.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.3]
-[geo-lat::46.6]
-[name::Klagenfurt]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.3] 
+[geo-lat::46.6] 
+[name::Klagenfurt] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Klagenfurt
-coordinates: [[Klagenfurt]]
-markerFile: [[Klagenfurt]]
+coordinates: [[Klagenfurt]] 
+markerFile: [[Klagenfurt]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

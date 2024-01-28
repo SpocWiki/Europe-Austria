@@ -1,5 +1,5 @@
 ﻿---
-location: [48.2,15]
+location: [48.2,15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15]
-[geo-lat::48.2]
-[name::Isperdorf]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15] 
+[geo-lat::48.2] 
+[name::Isperdorf] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Isperdorf
-coordinates: [[Isperdorf]]
-markerFile: [[Isperdorf]]
+coordinates: [[Isperdorf]] 
+markerFile: [[Isperdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

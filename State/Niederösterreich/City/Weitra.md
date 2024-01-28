@@ -1,5 +1,5 @@
 ﻿---
-location: [48.7,14.9]
+location: [48.7,14.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.9]
-[geo-lat::48.7]
-[name::Weitra]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.9] 
+[geo-lat::48.7] 
+[name::Weitra] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Weitra
-coordinates: [[Weitra]]
-markerFile: [[Weitra]]
+coordinates: [[Weitra]] 
+markerFile: [[Weitra]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

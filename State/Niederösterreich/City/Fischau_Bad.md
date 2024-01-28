@@ -1,5 +1,5 @@
 ﻿---
-location: [47.83,16.17]
+location: [47.83,16.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.17]
-[geo-lat::47.83]
-[name::Fischau Bad]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.17] 
+[geo-lat::47.83] 
+[name::Fischau Bad] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fischau Bad
-coordinates: [[Fischau_Bad]]
-markerFile: [[Fischau_Bad]]
+coordinates: [[Fischau_Bad]] 
+markerFile: [[Fischau_Bad]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

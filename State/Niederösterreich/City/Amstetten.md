@@ -1,5 +1,5 @@
 ﻿---
-location: [48.12,14.88]
+location: [48.12,14.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.88]
-[geo-lat::48.12]
-[name::Amstetten]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.88] 
+[geo-lat::48.12] 
+[name::Amstetten] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Amstetten
-coordinates: [[Amstetten]]
-markerFile: [[Amstetten]]
+coordinates: [[Amstetten]] 
+markerFile: [[Amstetten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

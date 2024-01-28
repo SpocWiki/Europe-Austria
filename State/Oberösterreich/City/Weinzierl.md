@@ -1,5 +1,5 @@
 ﻿---
-location: [47.9,14.13]
+location: [47.9,14.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.13]
-[geo-lat::47.9]
-[name::Weinzierl]
-[State::]
-[Country::[[Austria]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.13] 
+[geo-lat::47.9] 
+[name::Weinzierl] 
+State ::  
+Country :: [[Austria]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Weinzierl
-coordinates: [[Weinzierl]]
-markerFile: [[Weinzierl]]
+coordinates: [[Weinzierl]] 
+markerFile: [[Weinzierl]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
