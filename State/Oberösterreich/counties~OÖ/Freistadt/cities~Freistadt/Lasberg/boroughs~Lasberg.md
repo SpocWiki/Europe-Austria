@@ -1,4 +1,4 @@
-# boroughs~Lasberg
+# [[boroughs~Lasberg]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Lasberg
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Lasberg//
+markerFolder: ./boroughs~Lasberg/
 ```
 

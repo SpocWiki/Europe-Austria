@@ -1,4 +1,4 @@
-# boroughs~Bad_Leonfelden
+# [[boroughs~Bad_Leonfelden]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Bad_Leonfelden
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Bad_Leonfelden//
+markerFolder: ./boroughs~Bad_Leonfelden/
 ```
 

@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Engelhartszell
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Engelhartszell//
+markerFolder: ./boroughs~Engelhartszell/
 ```
 

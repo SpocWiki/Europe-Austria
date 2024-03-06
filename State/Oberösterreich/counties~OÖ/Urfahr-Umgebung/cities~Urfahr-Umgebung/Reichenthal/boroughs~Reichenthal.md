@@ -1,4 +1,4 @@
-# boroughs~Reichenthal
+# [[boroughs~Reichenthal]]  
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Reichenthal
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Reichenthal//
+markerFolder: ./boroughs~Reichenthal/
 ```
 

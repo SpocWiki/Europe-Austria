@@ -1,4 +1,4 @@
-# boroughs~Zell~Pram
+# [[boroughs~Zell~Pram]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Zell~Pram
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Zell~Pram//
+markerFolder: ./boroughs~Zell~Pram/
 ```
 

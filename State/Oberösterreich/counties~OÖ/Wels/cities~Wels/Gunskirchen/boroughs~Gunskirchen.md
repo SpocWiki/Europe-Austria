@@ -1,4 +1,4 @@
-# boroughs~Gunskirchen
+# [[boroughs~Gunskirchen]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Gunskirchen
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Gunskirchen//
+markerFolder: ./boroughs~Gunskirchen/
 ```
 

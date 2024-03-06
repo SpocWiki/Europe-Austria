@@ -1,4 +1,4 @@
-# boroughs~Pennewang
+# [[boroughs~Pennewang]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Pennewang
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Pennewang//
+markerFolder: ./boroughs~Pennewang/
 ```
 

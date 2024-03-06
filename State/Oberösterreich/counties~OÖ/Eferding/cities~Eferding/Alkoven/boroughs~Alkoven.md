@@ -1,4 +1,4 @@
-# boroughs~Alkoven
+# [[boroughs~Alkoven]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Alkoven
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Alkoven//
+markerFolder: ./boroughs~Alkoven/
 ```
 

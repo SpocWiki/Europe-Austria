@@ -1,4 +1,4 @@
-# boroughs~Mehrnbach
+# [[boroughs~Mehrnbach]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Mehrnbach
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Mehrnbach//
+markerFolder: ./boroughs~Mehrnbach/
 ```
 

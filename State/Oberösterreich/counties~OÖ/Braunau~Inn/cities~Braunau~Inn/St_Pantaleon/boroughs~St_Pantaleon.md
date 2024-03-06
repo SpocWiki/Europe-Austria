@@ -1,15 +1,16 @@
-# boroughs~St_Pantaleon
+# [[boroughs~St_Pantaleon]] 
+
 
 ## #has_/map  
 
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~St_Pantaleon
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~St_Pantaleon//
+markerFolder: ./boroughs~St_Pantaleon/
 ```
 

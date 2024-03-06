@@ -1,4 +1,4 @@
-# boroughs~Kollerschlag
+# [[boroughs~Kollerschlag]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Kollerschlag
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Kollerschlag//
+markerFolder: ./boroughs~Kollerschlag/
 ```
 

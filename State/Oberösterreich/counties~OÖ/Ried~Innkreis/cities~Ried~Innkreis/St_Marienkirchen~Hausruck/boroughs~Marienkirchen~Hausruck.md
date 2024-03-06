@@ -1,4 +1,4 @@
-# boroughs~Marienkirchen~Hausruck
+# [[boroughs~Marienkirchen~Hausruck]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Marienkirchen~Hausruck
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Marienkirchen~Hausruck//
+markerFolder: ./boroughs~Marienkirchen~Hausruck/
 ```
 

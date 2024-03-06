@@ -1,4 +1,4 @@
-# boroughs~Waldneukirchen
+# [[boroughs~Waldneukirchen]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Waldneukirchen
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Waldneukirchen//
+markerFolder: ./boroughs~Waldneukirchen/
 ```
 

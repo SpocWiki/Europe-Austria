@@ -1,4 +1,4 @@
-# boroughs~Herzogsdorf
+# [[boroughs~Herzogsdorf]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Herzogsdorf
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Herzogsdorf//
+markerFolder: ./boroughs~Herzogsdorf/
 ```
 

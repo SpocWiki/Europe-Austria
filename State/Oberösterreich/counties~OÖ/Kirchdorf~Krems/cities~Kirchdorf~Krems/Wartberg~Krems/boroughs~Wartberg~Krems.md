@@ -1,4 +1,4 @@
-# boroughs~Wartberg~Krems
+# [[boroughs~Wartberg~Krems]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Wartberg~Krems
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Wartberg~Krems//
+markerFolder: ./boroughs~Wartberg~Krems/
 ```
 

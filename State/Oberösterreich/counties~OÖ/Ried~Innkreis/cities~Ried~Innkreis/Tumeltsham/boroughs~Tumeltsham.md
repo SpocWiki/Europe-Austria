@@ -1,4 +1,4 @@
-# boroughs~Tumeltsham
+# [[boroughs~Tumeltsham]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Tumeltsham
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Tumeltsham//
+markerFolder: ./boroughs~Tumeltsham/
 ```
 

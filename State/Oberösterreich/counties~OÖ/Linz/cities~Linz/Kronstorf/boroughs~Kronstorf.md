@@ -1,4 +1,4 @@
-# boroughs~Kronstorf
+# [[boroughs~Kronstorf]] 
 
 
 ## #has_/map  
@@ -6,11 +6,11 @@
 
 
 ```leaflet
-id: boroughs~Asperhofen
+id: boroughs~Kronstorf
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./boroughs~Asperhofen//
-markerFolder: ./boroughs~Asperhofen/
+geojsonFolder: ./boroughs~Kronstorf//
+markerFolder: ./boroughs~Kronstorf/
 ```
 
