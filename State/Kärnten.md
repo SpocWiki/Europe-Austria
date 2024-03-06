@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 46.8 , 14 ] 
 
 type: State
@@ -14,7 +14,7 @@ id: Kärnten
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Kärnten/
+geojsonFolder: ./Kärnten//
 markerFolder: ./Kärnten/
 ```
 

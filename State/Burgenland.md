@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.5 , 16.5 ] 
 
 type: State
@@ -15,7 +15,7 @@ id: Burgenland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Burgenland/
+geojsonFolder: ./Burgenland//
 markerFolder: ./Burgenland/
 ```
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 48.2 , 15.6 ] 
 
 type: State
@@ -14,7 +14,7 @@ id: Niederösterreich
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Niederösterreich/
+geojsonFolder: ./Niederösterreich//
 markerFolder: ./Niederösterreich/
 ```
 
