@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.21,16.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,14 +12,23 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 [geo-lon::16.38] 
 [geo-lat::48.21] 
-[name::Wien=Vienna] 
-State ::  
+[name::Vienna] 
+State ::  [[../State~Wien]] 
 Country :: [[Austria]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
+
+
+
+#has_/name_/en_ :: Vienna 
+#has_/name_/de_ :: Wien 
+#has_/name_/fr_ :: Vienne 
+
 
 
 ```leaflet
