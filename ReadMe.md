@@ -1,4 +1,5 @@
 ---
+has_id_wikidata: Q16
 location:
 - 47.712
 - 14.381
@@ -35,6 +36,7 @@ Languages:
 - hr
 - hu
 - sl
+icon: flag-at
 ---
 
 
@@ -105,6 +107,11 @@ Sub-region_Name ::  [[Western Europe]]
 
 [ISO2::AT] 
 [ISO3::AUT] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Austria
 zoomFeatures: true 
@@ -118,7 +125,7 @@ markerFolder: .///
 [name-de::Österreich] 
 [Area-Total::8273] 
 [Area-Land::82730] 
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::A] 
 Capital :: [[State/State~Wien/Wien-city]]  
 
@@ -129,8 +136,10 @@ Capital :: [[State/State~Wien/Wien-city]]
 
 [Alcohol-l::13.2] 
 [Language-Id::497] 
-[geo-lon::14.381] 
-[geo-lat::47.712] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.381]
+[has_place_latitude::47.712]
 
 
 
