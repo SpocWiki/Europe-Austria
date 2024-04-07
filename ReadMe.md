@@ -1,5 +1,5 @@
 ---
-has_id_wikidata: Q16
+has_id_wikidata: Q40
 location:
 - 47.712
 - 14.381
@@ -38,6 +38,67 @@ Languages:
 - sl
 icon: flag-at
 ---
+
+# Austria (Österreich)
+
+## International Names
+
+[name-en::Austria] 
+[name-de::Österreich] 
+
+[ISO2::AT] 
+[ISO3::AUT] 
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Austria 
+
+This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
+covering the European country of [Austria](https://en.wikipedia.org/wiki/Austria). 
+
+This Repository is intended to be shared as a common basis, 
+by including it as a Sub-Repository in local File-Systems, 
+specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
+
+Check out this Repository into this Subfolder: 
+\_Standards/geo/Continent/Europe/Europe~Central/Austria 
+
+> Caution: this is a very deep folder Structure with up to 170 Characters! 
+> Make sure to check it out into a shallow Location on Windows! 
+> 
+> If you see an opportunity to reduce this Depth, create an Issue and discuss first, 
+> because Changes may break Links or at least require every User 
+> to update their local Repos! 
+> 
+> Constraints to consider when refactoring: 
+> - Every Folder Name should be unique, also the grouping-Folders, so you can link to it without specifying the relative Path 
+> - all Link-Paths should be relative. Wiki-Links are possible, but only when the Target-Folders or Files have unique Names. 
+> - Between each Level and its Sub-Levels there should be a grouping Folder, to allow adding other Lists. 
+>   - e.g. a City's boroughs should NOT be directly in the City Folder, but in a Sub-Folder named `City~boroughs` 
+
+## Maps and Flags 
+
+## #has_/image_for_/coat_of_arms 
+
+#has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Austria.svg|150]] <img src="./Coat_of_arms_of_Austria.svg" width="150"/> 
+
+
+#has_/sound_of_/anthem :: ![[Anthem-Austria.mp3]]
+
+## #has_/image_for_/flag 
+
+#has_/image_for_/flag :: ![[./Flag_of_Austria.svg|200]] <img src="./Flag_of_Austria.svg" width="200"/> 
+
+## #has_/map  
+
+
+
+```leaflet
+id: Austria
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: .//
+markerFolder: .///
+```
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ] 
@@ -105,34 +166,12 @@ Sub-region_Name ::  [[Western Europe]]
 
 
 
-[ISO2::AT] 
-[ISO3::AUT] 
-
-## #has_/map  
-
-
-
-```leaflet
-id: Austria
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: .//
-markerFolder: .///
-```
-
-[name-en::Austria] 
-[name-de::Österreich] 
 [Area-Total::8273] 
 [Area-Land::82730] 
 has_place_continent:: [[Europe]]  
 [VehicleCode::A] 
 Capital :: [[State/State~Wien/Wien-city]]  
 
-
-![[Coat_of_arms_of_Austria.svg|350]] 
-![[Anthem-Austria.mp3]] 
-![[Flag_of_Austria.svg|350]] 
 
 [Alcohol-l::13.2] 
 [Language-Id::497] 
