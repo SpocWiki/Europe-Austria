@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.44] 
-[geo-lat::47.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.44] 
+[has_place_latitude::47.08] 
 [name::Graz] 
 State ::  
 Country :: [[Austria]]  

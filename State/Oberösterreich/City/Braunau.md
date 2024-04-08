@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.07] 
-[geo-lat::48.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.07] 
+[has_place_latitude::48.25] 
 [name::Braunau] 
 State ::  
 Country :: [[Austria]]  

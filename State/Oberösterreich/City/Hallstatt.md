@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.63] 
-[geo-lat::47.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.63] 
+[has_place_latitude::47.57] 
 [name::Hallstatt] 
 State ::  
 Country :: [[Austria]]  

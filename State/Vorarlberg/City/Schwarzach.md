@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.75] 
-[geo-lat::47.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.75] 
+[has_place_latitude::47.45] 
 [name::Schwarzach] 
 State ::  
 Country :: [[Austria]]  

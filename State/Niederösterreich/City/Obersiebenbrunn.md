@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.7] 
-[geo-lat::48.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.7] 
+[has_place_latitude::48.27] 
 [name::Obersiebenbrunn] 
 State ::  
 Country :: [[Austria]]  

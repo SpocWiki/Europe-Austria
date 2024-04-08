@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.05] 
-[geo-lat::48.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.05] 
+[has_place_latitude::48.33] 
 [name::Tulln] 
 State ::  
 Country :: [[Austria]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.22] 
-[geo-lat::48.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.22] 
+[has_place_latitude::48.82] 
 [name::Buchbach] 
 State ::  
 Country :: [[Austria]]  

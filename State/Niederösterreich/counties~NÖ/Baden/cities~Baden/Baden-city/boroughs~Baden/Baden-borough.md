@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.23] 
-[geo-lat::48.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.23] 
+[has_place_latitude::48.02] 
 [name::Baden bei Wien] 
 State ::  
 Country :: [[Austria]]  

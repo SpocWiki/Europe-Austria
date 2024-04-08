@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.28] 
-[geo-lat::48.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.28] 
+[has_place_latitude::48.08] 
 [name::Moedling] 
 State ::  
 Country :: [[Austria]]  

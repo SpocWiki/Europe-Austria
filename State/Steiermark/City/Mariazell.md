@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.32] 
-[geo-lat::47.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.32] 
+[has_place_latitude::47.77] 
 [name::Mariazell] 
 State ::  
 Country :: [[Austria]]  

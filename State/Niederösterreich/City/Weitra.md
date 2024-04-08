@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.9] 
-[geo-lat::48.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.9] 
+[has_place_latitude::48.7] 
 [name::Weitra] 
 State ::  
 Country :: [[Austria]]  

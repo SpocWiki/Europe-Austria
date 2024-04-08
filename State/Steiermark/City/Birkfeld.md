@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.68] 
-[geo-lat::47.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.68] 
+[has_place_latitude::47.37] 
 [name::Birkfeld] 
 State ::  
 Country :: [[Austria]]  

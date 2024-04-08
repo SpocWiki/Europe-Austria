@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.18] 
-[geo-lat::47.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.18] 
+[has_place_latitude::47.8] 
 [name::Neuhaus~Zellerrain] 
 State ::  
 Country :: [[Austria]]  

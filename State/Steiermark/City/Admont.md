@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.45] 
-[geo-lat::47.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.45] 
+[has_place_latitude::47.58] 
 [name::Admont] 
 State ::  
 Country :: [[Austria]]  

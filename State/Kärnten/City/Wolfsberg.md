@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.83] 
-[geo-lat::46.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.83] 
+[has_place_latitude::46.83] 
 [name::Wolfsberg] 
 State ::  
 Country :: [[Austria]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.78] 
-[geo-lat::47.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.78] 
+[has_place_latitude::47.27] 
 [name::Seckau] 
 State ::  
 Country :: [[Austria]]  

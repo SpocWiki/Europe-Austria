@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.13] 
-[geo-lat::47.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.13] 
+[has_place_latitude::47.12] 
 [name::Bad Gastein] 
 State ::  
 Country :: [[Austria]]  

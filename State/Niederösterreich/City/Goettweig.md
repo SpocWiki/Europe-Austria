@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.62] 
-[geo-lat::48.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.62] 
+[has_place_latitude::48.37] 
 [name::Goettweig] 
 State ::  
 Country :: [[Austria]]  

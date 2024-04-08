@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.68] 
-[geo-lat::47.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.68] 
+[has_place_latitude::47.4] 
 [name::Schladming] 
 State ::  
 Country :: [[Austria]]  

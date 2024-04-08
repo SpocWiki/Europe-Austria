@@ -14,8 +14,10 @@ confidential: public
 ---
 
 
-[geo-lon::16.38] 
-[geo-lat::48.21] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.38] 
+[has_place_latitude::48.21] 
 [name::Vienna] 
 State ::  [[../State~Wien]] 
 Country :: [[Austria]]  

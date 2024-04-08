@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.75] 
-[geo-lat::48.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.75] 
+[has_place_latitude::48.1] 
 [name::Asten] 
 Country :: [[Germany]]  
 State :: [[../../Bayern]] ] 

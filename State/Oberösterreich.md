@@ -21,8 +21,10 @@ markerFolder: ./Oberösterreich/
 
 [ name :: Oberösterreich ] 
 [CountryId::] 
-[geo-lon::] 
-[geo-lat::] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::] 
+[has_place_latitude::] 
 [Population::] 
 
 

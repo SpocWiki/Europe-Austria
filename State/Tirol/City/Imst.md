@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.73] 
-[geo-lat::47.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.73] 
+[has_place_latitude::47.23] 
 [name::Imst] 
 State ::  
 Country :: [[Austria]]  

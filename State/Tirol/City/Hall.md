@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.47] 
-[geo-lat::47.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.47] 
+[has_place_latitude::47.32] 
 [name::Hall] 
 State ::  
 Country :: [[Austria]]  

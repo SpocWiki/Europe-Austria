@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.2] 
-[geo-lat::47.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.2] 
+[has_place_latitude::47.15] 
 [name::Arlberg] 
 State ::  
 Country :: [[Austria]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.45] 
-[geo-lat::47.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.45] 
+[has_place_latitude::47.12] 
 [name::St.Kathrein] 
 State ::  
 Country :: [[Austria]]  
