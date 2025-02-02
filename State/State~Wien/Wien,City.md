@@ -1,16 +1,21 @@
 ---
-location: [48.21,16.38] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 48.21
+  - 16.38
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35593
 isDeleted: false
 confidential: public
-
+aliases:
+  - Vienna
+  - Vienne
+  - Wien
 ---
 
 
