@@ -1,11 +1,14 @@
-﻿---
-location: [ 48.1 , 13.6 ] 
-
+---
+location:
+  - 48.1
+  - 13.6
 type: State
 tags:
-- geo/State
-
+  - geo/State
+aliases:
+  - Upper Austria
 ---
+
 [StateId::] 
 isDeleted: false
 confidential: public

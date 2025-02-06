@@ -24,7 +24,7 @@ aliases:
 [has_place_longitude::16.38] 
 [has_place_latitude::48.21] 
 [name::Vienna] 
-State ::  [[../State~Wien]] 
+State ::  [[../Wien,State]] 
 Country :: [[Austria]]  
 [StateId::] 
 [Population::] 

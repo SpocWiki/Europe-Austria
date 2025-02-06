@@ -1,18 +1,22 @@
-﻿---
-location: [47.79,13.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+---
+location:
+  - 47.79
+  - 13.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33896
 isDeleted: false
 confidential: public
-
+aliases:
+  - Salzburg
 ---
-#is_a_/Place  
+﻿
+﻿#is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::13.05] 
 [has_place_latitude::47.79] 

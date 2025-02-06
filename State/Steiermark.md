@@ -1,12 +1,15 @@
-﻿---
-location: [ 47.2 , 15 ] 
-
+---
+location:
+  - 47.2
+  - 15
 type: State
 tags:
-- geo/State
-
+  - geo/State
+aliases:
+  - Styria
 ---
-[StateId::] 
+﻿
+﻿[StateId::] 
 isDeleted: false
 confidential: public
 ```leaflet

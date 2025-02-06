@@ -1,11 +1,14 @@
-﻿---
-location: [ 48.2 , 16.4 ] 
-
+---
+location:
+  - 48.2
+  - 16.4
 type: State
 tags:
-- geo/State
-
+  - geo/State
+aliases:
+  - Vienna,State
 ---
+
 [StateId::] 
 isDeleted: false
 confidential: public
@@ -29,7 +32,7 @@ markerFolder: ./State~Wien/
 
 
 ## Confidential Links & Embeds: 
-- [[State~Wien|State~Wien]] 
+-[[Wien,State|Wien,State]]] 
 - [[../../../../../../_internal/geo/Continent/Europe/Austria/State/State~Wien.internal|State~Wien.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Austria/State/State~Wien.protect|State~Wien.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Austria/State/State~Wien.private|State~Wien.private]] 

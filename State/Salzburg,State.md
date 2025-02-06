@@ -1,10 +1,11 @@
-	---
+---
 
 type: State
 tags:
 - geo/State
 
 ---
+
 [StateId::] 
 isDeleted: false
 confidential: public
@@ -28,7 +29,7 @@ markerFolder: ./State~Salzburg/
 
 
 ## Confidential Links & Embeds: 
-- [[State~Salzburg|State~Salzburg]]  
+- [[Salzburg,State|Salzburg,State]]  
 - [[../../../../../../_internal/geo/Continent/Europe/Austria/State/State~Salzburg.internal|State~Salzburg.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Austria/State/State~Salzburg.protect|State~Salzburg.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Austria/State/State~Salzburg.private|State~Salzburg.private]] 
