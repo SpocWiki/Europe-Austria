@@ -6,6 +6,8 @@ type: State
 tags:
   - geo/State
 aliases:
+  - Vienna 
+  - Vienna State
   - Vienna,State
 ---
 

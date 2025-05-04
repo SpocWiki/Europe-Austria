@@ -234,7 +234,7 @@ Sub-region_Name ::  [[Western Europe]]
 [Area-Land::82730] 
 has_place_continent:: [[Europe]]  
 [VehicleCode::A] 
-Capital :: [[State/Wien,State/Wien,City]]  
+Capital :: [[Austrias_States/Wien,State/Wien,City]]  
 
 
 [Alcohol-l::13.2] 

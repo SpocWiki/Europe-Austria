@@ -1,9 +1,10 @@
 ---
-
 type: State
 tags:
-- geo/State
-
+  - geo/State
+aliases:
+  - Salzburg
+  - Salzburg State
 ---
 
 [StateId::] 
