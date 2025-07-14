@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Veitsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.public.md) 
+### [Veitsch](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Veitsch.md) 
 
-### [Veitsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.internal.md) 
+### [Veitsch.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Veitsch.public.md) 
 
-### [Veitsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.protect.md) 
+### [Veitsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Veitsch.internal.md) 
 
-### [Veitsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.private.md) 
+### [Veitsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Veitsch.protect.md) 
 
-### [Veitsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.personal.md) 
+### [Veitsch.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Veitsch.private.md) 
 
-### [Veitsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.secret.md)
+### [Veitsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Veitsch.personal.md) 
+
+### [Veitsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Veitsch.secret.md)
 

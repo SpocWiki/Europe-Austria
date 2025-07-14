@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lilienfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLilienfeld.public.md) 
+### [Lilienfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Lilienfeld.md) 
 
-### [Lilienfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLilienfeld.internal.md) 
+### [Lilienfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Lilienfeld.public.md) 
 
-### [Lilienfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLilienfeld.protect.md) 
+### [Lilienfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Lilienfeld.internal.md) 
 
-### [Lilienfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLilienfeld.private.md) 
+### [Lilienfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Lilienfeld.protect.md) 
 
-### [Lilienfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLilienfeld.personal.md) 
+### [Lilienfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Lilienfeld.private.md) 
 
-### [Lilienfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLilienfeld.secret.md)
+### [Lilienfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Lilienfeld.personal.md) 
+
+### [Lilienfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Lilienfeld.secret.md)
 

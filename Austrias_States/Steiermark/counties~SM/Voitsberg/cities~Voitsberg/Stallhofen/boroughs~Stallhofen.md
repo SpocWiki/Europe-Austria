@@ -15,18 +15,19 @@ markerFolder: ./boroughs~Sanktllhofen/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Stallhofen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Voitsberg\cities~Voitsberg\Stallhofenboroughs~Stallhofen.public.md) 
+### [boroughs~Stallhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Stallhofen/boroughs~Stallhofen.md) 
 
-### [boroughs~Stallhofen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Voitsberg\cities~Voitsberg\Stallhofenboroughs~Stallhofen.internal.md) 
+### [boroughs~Stallhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Stallhofen/boroughs~Stallhofen.public.md) 
 
-### [boroughs~Stallhofen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Voitsberg\cities~Voitsberg\Stallhofenboroughs~Stallhofen.protect.md) 
+### [boroughs~Stallhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Stallhofen/boroughs~Stallhofen.internal.md) 
 
-### [boroughs~Stallhofen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Voitsberg\cities~Voitsberg\Stallhofenboroughs~Stallhofen.private.md) 
+### [boroughs~Stallhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Stallhofen/boroughs~Stallhofen.protect.md) 
 
-### [boroughs~Stallhofen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Voitsberg\cities~Voitsberg\Stallhofenboroughs~Stallhofen.personal.md) 
+### [boroughs~Stallhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Stallhofen/boroughs~Stallhofen.private.md) 
 
-### [boroughs~Stallhofen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Voitsberg\cities~Voitsberg\Stallhofenboroughs~Stallhofen.secret.md)
+### [boroughs~Stallhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Stallhofen/boroughs~Stallhofen.personal.md) 
+
+### [boroughs~Stallhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Stallhofen/boroughs~Stallhofen.secret.md)
 

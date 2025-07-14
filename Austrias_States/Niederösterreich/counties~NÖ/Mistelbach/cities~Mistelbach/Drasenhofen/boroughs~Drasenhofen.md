@@ -14,19 +14,19 @@ markerFolder: ./boroughs~Drasenhofen/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Drasenhofen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Drasenhofenboroughs~Drasenhofen.public.md) 
+### [boroughs~Drasenhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Drasenhofen/boroughs~Drasenhofen.md) 
 
-### [boroughs~Drasenhofen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Drasenhofenboroughs~Drasenhofen.internal.md) 
+### [boroughs~Drasenhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Drasenhofen/boroughs~Drasenhofen.public.md) 
 
-### [boroughs~Drasenhofen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Drasenhofenboroughs~Drasenhofen.protect.md) 
+### [boroughs~Drasenhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Drasenhofen/boroughs~Drasenhofen.internal.md) 
 
-### [boroughs~Drasenhofen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Drasenhofenboroughs~Drasenhofen.private.md) 
+### [boroughs~Drasenhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Drasenhofen/boroughs~Drasenhofen.protect.md) 
 
-### [boroughs~Drasenhofen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Drasenhofenboroughs~Drasenhofen.personal.md) 
+### [boroughs~Drasenhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Drasenhofen/boroughs~Drasenhofen.private.md) 
 
-### [boroughs~Drasenhofen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Drasenhofenboroughs~Drasenhofen.secret.md)
+### [boroughs~Drasenhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Drasenhofen/boroughs~Drasenhofen.personal.md) 
+
+### [boroughs~Drasenhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Drasenhofen/boroughs~Drasenhofen.secret.md)
 

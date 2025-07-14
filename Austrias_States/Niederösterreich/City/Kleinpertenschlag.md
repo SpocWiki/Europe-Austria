@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kleinpertenschlag.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.public.md) 
+### [Kleinpertenschlag](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Kleinpertenschlag.md) 
 
-### [Kleinpertenschlag.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.internal.md) 
+### [Kleinpertenschlag.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Kleinpertenschlag.public.md) 
 
-### [Kleinpertenschlag.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.protect.md) 
+### [Kleinpertenschlag.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Kleinpertenschlag.internal.md) 
 
-### [Kleinpertenschlag.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.private.md) 
+### [Kleinpertenschlag.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Kleinpertenschlag.protect.md) 
 
-### [Kleinpertenschlag.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.personal.md) 
+### [Kleinpertenschlag.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Kleinpertenschlag.private.md) 
 
-### [Kleinpertenschlag.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.secret.md)
+### [Kleinpertenschlag.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Kleinpertenschlag.personal.md) 
+
+### [Kleinpertenschlag.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Kleinpertenschlag.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Griesskirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.public.md) 
+### [Griesskirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Griesskirchen.md) 
 
-### [Griesskirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.internal.md) 
+### [Griesskirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Griesskirchen.public.md) 
 
-### [Griesskirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.protect.md) 
+### [Griesskirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Griesskirchen.internal.md) 
 
-### [Griesskirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.private.md) 
+### [Griesskirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Griesskirchen.protect.md) 
 
-### [Griesskirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.personal.md) 
+### [Griesskirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Griesskirchen.private.md) 
 
-### [Griesskirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.secret.md)
+### [Griesskirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Griesskirchen.personal.md) 
+
+### [Griesskirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Griesskirchen.secret.md)
 

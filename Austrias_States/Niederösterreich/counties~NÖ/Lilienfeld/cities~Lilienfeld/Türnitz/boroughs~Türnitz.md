@@ -14,19 +14,19 @@ markerFolder: ./boroughs~Türnitz/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Türnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Lilienfeld\cities~Lilienfeld\Türnitzboroughs~Türnitz.public.md) 
+### [boroughs~Türnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Türnitz/boroughs~Türnitz.md) 
 
-### [boroughs~Türnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Lilienfeld\cities~Lilienfeld\Türnitzboroughs~Türnitz.internal.md) 
+### [boroughs~Türnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Türnitz/boroughs~Türnitz.public.md) 
 
-### [boroughs~Türnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Lilienfeld\cities~Lilienfeld\Türnitzboroughs~Türnitz.protect.md) 
+### [boroughs~Türnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Türnitz/boroughs~Türnitz.internal.md) 
 
-### [boroughs~Türnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Lilienfeld\cities~Lilienfeld\Türnitzboroughs~Türnitz.private.md) 
+### [boroughs~Türnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Türnitz/boroughs~Türnitz.protect.md) 
 
-### [boroughs~Türnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Lilienfeld\cities~Lilienfeld\Türnitzboroughs~Türnitz.personal.md) 
+### [boroughs~Türnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Türnitz/boroughs~Türnitz.private.md) 
 
-### [boroughs~Türnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Lilienfeld\cities~Lilienfeld\Türnitzboroughs~Türnitz.secret.md)
+### [boroughs~Türnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Türnitz/boroughs~Türnitz.personal.md) 
+
+### [boroughs~Türnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Türnitz/boroughs~Türnitz.secret.md)
 

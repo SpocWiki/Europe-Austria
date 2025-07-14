@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spittal~Drau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySpittal~Drau.public.md) 
+### [Spittal~Drau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Spittal~Drau.md) 
 
-### [Spittal~Drau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySpittal~Drau.internal.md) 
+### [Spittal~Drau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Spittal~Drau.public.md) 
 
-### [Spittal~Drau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySpittal~Drau.protect.md) 
+### [Spittal~Drau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Spittal~Drau.internal.md) 
 
-### [Spittal~Drau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySpittal~Drau.private.md) 
+### [Spittal~Drau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Spittal~Drau.protect.md) 
 
-### [Spittal~Drau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySpittal~Drau.personal.md) 
+### [Spittal~Drau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Spittal~Drau.private.md) 
 
-### [Spittal~Drau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySpittal~Drau.secret.md)
+### [Spittal~Drau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Spittal~Drau.personal.md) 
+
+### [Spittal~Drau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Spittal~Drau.secret.md)
 

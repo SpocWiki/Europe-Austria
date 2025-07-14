@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwaz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.public.md) 
+### [Schwaz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwaz.md) 
 
-### [Schwaz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.internal.md) 
+### [Schwaz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwaz.public.md) 
 
-### [Schwaz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.protect.md) 
+### [Schwaz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwaz.internal.md) 
 
-### [Schwaz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.private.md) 
+### [Schwaz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwaz.protect.md) 
 
-### [Schwaz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.personal.md) 
+### [Schwaz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwaz.private.md) 
 
-### [Schwaz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.secret.md)
+### [Schwaz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwaz.personal.md) 
+
+### [Schwaz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwaz.secret.md)
 

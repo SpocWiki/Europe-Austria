@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHohenberg.public.md) 
+### [Hohenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hohenberg.md) 
 
-### [Hohenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHohenberg.internal.md) 
+### [Hohenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hohenberg.public.md) 
 
-### [Hohenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHohenberg.protect.md) 
+### [Hohenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hohenberg.internal.md) 
 
-### [Hohenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHohenberg.private.md) 
+### [Hohenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hohenberg.protect.md) 
 
-### [Hohenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHohenberg.personal.md) 
+### [Hohenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hohenberg.private.md) 
 
-### [Hohenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHohenberg.secret.md)
+### [Hohenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hohenberg.personal.md) 
+
+### [Hohenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hohenberg.secret.md)
 

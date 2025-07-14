@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goettweig.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGoettweig.public.md) 
+### [Goettweig](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.md) 
 
-### [Goettweig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGoettweig.internal.md) 
+### [Goettweig.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.public.md) 
 
-### [Goettweig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGoettweig.protect.md) 
+### [Goettweig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.internal.md) 
 
-### [Goettweig.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGoettweig.private.md) 
+### [Goettweig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.protect.md) 
 
-### [Goettweig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGoettweig.personal.md) 
+### [Goettweig.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.private.md) 
 
-### [Goettweig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGoettweig.secret.md)
+### [Goettweig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.personal.md) 
+
+### [Goettweig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.secret.md)
 

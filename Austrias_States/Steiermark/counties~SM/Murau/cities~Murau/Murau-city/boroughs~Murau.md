@@ -15,18 +15,19 @@ markerFolder: ./boroughs~Murau/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Murau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Murau\cities~Murau\Murau-cityboroughs~Murau.public.md) 
+### [boroughs~Murau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.md) 
 
-### [boroughs~Murau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Murau\cities~Murau\Murau-cityboroughs~Murau.internal.md) 
+### [boroughs~Murau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.public.md) 
 
-### [boroughs~Murau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Murau\cities~Murau\Murau-cityboroughs~Murau.protect.md) 
+### [boroughs~Murau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.internal.md) 
 
-### [boroughs~Murau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Murau\cities~Murau\Murau-cityboroughs~Murau.private.md) 
+### [boroughs~Murau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.protect.md) 
 
-### [boroughs~Murau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Murau\cities~Murau\Murau-cityboroughs~Murau.personal.md) 
+### [boroughs~Murau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.private.md) 
 
-### [boroughs~Murau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Murau\cities~Murau\Murau-cityboroughs~Murau.secret.md)
+### [boroughs~Murau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.personal.md) 
+
+### [boroughs~Murau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.secret.md)
 

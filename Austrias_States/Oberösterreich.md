@@ -34,15 +34,17 @@ markerFolder: ./Oberösterreich/
 
 ## Confidential Links & Embeds: 
 
-### [Oberösterreich.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesOberösterreich.public.md) 
+### [Oberösterreich](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.md) 
 
-### [Oberösterreich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesOberösterreich.internal.md) 
+### [Oberösterreich.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.public.md) 
 
-### [Oberösterreich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesOberösterreich.protect.md) 
+### [Oberösterreich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.internal.md) 
 
-### [Oberösterreich.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesOberösterreich.private.md) 
+### [Oberösterreich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.protect.md) 
 
-### [Oberösterreich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesOberösterreich.personal.md) 
+### [Oberösterreich.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.private.md) 
 
-### [Oberösterreich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesOberösterreich.secret.md)
+### [Oberösterreich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.personal.md) 
+
+### [Oberösterreich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.secret.md)
 

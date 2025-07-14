@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Radkersburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.public.md) 
+### [Radkersburg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Radkersburg.md) 
 
-### [Radkersburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.internal.md) 
+### [Radkersburg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Radkersburg.public.md) 
 
-### [Radkersburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.protect.md) 
+### [Radkersburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Radkersburg.internal.md) 
 
-### [Radkersburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.private.md) 
+### [Radkersburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Radkersburg.protect.md) 
 
-### [Radkersburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.personal.md) 
+### [Radkersburg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Radkersburg.private.md) 
 
-### [Radkersburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.secret.md)
+### [Radkersburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Radkersburg.personal.md) 
+
+### [Radkersburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Radkersburg.secret.md)
 

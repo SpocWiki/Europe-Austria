@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teufenbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.public.md) 
+### [Teufenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Teufenbach.md) 
 
-### [Teufenbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.internal.md) 
+### [Teufenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Teufenbach.public.md) 
 
-### [Teufenbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.protect.md) 
+### [Teufenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Teufenbach.internal.md) 
 
-### [Teufenbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.private.md) 
+### [Teufenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Teufenbach.protect.md) 
 
-### [Teufenbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.personal.md) 
+### [Teufenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Teufenbach.private.md) 
 
-### [Teufenbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.secret.md)
+### [Teufenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Teufenbach.personal.md) 
+
+### [Teufenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Teufenbach.secret.md)
 

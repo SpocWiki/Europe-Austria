@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberhollabrunn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.public.md) 
+### [Oberhollabrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Oberhollabrunn.md) 
 
-### [Oberhollabrunn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.internal.md) 
+### [Oberhollabrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Oberhollabrunn.public.md) 
 
-### [Oberhollabrunn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.protect.md) 
+### [Oberhollabrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Oberhollabrunn.internal.md) 
 
-### [Oberhollabrunn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.private.md) 
+### [Oberhollabrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Oberhollabrunn.protect.md) 
 
-### [Oberhollabrunn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.personal.md) 
+### [Oberhollabrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Oberhollabrunn.private.md) 
 
-### [Oberhollabrunn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.secret.md)
+### [Oberhollabrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Oberhollabrunn.personal.md) 
+
+### [Oberhollabrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Oberhollabrunn.secret.md)
 

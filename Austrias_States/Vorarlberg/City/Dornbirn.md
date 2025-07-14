@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dornbirn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.public.md) 
+### [Dornbirn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Dornbirn.md) 
 
-### [Dornbirn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.internal.md) 
+### [Dornbirn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Dornbirn.public.md) 
 
-### [Dornbirn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.protect.md) 
+### [Dornbirn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Dornbirn.internal.md) 
 
-### [Dornbirn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.private.md) 
+### [Dornbirn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Dornbirn.protect.md) 
 
-### [Dornbirn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.personal.md) 
+### [Dornbirn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Dornbirn.private.md) 
 
-### [Dornbirn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.secret.md)
+### [Dornbirn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Dornbirn.personal.md) 
+
+### [Dornbirn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Dornbirn.secret.md)
 

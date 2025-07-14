@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klagenfurt.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.public.md) 
+### [Klagenfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Klagenfurt.md) 
 
-### [Klagenfurt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.internal.md) 
+### [Klagenfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Klagenfurt.public.md) 
 
-### [Klagenfurt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.protect.md) 
+### [Klagenfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Klagenfurt.internal.md) 
 
-### [Klagenfurt.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.private.md) 
+### [Klagenfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Klagenfurt.protect.md) 
 
-### [Klagenfurt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.personal.md) 
+### [Klagenfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Klagenfurt.private.md) 
 
-### [Klagenfurt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.secret.md)
+### [Klagenfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Klagenfurt.personal.md) 
+
+### [Klagenfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Klagenfurt.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwarzach.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.public.md) 
+### [Schwarzach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.md) 
 
-### [Schwarzach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.internal.md) 
+### [Schwarzach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.public.md) 
 
-### [Schwarzach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.protect.md) 
+### [Schwarzach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.internal.md) 
 
-### [Schwarzach.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.private.md) 
+### [Schwarzach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.protect.md) 
 
-### [Schwarzach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.personal.md) 
+### [Schwarzach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.private.md) 
 
-### [Schwarzach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.secret.md)
+### [Schwarzach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.personal.md) 
+
+### [Schwarzach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.secret.md)
 

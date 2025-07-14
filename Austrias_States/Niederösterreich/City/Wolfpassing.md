@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolfpassing.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWolfpassing.public.md) 
+### [Wolfpassing](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wolfpassing.md) 
 
-### [Wolfpassing.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWolfpassing.internal.md) 
+### [Wolfpassing.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wolfpassing.public.md) 
 
-### [Wolfpassing.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWolfpassing.protect.md) 
+### [Wolfpassing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wolfpassing.internal.md) 
 
-### [Wolfpassing.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWolfpassing.private.md) 
+### [Wolfpassing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wolfpassing.protect.md) 
 
-### [Wolfpassing.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWolfpassing.personal.md) 
+### [Wolfpassing.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wolfpassing.private.md) 
 
-### [Wolfpassing.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWolfpassing.secret.md)
+### [Wolfpassing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wolfpassing.personal.md) 
+
+### [Wolfpassing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wolfpassing.secret.md)
 

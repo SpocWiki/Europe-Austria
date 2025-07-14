@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kollerschlag.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.public.md) 
+### [Kollerschlag](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kollerschlag.md) 
 
-### [Kollerschlag.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.internal.md) 
+### [Kollerschlag.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kollerschlag.public.md) 
 
-### [Kollerschlag.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.protect.md) 
+### [Kollerschlag.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kollerschlag.internal.md) 
 
-### [Kollerschlag.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.private.md) 
+### [Kollerschlag.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kollerschlag.protect.md) 
 
-### [Kollerschlag.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.personal.md) 
+### [Kollerschlag.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kollerschlag.private.md) 
 
-### [Kollerschlag.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.secret.md)
+### [Kollerschlag.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kollerschlag.personal.md) 
+
+### [Kollerschlag.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kollerschlag.secret.md)
 

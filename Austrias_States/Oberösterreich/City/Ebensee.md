@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ebensee.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityEbensee.public.md) 
+### [Ebensee](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ebensee.md) 
 
-### [Ebensee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityEbensee.internal.md) 
+### [Ebensee.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ebensee.public.md) 
 
-### [Ebensee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityEbensee.protect.md) 
+### [Ebensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ebensee.internal.md) 
 
-### [Ebensee.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityEbensee.private.md) 
+### [Ebensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ebensee.protect.md) 
 
-### [Ebensee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityEbensee.personal.md) 
+### [Ebensee.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ebensee.private.md) 
 
-### [Ebensee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityEbensee.secret.md)
+### [Ebensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ebensee.personal.md) 
+
+### [Ebensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ebensee.secret.md)
 

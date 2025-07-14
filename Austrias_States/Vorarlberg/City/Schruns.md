@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schruns.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.public.md) 
+### [Schruns](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schruns.md) 
 
-### [Schruns.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.internal.md) 
+### [Schruns.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schruns.public.md) 
 
-### [Schruns.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.protect.md) 
+### [Schruns.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schruns.internal.md) 
 
-### [Schruns.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.private.md) 
+### [Schruns.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schruns.protect.md) 
 
-### [Schruns.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.personal.md) 
+### [Schruns.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schruns.private.md) 
 
-### [Schruns.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.secret.md)
+### [Schruns.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schruns.personal.md) 
+
+### [Schruns.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schruns.secret.md)
 

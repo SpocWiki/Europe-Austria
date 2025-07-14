@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Praebichl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.public.md) 
+### [Praebichl](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Praebichl.md) 
 
-### [Praebichl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.internal.md) 
+### [Praebichl.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Praebichl.public.md) 
 
-### [Praebichl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.protect.md) 
+### [Praebichl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Praebichl.internal.md) 
 
-### [Praebichl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.private.md) 
+### [Praebichl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Praebichl.protect.md) 
 
-### [Praebichl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.personal.md) 
+### [Praebichl.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Praebichl.private.md) 
 
-### [Praebichl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.secret.md)
+### [Praebichl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Praebichl.personal.md) 
+
+### [Praebichl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Praebichl.secret.md)
 

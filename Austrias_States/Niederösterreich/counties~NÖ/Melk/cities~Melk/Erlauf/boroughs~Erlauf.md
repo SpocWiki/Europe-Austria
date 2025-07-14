@@ -15,19 +15,19 @@ markerFolder: ./boroughs~Erlauf/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Erlauf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Melk\cities~Melk\Erlaufboroughs~Erlauf.public.md) 
+### [boroughs~Erlauf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Erlauf/boroughs~Erlauf.md) 
 
-### [boroughs~Erlauf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Melk\cities~Melk\Erlaufboroughs~Erlauf.internal.md) 
+### [boroughs~Erlauf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Erlauf/boroughs~Erlauf.public.md) 
 
-### [boroughs~Erlauf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Melk\cities~Melk\Erlaufboroughs~Erlauf.protect.md) 
+### [boroughs~Erlauf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Erlauf/boroughs~Erlauf.internal.md) 
 
-### [boroughs~Erlauf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Melk\cities~Melk\Erlaufboroughs~Erlauf.private.md) 
+### [boroughs~Erlauf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Erlauf/boroughs~Erlauf.protect.md) 
 
-### [boroughs~Erlauf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Melk\cities~Melk\Erlaufboroughs~Erlauf.personal.md) 
+### [boroughs~Erlauf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Erlauf/boroughs~Erlauf.private.md) 
 
-### [boroughs~Erlauf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Melk\cities~Melk\Erlaufboroughs~Erlauf.secret.md)
+### [boroughs~Erlauf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Erlauf/boroughs~Erlauf.personal.md) 
+
+### [boroughs~Erlauf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Erlauf/boroughs~Erlauf.secret.md)
 

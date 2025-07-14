@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strobl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.public.md) 
+### [Strobl](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Strobl.md) 
 
-### [Strobl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.internal.md) 
+### [Strobl.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Strobl.public.md) 
 
-### [Strobl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.protect.md) 
+### [Strobl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Strobl.internal.md) 
 
-### [Strobl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.private.md) 
+### [Strobl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Strobl.protect.md) 
 
-### [Strobl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.personal.md) 
+### [Strobl.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Strobl.private.md) 
 
-### [Strobl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.secret.md)
+### [Strobl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Strobl.personal.md) 
+
+### [Strobl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Strobl.secret.md)
 

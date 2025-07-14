@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mariabrunn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.public.md) 
+### [Mariabrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.md) 
 
-### [Mariabrunn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.internal.md) 
+### [Mariabrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.public.md) 
 
-### [Mariabrunn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.protect.md) 
+### [Mariabrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.internal.md) 
 
-### [Mariabrunn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.private.md) 
+### [Mariabrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.protect.md) 
 
-### [Mariabrunn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.personal.md) 
+### [Mariabrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.private.md) 
 
-### [Mariabrunn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.secret.md)
+### [Mariabrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.personal.md) 
+
+### [Mariabrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.secret.md)
 

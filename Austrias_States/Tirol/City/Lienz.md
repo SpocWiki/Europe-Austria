@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lienz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.public.md) 
+### [Lienz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Lienz.md) 
 
-### [Lienz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.internal.md) 
+### [Lienz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Lienz.public.md) 
 
-### [Lienz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.protect.md) 
+### [Lienz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Lienz.internal.md) 
 
-### [Lienz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.private.md) 
+### [Lienz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Lienz.protect.md) 
 
-### [Lienz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.personal.md) 
+### [Lienz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Lienz.private.md) 
 
-### [Lienz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.secret.md)
+### [Lienz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Lienz.personal.md) 
+
+### [Lienz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Lienz.secret.md)
 

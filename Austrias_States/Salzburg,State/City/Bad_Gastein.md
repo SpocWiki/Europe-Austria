@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Gastein.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.public.md) 
+### [Bad_Gastein](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.md) 
 
-### [Bad_Gastein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.internal.md) 
+### [Bad_Gastein.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.public.md) 
 
-### [Bad_Gastein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.protect.md) 
+### [Bad_Gastein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.internal.md) 
 
-### [Bad_Gastein.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.private.md) 
+### [Bad_Gastein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.protect.md) 
 
-### [Bad_Gastein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.personal.md) 
+### [Bad_Gastein.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.private.md) 
 
-### [Bad_Gastein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.secret.md)
+### [Bad_Gastein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.personal.md) 
+
+### [Bad_Gastein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jennersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityJennersdorf.public.md) 
+### [Jennersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Jennersdorf.md) 
 
-### [Jennersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityJennersdorf.internal.md) 
+### [Jennersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Jennersdorf.public.md) 
 
-### [Jennersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityJennersdorf.protect.md) 
+### [Jennersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Jennersdorf.internal.md) 
 
-### [Jennersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityJennersdorf.private.md) 
+### [Jennersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Jennersdorf.protect.md) 
 
-### [Jennersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityJennersdorf.personal.md) 
+### [Jennersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Jennersdorf.private.md) 
 
-### [Jennersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityJennersdorf.secret.md)
+### [Jennersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Jennersdorf.personal.md) 
+
+### [Jennersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Jennersdorf.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Graz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.public.md) 
+### [Graz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Graz.md) 
 
-### [Graz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.internal.md) 
+### [Graz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Graz.public.md) 
 
-### [Graz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.protect.md) 
+### [Graz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Graz.internal.md) 
 
-### [Graz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.private.md) 
+### [Graz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Graz.protect.md) 
 
-### [Graz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.personal.md) 
+### [Graz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Graz.private.md) 
 
-### [Graz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.secret.md)
+### [Graz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Graz.personal.md) 
+
+### [Graz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Graz.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirschbichl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.public.md) 
+### [Kirschbichl](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirschbichl.md) 
 
-### [Kirschbichl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.internal.md) 
+### [Kirschbichl.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirschbichl.public.md) 
 
-### [Kirschbichl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.protect.md) 
+### [Kirschbichl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirschbichl.internal.md) 
 
-### [Kirschbichl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.private.md) 
+### [Kirschbichl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirschbichl.protect.md) 
 
-### [Kirschbichl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.personal.md) 
+### [Kirschbichl.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirschbichl.private.md) 
 
-### [Kirschbichl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.secret.md)
+### [Kirschbichl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirschbichl.personal.md) 
+
+### [Kirschbichl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirschbichl.secret.md)
 

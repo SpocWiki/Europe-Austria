@@ -15,18 +15,19 @@ markerFolder: ./cities~Schwaz/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [cities~Schwaz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Schwazcities~Schwaz.public.md) 
+### [cities~Schwaz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.md) 
 
-### [cities~Schwaz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Schwazcities~Schwaz.internal.md) 
+### [cities~Schwaz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.public.md) 
 
-### [cities~Schwaz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Schwazcities~Schwaz.protect.md) 
+### [cities~Schwaz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.internal.md) 
 
-### [cities~Schwaz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Schwazcities~Schwaz.private.md) 
+### [cities~Schwaz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.protect.md) 
 
-### [cities~Schwaz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Schwazcities~Schwaz.personal.md) 
+### [cities~Schwaz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.private.md) 
 
-### [cities~Schwaz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Schwazcities~Schwaz.secret.md)
+### [cities~Schwaz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.personal.md) 
+
+### [cities~Schwaz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.secret.md)
 

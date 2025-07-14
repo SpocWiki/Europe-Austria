@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gross-Stanglau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.public.md) 
+### [Gross-Stanglau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.md) 
 
-### [Gross-Stanglau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.internal.md) 
+### [Gross-Stanglau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.public.md) 
 
-### [Gross-Stanglau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.protect.md) 
+### [Gross-Stanglau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.internal.md) 
 
-### [Gross-Stanglau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.private.md) 
+### [Gross-Stanglau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.protect.md) 
 
-### [Gross-Stanglau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.personal.md) 
+### [Gross-Stanglau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.private.md) 
 
-### [Gross-Stanglau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.secret.md)
+### [Gross-Stanglau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.personal.md) 
+
+### [Gross-Stanglau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.secret.md)
 

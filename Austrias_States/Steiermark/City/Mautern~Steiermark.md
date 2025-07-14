@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mautern~Steiermark.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.public.md) 
+### [Mautern~Steiermark](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.md) 
 
-### [Mautern~Steiermark.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.internal.md) 
+### [Mautern~Steiermark.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.public.md) 
 
-### [Mautern~Steiermark.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.protect.md) 
+### [Mautern~Steiermark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.internal.md) 
 
-### [Mautern~Steiermark.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.private.md) 
+### [Mautern~Steiermark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.protect.md) 
 
-### [Mautern~Steiermark.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.personal.md) 
+### [Mautern~Steiermark.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.private.md) 
 
-### [Mautern~Steiermark.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.secret.md)
+### [Mautern~Steiermark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.personal.md) 
+
+### [Mautern~Steiermark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.secret.md)
 

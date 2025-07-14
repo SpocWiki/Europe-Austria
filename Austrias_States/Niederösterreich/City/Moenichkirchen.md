@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moenichkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoenichkirchen.public.md) 
+### [Moenichkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Moenichkirchen.md) 
 
-### [Moenichkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoenichkirchen.internal.md) 
+### [Moenichkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Moenichkirchen.public.md) 
 
-### [Moenichkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoenichkirchen.protect.md) 
+### [Moenichkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Moenichkirchen.internal.md) 
 
-### [Moenichkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoenichkirchen.private.md) 
+### [Moenichkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Moenichkirchen.protect.md) 
 
-### [Moenichkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoenichkirchen.personal.md) 
+### [Moenichkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Moenichkirchen.private.md) 
 
-### [Moenichkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoenichkirchen.secret.md)
+### [Moenichkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Moenichkirchen.personal.md) 
+
+### [Moenichkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Moenichkirchen.secret.md)
 

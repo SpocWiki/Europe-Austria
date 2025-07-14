@@ -48,15 +48,17 @@ markerFolder: ./cities~Gänserndorf/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Gänserndorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.public.md) 
+### [cities~Gänserndorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.md) 
 
-### [cities~Gänserndorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.internal.md) 
+### [cities~Gänserndorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.public.md) 
 
-### [cities~Gänserndorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.protect.md) 
+### [cities~Gänserndorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.internal.md) 
 
-### [cities~Gänserndorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.private.md) 
+### [cities~Gänserndorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.protect.md) 
 
-### [cities~Gänserndorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.personal.md) 
+### [cities~Gänserndorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.private.md) 
 
-### [cities~Gänserndorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.secret.md)
+### [cities~Gänserndorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.personal.md) 
+
+### [cities~Gänserndorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.secret.md)
 

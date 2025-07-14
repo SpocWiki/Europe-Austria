@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alt-Aussee.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.public.md) 
+### [Alt-Aussee](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.md) 
 
-### [Alt-Aussee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.internal.md) 
+### [Alt-Aussee.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.public.md) 
 
-### [Alt-Aussee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.protect.md) 
+### [Alt-Aussee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.internal.md) 
 
-### [Alt-Aussee.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.private.md) 
+### [Alt-Aussee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.protect.md) 
 
-### [Alt-Aussee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.personal.md) 
+### [Alt-Aussee.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.private.md) 
 
-### [Alt-Aussee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.secret.md)
+### [Alt-Aussee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.personal.md) 
+
+### [Alt-Aussee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eisenstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.public.md) 
+### [Eisenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Eisenstadt.md) 
 
-### [Eisenstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.internal.md) 
+### [Eisenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Eisenstadt.public.md) 
 
-### [Eisenstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.protect.md) 
+### [Eisenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Eisenstadt.internal.md) 
 
-### [Eisenstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.private.md) 
+### [Eisenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Eisenstadt.protect.md) 
 
-### [Eisenstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.personal.md) 
+### [Eisenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Eisenstadt.private.md) 
 
-### [Eisenstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.secret.md)
+### [Eisenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Eisenstadt.personal.md) 
+
+### [Eisenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Eisenstadt.secret.md)
 

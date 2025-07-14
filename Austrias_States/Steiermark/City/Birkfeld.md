@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Birkfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBirkfeld.public.md) 
+### [Birkfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Birkfeld.md) 
 
-### [Birkfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBirkfeld.internal.md) 
+### [Birkfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Birkfeld.public.md) 
 
-### [Birkfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBirkfeld.protect.md) 
+### [Birkfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Birkfeld.internal.md) 
 
-### [Birkfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBirkfeld.private.md) 
+### [Birkfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Birkfeld.protect.md) 
 
-### [Birkfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBirkfeld.personal.md) 
+### [Birkfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Birkfeld.private.md) 
 
-### [Birkfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBirkfeld.secret.md)
+### [Birkfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Birkfeld.personal.md) 
+
+### [Birkfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Birkfeld.secret.md)
 

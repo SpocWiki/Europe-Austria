@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Johann.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.public.md) 
+### [St.Johann](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Johann.md) 
 
-### [St.Johann.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.internal.md) 
+### [St.Johann.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Johann.public.md) 
 
-### [St.Johann.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.protect.md) 
+### [St.Johann.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Johann.internal.md) 
 
-### [St.Johann.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.private.md) 
+### [St.Johann.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Johann.protect.md) 
 
-### [St.Johann.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.personal.md) 
+### [St.Johann.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Johann.private.md) 
 
-### [St.Johann.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.secret.md)
+### [St.Johann.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Johann.personal.md) 
+
+### [St.Johann.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Johann.secret.md)
 

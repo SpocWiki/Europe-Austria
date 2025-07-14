@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Baden-borough.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.public.md) 
+### [Baden-borough](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.md) 
 
-### [Baden-borough.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.internal.md) 
+### [Baden-borough.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.public.md) 
 
-### [Baden-borough.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.protect.md) 
+### [Baden-borough.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.internal.md) 
 
-### [Baden-borough.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.private.md) 
+### [Baden-borough.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.protect.md) 
 
-### [Baden-borough.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.personal.md) 
+### [Baden-borough.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.private.md) 
 
-### [Baden-borough.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.secret.md)
+### [Baden-borough.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.personal.md) 
+
+### [Baden-borough.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.secret.md)
 

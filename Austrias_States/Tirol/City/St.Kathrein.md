@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Kathrein.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.public.md) 
+### [St.Kathrein](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.md) 
 
-### [St.Kathrein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.internal.md) 
+### [St.Kathrein.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.public.md) 
 
-### [St.Kathrein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.protect.md) 
+### [St.Kathrein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.internal.md) 
 
-### [St.Kathrein.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.private.md) 
+### [St.Kathrein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.protect.md) 
 
-### [St.Kathrein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.personal.md) 
+### [St.Kathrein.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.private.md) 
 
-### [St.Kathrein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.secret.md)
+### [St.Kathrein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.personal.md) 
+
+### [St.Kathrein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.secret.md)
 

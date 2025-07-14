@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Rupert.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.public.md) 
+### [St.Rupert](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Rupert.md) 
 
-### [St.Rupert.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.internal.md) 
+### [St.Rupert.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Rupert.public.md) 
 
-### [St.Rupert.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.protect.md) 
+### [St.Rupert.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Rupert.internal.md) 
 
-### [St.Rupert.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.private.md) 
+### [St.Rupert.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Rupert.protect.md) 
 
-### [St.Rupert.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.personal.md) 
+### [St.Rupert.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Rupert.private.md) 
 
-### [St.Rupert.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.secret.md)
+### [St.Rupert.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Rupert.personal.md) 
+
+### [St.Rupert.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Rupert.secret.md)
 

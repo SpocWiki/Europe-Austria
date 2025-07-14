@@ -34,15 +34,17 @@ markerFolder: ./State~Wien/
 
 ## Confidential Links & Embeds: 
 
-### [Wien,State.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesWien,State.public.md) 
+### [Wien,State](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.md) 
 
-### [Wien,State.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesWien,State.internal.md) 
+### [Wien,State.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.public.md) 
 
-### [Wien,State.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesWien,State.protect.md) 
+### [Wien,State.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.internal.md) 
 
-### [Wien,State.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesWien,State.private.md) 
+### [Wien,State.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.protect.md) 
 
-### [Wien,State.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesWien,State.personal.md) 
+### [Wien,State.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.private.md) 
 
-### [Wien,State.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesWien,State.secret.md)
+### [Wien,State.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.personal.md) 
+
+### [Wien,State.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.secret.md)
 

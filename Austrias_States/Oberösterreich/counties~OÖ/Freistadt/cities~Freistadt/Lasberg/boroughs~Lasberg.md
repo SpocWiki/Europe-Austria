@@ -15,19 +15,19 @@ markerFolder: ./boroughs~Lasberg/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Lasberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Freistadt\cities~Freistadt\Lasbergboroughs~Lasberg.public.md) 
+### [boroughs~Lasberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Freistadt/cities~Freistadt/Lasberg/boroughs~Lasberg.md) 
 
-### [boroughs~Lasberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Freistadt\cities~Freistadt\Lasbergboroughs~Lasberg.internal.md) 
+### [boroughs~Lasberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Freistadt/cities~Freistadt/Lasberg/boroughs~Lasberg.public.md) 
 
-### [boroughs~Lasberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Freistadt\cities~Freistadt\Lasbergboroughs~Lasberg.protect.md) 
+### [boroughs~Lasberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Freistadt/cities~Freistadt/Lasberg/boroughs~Lasberg.internal.md) 
 
-### [boroughs~Lasberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Freistadt\cities~Freistadt\Lasbergboroughs~Lasberg.private.md) 
+### [boroughs~Lasberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Freistadt/cities~Freistadt/Lasberg/boroughs~Lasberg.protect.md) 
 
-### [boroughs~Lasberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Freistadt\cities~Freistadt\Lasbergboroughs~Lasberg.personal.md) 
+### [boroughs~Lasberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Freistadt/cities~Freistadt/Lasberg/boroughs~Lasberg.private.md) 
 
-### [boroughs~Lasberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Freistadt\cities~Freistadt\Lasbergboroughs~Lasberg.secret.md)
+### [boroughs~Lasberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Freistadt/cities~Freistadt/Lasberg/boroughs~Lasberg.personal.md) 
+
+### [boroughs~Lasberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Freistadt/cities~Freistadt/Lasberg/boroughs~Lasberg.secret.md)
 

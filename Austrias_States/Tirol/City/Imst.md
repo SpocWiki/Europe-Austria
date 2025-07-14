@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Imst.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.public.md) 
+### [Imst](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Imst.md) 
 
-### [Imst.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.internal.md) 
+### [Imst.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Imst.public.md) 
 
-### [Imst.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.protect.md) 
+### [Imst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Imst.internal.md) 
 
-### [Imst.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.private.md) 
+### [Imst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Imst.protect.md) 
 
-### [Imst.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.personal.md) 
+### [Imst.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Imst.private.md) 
 
-### [Imst.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.secret.md)
+### [Imst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Imst.personal.md) 
+
+### [Imst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Imst.secret.md)
 

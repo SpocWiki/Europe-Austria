@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kufstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.public.md) 
+### [Kufstein](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kufstein.md) 
 
-### [Kufstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.internal.md) 
+### [Kufstein.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kufstein.public.md) 
 
-### [Kufstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.protect.md) 
+### [Kufstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kufstein.internal.md) 
 
-### [Kufstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.private.md) 
+### [Kufstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kufstein.protect.md) 
 
-### [Kufstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.personal.md) 
+### [Kufstein.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kufstein.private.md) 
 
-### [Kufstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.secret.md)
+### [Kufstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kufstein.personal.md) 
+
+### [Kufstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kufstein.secret.md)
 

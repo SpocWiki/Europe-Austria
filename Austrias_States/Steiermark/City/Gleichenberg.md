@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gleichenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.public.md) 
+### [Gleichenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Gleichenberg.md) 
 
-### [Gleichenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.internal.md) 
+### [Gleichenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Gleichenberg.public.md) 
 
-### [Gleichenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.protect.md) 
+### [Gleichenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Gleichenberg.internal.md) 
 
-### [Gleichenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.private.md) 
+### [Gleichenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Gleichenberg.protect.md) 
 
-### [Gleichenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.personal.md) 
+### [Gleichenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Gleichenberg.private.md) 
 
-### [Gleichenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.secret.md)
+### [Gleichenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Gleichenberg.personal.md) 
+
+### [Gleichenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Gleichenberg.secret.md)
 

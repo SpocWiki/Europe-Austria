@@ -15,19 +15,19 @@ markerFolder: ./boroughs~Asperhofen/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Asperhofen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\St_Pölten\cities~St_Pölten\Asperhofenboroughs~Asperhofen.public.md) 
+### [boroughs~Asperhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Asperhofen/boroughs~Asperhofen.md) 
 
-### [boroughs~Asperhofen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\St_Pölten\cities~St_Pölten\Asperhofenboroughs~Asperhofen.internal.md) 
+### [boroughs~Asperhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Asperhofen/boroughs~Asperhofen.public.md) 
 
-### [boroughs~Asperhofen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\St_Pölten\cities~St_Pölten\Asperhofenboroughs~Asperhofen.protect.md) 
+### [boroughs~Asperhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Asperhofen/boroughs~Asperhofen.internal.md) 
 
-### [boroughs~Asperhofen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\St_Pölten\cities~St_Pölten\Asperhofenboroughs~Asperhofen.private.md) 
+### [boroughs~Asperhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Asperhofen/boroughs~Asperhofen.protect.md) 
 
-### [boroughs~Asperhofen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\St_Pölten\cities~St_Pölten\Asperhofenboroughs~Asperhofen.personal.md) 
+### [boroughs~Asperhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Asperhofen/boroughs~Asperhofen.private.md) 
 
-### [boroughs~Asperhofen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\St_Pölten\cities~St_Pölten\Asperhofenboroughs~Asperhofen.secret.md)
+### [boroughs~Asperhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Asperhofen/boroughs~Asperhofen.personal.md) 
+
+### [boroughs~Asperhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Asperhofen/boroughs~Asperhofen.secret.md)
 

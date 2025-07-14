@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwarzau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.public.md) 
+### [Schwarzau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schwarzau.md) 
 
-### [Schwarzau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.internal.md) 
+### [Schwarzau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schwarzau.public.md) 
 
-### [Schwarzau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.protect.md) 
+### [Schwarzau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schwarzau.internal.md) 
 
-### [Schwarzau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.private.md) 
+### [Schwarzau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schwarzau.protect.md) 
 
-### [Schwarzau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.personal.md) 
+### [Schwarzau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schwarzau.private.md) 
 
-### [Schwarzau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.secret.md)
+### [Schwarzau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schwarzau.personal.md) 
+
+### [Schwarzau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schwarzau.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spital~Pyhrnpass.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.public.md) 
+### [Spital~Pyhrnpass](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.md) 
 
-### [Spital~Pyhrnpass.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.internal.md) 
+### [Spital~Pyhrnpass.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.public.md) 
 
-### [Spital~Pyhrnpass.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.protect.md) 
+### [Spital~Pyhrnpass.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.internal.md) 
 
-### [Spital~Pyhrnpass.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.private.md) 
+### [Spital~Pyhrnpass.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.protect.md) 
 
-### [Spital~Pyhrnpass.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.personal.md) 
+### [Spital~Pyhrnpass.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.private.md) 
 
-### [Spital~Pyhrnpass.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.secret.md)
+### [Spital~Pyhrnpass.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.personal.md) 
+
+### [Spital~Pyhrnpass.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.secret.md)
 

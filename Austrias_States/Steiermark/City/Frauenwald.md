@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frauenwald.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.public.md) 
+### [Frauenwald](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Frauenwald.md) 
 
-### [Frauenwald.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.internal.md) 
+### [Frauenwald.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Frauenwald.public.md) 
 
-### [Frauenwald.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.protect.md) 
+### [Frauenwald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Frauenwald.internal.md) 
 
-### [Frauenwald.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.private.md) 
+### [Frauenwald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Frauenwald.protect.md) 
 
-### [Frauenwald.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.personal.md) 
+### [Frauenwald.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Frauenwald.private.md) 
 
-### [Frauenwald.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.secret.md)
+### [Frauenwald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Frauenwald.personal.md) 
+
+### [Frauenwald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Frauenwald.secret.md)
 

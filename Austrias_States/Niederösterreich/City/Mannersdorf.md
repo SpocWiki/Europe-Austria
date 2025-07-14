@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mannersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMannersdorf.public.md) 
+### [Mannersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.md) 
 
-### [Mannersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMannersdorf.internal.md) 
+### [Mannersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.public.md) 
 
-### [Mannersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMannersdorf.protect.md) 
+### [Mannersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.internal.md) 
 
-### [Mannersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMannersdorf.private.md) 
+### [Mannersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.protect.md) 
 
-### [Mannersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMannersdorf.personal.md) 
+### [Mannersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.private.md) 
 
-### [Mannersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMannersdorf.secret.md)
+### [Mannersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.personal.md) 
+
+### [Mannersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.secret.md)
 

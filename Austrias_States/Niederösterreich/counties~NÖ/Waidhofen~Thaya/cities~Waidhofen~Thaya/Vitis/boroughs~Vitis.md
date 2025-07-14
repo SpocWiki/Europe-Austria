@@ -15,19 +15,19 @@ markerFolder: ./boroughs~Vitis/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Vitis.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Waidhofen~Thaya\cities~Waidhofen~Thaya\Vitisboroughs~Vitis.public.md) 
+### [boroughs~Vitis](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Waidhofen~Thaya/cities~Waidhofen~Thaya/Vitis/boroughs~Vitis.md) 
 
-### [boroughs~Vitis.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Waidhofen~Thaya\cities~Waidhofen~Thaya\Vitisboroughs~Vitis.internal.md) 
+### [boroughs~Vitis.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Waidhofen~Thaya/cities~Waidhofen~Thaya/Vitis/boroughs~Vitis.public.md) 
 
-### [boroughs~Vitis.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Waidhofen~Thaya\cities~Waidhofen~Thaya\Vitisboroughs~Vitis.protect.md) 
+### [boroughs~Vitis.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Waidhofen~Thaya/cities~Waidhofen~Thaya/Vitis/boroughs~Vitis.internal.md) 
 
-### [boroughs~Vitis.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Waidhofen~Thaya\cities~Waidhofen~Thaya\Vitisboroughs~Vitis.private.md) 
+### [boroughs~Vitis.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Waidhofen~Thaya/cities~Waidhofen~Thaya/Vitis/boroughs~Vitis.protect.md) 
 
-### [boroughs~Vitis.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Waidhofen~Thaya\cities~Waidhofen~Thaya\Vitisboroughs~Vitis.personal.md) 
+### [boroughs~Vitis.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Waidhofen~Thaya/cities~Waidhofen~Thaya/Vitis/boroughs~Vitis.private.md) 
 
-### [boroughs~Vitis.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Waidhofen~Thaya\cities~Waidhofen~Thaya\Vitisboroughs~Vitis.secret.md)
+### [boroughs~Vitis.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Waidhofen~Thaya/cities~Waidhofen~Thaya/Vitis/boroughs~Vitis.personal.md) 
+
+### [boroughs~Vitis.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Waidhofen~Thaya/cities~Waidhofen~Thaya/Vitis/boroughs~Vitis.secret.md)
 

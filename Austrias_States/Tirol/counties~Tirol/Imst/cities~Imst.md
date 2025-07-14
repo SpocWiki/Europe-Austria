@@ -15,18 +15,19 @@ markerFolder: ./cities~Imst/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [cities~Imst.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Imstcities~Imst.public.md) 
+### [cities~Imst](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.md) 
 
-### [cities~Imst.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Imstcities~Imst.internal.md) 
+### [cities~Imst.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.public.md) 
 
-### [cities~Imst.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Imstcities~Imst.protect.md) 
+### [cities~Imst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.internal.md) 
 
-### [cities~Imst.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Imstcities~Imst.private.md) 
+### [cities~Imst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.protect.md) 
 
-### [cities~Imst.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Imstcities~Imst.personal.md) 
+### [cities~Imst.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.private.md) 
 
-### [cities~Imst.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Imstcities~Imst.secret.md)
+### [cities~Imst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.personal.md) 
+
+### [cities~Imst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.secret.md)
 

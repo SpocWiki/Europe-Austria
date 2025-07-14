@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schneeherz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchneeherz.public.md) 
+### [Schneeherz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schneeherz.md) 
 
-### [Schneeherz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchneeherz.internal.md) 
+### [Schneeherz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schneeherz.public.md) 
 
-### [Schneeherz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchneeherz.protect.md) 
+### [Schneeherz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schneeherz.internal.md) 
 
-### [Schneeherz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchneeherz.private.md) 
+### [Schneeherz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schneeherz.protect.md) 
 
-### [Schneeherz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchneeherz.personal.md) 
+### [Schneeherz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schneeherz.private.md) 
 
-### [Schneeherz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchneeherz.secret.md)
+### [Schneeherz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schneeherz.personal.md) 
+
+### [Schneeherz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Schneeherz.secret.md)
 

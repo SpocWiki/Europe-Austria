@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zams.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityZams.public.md) 
+### [Zams](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Zams.md) 
 
-### [Zams.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityZams.internal.md) 
+### [Zams.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Zams.public.md) 
 
-### [Zams.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityZams.protect.md) 
+### [Zams.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Zams.internal.md) 
 
-### [Zams.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityZams.private.md) 
+### [Zams.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Zams.protect.md) 
 
-### [Zams.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityZams.personal.md) 
+### [Zams.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Zams.private.md) 
 
-### [Zams.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityZams.secret.md)
+### [Zams.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Zams.personal.md) 
+
+### [Zams.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Zams.secret.md)
 

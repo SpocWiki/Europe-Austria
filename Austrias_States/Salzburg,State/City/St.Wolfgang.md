@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Wolfgang.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.public.md) 
+### [St.Wolfgang](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.md) 
 
-### [St.Wolfgang.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.internal.md) 
+### [St.Wolfgang.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.public.md) 
 
-### [St.Wolfgang.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.protect.md) 
+### [St.Wolfgang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.internal.md) 
 
-### [St.Wolfgang.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.private.md) 
+### [St.Wolfgang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.protect.md) 
 
-### [St.Wolfgang.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.personal.md) 
+### [St.Wolfgang.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.private.md) 
 
-### [St.Wolfgang.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.secret.md)
+### [St.Wolfgang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.personal.md) 
+
+### [St.Wolfgang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.secret.md)
 

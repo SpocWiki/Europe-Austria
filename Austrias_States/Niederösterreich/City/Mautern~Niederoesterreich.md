@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mautern~Niederoesterreich.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMautern~Niederoesterreich.public.md) 
+### [Mautern~Niederoesterreich](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.md) 
 
-### [Mautern~Niederoesterreich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMautern~Niederoesterreich.internal.md) 
+### [Mautern~Niederoesterreich.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.public.md) 
 
-### [Mautern~Niederoesterreich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMautern~Niederoesterreich.protect.md) 
+### [Mautern~Niederoesterreich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.internal.md) 
 
-### [Mautern~Niederoesterreich.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMautern~Niederoesterreich.private.md) 
+### [Mautern~Niederoesterreich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.protect.md) 
 
-### [Mautern~Niederoesterreich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMautern~Niederoesterreich.personal.md) 
+### [Mautern~Niederoesterreich.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.private.md) 
 
-### [Mautern~Niederoesterreich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMautern~Niederoesterreich.secret.md)
+### [Mautern~Niederoesterreich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.personal.md) 
+
+### [Mautern~Niederoesterreich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.secret.md)
 

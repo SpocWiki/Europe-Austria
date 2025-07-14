@@ -39,15 +39,17 @@ markerFolder: ./Tirol/
 
 ## Confidential Links & Embeds: 
 
-### [Tirol.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.public.md) 
+### [Tirol](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.md) 
 
-### [Tirol.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.internal.md) 
+### [Tirol.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.public.md) 
 
-### [Tirol.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.protect.md) 
+### [Tirol.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.internal.md) 
 
-### [Tirol.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.private.md) 
+### [Tirol.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.protect.md) 
 
-### [Tirol.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.personal.md) 
+### [Tirol.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.private.md) 
 
-### [Tirol.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.secret.md)
+### [Tirol.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.personal.md) 
+
+### [Tirol.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.secret.md)
 

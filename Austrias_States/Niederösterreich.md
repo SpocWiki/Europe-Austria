@@ -33,15 +33,17 @@ markerFolder: ./Niederösterreich/
 
 ## Confidential Links & Embeds: 
 
-### [Niederösterreich.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.public.md) 
+### [Niederösterreich](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich.md) 
 
-### [Niederösterreich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.internal.md) 
+### [Niederösterreich.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich.public.md) 
 
-### [Niederösterreich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.protect.md) 
+### [Niederösterreich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich.internal.md) 
 
-### [Niederösterreich.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.private.md) 
+### [Niederösterreich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich.protect.md) 
 
-### [Niederösterreich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.personal.md) 
+### [Niederösterreich.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich.private.md) 
 
-### [Niederösterreich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.secret.md)
+### [Niederösterreich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich.personal.md) 
+
+### [Niederösterreich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich.secret.md)
 

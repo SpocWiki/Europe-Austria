@@ -30,15 +30,17 @@ markerFolder: ./Burgenland/
 
 ## Confidential Links & Embeds: 
 
-### [Burgenland.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.public.md) 
+### [Burgenland](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland.md) 
 
-### [Burgenland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.internal.md) 
+### [Burgenland.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland.public.md) 
 
-### [Burgenland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.protect.md) 
+### [Burgenland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland.internal.md) 
 
-### [Burgenland.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.private.md) 
+### [Burgenland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland.protect.md) 
 
-### [Burgenland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.personal.md) 
+### [Burgenland.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland.private.md) 
 
-### [Burgenland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.secret.md)
+### [Burgenland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland.personal.md) 
+
+### [Burgenland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland.secret.md)
 

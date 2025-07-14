@@ -29,15 +29,17 @@ markerFolder: ./Vorarlberg/
 
 ## Confidential Links & Embeds: 
 
-### [Vorarlberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.public.md) 
+### [Vorarlberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg.md) 
 
-### [Vorarlberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.internal.md) 
+### [Vorarlberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg.public.md) 
 
-### [Vorarlberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.protect.md) 
+### [Vorarlberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg.internal.md) 
 
-### [Vorarlberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.private.md) 
+### [Vorarlberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg.protect.md) 
 
-### [Vorarlberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.personal.md) 
+### [Vorarlberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg.private.md) 
 
-### [Vorarlberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.secret.md)
+### [Vorarlberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg.personal.md) 
+
+### [Vorarlberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg.secret.md)
 

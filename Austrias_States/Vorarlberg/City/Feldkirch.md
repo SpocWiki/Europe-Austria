@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Feldkirch.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.public.md) 
+### [Feldkirch](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Feldkirch.md) 
 
-### [Feldkirch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.internal.md) 
+### [Feldkirch.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Feldkirch.public.md) 
 
-### [Feldkirch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.protect.md) 
+### [Feldkirch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Feldkirch.internal.md) 
 
-### [Feldkirch.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.private.md) 
+### [Feldkirch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Feldkirch.protect.md) 
 
-### [Feldkirch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.personal.md) 
+### [Feldkirch.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Feldkirch.private.md) 
 
-### [Feldkirch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.secret.md)
+### [Feldkirch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Feldkirch.personal.md) 
+
+### [Feldkirch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Feldkirch.secret.md)
 

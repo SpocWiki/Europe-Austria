@@ -15,19 +15,19 @@ markerFolder: ./boroughs~Wienerwald/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Wienerwald.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mödling\cities~Mödling\Wienerwaldboroughs~Wienerwald.public.md) 
+### [boroughs~Wienerwald](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mödling/cities~Mödling/Wienerwald/boroughs~Wienerwald.md) 
 
-### [boroughs~Wienerwald.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mödling\cities~Mödling\Wienerwaldboroughs~Wienerwald.internal.md) 
+### [boroughs~Wienerwald.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mödling/cities~Mödling/Wienerwald/boroughs~Wienerwald.public.md) 
 
-### [boroughs~Wienerwald.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mödling\cities~Mödling\Wienerwaldboroughs~Wienerwald.protect.md) 
+### [boroughs~Wienerwald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mödling/cities~Mödling/Wienerwald/boroughs~Wienerwald.internal.md) 
 
-### [boroughs~Wienerwald.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mödling\cities~Mödling\Wienerwaldboroughs~Wienerwald.private.md) 
+### [boroughs~Wienerwald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mödling/cities~Mödling/Wienerwald/boroughs~Wienerwald.protect.md) 
 
-### [boroughs~Wienerwald.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mödling\cities~Mödling\Wienerwaldboroughs~Wienerwald.personal.md) 
+### [boroughs~Wienerwald.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mödling/cities~Mödling/Wienerwald/boroughs~Wienerwald.private.md) 
 
-### [boroughs~Wienerwald.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mödling\cities~Mödling\Wienerwaldboroughs~Wienerwald.secret.md)
+### [boroughs~Wienerwald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mödling/cities~Mödling/Wienerwald/boroughs~Wienerwald.personal.md) 
+
+### [boroughs~Wienerwald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mödling/cities~Mödling/Wienerwald/boroughs~Wienerwald.secret.md)
 

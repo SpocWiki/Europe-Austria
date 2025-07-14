@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Obersiebenbrunn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.public.md) 
+### [Obersiebenbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Obersiebenbrunn.md) 
 
-### [Obersiebenbrunn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.internal.md) 
+### [Obersiebenbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Obersiebenbrunn.public.md) 
 
-### [Obersiebenbrunn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.protect.md) 
+### [Obersiebenbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Obersiebenbrunn.internal.md) 
 
-### [Obersiebenbrunn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.private.md) 
+### [Obersiebenbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Obersiebenbrunn.protect.md) 
 
-### [Obersiebenbrunn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.personal.md) 
+### [Obersiebenbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Obersiebenbrunn.private.md) 
 
-### [Obersiebenbrunn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.secret.md)
+### [Obersiebenbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Obersiebenbrunn.personal.md) 
+
+### [Obersiebenbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Obersiebenbrunn.secret.md)
 

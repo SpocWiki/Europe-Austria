@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Leonhard.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.public.md) 
+### [St.Leonhard](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.md) 
 
-### [St.Leonhard.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.internal.md) 
+### [St.Leonhard.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.public.md) 
 
-### [St.Leonhard.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.protect.md) 
+### [St.Leonhard.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.internal.md) 
 
-### [St.Leonhard.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.private.md) 
+### [St.Leonhard.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.protect.md) 
 
-### [St.Leonhard.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.personal.md) 
+### [St.Leonhard.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.private.md) 
 
-### [St.Leonhard.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.secret.md)
+### [St.Leonhard.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.personal.md) 
+
+### [St.Leonhard.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.secret.md)
 

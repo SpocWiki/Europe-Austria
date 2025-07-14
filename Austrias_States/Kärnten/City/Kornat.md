@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kornat.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.public.md) 
+### [Kornat](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kornat.md) 
 
-### [Kornat.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.internal.md) 
+### [Kornat.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kornat.public.md) 
 
-### [Kornat.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.protect.md) 
+### [Kornat.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kornat.internal.md) 
 
-### [Kornat.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.private.md) 
+### [Kornat.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kornat.protect.md) 
 
-### [Kornat.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.personal.md) 
+### [Kornat.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kornat.private.md) 
 
-### [Kornat.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.secret.md)
+### [Kornat.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kornat.personal.md) 
+
+### [Kornat.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kornat.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guttaring.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.public.md) 
+### [Guttaring](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Guttaring.md) 
 
-### [Guttaring.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.internal.md) 
+### [Guttaring.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Guttaring.public.md) 
 
-### [Guttaring.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.protect.md) 
+### [Guttaring.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Guttaring.internal.md) 
 
-### [Guttaring.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.private.md) 
+### [Guttaring.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Guttaring.protect.md) 
 
-### [Guttaring.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.personal.md) 
+### [Guttaring.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Guttaring.private.md) 
 
-### [Guttaring.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.secret.md)
+### [Guttaring.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Guttaring.personal.md) 
+
+### [Guttaring.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Guttaring.secret.md)
 

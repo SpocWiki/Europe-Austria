@@ -15,19 +15,19 @@ markerFolder: ./boroughs~Marienkirchen~Hausruck/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Marienkirchen~Hausruck.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Ried~Innkreis\cities~Ried~Innkreis\St_Marienkirchen~Hausruckboroughs~Marienkirchen~Hausruck.public.md) 
+### [boroughs~Marienkirchen~Hausruck](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/St_Marienkirchen~Hausruck/boroughs~Marienkirchen~Hausruck.md) 
 
-### [boroughs~Marienkirchen~Hausruck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Ried~Innkreis\cities~Ried~Innkreis\St_Marienkirchen~Hausruckboroughs~Marienkirchen~Hausruck.internal.md) 
+### [boroughs~Marienkirchen~Hausruck.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/St_Marienkirchen~Hausruck/boroughs~Marienkirchen~Hausruck.public.md) 
 
-### [boroughs~Marienkirchen~Hausruck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Ried~Innkreis\cities~Ried~Innkreis\St_Marienkirchen~Hausruckboroughs~Marienkirchen~Hausruck.protect.md) 
+### [boroughs~Marienkirchen~Hausruck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/St_Marienkirchen~Hausruck/boroughs~Marienkirchen~Hausruck.internal.md) 
 
-### [boroughs~Marienkirchen~Hausruck.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Ried~Innkreis\cities~Ried~Innkreis\St_Marienkirchen~Hausruckboroughs~Marienkirchen~Hausruck.private.md) 
+### [boroughs~Marienkirchen~Hausruck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/St_Marienkirchen~Hausruck/boroughs~Marienkirchen~Hausruck.protect.md) 
 
-### [boroughs~Marienkirchen~Hausruck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Ried~Innkreis\cities~Ried~Innkreis\St_Marienkirchen~Hausruckboroughs~Marienkirchen~Hausruck.personal.md) 
+### [boroughs~Marienkirchen~Hausruck.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/St_Marienkirchen~Hausruck/boroughs~Marienkirchen~Hausruck.private.md) 
 
-### [boroughs~Marienkirchen~Hausruck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Ried~Innkreis\cities~Ried~Innkreis\St_Marienkirchen~Hausruckboroughs~Marienkirchen~Hausruck.secret.md)
+### [boroughs~Marienkirchen~Hausruck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/St_Marienkirchen~Hausruck/boroughs~Marienkirchen~Hausruck.personal.md) 
+
+### [boroughs~Marienkirchen~Hausruck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/St_Marienkirchen~Hausruck/boroughs~Marienkirchen~Hausruck.secret.md)
 

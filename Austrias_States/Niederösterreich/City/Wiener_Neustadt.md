@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wiener_Neustadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.public.md) 
+### [Wiener_Neustadt](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wiener_Neustadt.md) 
 
-### [Wiener_Neustadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.internal.md) 
+### [Wiener_Neustadt.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wiener_Neustadt.public.md) 
 
-### [Wiener_Neustadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.protect.md) 
+### [Wiener_Neustadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wiener_Neustadt.internal.md) 
 
-### [Wiener_Neustadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.private.md) 
+### [Wiener_Neustadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wiener_Neustadt.protect.md) 
 
-### [Wiener_Neustadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.personal.md) 
+### [Wiener_Neustadt.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wiener_Neustadt.private.md) 
 
-### [Wiener_Neustadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.secret.md)
+### [Wiener_Neustadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wiener_Neustadt.personal.md) 
+
+### [Wiener_Neustadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wiener_Neustadt.secret.md)
 

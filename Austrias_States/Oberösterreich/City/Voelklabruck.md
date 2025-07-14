@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Voelklabruck.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.public.md) 
+### [Voelklabruck](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Voelklabruck.md) 
 
-### [Voelklabruck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.internal.md) 
+### [Voelklabruck.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Voelklabruck.public.md) 
 
-### [Voelklabruck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.protect.md) 
+### [Voelklabruck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Voelklabruck.internal.md) 
 
-### [Voelklabruck.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.private.md) 
+### [Voelklabruck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Voelklabruck.protect.md) 
 
-### [Voelklabruck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.personal.md) 
+### [Voelklabruck.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Voelklabruck.private.md) 
 
-### [Voelklabruck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.secret.md)
+### [Voelklabruck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Voelklabruck.personal.md) 
+
+### [Voelklabruck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Voelklabruck.secret.md)
 

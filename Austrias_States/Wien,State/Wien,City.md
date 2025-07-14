@@ -311,15 +311,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wien,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.public.md) 
+### [Wien,City](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City.md) 
 
-### [Wien,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.internal.md) 
+### [Wien,City.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City.public.md) 
 
-### [Wien,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.protect.md) 
+### [Wien,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City.internal.md) 
 
-### [Wien,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.private.md) 
+### [Wien,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City.protect.md) 
 
-### [Wien,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.personal.md) 
+### [Wien,City.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City.private.md) 
 
-### [Wien,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.secret.md)
+### [Wien,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City.personal.md) 
+
+### [Wien,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City.secret.md)
 

@@ -15,18 +15,19 @@ markerFolder: ./cities~Mürzzuschlag/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [cities~Mürzzuschlag.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Bruck-Mürzzuschlagcities~Mürzzuschlag.public.md) 
+### [cities~Mürzzuschlag](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag.md) 
 
-### [cities~Mürzzuschlag.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Bruck-Mürzzuschlagcities~Mürzzuschlag.internal.md) 
+### [cities~Mürzzuschlag.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag.public.md) 
 
-### [cities~Mürzzuschlag.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Bruck-Mürzzuschlagcities~Mürzzuschlag.protect.md) 
+### [cities~Mürzzuschlag.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag.internal.md) 
 
-### [cities~Mürzzuschlag.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Bruck-Mürzzuschlagcities~Mürzzuschlag.private.md) 
+### [cities~Mürzzuschlag.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag.protect.md) 
 
-### [cities~Mürzzuschlag.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Bruck-Mürzzuschlagcities~Mürzzuschlag.personal.md) 
+### [cities~Mürzzuschlag.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag.private.md) 
 
-### [cities~Mürzzuschlag.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Bruck-Mürzzuschlagcities~Mürzzuschlag.secret.md)
+### [cities~Mürzzuschlag.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag.personal.md) 
+
+### [cities~Mürzzuschlag.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag.secret.md)
 

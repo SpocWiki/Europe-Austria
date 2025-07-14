@@ -32,15 +32,17 @@ markerFolder: ./Steiermark/
 
 ## Confidential Links & Embeds: 
 
-### [Steiermark.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.public.md) 
+### [Steiermark](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.md) 
 
-### [Steiermark.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.internal.md) 
+### [Steiermark.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.public.md) 
 
-### [Steiermark.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.protect.md) 
+### [Steiermark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.internal.md) 
 
-### [Steiermark.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.private.md) 
+### [Steiermark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.protect.md) 
 
-### [Steiermark.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.personal.md) 
+### [Steiermark.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.private.md) 
 
-### [Steiermark.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.secret.md)
+### [Steiermark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.personal.md) 
+
+### [Steiermark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.secret.md)
 

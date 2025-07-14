@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuhaus~Donau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.public.md) 
+### [Neuhaus~Donau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus~Donau.md) 
 
-### [Neuhaus~Donau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.internal.md) 
+### [Neuhaus~Donau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus~Donau.public.md) 
 
-### [Neuhaus~Donau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.protect.md) 
+### [Neuhaus~Donau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus~Donau.internal.md) 
 
-### [Neuhaus~Donau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.private.md) 
+### [Neuhaus~Donau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus~Donau.protect.md) 
 
-### [Neuhaus~Donau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.personal.md) 
+### [Neuhaus~Donau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus~Donau.private.md) 
 
-### [Neuhaus~Donau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.secret.md)
+### [Neuhaus~Donau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus~Donau.personal.md) 
+
+### [Neuhaus~Donau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus~Donau.secret.md)
 

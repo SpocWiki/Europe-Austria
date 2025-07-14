@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hochschneeberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.public.md) 
+### [Hochschneeberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hochschneeberg.md) 
 
-### [Hochschneeberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.internal.md) 
+### [Hochschneeberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hochschneeberg.public.md) 
 
-### [Hochschneeberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.protect.md) 
+### [Hochschneeberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hochschneeberg.internal.md) 
 
-### [Hochschneeberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.private.md) 
+### [Hochschneeberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hochschneeberg.protect.md) 
 
-### [Hochschneeberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.personal.md) 
+### [Hochschneeberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hochschneeberg.private.md) 
 
-### [Hochschneeberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.secret.md)
+### [Hochschneeberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hochschneeberg.personal.md) 
+
+### [Hochschneeberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Hochschneeberg.secret.md)
 

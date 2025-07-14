@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwader.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwader.public.md) 
+### [Schwader](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwader.md) 
 
-### [Schwader.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwader.internal.md) 
+### [Schwader.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwader.public.md) 
 
-### [Schwader.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwader.protect.md) 
+### [Schwader.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwader.internal.md) 
 
-### [Schwader.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwader.private.md) 
+### [Schwader.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwader.protect.md) 
 
-### [Schwader.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwader.personal.md) 
+### [Schwader.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwader.private.md) 
 
-### [Schwader.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwader.secret.md)
+### [Schwader.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwader.personal.md) 
+
+### [Schwader.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Schwader.secret.md)
 

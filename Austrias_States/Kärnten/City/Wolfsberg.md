@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolfsberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.public.md) 
+### [Wolfsberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Wolfsberg.md) 
 
-### [Wolfsberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.internal.md) 
+### [Wolfsberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Wolfsberg.public.md) 
 
-### [Wolfsberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.protect.md) 
+### [Wolfsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Wolfsberg.internal.md) 
 
-### [Wolfsberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.private.md) 
+### [Wolfsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Wolfsberg.protect.md) 
 
-### [Wolfsberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.personal.md) 
+### [Wolfsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Wolfsberg.private.md) 
 
-### [Wolfsberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.secret.md)
+### [Wolfsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Wolfsberg.personal.md) 
+
+### [Wolfsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Wolfsberg.secret.md)
 

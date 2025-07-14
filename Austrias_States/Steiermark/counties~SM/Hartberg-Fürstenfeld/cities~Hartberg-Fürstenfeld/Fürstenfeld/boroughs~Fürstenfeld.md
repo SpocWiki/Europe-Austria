@@ -15,18 +15,19 @@ markerFolder: ./boroughs~Fürstenfeld/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Fürstenfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Hartberg-Fürstenfeld\cities~Hartberg-Fürstenfeld\Fürstenfeldboroughs~Fürstenfeld.public.md) 
+### [boroughs~Fürstenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Fürstenfeld/boroughs~Fürstenfeld.md) 
 
-### [boroughs~Fürstenfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Hartberg-Fürstenfeld\cities~Hartberg-Fürstenfeld\Fürstenfeldboroughs~Fürstenfeld.internal.md) 
+### [boroughs~Fürstenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Fürstenfeld/boroughs~Fürstenfeld.public.md) 
 
-### [boroughs~Fürstenfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Hartberg-Fürstenfeld\cities~Hartberg-Fürstenfeld\Fürstenfeldboroughs~Fürstenfeld.protect.md) 
+### [boroughs~Fürstenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Fürstenfeld/boroughs~Fürstenfeld.internal.md) 
 
-### [boroughs~Fürstenfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Hartberg-Fürstenfeld\cities~Hartberg-Fürstenfeld\Fürstenfeldboroughs~Fürstenfeld.private.md) 
+### [boroughs~Fürstenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Fürstenfeld/boroughs~Fürstenfeld.protect.md) 
 
-### [boroughs~Fürstenfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Hartberg-Fürstenfeld\cities~Hartberg-Fürstenfeld\Fürstenfeldboroughs~Fürstenfeld.personal.md) 
+### [boroughs~Fürstenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Fürstenfeld/boroughs~Fürstenfeld.private.md) 
 
-### [boroughs~Fürstenfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Hartberg-Fürstenfeld\cities~Hartberg-Fürstenfeld\Fürstenfeldboroughs~Fürstenfeld.secret.md)
+### [boroughs~Fürstenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Fürstenfeld/boroughs~Fürstenfeld.personal.md) 
+
+### [boroughs~Fürstenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Fürstenfeld/boroughs~Fürstenfeld.secret.md)
 

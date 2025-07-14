@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gutenbrunn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.public.md) 
+### [Gutenbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Gutenbrunn.md) 
 
-### [Gutenbrunn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.internal.md) 
+### [Gutenbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Gutenbrunn.public.md) 
 
-### [Gutenbrunn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.protect.md) 
+### [Gutenbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Gutenbrunn.internal.md) 
 
-### [Gutenbrunn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.private.md) 
+### [Gutenbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Gutenbrunn.protect.md) 
 
-### [Gutenbrunn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.personal.md) 
+### [Gutenbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Gutenbrunn.private.md) 
 
-### [Gutenbrunn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.secret.md)
+### [Gutenbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Gutenbrunn.personal.md) 
+
+### [Gutenbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Gutenbrunn.secret.md)
 

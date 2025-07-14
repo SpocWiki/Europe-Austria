@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Innsbruck.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.public.md) 
+### [Innsbruck](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck.md) 
 
-### [Innsbruck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.internal.md) 
+### [Innsbruck.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck.public.md) 
 
-### [Innsbruck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.protect.md) 
+### [Innsbruck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck.internal.md) 
 
-### [Innsbruck.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.private.md) 
+### [Innsbruck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck.protect.md) 
 
-### [Innsbruck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.personal.md) 
+### [Innsbruck.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck.private.md) 
 
-### [Innsbruck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.secret.md)
+### [Innsbruck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck.personal.md) 
+
+### [Innsbruck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck.secret.md)
 

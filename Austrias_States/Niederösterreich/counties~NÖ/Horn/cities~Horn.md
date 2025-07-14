@@ -16,20 +16,19 @@ markerFolder: ./cities~Horn/
 ```
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [cities~Horn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horncities~Horn.public.md) 
+### [cities~Horn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn.md) 
 
-### [cities~Horn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horncities~Horn.internal.md) 
+### [cities~Horn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn.public.md) 
 
-### [cities~Horn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horncities~Horn.protect.md) 
+### [cities~Horn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn.internal.md) 
 
-### [cities~Horn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horncities~Horn.private.md) 
+### [cities~Horn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn.protect.md) 
 
-### [cities~Horn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horncities~Horn.personal.md) 
+### [cities~Horn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn.private.md) 
 
-### [cities~Horn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horncities~Horn.secret.md)
+### [cities~Horn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn.personal.md) 
+
+### [cities~Horn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn.secret.md)
 

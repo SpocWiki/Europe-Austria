@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Veit.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.public.md) 
+### [St.Veit](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Veit.md) 
 
-### [St.Veit.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.internal.md) 
+### [St.Veit.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Veit.public.md) 
 
-### [St.Veit.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.protect.md) 
+### [St.Veit.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Veit.internal.md) 
 
-### [St.Veit.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.private.md) 
+### [St.Veit.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Veit.protect.md) 
 
-### [St.Veit.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.personal.md) 
+### [St.Veit.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Veit.private.md) 
 
-### [St.Veit.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.secret.md)
+### [St.Veit.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Veit.personal.md) 
+
+### [St.Veit.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Veit.secret.md)
 

@@ -15,18 +15,19 @@ markerFolder: ./boroughs~Lang/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Lang.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Leibnitz\cities~Leibnitz\Langboroughs~Lang.public.md) 
+### [boroughs~Lang](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.md) 
 
-### [boroughs~Lang.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Leibnitz\cities~Leibnitz\Langboroughs~Lang.internal.md) 
+### [boroughs~Lang.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.public.md) 
 
-### [boroughs~Lang.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Leibnitz\cities~Leibnitz\Langboroughs~Lang.protect.md) 
+### [boroughs~Lang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.internal.md) 
 
-### [boroughs~Lang.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Leibnitz\cities~Leibnitz\Langboroughs~Lang.private.md) 
+### [boroughs~Lang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.protect.md) 
 
-### [boroughs~Lang.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Leibnitz\cities~Leibnitz\Langboroughs~Lang.personal.md) 
+### [boroughs~Lang.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.private.md) 
 
-### [boroughs~Lang.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Leibnitz\cities~Leibnitz\Langboroughs~Lang.secret.md)
+### [boroughs~Lang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.personal.md) 
+
+### [boroughs~Lang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.secret.md)
 

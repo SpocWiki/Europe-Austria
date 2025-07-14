@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mehrerau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityMehrerau.public.md) 
+### [Mehrerau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.md) 
 
-### [Mehrerau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityMehrerau.internal.md) 
+### [Mehrerau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.public.md) 
 
-### [Mehrerau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityMehrerau.protect.md) 
+### [Mehrerau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.internal.md) 
 
-### [Mehrerau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityMehrerau.private.md) 
+### [Mehrerau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.protect.md) 
 
-### [Mehrerau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityMehrerau.personal.md) 
+### [Mehrerau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.private.md) 
 
-### [Mehrerau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityMehrerau.secret.md)
+### [Mehrerau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.personal.md) 
+
+### [Mehrerau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.secret.md)
 

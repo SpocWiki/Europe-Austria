@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eisenerz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.public.md) 
+### [Eisenerz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Eisenerz.md) 
 
-### [Eisenerz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.internal.md) 
+### [Eisenerz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Eisenerz.public.md) 
 
-### [Eisenerz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.protect.md) 
+### [Eisenerz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Eisenerz.internal.md) 
 
-### [Eisenerz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.private.md) 
+### [Eisenerz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Eisenerz.protect.md) 
 
-### [Eisenerz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.personal.md) 
+### [Eisenerz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Eisenerz.private.md) 
 
-### [Eisenerz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.secret.md)
+### [Eisenerz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Eisenerz.personal.md) 
+
+### [Eisenerz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Eisenerz.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohentauern.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.public.md) 
+### [Hohentauern](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Hohentauern.md) 
 
-### [Hohentauern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.internal.md) 
+### [Hohentauern.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Hohentauern.public.md) 
 
-### [Hohentauern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.protect.md) 
+### [Hohentauern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Hohentauern.internal.md) 
 
-### [Hohentauern.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.private.md) 
+### [Hohentauern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Hohentauern.protect.md) 
 
-### [Hohentauern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.personal.md) 
+### [Hohentauern.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Hohentauern.private.md) 
 
-### [Hohentauern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.secret.md)
+### [Hohentauern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Hohentauern.personal.md) 
+
+### [Hohentauern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Hohentauern.secret.md)
 

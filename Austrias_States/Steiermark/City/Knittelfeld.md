@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Knittelfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.public.md) 
+### [Knittelfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.md) 
 
-### [Knittelfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.internal.md) 
+### [Knittelfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.public.md) 
 
-### [Knittelfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.protect.md) 
+### [Knittelfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.internal.md) 
 
-### [Knittelfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.private.md) 
+### [Knittelfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.protect.md) 
 
-### [Knittelfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.personal.md) 
+### [Knittelfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.private.md) 
 
-### [Knittelfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.secret.md)
+### [Knittelfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.personal.md) 
+
+### [Knittelfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bruck~Mur.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.public.md) 
+### [Bruck~Mur](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Bruck~Mur.md) 
 
-### [Bruck~Mur.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.internal.md) 
+### [Bruck~Mur.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Bruck~Mur.public.md) 
 
-### [Bruck~Mur.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.protect.md) 
+### [Bruck~Mur.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Bruck~Mur.internal.md) 
 
-### [Bruck~Mur.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.private.md) 
+### [Bruck~Mur.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Bruck~Mur.protect.md) 
 
-### [Bruck~Mur.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.personal.md) 
+### [Bruck~Mur.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Bruck~Mur.private.md) 
 
-### [Bruck~Mur.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.secret.md)
+### [Bruck~Mur.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Bruck~Mur.personal.md) 
+
+### [Bruck~Mur.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Bruck~Mur.secret.md)
 

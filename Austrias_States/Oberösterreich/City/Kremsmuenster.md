@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kremsmuenster.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.public.md) 
+### [Kremsmuenster](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kremsmuenster.md) 
 
-### [Kremsmuenster.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.internal.md) 
+### [Kremsmuenster.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kremsmuenster.public.md) 
 
-### [Kremsmuenster.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.protect.md) 
+### [Kremsmuenster.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kremsmuenster.internal.md) 
 
-### [Kremsmuenster.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.private.md) 
+### [Kremsmuenster.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kremsmuenster.protect.md) 
 
-### [Kremsmuenster.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.personal.md) 
+### [Kremsmuenster.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kremsmuenster.private.md) 
 
-### [Kremsmuenster.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.secret.md)
+### [Kremsmuenster.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kremsmuenster.personal.md) 
+
+### [Kremsmuenster.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Kremsmuenster.secret.md)
 

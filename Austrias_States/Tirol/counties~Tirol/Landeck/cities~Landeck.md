@@ -14,18 +14,19 @@ markerFolder: ./cities~Landeck/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [cities~Landeck.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Landeckcities~Landeck.public.md) 
+### [cities~Landeck](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.md) 
 
-### [cities~Landeck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Landeckcities~Landeck.internal.md) 
+### [cities~Landeck.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.public.md) 
 
-### [cities~Landeck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Landeckcities~Landeck.protect.md) 
+### [cities~Landeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.internal.md) 
 
-### [cities~Landeck.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Landeckcities~Landeck.private.md) 
+### [cities~Landeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.protect.md) 
 
-### [cities~Landeck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Landeckcities~Landeck.personal.md) 
+### [cities~Landeck.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.private.md) 
 
-### [cities~Landeck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\counties~Tirol\Landeckcities~Landeck.secret.md)
+### [cities~Landeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.personal.md) 
+
+### [cities~Landeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.secret.md)
 

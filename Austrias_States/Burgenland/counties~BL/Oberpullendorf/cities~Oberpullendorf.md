@@ -15,18 +15,19 @@ markerFolder: ./cities~Oberpullendorf/
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [cities~Oberpullendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\counties~BL\Oberpullendorfcities~Oberpullendorf.public.md) 
+### [cities~Oberpullendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.md) 
 
-### [cities~Oberpullendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\counties~BL\Oberpullendorfcities~Oberpullendorf.internal.md) 
+### [cities~Oberpullendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.public.md) 
 
-### [cities~Oberpullendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\counties~BL\Oberpullendorfcities~Oberpullendorf.protect.md) 
+### [cities~Oberpullendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.internal.md) 
 
-### [cities~Oberpullendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\counties~BL\Oberpullendorfcities~Oberpullendorf.private.md) 
+### [cities~Oberpullendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.protect.md) 
 
-### [cities~Oberpullendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\counties~BL\Oberpullendorfcities~Oberpullendorf.personal.md) 
+### [cities~Oberpullendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.private.md) 
 
-### [cities~Oberpullendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\counties~BL\Oberpullendorfcities~Oberpullendorf.secret.md)
+### [cities~Oberpullendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.personal.md) 
+
+### [cities~Oberpullendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.secret.md)
 

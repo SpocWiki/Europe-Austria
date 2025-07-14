@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ried~Oberoesterreich.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.public.md) 
+### [Ried~Oberoesterreich](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ried~Oberoesterreich.md) 
 
-### [Ried~Oberoesterreich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.internal.md) 
+### [Ried~Oberoesterreich.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ried~Oberoesterreich.public.md) 
 
-### [Ried~Oberoesterreich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.protect.md) 
+### [Ried~Oberoesterreich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ried~Oberoesterreich.internal.md) 
 
-### [Ried~Oberoesterreich.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.private.md) 
+### [Ried~Oberoesterreich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ried~Oberoesterreich.protect.md) 
 
-### [Ried~Oberoesterreich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.personal.md) 
+### [Ried~Oberoesterreich.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ried~Oberoesterreich.private.md) 
 
-### [Ried~Oberoesterreich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.secret.md)
+### [Ried~Oberoesterreich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ried~Oberoesterreich.personal.md) 
+
+### [Ried~Oberoesterreich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ried~Oberoesterreich.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Anton.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.public.md) 
+### [St.Anton](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.md) 
 
-### [St.Anton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.internal.md) 
+### [St.Anton.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.public.md) 
 
-### [St.Anton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.protect.md) 
+### [St.Anton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.internal.md) 
 
-### [St.Anton.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.private.md) 
+### [St.Anton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.protect.md) 
 
-### [St.Anton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.personal.md) 
+### [St.Anton.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.private.md) 
 
-### [St.Anton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.secret.md)
+### [St.Anton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.personal.md) 
+
+### [St.Anton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.secret.md)
 

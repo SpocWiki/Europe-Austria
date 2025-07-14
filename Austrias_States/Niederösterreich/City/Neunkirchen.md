@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neunkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.public.md) 
+### [Neunkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neunkirchen.md) 
 
-### [Neunkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.internal.md) 
+### [Neunkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neunkirchen.public.md) 
 
-### [Neunkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.protect.md) 
+### [Neunkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neunkirchen.internal.md) 
 
-### [Neunkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.private.md) 
+### [Neunkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neunkirchen.protect.md) 
 
-### [Neunkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.personal.md) 
+### [Neunkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neunkirchen.private.md) 
 
-### [Neunkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.secret.md)
+### [Neunkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neunkirchen.personal.md) 
+
+### [Neunkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neunkirchen.secret.md)
 

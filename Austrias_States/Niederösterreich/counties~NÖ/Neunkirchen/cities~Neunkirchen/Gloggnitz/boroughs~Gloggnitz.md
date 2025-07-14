@@ -14,19 +14,19 @@ markerFolder: ./boroughs~Gloggnitz/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Gloggnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Neunkirchen\cities~Neunkirchen\Gloggnitzboroughs~Gloggnitz.public.md) 
+### [boroughs~Gloggnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Gloggnitz/boroughs~Gloggnitz.md) 
 
-### [boroughs~Gloggnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Neunkirchen\cities~Neunkirchen\Gloggnitzboroughs~Gloggnitz.internal.md) 
+### [boroughs~Gloggnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Gloggnitz/boroughs~Gloggnitz.public.md) 
 
-### [boroughs~Gloggnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Neunkirchen\cities~Neunkirchen\Gloggnitzboroughs~Gloggnitz.protect.md) 
+### [boroughs~Gloggnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Gloggnitz/boroughs~Gloggnitz.internal.md) 
 
-### [boroughs~Gloggnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Neunkirchen\cities~Neunkirchen\Gloggnitzboroughs~Gloggnitz.private.md) 
+### [boroughs~Gloggnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Gloggnitz/boroughs~Gloggnitz.protect.md) 
 
-### [boroughs~Gloggnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Neunkirchen\cities~Neunkirchen\Gloggnitzboroughs~Gloggnitz.personal.md) 
+### [boroughs~Gloggnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Gloggnitz/boroughs~Gloggnitz.private.md) 
 
-### [boroughs~Gloggnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Neunkirchen\cities~Neunkirchen\Gloggnitzboroughs~Gloggnitz.secret.md)
+### [boroughs~Gloggnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Gloggnitz/boroughs~Gloggnitz.personal.md) 
+
+### [boroughs~Gloggnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Gloggnitz/boroughs~Gloggnitz.secret.md)
 

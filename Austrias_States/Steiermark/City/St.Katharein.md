@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Katharein.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.public.md) 
+### [St.Katharein](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Katharein.md) 
 
-### [St.Katharein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.internal.md) 
+### [St.Katharein.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Katharein.public.md) 
 
-### [St.Katharein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.protect.md) 
+### [St.Katharein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Katharein.internal.md) 
 
-### [St.Katharein.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.private.md) 
+### [St.Katharein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Katharein.protect.md) 
 
-### [St.Katharein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.personal.md) 
+### [St.Katharein.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Katharein.private.md) 
 
-### [St.Katharein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.secret.md)
+### [St.Katharein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Katharein.personal.md) 
+
+### [St.Katharein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/St.Katharein.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fischau_Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.public.md) 
+### [Fischau_Bad](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Fischau_Bad.md) 
 
-### [Fischau_Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.internal.md) 
+### [Fischau_Bad.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Fischau_Bad.public.md) 
 
-### [Fischau_Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.protect.md) 
+### [Fischau_Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Fischau_Bad.internal.md) 
 
-### [Fischau_Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.private.md) 
+### [Fischau_Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Fischau_Bad.protect.md) 
 
-### [Fischau_Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.personal.md) 
+### [Fischau_Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Fischau_Bad.private.md) 
 
-### [Fischau_Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.secret.md)
+### [Fischau_Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Fischau_Bad.personal.md) 
+
+### [Fischau_Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Fischau_Bad.secret.md)
 

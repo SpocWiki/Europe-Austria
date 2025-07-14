@@ -247,15 +247,17 @@ Capital :: [[Austrias_States/Wien,State/Wien,City]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.secret.md)
 

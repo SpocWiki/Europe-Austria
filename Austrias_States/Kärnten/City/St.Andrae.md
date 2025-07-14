@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Andrae.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.public.md) 
+### [St.Andrae](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/St.Andrae.md) 
 
-### [St.Andrae.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.internal.md) 
+### [St.Andrae.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/St.Andrae.public.md) 
 
-### [St.Andrae.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.protect.md) 
+### [St.Andrae.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/St.Andrae.internal.md) 
 
-### [St.Andrae.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.private.md) 
+### [St.Andrae.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/St.Andrae.protect.md) 
 
-### [St.Andrae.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.personal.md) 
+### [St.Andrae.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/St.Andrae.private.md) 
 
-### [St.Andrae.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.secret.md)
+### [St.Andrae.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/St.Andrae.personal.md) 
+
+### [St.Andrae.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/St.Andrae.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eisenkrappel.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.public.md) 
+### [Eisenkrappel](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.md) 
 
-### [Eisenkrappel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.internal.md) 
+### [Eisenkrappel.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.public.md) 
 
-### [Eisenkrappel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.protect.md) 
+### [Eisenkrappel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.internal.md) 
 
-### [Eisenkrappel.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.private.md) 
+### [Eisenkrappel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.protect.md) 
 
-### [Eisenkrappel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.personal.md) 
+### [Eisenkrappel.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.private.md) 
 
-### [Eisenkrappel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.secret.md)
+### [Eisenkrappel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.personal.md) 
+
+### [Eisenkrappel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.secret.md)
 

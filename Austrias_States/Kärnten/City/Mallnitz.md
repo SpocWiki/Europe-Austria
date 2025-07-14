@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mallnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityMallnitz.public.md) 
+### [Mallnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Mallnitz.md) 
 
-### [Mallnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityMallnitz.internal.md) 
+### [Mallnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Mallnitz.public.md) 
 
-### [Mallnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityMallnitz.protect.md) 
+### [Mallnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Mallnitz.internal.md) 
 
-### [Mallnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityMallnitz.private.md) 
+### [Mallnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Mallnitz.protect.md) 
 
-### [Mallnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityMallnitz.personal.md) 
+### [Mallnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Mallnitz.private.md) 
 
-### [Mallnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityMallnitz.secret.md)
+### [Mallnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Mallnitz.personal.md) 
+
+### [Mallnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Mallnitz.secret.md)
 

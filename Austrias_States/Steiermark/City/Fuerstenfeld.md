@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fuerstenfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.public.md) 
+### [Fuerstenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Fuerstenfeld.md) 
 
-### [Fuerstenfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.internal.md) 
+### [Fuerstenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Fuerstenfeld.public.md) 
 
-### [Fuerstenfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.protect.md) 
+### [Fuerstenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Fuerstenfeld.internal.md) 
 
-### [Fuerstenfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.private.md) 
+### [Fuerstenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Fuerstenfeld.protect.md) 
 
-### [Fuerstenfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.personal.md) 
+### [Fuerstenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Fuerstenfeld.private.md) 
 
-### [Fuerstenfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.secret.md)
+### [Fuerstenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Fuerstenfeld.personal.md) 
+
+### [Fuerstenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Fuerstenfeld.secret.md)
 

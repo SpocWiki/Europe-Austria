@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oggau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.public.md) 
+### [Oggau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Oggau.md) 
 
-### [Oggau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.internal.md) 
+### [Oggau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Oggau.public.md) 
 
-### [Oggau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.protect.md) 
+### [Oggau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Oggau.internal.md) 
 
-### [Oggau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.private.md) 
+### [Oggau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Oggau.protect.md) 
 
-### [Oggau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.personal.md) 
+### [Oggau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Oggau.private.md) 
 
-### [Oggau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.secret.md)
+### [Oggau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Oggau.personal.md) 
+
+### [Oggau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Oggau.secret.md)
 

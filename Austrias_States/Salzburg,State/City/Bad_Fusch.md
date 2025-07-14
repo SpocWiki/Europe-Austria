@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Fusch.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.public.md) 
+### [Bad_Fusch](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Fusch.md) 
 
-### [Bad_Fusch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.internal.md) 
+### [Bad_Fusch.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Fusch.public.md) 
 
-### [Bad_Fusch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.protect.md) 
+### [Bad_Fusch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Fusch.internal.md) 
 
-### [Bad_Fusch.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.private.md) 
+### [Bad_Fusch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Fusch.protect.md) 
 
-### [Bad_Fusch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.personal.md) 
+### [Bad_Fusch.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Fusch.private.md) 
 
-### [Bad_Fusch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.secret.md)
+### [Bad_Fusch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Fusch.personal.md) 
+
+### [Bad_Fusch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Fusch.secret.md)
 

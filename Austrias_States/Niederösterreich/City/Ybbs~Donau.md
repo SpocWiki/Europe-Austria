@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ybbs~Donau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityYbbs~Donau.public.md) 
+### [Ybbs~Donau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Ybbs~Donau.md) 
 
-### [Ybbs~Donau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityYbbs~Donau.internal.md) 
+### [Ybbs~Donau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Ybbs~Donau.public.md) 
 
-### [Ybbs~Donau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityYbbs~Donau.protect.md) 
+### [Ybbs~Donau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Ybbs~Donau.internal.md) 
 
-### [Ybbs~Donau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityYbbs~Donau.private.md) 
+### [Ybbs~Donau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Ybbs~Donau.protect.md) 
 
-### [Ybbs~Donau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityYbbs~Donau.personal.md) 
+### [Ybbs~Donau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Ybbs~Donau.private.md) 
 
-### [Ybbs~Donau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityYbbs~Donau.secret.md)
+### [Ybbs~Donau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Ybbs~Donau.personal.md) 
+
+### [Ybbs~Donau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Ybbs~Donau.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wurmbrand.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.public.md) 
+### [Wurmbrand](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wurmbrand.md) 
 
-### [Wurmbrand.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.internal.md) 
+### [Wurmbrand.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wurmbrand.public.md) 
 
-### [Wurmbrand.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.protect.md) 
+### [Wurmbrand.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wurmbrand.internal.md) 
 
-### [Wurmbrand.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.private.md) 
+### [Wurmbrand.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wurmbrand.protect.md) 
 
-### [Wurmbrand.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.personal.md) 
+### [Wurmbrand.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wurmbrand.private.md) 
 
-### [Wurmbrand.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.secret.md)
+### [Wurmbrand.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wurmbrand.personal.md) 
+
+### [Wurmbrand.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Wurmbrand.secret.md)
 

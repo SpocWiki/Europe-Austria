@@ -16,20 +16,19 @@ markerFolder: ./Michelhausen/
 ```
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Michelhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Tulln\cities~TullnMichelhausen.public.md) 
+### [Michelhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Michelhausen.md) 
 
-### [Michelhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Tulln\cities~TullnMichelhausen.internal.md) 
+### [Michelhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Michelhausen.public.md) 
 
-### [Michelhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Tulln\cities~TullnMichelhausen.protect.md) 
+### [Michelhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Michelhausen.internal.md) 
 
-### [Michelhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Tulln\cities~TullnMichelhausen.private.md) 
+### [Michelhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Michelhausen.protect.md) 
 
-### [Michelhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Tulln\cities~TullnMichelhausen.personal.md) 
+### [Michelhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Michelhausen.private.md) 
 
-### [Michelhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Tulln\cities~TullnMichelhausen.secret.md)
+### [Michelhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Michelhausen.personal.md) 
+
+### [Michelhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Michelhausen.secret.md)
 

@@ -30,15 +30,17 @@ markerFolder: ./State~Salzburg/
 
 ## Confidential Links & Embeds: 
 
-### [Salzburg,State.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.public.md) 
+### [Salzburg,State](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.md) 
 
-### [Salzburg,State.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.internal.md) 
+### [Salzburg,State.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.public.md) 
 
-### [Salzburg,State.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.protect.md) 
+### [Salzburg,State.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.internal.md) 
 
-### [Salzburg,State.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.private.md) 
+### [Salzburg,State.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.protect.md) 
 
-### [Salzburg,State.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.personal.md) 
+### [Salzburg,State.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.private.md) 
 
-### [Salzburg,State.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.secret.md)
+### [Salzburg,State.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.personal.md) 
+
+### [Salzburg,State.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Ischl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.public.md) 
+### [Bad_Ischl](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Bad_Ischl.md) 
 
-### [Bad_Ischl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.internal.md) 
+### [Bad_Ischl.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Bad_Ischl.public.md) 
 
-### [Bad_Ischl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.protect.md) 
+### [Bad_Ischl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Bad_Ischl.internal.md) 
 
-### [Bad_Ischl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.private.md) 
+### [Bad_Ischl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Bad_Ischl.protect.md) 
 
-### [Bad_Ischl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.personal.md) 
+### [Bad_Ischl.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Bad_Ischl.private.md) 
 
-### [Bad_Ischl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.secret.md)
+### [Bad_Ischl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Bad_Ischl.personal.md) 
+
+### [Bad_Ischl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Bad_Ischl.secret.md)
 

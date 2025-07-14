@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kitzbuehel.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.public.md) 
+### [Kitzbuehel](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.md) 
 
-### [Kitzbuehel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.internal.md) 
+### [Kitzbuehel.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.public.md) 
 
-### [Kitzbuehel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.protect.md) 
+### [Kitzbuehel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.internal.md) 
 
-### [Kitzbuehel.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.private.md) 
+### [Kitzbuehel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.protect.md) 
 
-### [Kitzbuehel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.personal.md) 
+### [Kitzbuehel.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.private.md) 
 
-### [Kitzbuehel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.secret.md)
+### [Kitzbuehel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.personal.md) 
+
+### [Kitzbuehel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.secret.md)
 

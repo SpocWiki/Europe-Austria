@@ -15,19 +15,19 @@ markerFolder: ./boroughs~Engelhartszell/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Engelhartszell.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Schärding\cities~Schärding\Engelhartszellboroughs~Engelhartszell.public.md) 
+### [boroughs~Engelhartszell](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Schärding/cities~Schärding/Engelhartszell/boroughs~Engelhartszell.md) 
 
-### [boroughs~Engelhartszell.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Schärding\cities~Schärding\Engelhartszellboroughs~Engelhartszell.internal.md) 
+### [boroughs~Engelhartszell.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Schärding/cities~Schärding/Engelhartszell/boroughs~Engelhartszell.public.md) 
 
-### [boroughs~Engelhartszell.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Schärding\cities~Schärding\Engelhartszellboroughs~Engelhartszell.protect.md) 
+### [boroughs~Engelhartszell.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Schärding/cities~Schärding/Engelhartszell/boroughs~Engelhartszell.internal.md) 
 
-### [boroughs~Engelhartszell.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Schärding\cities~Schärding\Engelhartszellboroughs~Engelhartszell.private.md) 
+### [boroughs~Engelhartszell.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Schärding/cities~Schärding/Engelhartszell/boroughs~Engelhartszell.protect.md) 
 
-### [boroughs~Engelhartszell.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Schärding\cities~Schärding\Engelhartszellboroughs~Engelhartszell.personal.md) 
+### [boroughs~Engelhartszell.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Schärding/cities~Schärding/Engelhartszell/boroughs~Engelhartszell.private.md) 
 
-### [boroughs~Engelhartszell.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Schärding\cities~Schärding\Engelhartszellboroughs~Engelhartszell.secret.md)
+### [boroughs~Engelhartszell.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Schärding/cities~Schärding/Engelhartszell/boroughs~Engelhartszell.personal.md) 
+
+### [boroughs~Engelhartszell.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Schärding/cities~Schärding/Engelhartszell/boroughs~Engelhartszell.secret.md)
 

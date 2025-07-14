@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klosterneuburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.public.md) 
+### [Klosterneuburg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Klosterneuburg.md) 
 
-### [Klosterneuburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.internal.md) 
+### [Klosterneuburg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Klosterneuburg.public.md) 
 
-### [Klosterneuburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.protect.md) 
+### [Klosterneuburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Klosterneuburg.internal.md) 
 
-### [Klosterneuburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.private.md) 
+### [Klosterneuburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Klosterneuburg.protect.md) 
 
-### [Klosterneuburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.personal.md) 
+### [Klosterneuburg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Klosterneuburg.private.md) 
 
-### [Klosterneuburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.secret.md)
+### [Klosterneuburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Klosterneuburg.personal.md) 
+
+### [Klosterneuburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Klosterneuburg.secret.md)
 

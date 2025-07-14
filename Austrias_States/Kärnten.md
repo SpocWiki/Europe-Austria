@@ -31,15 +31,17 @@ markerFolder: ./Kärnten/
 
 ## Confidential Links & Embeds: 
 
-### [Kärnten.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.public.md) 
+### [Kärnten](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.md) 
 
-### [Kärnten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.internal.md) 
+### [Kärnten.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.public.md) 
 
-### [Kärnten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.protect.md) 
+### [Kärnten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.internal.md) 
 
-### [Kärnten.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.private.md) 
+### [Kärnten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.protect.md) 
 
-### [Kärnten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.personal.md) 
+### [Kärnten.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.private.md) 
 
-### [Kärnten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.secret.md)
+### [Kärnten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.personal.md) 
+
+### [Kärnten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.secret.md)
 

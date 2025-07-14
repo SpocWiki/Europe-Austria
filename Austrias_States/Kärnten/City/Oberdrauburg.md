@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberdrauburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.public.md) 
+### [Oberdrauburg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Oberdrauburg.md) 
 
-### [Oberdrauburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.internal.md) 
+### [Oberdrauburg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Oberdrauburg.public.md) 
 
-### [Oberdrauburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.protect.md) 
+### [Oberdrauburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Oberdrauburg.internal.md) 
 
-### [Oberdrauburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.private.md) 
+### [Oberdrauburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Oberdrauburg.protect.md) 
 
-### [Oberdrauburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.personal.md) 
+### [Oberdrauburg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Oberdrauburg.private.md) 
 
-### [Oberdrauburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.secret.md)
+### [Oberdrauburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Oberdrauburg.personal.md) 
+
+### [Oberdrauburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Oberdrauburg.secret.md)
 

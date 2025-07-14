@@ -15,19 +15,19 @@ markerFolder: ./boroughs~Allentsteig/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [boroughs~Allentsteig.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Zwettl\cities~Zwettl\Allentsteigboroughs~Allentsteig.public.md) 
+### [boroughs~Allentsteig](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Allentsteig/boroughs~Allentsteig.md) 
 
-### [boroughs~Allentsteig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Zwettl\cities~Zwettl\Allentsteigboroughs~Allentsteig.internal.md) 
+### [boroughs~Allentsteig.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Allentsteig/boroughs~Allentsteig.public.md) 
 
-### [boroughs~Allentsteig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Zwettl\cities~Zwettl\Allentsteigboroughs~Allentsteig.protect.md) 
+### [boroughs~Allentsteig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Allentsteig/boroughs~Allentsteig.internal.md) 
 
-### [boroughs~Allentsteig.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Zwettl\cities~Zwettl\Allentsteigboroughs~Allentsteig.private.md) 
+### [boroughs~Allentsteig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Allentsteig/boroughs~Allentsteig.protect.md) 
 
-### [boroughs~Allentsteig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Zwettl\cities~Zwettl\Allentsteigboroughs~Allentsteig.personal.md) 
+### [boroughs~Allentsteig.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Allentsteig/boroughs~Allentsteig.private.md) 
 
-### [boroughs~Allentsteig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Zwettl\cities~Zwettl\Allentsteigboroughs~Allentsteig.secret.md)
+### [boroughs~Allentsteig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Allentsteig/boroughs~Allentsteig.personal.md) 
+
+### [boroughs~Allentsteig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Allentsteig/boroughs~Allentsteig.secret.md)
 

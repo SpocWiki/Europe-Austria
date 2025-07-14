@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuhaus~Zellerrain.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.public.md) 
+### [Neuhaus~Zellerrain](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.md) 
 
-### [Neuhaus~Zellerrain.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.internal.md) 
+### [Neuhaus~Zellerrain.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.public.md) 
 
-### [Neuhaus~Zellerrain.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.protect.md) 
+### [Neuhaus~Zellerrain.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.internal.md) 
 
-### [Neuhaus~Zellerrain.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.private.md) 
+### [Neuhaus~Zellerrain.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.protect.md) 
 
-### [Neuhaus~Zellerrain.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.personal.md) 
+### [Neuhaus~Zellerrain.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.private.md) 
 
-### [Neuhaus~Zellerrain.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.secret.md)
+### [Neuhaus~Zellerrain.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.personal.md) 
+
+### [Neuhaus~Zellerrain.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.secret.md)
 

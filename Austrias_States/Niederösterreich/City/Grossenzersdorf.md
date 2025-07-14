@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grossenzersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.public.md) 
+### [Grossenzersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Grossenzersdorf.md) 
 
-### [Grossenzersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.internal.md) 
+### [Grossenzersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Grossenzersdorf.public.md) 
 
-### [Grossenzersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.protect.md) 
+### [Grossenzersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Grossenzersdorf.internal.md) 
 
-### [Grossenzersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.private.md) 
+### [Grossenzersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Grossenzersdorf.protect.md) 
 
-### [Grossenzersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.personal.md) 
+### [Grossenzersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Grossenzersdorf.private.md) 
 
-### [Grossenzersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.secret.md)
+### [Grossenzersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Grossenzersdorf.personal.md) 
+
+### [Grossenzersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Grossenzersdorf.secret.md)
 

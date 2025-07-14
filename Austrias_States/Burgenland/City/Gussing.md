@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gussing.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.public.md) 
+### [Gussing](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Gussing.md) 
 
-### [Gussing.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.internal.md) 
+### [Gussing.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Gussing.public.md) 
 
-### [Gussing.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.protect.md) 
+### [Gussing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Gussing.internal.md) 
 
-### [Gussing.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.private.md) 
+### [Gussing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Gussing.protect.md) 
 
-### [Gussing.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.personal.md) 
+### [Gussing.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Gussing.private.md) 
 
-### [Gussing.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.secret.md)
+### [Gussing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Gussing.personal.md) 
+
+### [Gussing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Gussing.secret.md)
 
