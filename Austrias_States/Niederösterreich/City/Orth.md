@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.15,16.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Orth|Orth]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Orth.public|Orth.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Orth.internal|Orth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Orth.protect|Orth.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Orth.private|Orth.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Orth.personal|Orth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Orth.secret|Orth.secret]] 
+
+### [Orth.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOrth.public.md) 
+
+### [Orth.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOrth.internal.md) 
+
+### [Orth.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOrth.protect.md) 
+
+### [Orth.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOrth.private.md) 
+
+### [Orth.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOrth.personal.md) 
+
+### [Orth.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOrth.secret.md)
+

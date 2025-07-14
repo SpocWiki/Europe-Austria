@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -316,11 +316,18 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/State/_CountryStateDB|_CountryStateDB]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/State/_CountryStateDB.public|_CountryStateDB.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/_CountryStateDB.internal|_CountryStateDB.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/_CountryStateDB.protect|_CountryStateDB.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/_CountryStateDB.private|_CountryStateDB.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/_CountryStateDB.personal|_CountryStateDB.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/_CountryStateDB.secret|_CountryStateDB.secret]] 
+
+### [_CountryStateDB.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States_CountryStateDB.public.md) 
+
+### [_CountryStateDB.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States_CountryStateDB.internal.md) 
+
+### [_CountryStateDB.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States_CountryStateDB.protect.md) 
+
+### [_CountryStateDB.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States_CountryStateDB.private.md) 
+
+### [_CountryStateDB.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States_CountryStateDB.personal.md) 
+
+### [_CountryStateDB.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States_CountryStateDB.secret.md)
+

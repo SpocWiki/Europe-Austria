@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.57,16.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Mistelbach|Mistelbach]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Mistelbach.public|Mistelbach.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Mistelbach.internal|Mistelbach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Mistelbach.protect|Mistelbach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Mistelbach.private|Mistelbach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Mistelbach.personal|Mistelbach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Mistelbach.secret|Mistelbach.secret]] 
+
+### [Mistelbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMistelbach.public.md) 
+
+### [Mistelbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMistelbach.internal.md) 
+
+### [Mistelbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMistelbach.protect.md) 
+
+### [Mistelbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMistelbach.private.md) 
+
+### [Mistelbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMistelbach.personal.md) 
+
+### [Mistelbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMistelbach.secret.md)
+

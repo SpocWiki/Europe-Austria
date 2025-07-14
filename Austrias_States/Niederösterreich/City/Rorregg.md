@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.3,15.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Rorregg|Rorregg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Rorregg.public|Rorregg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Rorregg.internal|Rorregg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Rorregg.protect|Rorregg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Rorregg.private|Rorregg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Rorregg.personal|Rorregg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Rorregg.secret|Rorregg.secret]] 
+
+### [Rorregg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRorregg.public.md) 
+
+### [Rorregg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRorregg.internal.md) 
+
+### [Rorregg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRorregg.protect.md) 
+
+### [Rorregg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRorregg.private.md) 
+
+### [Rorregg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRorregg.personal.md) 
+
+### [Rorregg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRorregg.secret.md)
+

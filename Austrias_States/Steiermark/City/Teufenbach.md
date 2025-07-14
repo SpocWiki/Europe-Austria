@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.13,14.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Teufenbach|Teufenbach]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Teufenbach.public|Teufenbach.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Teufenbach.internal|Teufenbach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Teufenbach.protect|Teufenbach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Teufenbach.private|Teufenbach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Teufenbach.personal|Teufenbach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Teufenbach.secret|Teufenbach.secret]] 
+
+### [Teufenbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.public.md) 
+
+### [Teufenbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.internal.md) 
+
+### [Teufenbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.protect.md) 
+
+### [Teufenbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.private.md) 
+
+### [Teufenbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.personal.md) 
+
+### [Teufenbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTeufenbach.secret.md)
+

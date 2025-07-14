@@ -47,10 +47,16 @@ markerFolder: ./cities~Gänserndorf/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien|Gaenserndorf_bei_Wien]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.public|Gaenserndorf_bei_Wien.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.internal|Gaenserndorf_bei_Wien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.protect|Gaenserndorf_bei_Wien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.private|Gaenserndorf_bei_Wien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.personal|Gaenserndorf_bei_Wien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.secret|Gaenserndorf_bei_Wien.secret]] 
+
+### [cities~Gänserndorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.public.md) 
+
+### [cities~Gänserndorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.internal.md) 
+
+### [cities~Gänserndorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.protect.md) 
+
+### [cities~Gänserndorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.private.md) 
+
+### [cities~Gänserndorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.personal.md) 
+
+### [cities~Gänserndorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Gänserndorfcities~Gänserndorf.secret.md)
+

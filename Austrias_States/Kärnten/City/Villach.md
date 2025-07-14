@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.62,13.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Villach|Villach]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Villach.public|Villach.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Villach.internal|Villach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Villach.protect|Villach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Villach.private|Villach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Villach.personal|Villach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Villach.secret|Villach.secret]] 
+
+### [Villach.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityVillach.public.md) 
+
+### [Villach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityVillach.internal.md) 
+
+### [Villach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityVillach.protect.md) 
+
+### [Villach.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityVillach.private.md) 
+
+### [Villach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityVillach.personal.md) 
+
+### [Villach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityVillach.secret.md)
+

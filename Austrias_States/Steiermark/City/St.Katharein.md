@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.47,15.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Katharein|St.Katharein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Katharein.public|St.Katharein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Katharein.internal|St.Katharein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Katharein.protect|St.Katharein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Katharein.private|St.Katharein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Katharein.personal|St.Katharein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Katharein.secret|St.Katharein.secret]] 
+
+### [St.Katharein.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.public.md) 
+
+### [St.Katharein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.internal.md) 
+
+### [St.Katharein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.protect.md) 
+
+### [St.Katharein.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.private.md) 
+
+### [St.Katharein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.personal.md) 
+
+### [St.Katharein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Katharein.secret.md)
+

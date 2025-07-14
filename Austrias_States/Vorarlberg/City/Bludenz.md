@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.17,9.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Bludenz|Bludenz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bludenz.public|Bludenz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bludenz.internal|Bludenz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bludenz.protect|Bludenz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bludenz.private|Bludenz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bludenz.personal|Bludenz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bludenz.secret|Bludenz.secret]] 
+
+### [Bludenz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBludenz.public.md) 
+
+### [Bludenz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBludenz.internal.md) 
+
+### [Bludenz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBludenz.protect.md) 
+
+### [Bludenz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBludenz.private.md) 
+
+### [Bludenz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBludenz.personal.md) 
+
+### [Bludenz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBludenz.secret.md)
+

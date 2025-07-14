@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.5,9.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Bregenz|Bregenz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bregenz.public|Bregenz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bregenz.internal|Bregenz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bregenz.protect|Bregenz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bregenz.private|Bregenz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bregenz.personal|Bregenz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bregenz.secret|Bregenz.secret]] 
+
+### [Bregenz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBregenz.public.md) 
+
+### [Bregenz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBregenz.internal.md) 
+
+### [Bregenz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBregenz.protect.md) 
+
+### [Bregenz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBregenz.private.md) 
+
+### [Bregenz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBregenz.personal.md) 
+
+### [Bregenz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityBregenz.secret.md)
+

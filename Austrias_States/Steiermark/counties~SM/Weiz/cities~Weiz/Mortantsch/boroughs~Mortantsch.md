@@ -13,3 +13,20 @@ maxZoom: 18
 geojsonFolder: ./boroughs~Mortantsch//
 markerFolder: ./boroughs~Mortantsch/
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [boroughs~Mortantsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Mortantschboroughs~Mortantsch.public.md) 
+
+### [boroughs~Mortantsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Mortantschboroughs~Mortantsch.internal.md) 
+
+### [boroughs~Mortantsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Mortantschboroughs~Mortantsch.protect.md) 
+
+### [boroughs~Mortantsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Mortantschboroughs~Mortantsch.private.md) 
+
+### [boroughs~Mortantsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Mortantschboroughs~Mortantsch.personal.md) 
+
+### [boroughs~Mortantsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Mortantschboroughs~Mortantsch.secret.md)
+

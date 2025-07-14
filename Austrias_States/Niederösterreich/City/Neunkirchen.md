@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.72,16.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Neunkirchen|Neunkirchen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Neunkirchen.public|Neunkirchen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Neunkirchen.internal|Neunkirchen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Neunkirchen.protect|Neunkirchen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Neunkirchen.private|Neunkirchen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Neunkirchen.personal|Neunkirchen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Neunkirchen.secret|Neunkirchen.secret]] 
+
+### [Neunkirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.public.md) 
+
+### [Neunkirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.internal.md) 
+
+### [Neunkirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.protect.md) 
+
+### [Neunkirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.private.md) 
+
+### [Neunkirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.personal.md) 
+
+### [Neunkirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeunkirchen.secret.md)
+

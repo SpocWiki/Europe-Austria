@@ -16,3 +16,20 @@ markerFolder: ./cities~Scheibbs/
 ```
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [cities~Scheibbs.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Scheibbscities~Scheibbs.public.md) 
+
+### [cities~Scheibbs.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Scheibbscities~Scheibbs.internal.md) 
+
+### [cities~Scheibbs.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Scheibbscities~Scheibbs.protect.md) 
+
+### [cities~Scheibbs.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Scheibbscities~Scheibbs.private.md) 
+
+### [cities~Scheibbs.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Scheibbscities~Scheibbs.personal.md) 
+
+### [cities~Scheibbs.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Scheibbscities~Scheibbs.secret.md)
+

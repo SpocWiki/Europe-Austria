@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.38,11.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Schwaz|Schwaz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schwaz.public|Schwaz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwaz.internal|Schwaz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwaz.protect|Schwaz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schwaz.private|Schwaz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwaz.personal|Schwaz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwaz.secret|Schwaz.secret]] 
+
+### [Schwaz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.public.md) 
+
+### [Schwaz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.internal.md) 
+
+### [Schwaz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.protect.md) 
+
+### [Schwaz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.private.md) 
+
+### [Schwaz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.personal.md) 
+
+### [Schwaz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySchwaz.secret.md)
+

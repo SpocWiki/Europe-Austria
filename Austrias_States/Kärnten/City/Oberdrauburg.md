@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.75,12.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Oberdrauburg|Oberdrauburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Oberdrauburg.public|Oberdrauburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Oberdrauburg.internal|Oberdrauburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Oberdrauburg.protect|Oberdrauburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Oberdrauburg.private|Oberdrauburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Oberdrauburg.personal|Oberdrauburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Oberdrauburg.secret|Oberdrauburg.secret]] 
+
+### [Oberdrauburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.public.md) 
+
+### [Oberdrauburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.internal.md) 
+
+### [Oberdrauburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.protect.md) 
+
+### [Oberdrauburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.private.md) 
+
+### [Oberdrauburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.personal.md) 
+
+### [Oberdrauburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityOberdrauburg.secret.md)
+

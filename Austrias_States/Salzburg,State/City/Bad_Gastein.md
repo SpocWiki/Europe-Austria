@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.12,13.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Bad_Gastein|Bad_Gastein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bad_Gastein.public|Bad_Gastein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Gastein.internal|Bad_Gastein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Gastein.protect|Bad_Gastein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Gastein.private|Bad_Gastein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Gastein.personal|Bad_Gastein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Gastein.secret|Bad_Gastein.secret]] 
+
+### [Bad_Gastein.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.public.md) 
+
+### [Bad_Gastein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.internal.md) 
+
+### [Bad_Gastein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.protect.md) 
+
+### [Bad_Gastein.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.private.md) 
+
+### [Bad_Gastein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.personal.md) 
+
+### [Bad_Gastein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Gastein.secret.md)
+

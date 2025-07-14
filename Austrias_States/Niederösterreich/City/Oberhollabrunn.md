@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.57,16.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Oberhollabrunn|Oberhollabrunn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Oberhollabrunn.public|Oberhollabrunn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Oberhollabrunn.internal|Oberhollabrunn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Oberhollabrunn.protect|Oberhollabrunn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Oberhollabrunn.private|Oberhollabrunn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Oberhollabrunn.personal|Oberhollabrunn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Oberhollabrunn.secret|Oberhollabrunn.secret]] 
+
+### [Oberhollabrunn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.public.md) 
+
+### [Oberhollabrunn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.internal.md) 
+
+### [Oberhollabrunn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.protect.md) 
+
+### [Oberhollabrunn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.private.md) 
+
+### [Oberhollabrunn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.personal.md) 
+
+### [Oberhollabrunn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityOberhollabrunn.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.85,16.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Eisenstadt|Eisenstadt]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Eisenstadt.public|Eisenstadt.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Eisenstadt.internal|Eisenstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Eisenstadt.protect|Eisenstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Eisenstadt.private|Eisenstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Eisenstadt.personal|Eisenstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Eisenstadt.secret|Eisenstadt.secret]] 
+
+### [Eisenstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.public.md) 
+
+### [Eisenstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.internal.md) 
+
+### [Eisenstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.protect.md) 
+
+### [Eisenstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.private.md) 
+
+### [Eisenstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.personal.md) 
+
+### [Eisenstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityEisenstadt.secret.md)
+

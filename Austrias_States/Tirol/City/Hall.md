@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.32,11.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Hall|Hall]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hall.public|Hall.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hall.internal|Hall.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hall.protect|Hall.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hall.private|Hall.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hall.personal|Hall.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hall.secret|Hall.secret]] 
+
+### [Hall.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityHall.public.md) 
+
+### [Hall.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityHall.internal.md) 
+
+### [Hall.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityHall.protect.md) 
+
+### [Hall.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityHall.private.md) 
+
+### [Hall.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityHall.personal.md) 
+
+### [Hall.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityHall.secret.md)
+

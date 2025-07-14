@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.22,15.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Johann|St.Johann]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Johann.public|St.Johann.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Johann.internal|St.Johann.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Johann.protect|St.Johann.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Johann.private|St.Johann.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Johann.personal|St.Johann.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Johann.secret|St.Johann.secret]] 
+
+### [St.Johann.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.public.md) 
+
+### [St.Johann.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.internal.md) 
+
+### [St.Johann.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.protect.md) 
+
+### [St.Johann.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.private.md) 
+
+### [St.Johann.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.personal.md) 
+
+### [St.Johann.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySt.Johann.secret.md)
+

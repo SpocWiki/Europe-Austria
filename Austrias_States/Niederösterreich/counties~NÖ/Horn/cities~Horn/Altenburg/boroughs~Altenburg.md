@@ -14,3 +14,20 @@ geojsonFolder: ./boroughs~Altenburg//
 markerFolder: ./boroughs~Altenburg/
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [boroughs~Altenburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horn\cities~Horn\Altenburgboroughs~Altenburg.public.md) 
+
+### [boroughs~Altenburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horn\cities~Horn\Altenburgboroughs~Altenburg.internal.md) 
+
+### [boroughs~Altenburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horn\cities~Horn\Altenburgboroughs~Altenburg.protect.md) 
+
+### [boroughs~Altenburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horn\cities~Horn\Altenburgboroughs~Altenburg.private.md) 
+
+### [boroughs~Altenburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horn\cities~Horn\Altenburgboroughs~Altenburg.personal.md) 
+
+### [boroughs~Altenburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Horn\cities~Horn\Altenburgboroughs~Altenburg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.88,15.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Gleichenberg|Gleichenberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gleichenberg.public|Gleichenberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gleichenberg.internal|Gleichenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gleichenberg.protect|Gleichenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gleichenberg.private|Gleichenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gleichenberg.personal|Gleichenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gleichenberg.secret|Gleichenberg.secret]] 
+
+### [Gleichenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.public.md) 
+
+### [Gleichenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.internal.md) 
+
+### [Gleichenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.protect.md) 
+
+### [Gleichenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.private.md) 
+
+### [Gleichenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.personal.md) 
+
+### [Gleichenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGleichenberg.secret.md)
+

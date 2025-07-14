@@ -13,3 +13,20 @@ maxZoom: 18
 geojsonFolder: ./cities~Eferding//
 markerFolder: ./cities~Eferding/
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [cities~Eferding.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Eferdingcities~Eferding.public.md) 
+
+### [cities~Eferding.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Eferdingcities~Eferding.internal.md) 
+
+### [cities~Eferding.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Eferdingcities~Eferding.protect.md) 
+
+### [cities~Eferding.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Eferdingcities~Eferding.private.md) 
+
+### [cities~Eferding.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Eferdingcities~Eferding.personal.md) 
+
+### [cities~Eferding.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Eferdingcities~Eferding.secret.md)
+

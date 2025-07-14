@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.23,9.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Feldkirch|Feldkirch]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Feldkirch.public|Feldkirch.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Feldkirch.internal|Feldkirch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Feldkirch.protect|Feldkirch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Feldkirch.private|Feldkirch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Feldkirch.personal|Feldkirch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Feldkirch.secret|Feldkirch.secret]] 
+
+### [Feldkirch.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.public.md) 
+
+### [Feldkirch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.internal.md) 
+
+### [Feldkirch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.protect.md) 
+
+### [Feldkirch.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.private.md) 
+
+### [Feldkirch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.personal.md) 
+
+### [Feldkirch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityFeldkirch.secret.md)
+

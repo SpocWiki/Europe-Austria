@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.9,14.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Weinzierl|Weinzierl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Weinzierl.public|Weinzierl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Weinzierl.internal|Weinzierl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Weinzierl.protect|Weinzierl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Weinzierl.private|Weinzierl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Weinzierl.personal|Weinzierl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Weinzierl.secret|Weinzierl.secret]] 
+
+### [Weinzierl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWeinzierl.public.md) 
+
+### [Weinzierl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWeinzierl.internal.md) 
+
+### [Weinzierl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWeinzierl.protect.md) 
+
+### [Weinzierl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWeinzierl.private.md) 
+
+### [Weinzierl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWeinzierl.personal.md) 
+
+### [Weinzierl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWeinzierl.secret.md)
+

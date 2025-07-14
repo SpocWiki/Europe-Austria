@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.6,14.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Hieflau|Hieflau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hieflau.public|Hieflau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hieflau.internal|Hieflau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hieflau.protect|Hieflau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hieflau.private|Hieflau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hieflau.personal|Hieflau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hieflau.secret|Hieflau.secret]] 
+
+### [Hieflau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHieflau.public.md) 
+
+### [Hieflau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHieflau.internal.md) 
+
+### [Hieflau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHieflau.protect.md) 
+
+### [Hieflau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHieflau.private.md) 
+
+### [Hieflau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHieflau.personal.md) 
+
+### [Hieflau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHieflau.secret.md)
+

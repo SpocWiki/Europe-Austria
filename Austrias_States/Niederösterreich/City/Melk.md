@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.23,15.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Melk|Melk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Melk.public|Melk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Melk.internal|Melk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Melk.protect|Melk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Melk.private|Melk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Melk.personal|Melk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Melk.secret|Melk.secret]] 
+
+### [Melk.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMelk.public.md) 
+
+### [Melk.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMelk.internal.md) 
+
+### [Melk.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMelk.protect.md) 
+
+### [Melk.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMelk.private.md) 
+
+### [Melk.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMelk.personal.md) 
+
+### [Melk.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMelk.secret.md)
+

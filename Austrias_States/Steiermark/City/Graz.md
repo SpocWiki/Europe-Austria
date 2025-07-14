@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.08,15.44] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Graz|Graz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Graz.public|Graz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Graz.internal|Graz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Graz.protect|Graz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Graz.private|Graz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Graz.personal|Graz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Graz.secret|Graz.secret]] 
+
+### [Graz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.public.md) 
+
+### [Graz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.internal.md) 
+
+### [Graz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.protect.md) 
+
+### [Graz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.private.md) 
+
+### [Graz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.personal.md) 
+
+### [Graz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityGraz.secret.md)
+

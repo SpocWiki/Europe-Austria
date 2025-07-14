@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.58,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Kufstein|Kufstein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kufstein.public|Kufstein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kufstein.internal|Kufstein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kufstein.protect|Kufstein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kufstein.private|Kufstein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kufstein.personal|Kufstein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kufstein.secret|Kufstein.secret]] 
+
+### [Kufstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.public.md) 
+
+### [Kufstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.internal.md) 
+
+### [Kufstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.protect.md) 
+
+### [Kufstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.private.md) 
+
+### [Kufstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.personal.md) 
+
+### [Kufstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKufstein.secret.md)
+

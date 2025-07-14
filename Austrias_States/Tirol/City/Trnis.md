@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.08,11.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Trnis|Trnis]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Trnis.public|Trnis.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Trnis.internal|Trnis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Trnis.protect|Trnis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Trnis.private|Trnis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Trnis.personal|Trnis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Trnis.secret|Trnis.secret]] 
+
+### [Trnis.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityTrnis.public.md) 
+
+### [Trnis.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityTrnis.internal.md) 
+
+### [Trnis.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityTrnis.protect.md) 
+
+### [Trnis.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityTrnis.private.md) 
+
+### [Trnis.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityTrnis.personal.md) 
+
+### [Trnis.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityTrnis.secret.md)
+

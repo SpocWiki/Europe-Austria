@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48,13.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Voelklabruck|Voelklabruck]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Voelklabruck.public|Voelklabruck.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Voelklabruck.internal|Voelklabruck.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Voelklabruck.protect|Voelklabruck.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Voelklabruck.private|Voelklabruck.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Voelklabruck.personal|Voelklabruck.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Voelklabruck.secret|Voelklabruck.secret]] 
+
+### [Voelklabruck.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.public.md) 
+
+### [Voelklabruck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.internal.md) 
+
+### [Voelklabruck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.protect.md) 
+
+### [Voelklabruck.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.private.md) 
+
+### [Voelklabruck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.personal.md) 
+
+### [Voelklabruck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityVoelklabruck.secret.md)
+

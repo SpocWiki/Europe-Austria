@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.62,13.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Bleiberg|Bleiberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bleiberg.public|Bleiberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bleiberg.internal|Bleiberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bleiberg.protect|Bleiberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bleiberg.private|Bleiberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bleiberg.personal|Bleiberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bleiberg.secret|Bleiberg.secret]] 
+
+### [Bleiberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityBleiberg.public.md) 
+
+### [Bleiberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityBleiberg.internal.md) 
+
+### [Bleiberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityBleiberg.protect.md) 
+
+### [Bleiberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityBleiberg.private.md) 
+
+### [Bleiberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityBleiberg.personal.md) 
+
+### [Bleiberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityBleiberg.secret.md)
+

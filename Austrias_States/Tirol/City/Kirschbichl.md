@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.52,12.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Kirschbichl|Kirschbichl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kirschbichl.public|Kirschbichl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kirschbichl.internal|Kirschbichl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kirschbichl.protect|Kirschbichl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kirschbichl.private|Kirschbichl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kirschbichl.personal|Kirschbichl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kirschbichl.secret|Kirschbichl.secret]] 
+
+### [Kirschbichl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.public.md) 
+
+### [Kirschbichl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.internal.md) 
+
+### [Kirschbichl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.protect.md) 
+
+### [Kirschbichl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.private.md) 
+
+### [Kirschbichl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.personal.md) 
+
+### [Kirschbichl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKirschbichl.secret.md)
+

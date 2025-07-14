@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.97,13.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Turrach|Turrach]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Turrach.public|Turrach.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Turrach.internal|Turrach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Turrach.protect|Turrach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Turrach.private|Turrach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Turrach.personal|Turrach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Turrach.secret|Turrach.secret]] 
+
+### [Turrach.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTurrach.public.md) 
+
+### [Turrach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTurrach.internal.md) 
+
+### [Turrach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTurrach.protect.md) 
+
+### [Turrach.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTurrach.private.md) 
+
+### [Turrach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTurrach.personal.md) 
+
+### [Turrach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTurrach.secret.md)
+

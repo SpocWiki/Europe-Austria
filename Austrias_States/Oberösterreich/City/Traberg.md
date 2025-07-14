@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.52,14.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Traberg|Traberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Traberg.public|Traberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Traberg.internal|Traberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Traberg.protect|Traberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Traberg.private|Traberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Traberg.personal|Traberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Traberg.secret|Traberg.secret]] 
+
+### [Traberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityTraberg.public.md) 
+
+### [Traberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityTraberg.internal.md) 
+
+### [Traberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityTraberg.protect.md) 
+
+### [Traberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityTraberg.private.md) 
+
+### [Traberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityTraberg.personal.md) 
+
+### [Traberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityTraberg.secret.md)
+

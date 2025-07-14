@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.79,15.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Schwarzau|Schwarzau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schwarzau.public|Schwarzau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwarzau.internal|Schwarzau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwarzau.protect|Schwarzau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schwarzau.private|Schwarzau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwarzau.personal|Schwarzau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwarzau.secret|Schwarzau.secret]] 
+
+### [Schwarzau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.public.md) 
+
+### [Schwarzau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.internal.md) 
+
+### [Schwarzau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.protect.md) 
+
+### [Schwarzau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.private.md) 
+
+### [Schwarzau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.personal.md) 
+
+### [Schwarzau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwarzau.secret.md)
+

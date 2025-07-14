@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.6,13.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Kollerschlag|Kollerschlag]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kollerschlag.public|Kollerschlag.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kollerschlag.internal|Kollerschlag.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kollerschlag.protect|Kollerschlag.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kollerschlag.private|Kollerschlag.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kollerschlag.personal|Kollerschlag.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kollerschlag.secret|Kollerschlag.secret]] 
+
+### [Kollerschlag.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.public.md) 
+
+### [Kollerschlag.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.internal.md) 
+
+### [Kollerschlag.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.protect.md) 
+
+### [Kollerschlag.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.private.md) 
+
+### [Kollerschlag.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.personal.md) 
+
+### [Kollerschlag.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKollerschlag.secret.md)
+

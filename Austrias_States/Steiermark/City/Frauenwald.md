@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.53,15.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Frauenwald|Frauenwald]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Frauenwald.public|Frauenwald.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Frauenwald.internal|Frauenwald.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Frauenwald.protect|Frauenwald.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Frauenwald.private|Frauenwald.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Frauenwald.personal|Frauenwald.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Frauenwald.secret|Frauenwald.secret]] 
+
+### [Frauenwald.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.public.md) 
+
+### [Frauenwald.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.internal.md) 
+
+### [Frauenwald.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.protect.md) 
+
+### [Frauenwald.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.private.md) 
+
+### [Frauenwald.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.personal.md) 
+
+### [Frauenwald.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFrauenwald.secret.md)
+

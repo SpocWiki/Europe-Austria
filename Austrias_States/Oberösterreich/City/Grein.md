@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.23,14.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Grein|Grein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Grein.public|Grein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Grein.internal|Grein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Grein.protect|Grein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Grein.private|Grein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Grein.personal|Grein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Grein.secret|Grein.secret]] 
+
+### [Grein.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGrein.public.md) 
+
+### [Grein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGrein.internal.md) 
+
+### [Grein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGrein.protect.md) 
+
+### [Grein.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGrein.private.md) 
+
+### [Grein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGrein.personal.md) 
+
+### [Grein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGrein.secret.md)
+

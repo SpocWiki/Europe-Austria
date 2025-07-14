@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.33,16.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Tulln|Tulln]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Tulln.public|Tulln.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Tulln.internal|Tulln.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Tulln.protect|Tulln.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Tulln.private|Tulln.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Tulln.personal|Tulln.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Tulln.secret|Tulln.secret]] 
+
+### [Tulln.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityTulln.public.md) 
+
+### [Tulln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityTulln.internal.md) 
+
+### [Tulln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityTulln.protect.md) 
+
+### [Tulln.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityTulln.private.md) 
+
+### [Tulln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityTulln.personal.md) 
+
+### [Tulln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityTulln.secret.md)
+

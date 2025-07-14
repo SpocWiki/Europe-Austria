@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.08,9.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Schruns|Schruns]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schruns.public|Schruns.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schruns.internal|Schruns.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schruns.protect|Schruns.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schruns.private|Schruns.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schruns.personal|Schruns.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schruns.secret|Schruns.secret]] 
+
+### [Schruns.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.public.md) 
+
+### [Schruns.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.internal.md) 
+
+### [Schruns.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.protect.md) 
+
+### [Schruns.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.private.md) 
+
+### [Schruns.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.personal.md) 
+
+### [Schruns.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchruns.secret.md)
+

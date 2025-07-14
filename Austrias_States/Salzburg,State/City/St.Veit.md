@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.32,13.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Veit|St.Veit]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Veit.public|St.Veit.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Veit.internal|St.Veit.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Veit.protect|St.Veit.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Veit.private|St.Veit.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Veit.personal|St.Veit.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Veit.secret|St.Veit.secret]] 
+
+### [St.Veit.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.public.md) 
+
+### [St.Veit.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.internal.md) 
+
+### [St.Veit.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.protect.md) 
+
+### [St.Veit.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.private.md) 
+
+### [St.Veit.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.personal.md) 
+
+### [St.Veit.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Veit.secret.md)
+

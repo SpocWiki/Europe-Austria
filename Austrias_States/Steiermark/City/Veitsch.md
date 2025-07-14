@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.58,15.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Poland/City/Veitsch|Veitsch]] 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Veitsch.public|Veitsch.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Veitsch.internal|Veitsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Veitsch.protect|Veitsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Veitsch.private|Veitsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Veitsch.personal|Veitsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Veitsch.secret|Veitsch.secret]] 
+
+### [Veitsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.public.md) 
+
+### [Veitsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.internal.md) 
+
+### [Veitsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.protect.md) 
+
+### [Veitsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.private.md) 
+
+### [Veitsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.personal.md) 
+
+### [Veitsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityVeitsch.secret.md)
+

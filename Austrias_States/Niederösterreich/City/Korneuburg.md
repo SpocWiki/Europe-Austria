@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.35,16.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Korneuburg|Korneuburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Korneuburg.public|Korneuburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Korneuburg.internal|Korneuburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Korneuburg.protect|Korneuburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Korneuburg.private|Korneuburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Korneuburg.personal|Korneuburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Korneuburg.secret|Korneuburg.secret]] 
+
+### [Korneuburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKorneuburg.public.md) 
+
+### [Korneuburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKorneuburg.internal.md) 
+
+### [Korneuburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKorneuburg.protect.md) 
+
+### [Korneuburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKorneuburg.private.md) 
+
+### [Korneuburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKorneuburg.personal.md) 
+
+### [Korneuburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKorneuburg.secret.md)
+

@@ -29,12 +29,17 @@ markerFolder: ./Kärnten/
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/State/Kärnten|Kärnten]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/State/Kärnten.public|Kärnten.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Kärnten.internal|Kärnten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Kärnten.protect|Kärnten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Kärnten.private|Kärnten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Kärnten.personal|Kärnten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Kärnten.secret|Kärnten.secret]] 
+
+### [Kärnten.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.public.md) 
+
+### [Kärnten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.internal.md) 
+
+### [Kärnten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.protect.md) 
+
+### [Kärnten.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.private.md) 
+
+### [Kärnten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.personal.md) 
+
+### [Kärnten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesKärnten.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass|Spital~Pyhrnpass]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.public|Spital~Pyhrnpass.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.internal|Spital~Pyhrnpass.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.protect|Spital~Pyhrnpass.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.private|Spital~Pyhrnpass.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.personal|Spital~Pyhrnpass.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.secret|Spital~Pyhrnpass.secret]] 
+
+### [Spital~Pyhrnpass.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.public.md) 
+
+### [Spital~Pyhrnpass.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.internal.md) 
+
+### [Spital~Pyhrnpass.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.protect.md) 
+
+### [Spital~Pyhrnpass.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.private.md) 
+
+### [Spital~Pyhrnpass.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.personal.md) 
+
+### [Spital~Pyhrnpass.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySpital~Pyhrnpass.secret.md)
+

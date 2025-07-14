@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.92,13.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Gmunden|Gmunden]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gmunden.public|Gmunden.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gmunden.internal|Gmunden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gmunden.protect|Gmunden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gmunden.private|Gmunden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gmunden.personal|Gmunden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gmunden.secret|Gmunden.secret]] 
+
+### [Gmunden.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGmunden.public.md) 
+
+### [Gmunden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGmunden.internal.md) 
+
+### [Gmunden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGmunden.protect.md) 
+
+### [Gmunden.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGmunden.private.md) 
+
+### [Gmunden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGmunden.personal.md) 
+
+### [Gmunden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGmunden.secret.md)
+

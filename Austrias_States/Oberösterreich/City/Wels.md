@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Wels|Wels]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wels.public|Wels.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wels.internal|Wels.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wels.protect|Wels.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wels.private|Wels.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wels.personal|Wels.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wels.secret|Wels.secret]] 
+
+### [Wels.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWels.public.md) 
+
+### [Wels.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWels.internal.md) 
+
+### [Wels.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWels.protect.md) 
+
+### [Wels.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWels.private.md) 
+
+### [Wels.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWels.personal.md) 
+
+### [Wels.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWels.secret.md)
+

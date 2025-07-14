@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.03,16.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Fuerstenfeld|Fuerstenfeld]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Fuerstenfeld.public|Fuerstenfeld.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Fuerstenfeld.internal|Fuerstenfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Fuerstenfeld.protect|Fuerstenfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Fuerstenfeld.private|Fuerstenfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Fuerstenfeld.personal|Fuerstenfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Fuerstenfeld.secret|Fuerstenfeld.secret]] 
+
+### [Fuerstenfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.public.md) 
+
+### [Fuerstenfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.internal.md) 
+
+### [Fuerstenfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.protect.md) 
+
+### [Fuerstenfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.private.md) 
+
+### [Fuerstenfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.personal.md) 
+
+### [Fuerstenfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityFuerstenfeld.secret.md)
+

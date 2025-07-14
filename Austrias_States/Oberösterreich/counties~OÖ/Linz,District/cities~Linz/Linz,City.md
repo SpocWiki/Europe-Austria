@@ -10,3 +10,20 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Linz)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Linz,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Linz,District\cities~LinzLinz,City.public.md) 
+
+### [Linz,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Linz,District\cities~LinzLinz,City.internal.md) 
+
+### [Linz,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Linz,District\cities~LinzLinz,City.protect.md) 
+
+### [Linz,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Linz,District\cities~LinzLinz,City.private.md) 
+
+### [Linz,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Linz,District\cities~LinzLinz,City.personal.md) 
+
+### [Linz,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\counties~OÖ\Linz,District\cities~LinzLinz,City.secret.md)
+

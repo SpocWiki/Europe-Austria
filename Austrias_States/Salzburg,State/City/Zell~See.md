@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Zell~See|Zell~See]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Zell~See.public|Zell~See.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Zell~See.internal|Zell~See.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Zell~See.protect|Zell~See.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Zell~See.private|Zell~See.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Zell~See.personal|Zell~See.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Zell~See.secret|Zell~See.secret]] 
+
+### [Zell~See.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityZell~See.public.md) 
+
+### [Zell~See.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityZell~See.internal.md) 
+
+### [Zell~See.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityZell~See.protect.md) 
+
+### [Zell~See.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityZell~See.private.md) 
+
+### [Zell~See.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityZell~See.personal.md) 
+
+### [Zell~See.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityZell~See.secret.md)
+

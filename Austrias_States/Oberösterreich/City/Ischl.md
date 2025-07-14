@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.72,13.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Ischl|Ischl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Ischl.public|Ischl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ischl.internal|Ischl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ischl.protect|Ischl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ischl.private|Ischl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ischl.personal|Ischl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ischl.secret|Ischl.secret]] 
+
+### [Ischl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityIschl.public.md) 
+
+### [Ischl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityIschl.internal.md) 
+
+### [Ischl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityIschl.protect.md) 
+
+### [Ischl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityIschl.private.md) 
+
+### [Ischl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityIschl.personal.md) 
+
+### [Ischl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityIschl.secret.md)
+

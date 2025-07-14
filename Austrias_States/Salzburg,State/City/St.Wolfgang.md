@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.73,13.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Wolfgang|St.Wolfgang]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Wolfgang.public|St.Wolfgang.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Wolfgang.internal|St.Wolfgang.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Wolfgang.protect|St.Wolfgang.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Wolfgang.private|St.Wolfgang.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Wolfgang.personal|St.Wolfgang.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Wolfgang.secret|St.Wolfgang.secret]] 
+
+### [St.Wolfgang.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.public.md) 
+
+### [St.Wolfgang.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.internal.md) 
+
+### [St.Wolfgang.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.protect.md) 
+
+### [St.Wolfgang.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.private.md) 
+
+### [St.Wolfgang.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.personal.md) 
+
+### [St.Wolfgang.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Wolfgang.secret.md)
+

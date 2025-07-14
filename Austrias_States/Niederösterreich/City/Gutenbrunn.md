@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.37,15.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Gutenbrunn|Gutenbrunn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gutenbrunn.public|Gutenbrunn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gutenbrunn.internal|Gutenbrunn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gutenbrunn.protect|Gutenbrunn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gutenbrunn.private|Gutenbrunn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gutenbrunn.personal|Gutenbrunn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gutenbrunn.secret|Gutenbrunn.secret]] 
+
+### [Gutenbrunn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.public.md) 
+
+### [Gutenbrunn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.internal.md) 
+
+### [Gutenbrunn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.protect.md) 
+
+### [Gutenbrunn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.private.md) 
+
+### [Gutenbrunn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.personal.md) 
+
+### [Gutenbrunn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGutenbrunn.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.4,13.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Schladming|Schladming]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schladming.public|Schladming.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schladming.internal|Schladming.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schladming.protect|Schladming.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schladming.private|Schladming.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schladming.personal|Schladming.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schladming.secret|Schladming.secret]] 
+
+### [Schladming.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySchladming.public.md) 
+
+### [Schladming.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySchladming.internal.md) 
+
+### [Schladming.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySchladming.protect.md) 
+
+### [Schladming.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySchladming.private.md) 
+
+### [Schladming.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySchladming.personal.md) 
+
+### [Schladming.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySchladming.secret.md)
+

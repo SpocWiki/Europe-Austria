@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.8,14.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Gross-Stanglau|Gross-Stanglau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gross-Stanglau.public|Gross-Stanglau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gross-Stanglau.internal|Gross-Stanglau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gross-Stanglau.protect|Gross-Stanglau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gross-Stanglau.private|Gross-Stanglau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gross-Stanglau.personal|Gross-Stanglau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gross-Stanglau.secret|Gross-Stanglau.secret]] 
+
+### [Gross-Stanglau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.public.md) 
+
+### [Gross-Stanglau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.internal.md) 
+
+### [Gross-Stanglau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.protect.md) 
+
+### [Gross-Stanglau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.private.md) 
+
+### [Gross-Stanglau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.personal.md) 
+
+### [Gross-Stanglau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGross-Stanglau.secret.md)
+

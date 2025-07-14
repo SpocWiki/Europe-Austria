@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.87,10.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Vent|Vent]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Vent.public|Vent.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Vent.internal|Vent.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Vent.protect|Vent.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Vent.private|Vent.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Vent.personal|Vent.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Vent.secret|Vent.secret]] 
+
+### [Vent.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityVent.public.md) 
+
+### [Vent.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityVent.internal.md) 
+
+### [Vent.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityVent.protect.md) 
+
+### [Vent.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityVent.private.md) 
+
+### [Vent.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityVent.personal.md) 
+
+### [Vent.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityVent.secret.md)
+

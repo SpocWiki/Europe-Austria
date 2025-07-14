@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.13,15.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Wieselburg|Wieselburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wieselburg.public|Wieselburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wieselburg.internal|Wieselburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wieselburg.protect|Wieselburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wieselburg.private|Wieselburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wieselburg.personal|Wieselburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wieselburg.secret|Wieselburg.secret]] 
+
+### [Wieselburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWieselburg.public.md) 
+
+### [Wieselburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWieselburg.internal.md) 
+
+### [Wieselburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWieselburg.protect.md) 
+
+### [Wieselburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWieselburg.private.md) 
+
+### [Wieselburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWieselburg.personal.md) 
+
+### [Wieselburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWieselburg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.3,15.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Poellau|Poellau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Poellau.public|Poellau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Poellau.internal|Poellau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Poellau.protect|Poellau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Poellau.private|Poellau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Poellau.personal|Poellau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Poellau.secret|Poellau.secret]] 
+
+### [Poellau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoellau.public.md) 
+
+### [Poellau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoellau.internal.md) 
+
+### [Poellau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoellau.protect.md) 
+
+### [Poellau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoellau.private.md) 
+
+### [Poellau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoellau.personal.md) 
+
+### [Poellau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoellau.secret.md)
+

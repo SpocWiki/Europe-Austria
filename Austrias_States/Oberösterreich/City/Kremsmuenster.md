@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.05,14.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Kremsmuenster|Kremsmuenster]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kremsmuenster.public|Kremsmuenster.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kremsmuenster.internal|Kremsmuenster.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kremsmuenster.protect|Kremsmuenster.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kremsmuenster.private|Kremsmuenster.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kremsmuenster.personal|Kremsmuenster.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kremsmuenster.secret|Kremsmuenster.secret]] 
+
+### [Kremsmuenster.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.public.md) 
+
+### [Kremsmuenster.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.internal.md) 
+
+### [Kremsmuenster.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.protect.md) 
+
+### [Kremsmuenster.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.private.md) 
+
+### [Kremsmuenster.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.personal.md) 
+
+### [Kremsmuenster.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityKremsmuenster.secret.md)
+

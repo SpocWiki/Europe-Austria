@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.13,10.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Anton|St.Anton]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Anton.public|St.Anton.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Anton.internal|St.Anton.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Anton.protect|St.Anton.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Anton.private|St.Anton.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Anton.personal|St.Anton.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Anton.secret|St.Anton.secret]] 
+
+### [St.Anton.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.public.md) 
+
+### [St.Anton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.internal.md) 
+
+### [St.Anton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.protect.md) 
+
+### [St.Anton.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.private.md) 
+
+### [St.Anton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.personal.md) 
+
+### [St.Anton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Anton.secret.md)
+

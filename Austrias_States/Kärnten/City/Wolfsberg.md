@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.83,14.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Wolfsberg|Wolfsberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wolfsberg.public|Wolfsberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wolfsberg.internal|Wolfsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wolfsberg.protect|Wolfsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wolfsberg.private|Wolfsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wolfsberg.personal|Wolfsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wolfsberg.secret|Wolfsberg.secret]] 
+
+### [Wolfsberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.public.md) 
+
+### [Wolfsberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.internal.md) 
+
+### [Wolfsberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.protect.md) 
+
+### [Wolfsberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.private.md) 
+
+### [Wolfsberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.personal.md) 
+
+### [Wolfsberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityWolfsberg.secret.md)
+

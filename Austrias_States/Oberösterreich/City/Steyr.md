@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.05,14.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Steyr|Steyr]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Steyr.public|Steyr.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Steyr.internal|Steyr.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Steyr.protect|Steyr.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Steyr.private|Steyr.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Steyr.personal|Steyr.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Steyr.secret|Steyr.secret]] 
+
+### [Steyr.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySteyr.public.md) 
+
+### [Steyr.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySteyr.internal.md) 
+
+### [Steyr.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySteyr.protect.md) 
+
+### [Steyr.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySteyr.private.md) 
+
+### [Steyr.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySteyr.personal.md) 
+
+### [Steyr.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySteyr.secret.md)
+

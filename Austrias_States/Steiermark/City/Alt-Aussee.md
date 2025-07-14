@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.65,13.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Alt-Aussee|Alt-Aussee]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Alt-Aussee.public|Alt-Aussee.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Alt-Aussee.internal|Alt-Aussee.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Alt-Aussee.protect|Alt-Aussee.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Alt-Aussee.private|Alt-Aussee.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Alt-Aussee.personal|Alt-Aussee.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Alt-Aussee.secret|Alt-Aussee.secret]] 
+
+### [Alt-Aussee.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.public.md) 
+
+### [Alt-Aussee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.internal.md) 
+
+### [Alt-Aussee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.protect.md) 
+
+### [Alt-Aussee.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.private.md) 
+
+### [Alt-Aussee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.personal.md) 
+
+### [Alt-Aussee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlt-Aussee.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.25,13.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Braunau|Braunau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Braunau.public|Braunau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Braunau.internal|Braunau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Braunau.protect|Braunau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Braunau.private|Braunau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Braunau.personal|Braunau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Braunau.secret|Braunau.secret]] 
+
+### [Braunau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBraunau.public.md) 
+
+### [Braunau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBraunau.internal.md) 
+
+### [Braunau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBraunau.protect.md) 
+
+### [Braunau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBraunau.private.md) 
+
+### [Braunau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBraunau.personal.md) 
+
+### [Braunau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBraunau.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.65,16.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Loosdorf|Loosdorf]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Loosdorf.public|Loosdorf.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Loosdorf.internal|Loosdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Loosdorf.protect|Loosdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Loosdorf.private|Loosdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Loosdorf.personal|Loosdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Loosdorf.secret|Loosdorf.secret]] 
+
+### [Loosdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLoosdorf.public.md) 
+
+### [Loosdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLoosdorf.internal.md) 
+
+### [Loosdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLoosdorf.protect.md) 
+
+### [Loosdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLoosdorf.private.md) 
+
+### [Loosdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLoosdorf.personal.md) 
+
+### [Loosdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityLoosdorf.secret.md)
+

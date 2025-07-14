@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.77,15.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Mariazell|Mariazell]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Mariazell.public|Mariazell.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Mariazell.internal|Mariazell.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Mariazell.protect|Mariazell.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Mariazell.private|Mariazell.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Mariazell.personal|Mariazell.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Mariazell.secret|Mariazell.secret]] 
+
+### [Mariazell.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMariazell.public.md) 
+
+### [Mariazell.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMariazell.internal.md) 
+
+### [Mariazell.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMariazell.protect.md) 
+
+### [Mariazell.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMariazell.private.md) 
+
+### [Mariazell.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMariazell.personal.md) 
+
+### [Mariazell.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMariazell.secret.md)
+

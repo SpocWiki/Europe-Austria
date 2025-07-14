@@ -30,12 +30,17 @@ markerFolder: ./Steiermark/
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/State/Steiermark|Steiermark]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/State/Steiermark.public|Steiermark.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Steiermark.internal|Steiermark.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Steiermark.protect|Steiermark.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Steiermark.private|Steiermark.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Steiermark.personal|Steiermark.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Steiermark.secret|Steiermark.secret]] 
+
+### [Steiermark.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.public.md) 
+
+### [Steiermark.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.internal.md) 
+
+### [Steiermark.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.protect.md) 
+
+### [Steiermark.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.private.md) 
+
+### [Steiermark.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.personal.md) 
+
+### [Steiermark.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSteiermark.secret.md)
+

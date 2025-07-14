@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.13,16.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Kalksburg|Kalksburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kalksburg.public|Kalksburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kalksburg.internal|Kalksburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kalksburg.protect|Kalksburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kalksburg.private|Kalksburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kalksburg.personal|Kalksburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kalksburg.secret|Kalksburg.secret]] 
+
+### [Kalksburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKalksburg.public.md) 
+
+### [Kalksburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKalksburg.internal.md) 
+
+### [Kalksburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKalksburg.protect.md) 
+
+### [Kalksburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKalksburg.private.md) 
+
+### [Kalksburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKalksburg.personal.md) 
+
+### [Kalksburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKalksburg.secret.md)
+

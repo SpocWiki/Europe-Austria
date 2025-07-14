@@ -13,3 +13,20 @@ maxZoom: 18
 geojsonFolder: ./boroughs~Hitzendorf//
 markerFolder: ./boroughs~Hitzendorf/
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [boroughs~Hitzendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Graz\cities~Graz\Hitzendorfboroughs~Hitzendorf.public.md) 
+
+### [boroughs~Hitzendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Graz\cities~Graz\Hitzendorfboroughs~Hitzendorf.internal.md) 
+
+### [boroughs~Hitzendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Graz\cities~Graz\Hitzendorfboroughs~Hitzendorf.protect.md) 
+
+### [boroughs~Hitzendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Graz\cities~Graz\Hitzendorfboroughs~Hitzendorf.private.md) 
+
+### [boroughs~Hitzendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Graz\cities~Graz\Hitzendorfboroughs~Hitzendorf.personal.md) 
+
+### [boroughs~Hitzendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Graz\cities~Graz\Hitzendorfboroughs~Hitzendorf.secret.md)
+

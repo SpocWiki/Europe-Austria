@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.22,14.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Poels|Poels]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Poels.public|Poels.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Poels.internal|Poels.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Poels.protect|Poels.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Poels.private|Poels.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Poels.personal|Poels.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Poels.secret|Poels.secret]] 
+
+### [Poels.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoels.public.md) 
+
+### [Poels.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoels.internal.md) 
+
+### [Poels.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoels.protect.md) 
+
+### [Poels.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoels.private.md) 
+
+### [Poels.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoels.personal.md) 
+
+### [Poels.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPoels.secret.md)
+

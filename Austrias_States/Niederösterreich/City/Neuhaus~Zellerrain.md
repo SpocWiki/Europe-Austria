@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.8,15.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain|Neuhaus~Zellerrain]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.public|Neuhaus~Zellerrain.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.internal|Neuhaus~Zellerrain.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.protect|Neuhaus~Zellerrain.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.private|Neuhaus~Zellerrain.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.personal|Neuhaus~Zellerrain.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.secret|Neuhaus~Zellerrain.secret]] 
+
+### [Neuhaus~Zellerrain.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.public.md) 
+
+### [Neuhaus~Zellerrain.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.internal.md) 
+
+### [Neuhaus~Zellerrain.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.protect.md) 
+
+### [Neuhaus~Zellerrain.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.private.md) 
+
+### [Neuhaus~Zellerrain.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.personal.md) 
+
+### [Neuhaus~Zellerrain.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityNeuhaus~Zellerrain.secret.md)
+

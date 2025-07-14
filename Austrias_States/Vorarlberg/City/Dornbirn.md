@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.42,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Dornbirn|Dornbirn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Dornbirn.public|Dornbirn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Dornbirn.internal|Dornbirn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Dornbirn.protect|Dornbirn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Dornbirn.private|Dornbirn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Dornbirn.personal|Dornbirn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Dornbirn.secret|Dornbirn.secret]] 
+
+### [Dornbirn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.public.md) 
+
+### [Dornbirn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.internal.md) 
+
+### [Dornbirn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.protect.md) 
+
+### [Dornbirn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.private.md) 
+
+### [Dornbirn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.personal.md) 
+
+### [Dornbirn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CityDornbirn.secret.md)
+

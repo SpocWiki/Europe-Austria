@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.27,14.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Seckau|Seckau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Seckau.public|Seckau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Seckau.internal|Seckau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Seckau.protect|Seckau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Seckau.private|Seckau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Seckau.personal|Seckau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Seckau.secret|Seckau.secret]] 
+
+### [Seckau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySeckau.public.md) 
+
+### [Seckau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySeckau.internal.md) 
+
+### [Seckau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySeckau.protect.md) 
+
+### [Seckau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySeckau.private.md) 
+
+### [Seckau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySeckau.personal.md) 
+
+### [Seckau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CitySeckau.secret.md)
+

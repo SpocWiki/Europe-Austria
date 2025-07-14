@@ -31,12 +31,17 @@ markerFolder: ./Niederösterreich/
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/State/Niederösterreich|Niederösterreich]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/State/Niederösterreich.public|Niederösterreich.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Niederösterreich.internal|Niederösterreich.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Niederösterreich.protect|Niederösterreich.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Niederösterreich.private|Niederösterreich.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Niederösterreich.personal|Niederösterreich.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Niederösterreich.secret|Niederösterreich.secret]] 
+
+### [Niederösterreich.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.public.md) 
+
+### [Niederösterreich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.internal.md) 
+
+### [Niederösterreich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.protect.md) 
+
+### [Niederösterreich.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.private.md) 
+
+### [Niederösterreich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.personal.md) 
+
+### [Niederösterreich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesNiederösterreich.secret.md)
+

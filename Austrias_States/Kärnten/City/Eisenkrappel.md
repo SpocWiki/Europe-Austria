@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.48,14.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Eisenkrappel|Eisenkrappel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Eisenkrappel.public|Eisenkrappel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Eisenkrappel.internal|Eisenkrappel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Eisenkrappel.protect|Eisenkrappel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Eisenkrappel.private|Eisenkrappel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Eisenkrappel.personal|Eisenkrappel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Eisenkrappel.secret|Eisenkrappel.secret]] 
+
+### [Eisenkrappel.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.public.md) 
+
+### [Eisenkrappel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.internal.md) 
+
+### [Eisenkrappel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.protect.md) 
+
+### [Eisenkrappel.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.private.md) 
+
+### [Eisenkrappel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.personal.md) 
+
+### [Eisenkrappel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEisenkrappel.secret.md)
+

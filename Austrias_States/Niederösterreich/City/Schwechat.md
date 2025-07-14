@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.15,16.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Schwechat|Schwechat]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schwechat.public|Schwechat.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwechat.internal|Schwechat.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwechat.protect|Schwechat.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schwechat.private|Schwechat.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwechat.personal|Schwechat.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwechat.secret|Schwechat.secret]] 
+
+### [Schwechat.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwechat.public.md) 
+
+### [Schwechat.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwechat.internal.md) 
+
+### [Schwechat.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwechat.protect.md) 
+
+### [Schwechat.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwechat.private.md) 
+
+### [Schwechat.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwechat.personal.md) 
+
+### [Schwechat.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySchwechat.secret.md)
+

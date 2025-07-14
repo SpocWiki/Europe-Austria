@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.45,9.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Schwarzach|Schwarzach]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schwarzach.public|Schwarzach.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwarzach.internal|Schwarzach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwarzach.protect|Schwarzach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schwarzach.private|Schwarzach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwarzach.personal|Schwarzach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwarzach.secret|Schwarzach.secret]] 
+
+### [Schwarzach.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.public.md) 
+
+### [Schwarzach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.internal.md) 
+
+### [Schwarzach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.protect.md) 
+
+### [Schwarzach.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.private.md) 
+
+### [Schwarzach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.personal.md) 
+
+### [Schwarzach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Vorarlberg\CitySchwarzach.secret.md)
+

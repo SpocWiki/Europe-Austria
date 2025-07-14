@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -350,11 +350,18 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Austria/_CityDB|_CityDB]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Austria/_CityDB.public|_CityDB.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Austria/_CityDB.internal|_CityDB.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Austria/_CityDB.protect|_CityDB.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Austria/_CityDB.private|_CityDB.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Austria/_CityDB.personal|_CityDB.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Austria/_CityDB.secret|_CityDB.secret]] 
+
+### [_CityDB.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria_CityDB.public.md) 
+
+### [_CityDB.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria_CityDB.internal.md) 
+
+### [_CityDB.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria_CityDB.protect.md) 
+
+### [_CityDB.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria_CityDB.private.md) 
+
+### [_CityDB.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria_CityDB.personal.md) 
+
+### [_CityDB.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria_CityDB.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.2,15.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Poelten|St.Poelten]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Poelten.public|St.Poelten.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Poelten.internal|St.Poelten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Poelten.protect|St.Poelten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Poelten.private|St.Poelten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Poelten.personal|St.Poelten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Poelten.secret|St.Poelten.secret]] 
+
+### [St.Poelten.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Poelten.public.md) 
+
+### [St.Poelten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Poelten.internal.md) 
+
+### [St.Poelten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Poelten.protect.md) 
+
+### [St.Poelten.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Poelten.private.md) 
+
+### [St.Poelten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Poelten.personal.md) 
+
+### [St.Poelten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Poelten.secret.md)
+

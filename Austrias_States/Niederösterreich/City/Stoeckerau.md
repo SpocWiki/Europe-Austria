@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.38,16.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Stoeckerau|Stoeckerau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Stoeckerau.public|Stoeckerau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Stoeckerau.internal|Stoeckerau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Stoeckerau.protect|Stoeckerau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Stoeckerau.private|Stoeckerau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Stoeckerau.personal|Stoeckerau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Stoeckerau.secret|Stoeckerau.secret]] 
+
+### [Stoeckerau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStoeckerau.public.md) 
+
+### [Stoeckerau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStoeckerau.internal.md) 
+
+### [Stoeckerau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStoeckerau.protect.md) 
+
+### [Stoeckerau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStoeckerau.private.md) 
+
+### [Stoeckerau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStoeckerau.personal.md) 
+
+### [Stoeckerau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStoeckerau.secret.md)
+

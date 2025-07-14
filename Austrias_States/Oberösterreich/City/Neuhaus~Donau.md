@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.42,13.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Neuhaus~Donau|Neuhaus~Donau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Neuhaus~Donau.public|Neuhaus~Donau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Neuhaus~Donau.internal|Neuhaus~Donau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Neuhaus~Donau.protect|Neuhaus~Donau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Neuhaus~Donau.private|Neuhaus~Donau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Neuhaus~Donau.personal|Neuhaus~Donau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Neuhaus~Donau.secret|Neuhaus~Donau.secret]] 
+
+### [Neuhaus~Donau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.public.md) 
+
+### [Neuhaus~Donau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.internal.md) 
+
+### [Neuhaus~Donau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.protect.md) 
+
+### [Neuhaus~Donau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.private.md) 
+
+### [Neuhaus~Donau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.personal.md) 
+
+### [Neuhaus~Donau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityNeuhaus~Donau.secret.md)
+

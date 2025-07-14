@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.82,16.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Wiener_Neustadt|Wiener_Neustadt]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wiener_Neustadt.public|Wiener_Neustadt.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wiener_Neustadt.internal|Wiener_Neustadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wiener_Neustadt.protect|Wiener_Neustadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wiener_Neustadt.private|Wiener_Neustadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wiener_Neustadt.personal|Wiener_Neustadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wiener_Neustadt.secret|Wiener_Neustadt.secret]] 
+
+### [Wiener_Neustadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.public.md) 
+
+### [Wiener_Neustadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.internal.md) 
+
+### [Wiener_Neustadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.protect.md) 
+
+### [Wiener_Neustadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.private.md) 
+
+### [Wiener_Neustadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.personal.md) 
+
+### [Wiener_Neustadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWiener_Neustadt.secret.md)
+

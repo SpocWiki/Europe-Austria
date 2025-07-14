@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.27,11.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Innsbruck|Innsbruck]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Innsbruck.public|Innsbruck.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Innsbruck.internal|Innsbruck.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Innsbruck.protect|Innsbruck.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Innsbruck.private|Innsbruck.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Innsbruck.personal|Innsbruck.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Innsbruck.secret|Innsbruck.secret]] 
+
+### [Innsbruck.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.public.md) 
+
+### [Innsbruck.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.internal.md) 
+
+### [Innsbruck.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.protect.md) 
+
+### [Innsbruck.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.private.md) 
+
+### [Innsbruck.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.personal.md) 
+
+### [Innsbruck.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityInnsbruck.secret.md)
+

@@ -13,3 +13,20 @@ geojsonFolder: ./boroughs~Kreuzstetten//
 markerFolder: ./boroughs~Kreuzstetten/
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [boroughs~Kreuzstetten.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Kreuzstettenboroughs~Kreuzstetten.public.md) 
+
+### [boroughs~Kreuzstetten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Kreuzstettenboroughs~Kreuzstetten.internal.md) 
+
+### [boroughs~Kreuzstetten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Kreuzstettenboroughs~Kreuzstetten.protect.md) 
+
+### [boroughs~Kreuzstetten.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Kreuzstettenboroughs~Kreuzstetten.private.md) 
+
+### [boroughs~Kreuzstetten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Kreuzstettenboroughs~Kreuzstetten.personal.md) 
+
+### [boroughs~Kreuzstetten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Mistelbach\cities~Mistelbach\Kreuzstettenboroughs~Kreuzstetten.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.08,15.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Stollberg|Stollberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Stollberg.public|Stollberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Stollberg.internal|Stollberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Stollberg.protect|Stollberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Stollberg.private|Stollberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Stollberg.personal|Stollberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Stollberg.secret|Stollberg.secret]] 
+
+### [Stollberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStollberg.public.md) 
+
+### [Stollberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStollberg.internal.md) 
+
+### [Stollberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStollberg.protect.md) 
+
+### [Stollberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStollberg.private.md) 
+
+### [Stollberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStollberg.personal.md) 
+
+### [Stollberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityStollberg.secret.md)
+

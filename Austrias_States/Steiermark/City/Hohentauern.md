@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.43,14.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Hohentauern|Hohentauern]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hohentauern.public|Hohentauern.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hohentauern.internal|Hohentauern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hohentauern.protect|Hohentauern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hohentauern.private|Hohentauern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hohentauern.personal|Hohentauern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hohentauern.secret|Hohentauern.secret]] 
+
+### [Hohentauern.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.public.md) 
+
+### [Hohentauern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.internal.md) 
+
+### [Hohentauern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.protect.md) 
+
+### [Hohentauern.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.private.md) 
+
+### [Hohentauern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.personal.md) 
+
+### [Hohentauern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityHohentauern.secret.md)
+

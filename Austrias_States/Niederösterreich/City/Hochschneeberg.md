@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.75,15.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Hochschneeberg|Hochschneeberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hochschneeberg.public|Hochschneeberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hochschneeberg.internal|Hochschneeberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hochschneeberg.protect|Hochschneeberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hochschneeberg.private|Hochschneeberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hochschneeberg.personal|Hochschneeberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hochschneeberg.secret|Hochschneeberg.secret]] 
+
+### [Hochschneeberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.public.md) 
+
+### [Hochschneeberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.internal.md) 
+
+### [Hochschneeberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.protect.md) 
+
+### [Hochschneeberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.private.md) 
+
+### [Hochschneeberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.personal.md) 
+
+### [Hochschneeberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityHochschneeberg.secret.md)
+

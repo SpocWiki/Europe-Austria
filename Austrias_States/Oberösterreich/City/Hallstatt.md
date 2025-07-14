@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.57,13.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Hallstatt|Hallstatt]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hallstatt.public|Hallstatt.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hallstatt.internal|Hallstatt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hallstatt.protect|Hallstatt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hallstatt.private|Hallstatt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hallstatt.personal|Hallstatt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hallstatt.secret|Hallstatt.secret]] 
+
+### [Hallstatt.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityHallstatt.public.md) 
+
+### [Hallstatt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityHallstatt.internal.md) 
+
+### [Hallstatt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityHallstatt.protect.md) 
+
+### [Hallstatt.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityHallstatt.private.md) 
+
+### [Hallstatt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityHallstatt.personal.md) 
+
+### [Hallstatt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityHallstatt.secret.md)
+

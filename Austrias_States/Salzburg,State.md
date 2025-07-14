@@ -28,11 +28,17 @@ markerFolder: ./State~Salzburg/
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Salzburg,State|Salzburg,State]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/State~Salzburg.internal|State~Salzburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/State~Salzburg.protect|State~Salzburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/State~Salzburg.private|State~Salzburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/State~Salzburg.personal|State~Salzburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/State~Salzburg.secret|State~Salzburg.secret]] 
+
+### [Salzburg,State.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.public.md) 
+
+### [Salzburg,State.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.internal.md) 
+
+### [Salzburg,State.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.protect.md) 
+
+### [Salzburg,State.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.private.md) 
+
+### [Salzburg,State.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.personal.md) 
+
+### [Salzburg,State.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesSalzburg,State.secret.md)
+

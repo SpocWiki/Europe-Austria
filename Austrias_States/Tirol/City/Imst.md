@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.23,10.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Imst|Imst]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Imst.public|Imst.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Imst.internal|Imst.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Imst.protect|Imst.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Imst.private|Imst.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Imst.personal|Imst.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Imst.secret|Imst.secret]] 
+
+### [Imst.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.public.md) 
+
+### [Imst.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.internal.md) 
+
+### [Imst.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.protect.md) 
+
+### [Imst.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.private.md) 
+
+### [Imst.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.personal.md) 
+
+### [Imst.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityImst.secret.md)
+

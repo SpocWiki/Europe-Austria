@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.32,16.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Klosterneuburg|Klosterneuburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Klosterneuburg.public|Klosterneuburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Klosterneuburg.internal|Klosterneuburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Klosterneuburg.protect|Klosterneuburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Klosterneuburg.private|Klosterneuburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Klosterneuburg.personal|Klosterneuburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Klosterneuburg.secret|Klosterneuburg.secret]] 
+
+### [Klosterneuburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.public.md) 
+
+### [Klosterneuburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.internal.md) 
+
+### [Klosterneuburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.protect.md) 
+
+### [Klosterneuburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.private.md) 
+
+### [Klosterneuburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.personal.md) 
+
+### [Klosterneuburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKlosterneuburg.secret.md)
+

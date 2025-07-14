@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.72,13.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Bad_Ischl|Bad_Ischl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bad_Ischl.public|Bad_Ischl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Ischl.internal|Bad_Ischl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Ischl.protect|Bad_Ischl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Ischl.private|Bad_Ischl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Ischl.personal|Bad_Ischl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Ischl.secret|Bad_Ischl.secret]] 
+
+### [Bad_Ischl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.public.md) 
+
+### [Bad_Ischl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.internal.md) 
+
+### [Bad_Ischl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.protect.md) 
+
+### [Bad_Ischl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.private.md) 
+
+### [Bad_Ischl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.personal.md) 
+
+### [Bad_Ischl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityBad_Ischl.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.2,15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Isperdorf|Isperdorf]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Isperdorf.public|Isperdorf.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Isperdorf.internal|Isperdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Isperdorf.protect|Isperdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Isperdorf.private|Isperdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Isperdorf.personal|Isperdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Isperdorf.secret|Isperdorf.secret]] 
+
+### [Isperdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityIsperdorf.public.md) 
+
+### [Isperdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityIsperdorf.internal.md) 
+
+### [Isperdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityIsperdorf.protect.md) 
+
+### [Isperdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityIsperdorf.private.md) 
+
+### [Isperdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityIsperdorf.personal.md) 
+
+### [Isperdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityIsperdorf.secret.md)
+

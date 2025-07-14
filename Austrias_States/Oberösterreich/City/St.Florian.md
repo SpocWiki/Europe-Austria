@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.22,14.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Florian|St.Florian]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Florian.public|St.Florian.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Florian.internal|St.Florian.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Florian.protect|St.Florian.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Florian.private|St.Florian.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Florian.personal|St.Florian.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Florian.secret|St.Florian.secret]] 
+
+### [St.Florian.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySt.Florian.public.md) 
+
+### [St.Florian.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySt.Florian.internal.md) 
+
+### [St.Florian.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySt.Florian.protect.md) 
+
+### [St.Florian.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySt.Florian.private.md) 
+
+### [St.Florian.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySt.Florian.personal.md) 
+
+### [St.Florian.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CitySt.Florian.secret.md)
+

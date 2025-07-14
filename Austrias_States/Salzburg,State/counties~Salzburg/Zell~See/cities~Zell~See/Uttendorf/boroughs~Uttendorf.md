@@ -13,3 +13,20 @@ maxZoom: 18
 geojsonFolder: ./boroughs~Uttendorf//
 markerFolder: ./boroughs~Uttendorf/
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [boroughs~Uttendorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\counties~Salzburg\Zell~See\cities~Zell~See\Uttendorfboroughs~Uttendorf.public.md) 
+
+### [boroughs~Uttendorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\counties~Salzburg\Zell~See\cities~Zell~See\Uttendorfboroughs~Uttendorf.internal.md) 
+
+### [boroughs~Uttendorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\counties~Salzburg\Zell~See\cities~Zell~See\Uttendorfboroughs~Uttendorf.protect.md) 
+
+### [boroughs~Uttendorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\counties~Salzburg\Zell~See\cities~Zell~See\Uttendorfboroughs~Uttendorf.private.md) 
+
+### [boroughs~Uttendorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\counties~Salzburg\Zell~See\cities~Zell~See\Uttendorfboroughs~Uttendorf.personal.md) 
+
+### [boroughs~Uttendorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\counties~Salzburg\Zell~See\cities~Zell~See\Uttendorfboroughs~Uttendorf.secret.md)
+

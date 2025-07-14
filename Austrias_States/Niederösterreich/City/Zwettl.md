@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.6,15.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Zwettl|Zwettl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Zwettl.public|Zwettl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Zwettl.internal|Zwettl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Zwettl.protect|Zwettl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Zwettl.private|Zwettl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Zwettl.personal|Zwettl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Zwettl.secret|Zwettl.secret]] 
+
+### [Zwettl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityZwettl.public.md) 
+
+### [Zwettl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityZwettl.internal.md) 
+
+### [Zwettl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityZwettl.protect.md) 
+
+### [Zwettl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityZwettl.private.md) 
+
+### [Zwettl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityZwettl.personal.md) 
+
+### [Zwettl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityZwettl.secret.md)
+

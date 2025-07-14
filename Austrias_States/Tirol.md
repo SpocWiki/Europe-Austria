@@ -37,12 +37,17 @@ markerFolder: ./Tirol/
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/State/Tirol|Tirol]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/State/Tirol.public|Tirol.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Tirol.internal|Tirol.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Tirol.protect|Tirol.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Tirol.private|Tirol.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Tirol.personal|Tirol.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Tirol.secret|Tirol.secret]] 
+
+### [Tirol.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.public.md) 
+
+### [Tirol.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.internal.md) 
+
+### [Tirol.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.protect.md) 
+
+### [Tirol.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.private.md) 
+
+### [Tirol.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.personal.md) 
+
+### [Tirol.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesTirol.secret.md)
+

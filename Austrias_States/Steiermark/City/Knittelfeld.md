@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.22,14.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Knittelfeld|Knittelfeld]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Knittelfeld.public|Knittelfeld.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Knittelfeld.internal|Knittelfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Knittelfeld.protect|Knittelfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Knittelfeld.private|Knittelfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Knittelfeld.personal|Knittelfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Knittelfeld.secret|Knittelfeld.secret]] 
+
+### [Knittelfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.public.md) 
+
+### [Knittelfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.internal.md) 
+
+### [Knittelfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.protect.md) 
+
+### [Knittelfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.private.md) 
+
+### [Knittelfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.personal.md) 
+
+### [Knittelfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityKnittelfeld.secret.md)
+

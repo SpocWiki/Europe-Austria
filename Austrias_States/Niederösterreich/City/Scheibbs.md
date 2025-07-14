@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48,15.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Scheibbs|Scheibbs]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Scheibbs.public|Scheibbs.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Scheibbs.internal|Scheibbs.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Scheibbs.protect|Scheibbs.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Scheibbs.private|Scheibbs.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Scheibbs.personal|Scheibbs.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Scheibbs.secret|Scheibbs.secret]] 
+
+### [Scheibbs.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityScheibbs.public.md) 
+
+### [Scheibbs.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityScheibbs.internal.md) 
+
+### [Scheibbs.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityScheibbs.protect.md) 
+
+### [Scheibbs.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityScheibbs.private.md) 
+
+### [Scheibbs.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityScheibbs.personal.md) 
+
+### [Scheibbs.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityScheibbs.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.97,10.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Galtuer|Galtuer]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Galtuer.public|Galtuer.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Galtuer.internal|Galtuer.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Galtuer.protect|Galtuer.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Galtuer.private|Galtuer.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Galtuer.personal|Galtuer.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Galtuer.secret|Galtuer.secret]] 
+
+### [Galtuer.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityGaltuer.public.md) 
+
+### [Galtuer.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityGaltuer.internal.md) 
+
+### [Galtuer.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityGaltuer.protect.md) 
+
+### [Galtuer.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityGaltuer.private.md) 
+
+### [Galtuer.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityGaltuer.personal.md) 
+
+### [Galtuer.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityGaltuer.secret.md)
+

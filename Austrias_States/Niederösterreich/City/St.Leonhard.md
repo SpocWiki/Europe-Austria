@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.6,15.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Leonhard|St.Leonhard]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Leonhard.public|St.Leonhard.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Leonhard.internal|St.Leonhard.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Leonhard.protect|St.Leonhard.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Leonhard.private|St.Leonhard.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Leonhard.personal|St.Leonhard.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Leonhard.secret|St.Leonhard.secret]] 
+
+### [St.Leonhard.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.public.md) 
+
+### [St.Leonhard.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.internal.md) 
+
+### [St.Leonhard.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.protect.md) 
+
+### [St.Leonhard.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.private.md) 
+
+### [St.Leonhard.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.personal.md) 
+
+### [St.Leonhard.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CitySt.Leonhard.secret.md)
+

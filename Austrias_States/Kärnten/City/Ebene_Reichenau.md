@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.87,13.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Ebene_Reichenau|Ebene_Reichenau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Ebene_Reichenau.public|Ebene_Reichenau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ebene_Reichenau.internal|Ebene_Reichenau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ebene_Reichenau.protect|Ebene_Reichenau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ebene_Reichenau.private|Ebene_Reichenau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ebene_Reichenau.personal|Ebene_Reichenau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ebene_Reichenau.secret|Ebene_Reichenau.secret]] 
+
+### [Ebene_Reichenau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEbene_Reichenau.public.md) 
+
+### [Ebene_Reichenau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEbene_Reichenau.internal.md) 
+
+### [Ebene_Reichenau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEbene_Reichenau.protect.md) 
+
+### [Ebene_Reichenau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEbene_Reichenau.private.md) 
+
+### [Ebene_Reichenau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEbene_Reichenau.personal.md) 
+
+### [Ebene_Reichenau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityEbene_Reichenau.secret.md)
+

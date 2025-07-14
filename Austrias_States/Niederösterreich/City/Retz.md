@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.77,15.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Hungary/City/Retz|Retz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Retz.public|Retz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Retz.internal|Retz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Retz.protect|Retz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Retz.private|Retz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Retz.personal|Retz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Retz.secret|Retz.secret]] 
+
+### [Retz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRetz.public.md) 
+
+### [Retz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRetz.internal.md) 
+
+### [Retz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRetz.protect.md) 
+
+### [Retz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRetz.private.md) 
+
+### [Retz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRetz.personal.md) 
+
+### [Retz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityRetz.secret.md)
+

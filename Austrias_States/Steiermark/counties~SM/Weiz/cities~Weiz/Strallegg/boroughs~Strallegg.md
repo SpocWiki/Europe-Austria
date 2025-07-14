@@ -13,3 +13,20 @@ maxZoom: 18
 geojsonFolder: ./boroughs~Strallegg//
 markerFolder: ./boroughs~Strallegg/
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [boroughs~Strallegg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Stralleggboroughs~Strallegg.public.md) 
+
+### [boroughs~Strallegg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Stralleggboroughs~Strallegg.internal.md) 
+
+### [boroughs~Strallegg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Stralleggboroughs~Strallegg.protect.md) 
+
+### [boroughs~Strallegg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Stralleggboroughs~Strallegg.private.md) 
+
+### [boroughs~Strallegg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Stralleggboroughs~Strallegg.personal.md) 
+
+### [boroughs~Strallegg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\counties~SM\Weiz\cities~Weiz\Stralleggboroughs~Strallegg.secret.md)
+

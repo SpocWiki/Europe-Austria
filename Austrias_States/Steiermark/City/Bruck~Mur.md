@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.42,15.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Bruck~Mur|Bruck~Mur]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bruck~Mur.public|Bruck~Mur.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bruck~Mur.internal|Bruck~Mur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bruck~Mur.protect|Bruck~Mur.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bruck~Mur.private|Bruck~Mur.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bruck~Mur.personal|Bruck~Mur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bruck~Mur.secret|Bruck~Mur.secret]] 
+
+### [Bruck~Mur.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.public.md) 
+
+### [Bruck~Mur.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.internal.md) 
+
+### [Bruck~Mur.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.protect.md) 
+
+### [Bruck~Mur.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.private.md) 
+
+### [Bruck~Mur.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.personal.md) 
+
+### [Bruck~Mur.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityBruck~Mur.secret.md)
+

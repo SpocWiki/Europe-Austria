@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.92,15.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Hungary/City/Tihang|Tihang]] 
-- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Tihang.public|Tihang.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Tihang.internal|Tihang.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Tihang.protect|Tihang.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Tihang.private|Tihang.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Tihang.personal|Tihang.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Tihang.secret|Tihang.secret]] 
+
+### [Tihang.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTihang.public.md) 
+
+### [Tihang.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTihang.internal.md) 
+
+### [Tihang.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTihang.protect.md) 
+
+### [Tihang.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTihang.private.md) 
+
+### [Tihang.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTihang.personal.md) 
+
+### [Tihang.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTihang.secret.md)
+

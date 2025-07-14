@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.4,14.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Mautern~Steiermark|Mautern~Steiermark]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Mautern~Steiermark.public|Mautern~Steiermark.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Mautern~Steiermark.internal|Mautern~Steiermark.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Mautern~Steiermark.protect|Mautern~Steiermark.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Mautern~Steiermark.private|Mautern~Steiermark.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Mautern~Steiermark.personal|Mautern~Steiermark.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Mautern~Steiermark.secret|Mautern~Steiermark.secret]] 
+
+### [Mautern~Steiermark.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.public.md) 
+
+### [Mautern~Steiermark.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.internal.md) 
+
+### [Mautern~Steiermark.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.protect.md) 
+
+### [Mautern~Steiermark.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.private.md) 
+
+### [Mautern~Steiermark.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.personal.md) 
+
+### [Mautern~Steiermark.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMautern~Steiermark.secret.md)
+

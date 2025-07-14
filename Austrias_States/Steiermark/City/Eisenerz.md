@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.55,14.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Eisenerz|Eisenerz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Eisenerz.public|Eisenerz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Eisenerz.internal|Eisenerz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Eisenerz.protect|Eisenerz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Eisenerz.private|Eisenerz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Eisenerz.personal|Eisenerz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Eisenerz.secret|Eisenerz.secret]] 
+
+### [Eisenerz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.public.md) 
+
+### [Eisenerz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.internal.md) 
+
+### [Eisenerz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.protect.md) 
+
+### [Eisenerz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.private.md) 
+
+### [Eisenerz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.personal.md) 
+
+### [Eisenerz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityEisenerz.secret.md)
+

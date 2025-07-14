@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.12,14.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Murau|Murau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Murau.public|Murau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Murau.internal|Murau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Murau.protect|Murau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Murau.private|Murau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Murau.personal|Murau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Murau.secret|Murau.secret]] 
+
+### [Murau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMurau.public.md) 
+
+### [Murau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMurau.internal.md) 
+
+### [Murau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMurau.protect.md) 
+
+### [Murau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMurau.private.md) 
+
+### [Murau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMurau.personal.md) 
+
+### [Murau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityMurau.secret.md)
+

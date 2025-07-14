@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.45,12.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Kitzbuehel|Kitzbuehel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kitzbuehel.public|Kitzbuehel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kitzbuehel.internal|Kitzbuehel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kitzbuehel.protect|Kitzbuehel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kitzbuehel.private|Kitzbuehel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kitzbuehel.personal|Kitzbuehel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kitzbuehel.secret|Kitzbuehel.secret]] 
+
+### [Kitzbuehel.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.public.md) 
+
+### [Kitzbuehel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.internal.md) 
+
+### [Kitzbuehel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.protect.md) 
+
+### [Kitzbuehel.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.private.md) 
+
+### [Kitzbuehel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.personal.md) 
+
+### [Kitzbuehel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityKitzbuehel.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.9,14.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Guttaring|Guttaring]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Guttaring.public|Guttaring.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Guttaring.internal|Guttaring.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Guttaring.protect|Guttaring.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Guttaring.private|Guttaring.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Guttaring.personal|Guttaring.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Guttaring.secret|Guttaring.secret]] 
+
+### [Guttaring.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.public.md) 
+
+### [Guttaring.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.internal.md) 
+
+### [Guttaring.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.protect.md) 
+
+### [Guttaring.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.private.md) 
+
+### [Guttaring.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.personal.md) 
+
+### [Guttaring.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityGuttaring.secret.md)
+

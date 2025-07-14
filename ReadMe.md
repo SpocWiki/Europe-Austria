@@ -245,12 +245,17 @@ Capital :: [[Austrias_States/Wien,State/Wien,City]]
 [has_place_latitude::47.712]
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Austria|Austria]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Austria.public|Austria.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Austria.internal|Austria.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Austria.protect|Austria.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Austria.private|Austria.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Austria.personal|Austria.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Austria.secret|Austria.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\AustriaReadMe.secret.md)
+

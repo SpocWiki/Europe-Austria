@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.38,11.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Rotholz|Rotholz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Rotholz.public|Rotholz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Rotholz.internal|Rotholz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Rotholz.protect|Rotholz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Rotholz.private|Rotholz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Rotholz.personal|Rotholz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Rotholz.secret|Rotholz.secret]] 
+
+### [Rotholz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityRotholz.public.md) 
+
+### [Rotholz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityRotholz.internal.md) 
+
+### [Rotholz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityRotholz.protect.md) 
+
+### [Rotholz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityRotholz.private.md) 
+
+### [Rotholz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityRotholz.personal.md) 
+
+### [Rotholz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityRotholz.secret.md)
+

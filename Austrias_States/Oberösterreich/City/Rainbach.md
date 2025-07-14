@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.57,14.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Rainbach|Rainbach]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Rainbach.public|Rainbach.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Rainbach.internal|Rainbach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Rainbach.protect|Rainbach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Rainbach.private|Rainbach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Rainbach.personal|Rainbach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Rainbach.secret|Rainbach.secret]] 
+
+### [Rainbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRainbach.public.md) 
+
+### [Rainbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRainbach.internal.md) 
+
+### [Rainbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRainbach.protect.md) 
+
+### [Rainbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRainbach.private.md) 
+
+### [Rainbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRainbach.personal.md) 
+
+### [Rainbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRainbach.secret.md)
+

@@ -28,12 +28,17 @@ markerFolder: ./Burgenland/
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/State/Burgenland|Burgenland]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/State/Burgenland.public|Burgenland.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Burgenland.internal|Burgenland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Burgenland.protect|Burgenland.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Burgenland.private|Burgenland.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Burgenland.personal|Burgenland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Burgenland.secret|Burgenland.secret]] 
+
+### [Burgenland.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.public.md) 
+
+### [Burgenland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.internal.md) 
+
+### [Burgenland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.protect.md) 
+
+### [Burgenland.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.private.md) 
+
+### [Burgenland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.personal.md) 
+
+### [Burgenland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesBurgenland.secret.md)
+

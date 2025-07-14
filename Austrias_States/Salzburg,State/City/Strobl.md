@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Strobl|Strobl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Strobl.public|Strobl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Strobl.internal|Strobl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Strobl.protect|Strobl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Strobl.private|Strobl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Strobl.personal|Strobl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Strobl.secret|Strobl.secret]] 
+
+### [Strobl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.public.md) 
+
+### [Strobl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.internal.md) 
+
+### [Strobl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.protect.md) 
+
+### [Strobl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.private.md) 
+
+### [Strobl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.personal.md) 
+
+### [Strobl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityStrobl.secret.md)
+

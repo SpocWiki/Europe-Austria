@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.1,13.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Wolfsegg|Wolfsegg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wolfsegg.public|Wolfsegg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wolfsegg.internal|Wolfsegg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wolfsegg.protect|Wolfsegg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wolfsegg.private|Wolfsegg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wolfsegg.personal|Wolfsegg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wolfsegg.secret|Wolfsegg.secret]] 
+
+### [Wolfsegg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWolfsegg.public.md) 
+
+### [Wolfsegg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWolfsegg.internal.md) 
+
+### [Wolfsegg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWolfsegg.protect.md) 
+
+### [Wolfsegg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWolfsegg.private.md) 
+
+### [Wolfsegg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWolfsegg.personal.md) 
+
+### [Wolfsegg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityWolfsegg.secret.md)
+

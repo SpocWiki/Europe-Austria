@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.12,11.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Kathrein|St.Kathrein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Kathrein.public|St.Kathrein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Kathrein.internal|St.Kathrein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Kathrein.protect|St.Kathrein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Kathrein.private|St.Kathrein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Kathrein.personal|St.Kathrein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Kathrein.secret|St.Kathrein.secret]] 
+
+### [St.Kathrein.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.public.md) 
+
+### [St.Kathrein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.internal.md) 
+
+### [St.Kathrein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.protect.md) 
+
+### [St.Kathrein.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.private.md) 
+
+### [St.Kathrein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.personal.md) 
+
+### [St.Kathrein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CitySt.Kathrein.secret.md)
+

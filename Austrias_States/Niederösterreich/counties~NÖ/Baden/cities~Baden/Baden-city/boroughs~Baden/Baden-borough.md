@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Baden_bei_Wien|Baden_bei_Wien]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Baden_bei_Wien.public|Baden_bei_Wien.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Baden_bei_Wien.internal|Baden_bei_Wien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Baden_bei_Wien.protect|Baden_bei_Wien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Baden_bei_Wien.private|Baden_bei_Wien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Baden_bei_Wien.personal|Baden_bei_Wien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Baden_bei_Wien.secret|Baden_bei_Wien.secret]] 
+
+### [Baden-borough.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.public.md) 
+
+### [Baden-borough.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.internal.md) 
+
+### [Baden-borough.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.protect.md) 
+
+### [Baden-borough.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.private.md) 
+
+### [Baden-borough.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.personal.md) 
+
+### [Baden-borough.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\counties~NÖ\Baden\cities~Baden\Baden-city\boroughs~BadenBaden-borough.secret.md)
+

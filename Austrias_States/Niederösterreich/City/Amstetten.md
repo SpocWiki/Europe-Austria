@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.12,14.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Amstetten|Amstetten]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Amstetten.public|Amstetten.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Amstetten.internal|Amstetten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Amstetten.protect|Amstetten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Amstetten.private|Amstetten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Amstetten.personal|Amstetten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Amstetten.secret|Amstetten.secret]] 
+
+### [Amstetten.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAmstetten.public.md) 
+
+### [Amstetten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAmstetten.internal.md) 
+
+### [Amstetten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAmstetten.protect.md) 
+
+### [Amstetten.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAmstetten.private.md) 
+
+### [Amstetten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAmstetten.personal.md) 
+
+### [Amstetten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAmstetten.secret.md)
+

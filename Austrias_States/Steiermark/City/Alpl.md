@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.5,15.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Alpl|Alpl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Alpl.public|Alpl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Alpl.internal|Alpl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Alpl.protect|Alpl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Alpl.private|Alpl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Alpl.personal|Alpl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Alpl.secret|Alpl.secret]] 
+
+### [Alpl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlpl.public.md) 
+
+### [Alpl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlpl.internal.md) 
+
+### [Alpl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlpl.protect.md) 
+
+### [Alpl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlpl.private.md) 
+
+### [Alpl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlpl.personal.md) 
+
+### [Alpl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAlpl.secret.md)
+

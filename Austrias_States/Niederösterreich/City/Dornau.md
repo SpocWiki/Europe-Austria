@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.92,16.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Dornau|Dornau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Dornau.public|Dornau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Dornau.internal|Dornau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Dornau.protect|Dornau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Dornau.private|Dornau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Dornau.personal|Dornau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Dornau.secret|Dornau.secret]] 
+
+### [Dornau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityDornau.public.md) 
+
+### [Dornau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityDornau.internal.md) 
+
+### [Dornau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityDornau.protect.md) 
+
+### [Dornau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityDornau.private.md) 
+
+### [Dornau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityDornau.personal.md) 
+
+### [Dornau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityDornau.secret.md)
+

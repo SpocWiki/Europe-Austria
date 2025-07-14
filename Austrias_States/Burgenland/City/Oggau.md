@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.83,16.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Oggau|Oggau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Oggau.public|Oggau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Oggau.internal|Oggau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Oggau.protect|Oggau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Oggau.private|Oggau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Oggau.personal|Oggau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Oggau.secret|Oggau.secret]] 
+
+### [Oggau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.public.md) 
+
+### [Oggau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.internal.md) 
+
+### [Oggau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.protect.md) 
+
+### [Oggau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.private.md) 
+
+### [Oggau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.personal.md) 
+
+### [Oggau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityOggau.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.2,16.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Grossenzersdorf|Grossenzersdorf]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Grossenzersdorf.public|Grossenzersdorf.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Grossenzersdorf.internal|Grossenzersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Grossenzersdorf.protect|Grossenzersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Grossenzersdorf.private|Grossenzersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Grossenzersdorf.personal|Grossenzersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Grossenzersdorf.secret|Grossenzersdorf.secret]] 
+
+### [Grossenzersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.public.md) 
+
+### [Grossenzersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.internal.md) 
+
+### [Grossenzersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.protect.md) 
+
+### [Grossenzersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.private.md) 
+
+### [Grossenzersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.personal.md) 
+
+### [Grossenzersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityGrossenzersdorf.secret.md)
+

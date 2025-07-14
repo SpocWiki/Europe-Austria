@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.82,15.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Waidhofen|Waidhofen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Waidhofen.public|Waidhofen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Waidhofen.internal|Waidhofen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Waidhofen.protect|Waidhofen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Waidhofen.private|Waidhofen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Waidhofen.personal|Waidhofen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Waidhofen.secret|Waidhofen.secret]] 
+
+### [Waidhofen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWaidhofen.public.md) 
+
+### [Waidhofen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWaidhofen.internal.md) 
+
+### [Waidhofen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWaidhofen.protect.md) 
+
+### [Waidhofen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWaidhofen.private.md) 
+
+### [Waidhofen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWaidhofen.personal.md) 
+
+### [Waidhofen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWaidhofen.secret.md)
+

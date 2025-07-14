@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.97,16.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Voeslau|Voeslau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Voeslau.public|Voeslau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Voeslau.internal|Voeslau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Voeslau.protect|Voeslau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Voeslau.private|Voeslau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Voeslau.personal|Voeslau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Voeslau.secret|Voeslau.secret]] 
+
+### [Voeslau.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityVoeslau.public.md) 
+
+### [Voeslau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityVoeslau.internal.md) 
+
+### [Voeslau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityVoeslau.protect.md) 
+
+### [Voeslau.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityVoeslau.private.md) 
+
+### [Voeslau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityVoeslau.personal.md) 
+
+### [Voeslau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityVoeslau.secret.md)
+

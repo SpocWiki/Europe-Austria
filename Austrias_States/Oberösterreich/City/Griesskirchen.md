@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.23,13.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Griesskirchen|Griesskirchen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Griesskirchen.public|Griesskirchen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Griesskirchen.internal|Griesskirchen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Griesskirchen.protect|Griesskirchen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Griesskirchen.private|Griesskirchen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Griesskirchen.personal|Griesskirchen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Griesskirchen.secret|Griesskirchen.secret]] 
+
+### [Griesskirchen.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.public.md) 
+
+### [Griesskirchen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.internal.md) 
+
+### [Griesskirchen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.protect.md) 
+
+### [Griesskirchen.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.private.md) 
+
+### [Griesskirchen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.personal.md) 
+
+### [Griesskirchen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityGriesskirchen.secret.md)
+

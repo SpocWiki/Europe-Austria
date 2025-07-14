@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.58,14.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Admont|Admont]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Admont.public|Admont.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Admont.internal|Admont.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Admont.protect|Admont.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Admont.private|Admont.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Admont.personal|Admont.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Admont.secret|Admont.secret]] 
+
+### [Admont.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAdmont.public.md) 
+
+### [Admont.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAdmont.internal.md) 
+
+### [Admont.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAdmont.protect.md) 
+
+### [Admont.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAdmont.private.md) 
+
+### [Admont.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAdmont.personal.md) 
+
+### [Admont.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityAdmont.secret.md)
+

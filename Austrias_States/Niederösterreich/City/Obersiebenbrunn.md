@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.27,16.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Obersiebenbrunn|Obersiebenbrunn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Obersiebenbrunn.public|Obersiebenbrunn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Obersiebenbrunn.internal|Obersiebenbrunn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Obersiebenbrunn.protect|Obersiebenbrunn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Obersiebenbrunn.private|Obersiebenbrunn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Obersiebenbrunn.personal|Obersiebenbrunn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Obersiebenbrunn.secret|Obersiebenbrunn.secret]] 
+
+### [Obersiebenbrunn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.public.md) 
+
+### [Obersiebenbrunn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.internal.md) 
+
+### [Obersiebenbrunn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.protect.md) 
+
+### [Obersiebenbrunn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.private.md) 
+
+### [Obersiebenbrunn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.personal.md) 
+
+### [Obersiebenbrunn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityObersiebenbrunn.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.22,12.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Bad_Fusch|Bad_Fusch]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Bad_Fusch.public|Bad_Fusch.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Fusch.internal|Bad_Fusch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Fusch.protect|Bad_Fusch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Fusch.private|Bad_Fusch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Fusch.personal|Bad_Fusch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Fusch.secret|Bad_Fusch.secret]] 
+
+### [Bad_Fusch.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.public.md) 
+
+### [Bad_Fusch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.internal.md) 
+
+### [Bad_Fusch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.protect.md) 
+
+### [Bad_Fusch.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.private.md) 
+
+### [Bad_Fusch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.personal.md) 
+
+### [Bad_Fusch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CityBad_Fusch.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.83,16.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Fischau_Bad|Fischau_Bad]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Fischau_Bad.public|Fischau_Bad.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Fischau_Bad.internal|Fischau_Bad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Fischau_Bad.protect|Fischau_Bad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Fischau_Bad.private|Fischau_Bad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Fischau_Bad.personal|Fischau_Bad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Fischau_Bad.secret|Fischau_Bad.secret]] 
+
+### [Fischau_Bad.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.public.md) 
+
+### [Fischau_Bad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.internal.md) 
+
+### [Fischau_Bad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.protect.md) 
+
+### [Fischau_Bad.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.private.md) 
+
+### [Fischau_Bad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.personal.md) 
+
+### [Fischau_Bad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityFischau_Bad.secret.md)
+

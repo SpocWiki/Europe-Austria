@@ -310,10 +310,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Wien=Vienna|Wien=Vienna]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wien=Vienna.public|Wien=Vienna.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wien=Vienna.internal|Wien=Vienna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wien=Vienna.protect|Wien=Vienna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wien=Vienna.private|Wien=Vienna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wien=Vienna.personal|Wien=Vienna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wien=Vienna.secret|Wien=Vienna.secret]] 
+
+### [Wien,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.public.md) 
+
+### [Wien,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.internal.md) 
+
+### [Wien,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.protect.md) 
+
+### [Wien,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.private.md) 
+
+### [Wien,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.personal.md) 
+
+### [Wien,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,StateWien,City.secret.md)
+

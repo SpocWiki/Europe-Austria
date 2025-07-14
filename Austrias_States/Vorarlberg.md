@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 47.2 , 9.9 ] 
 
 type: State
@@ -27,12 +27,17 @@ markerFolder: ./Vorarlberg/
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/State/Vorarlberg|Vorarlberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/State/Vorarlberg.public|Vorarlberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/State/Vorarlberg.internal|Vorarlberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/State/Vorarlberg.protect|Vorarlberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/State/Vorarlberg.private|Vorarlberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/State/Vorarlberg.personal|Vorarlberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/State/Vorarlberg.secret|Vorarlberg.secret]] 
+
+### [Vorarlberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.public.md) 
+
+### [Vorarlberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.internal.md) 
+
+### [Vorarlberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.protect.md) 
+
+### [Vorarlberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.private.md) 
+
+### [Vorarlberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.personal.md) 
+
+### [Vorarlberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_StatesVorarlberg.secret.md)
+

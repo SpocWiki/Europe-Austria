@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.77,14.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Andrae|St.Andrae]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Andrae.public|St.Andrae.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Andrae.internal|St.Andrae.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Andrae.protect|St.Andrae.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Andrae.private|St.Andrae.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Andrae.personal|St.Andrae.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Andrae.secret|St.Andrae.secret]] 
+
+### [St.Andrae.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.public.md) 
+
+### [St.Andrae.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.internal.md) 
+
+### [St.Andrae.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.protect.md) 
+
+### [St.Andrae.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.private.md) 
+
+### [St.Andrae.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.personal.md) 
+
+### [St.Andrae.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CitySt.Andrae.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.68,14.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Radweg|Radweg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Radweg.public|Radweg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Radweg.internal|Radweg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Radweg.protect|Radweg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Radweg.private|Radweg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Radweg.personal|Radweg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Radweg.secret|Radweg.secret]] 
+
+### [Radweg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityRadweg.public.md) 
+
+### [Radweg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityRadweg.internal.md) 
+
+### [Radweg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityRadweg.protect.md) 
+
+### [Radweg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityRadweg.private.md) 
+
+### [Radweg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityRadweg.personal.md) 
+
+### [Radweg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityRadweg.secret.md)
+

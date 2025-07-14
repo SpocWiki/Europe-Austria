@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.2,16.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Mariabrunn|Mariabrunn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Mariabrunn.public|Mariabrunn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Mariabrunn.internal|Mariabrunn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Mariabrunn.protect|Mariabrunn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Mariabrunn.private|Mariabrunn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Mariabrunn.personal|Mariabrunn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Mariabrunn.secret|Mariabrunn.secret]] 
+
+### [Mariabrunn.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.public.md) 
+
+### [Mariabrunn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.internal.md) 
+
+### [Mariabrunn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.protect.md) 
+
+### [Mariabrunn.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.private.md) 
+
+### [Mariabrunn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.personal.md) 
+
+### [Mariabrunn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Wien,State\boroughs~Wien\HadersdorfMariabrunn.secret.md)
+

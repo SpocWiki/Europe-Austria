@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.05,16.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Gussing|Gussing]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Gussing.public|Gussing.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Gussing.internal|Gussing.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Gussing.protect|Gussing.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Gussing.private|Gussing.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Gussing.personal|Gussing.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Gussing.secret|Gussing.secret]] 
+
+### [Gussing.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.public.md) 
+
+### [Gussing.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.internal.md) 
+
+### [Gussing.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.protect.md) 
+
+### [Gussing.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.private.md) 
+
+### [Gussing.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.personal.md) 
+
+### [Gussing.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Burgenland\CityGussing.secret.md)
+

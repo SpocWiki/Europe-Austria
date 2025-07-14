@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.22,13.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich|Ried~Oberoesterreich]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.public|Ried~Oberoesterreich.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.internal|Ried~Oberoesterreich.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.protect|Ried~Oberoesterreich.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.private|Ried~Oberoesterreich.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.personal|Ried~Oberoesterreich.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Ried~Oberoesterreich.secret|Ried~Oberoesterreich.secret]] 
+
+### [Ried~Oberoesterreich.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.public.md) 
+
+### [Ried~Oberoesterreich.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.internal.md) 
+
+### [Ried~Oberoesterreich.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.protect.md) 
+
+### [Ried~Oberoesterreich.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.private.md) 
+
+### [Ried~Oberoesterreich.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.personal.md) 
+
+### [Ried~Oberoesterreich.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Oberösterreich\CityRied~Oberoesterreich.secret.md)
+

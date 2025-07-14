@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.42,13.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/St.Rupert|St.Rupert]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/St.Rupert.public|St.Rupert.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Rupert.internal|St.Rupert.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Rupert.protect|St.Rupert.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/St.Rupert.private|St.Rupert.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Rupert.personal|St.Rupert.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Rupert.secret|St.Rupert.secret]] 
+
+### [St.Rupert.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.public.md) 
+
+### [St.Rupert.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.internal.md) 
+
+### [St.Rupert.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.protect.md) 
+
+### [St.Rupert.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.private.md) 
+
+### [St.Rupert.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.personal.md) 
+
+### [St.Rupert.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Salzburg,State\CitySt.Rupert.secret.md)
+

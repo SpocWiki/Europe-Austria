@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.08,16.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Moedling|Moedling]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Moedling.public|Moedling.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Moedling.internal|Moedling.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Moedling.protect|Moedling.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Moedling.private|Moedling.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Moedling.personal|Moedling.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Moedling.secret|Moedling.secret]] 
+
+### [Moedling.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoedling.public.md) 
+
+### [Moedling.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoedling.internal.md) 
+
+### [Moedling.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoedling.protect.md) 
+
+### [Moedling.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoedling.private.md) 
+
+### [Moedling.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoedling.personal.md) 
+
+### [Moedling.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityMoedling.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.43,14.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Kleinpertenschlag|Kleinpertenschlag]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kleinpertenschlag.public|Kleinpertenschlag.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kleinpertenschlag.internal|Kleinpertenschlag.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kleinpertenschlag.protect|Kleinpertenschlag.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kleinpertenschlag.private|Kleinpertenschlag.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kleinpertenschlag.personal|Kleinpertenschlag.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kleinpertenschlag.secret|Kleinpertenschlag.secret]] 
+
+### [Kleinpertenschlag.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.public.md) 
+
+### [Kleinpertenschlag.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.internal.md) 
+
+### [Kleinpertenschlag.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.protect.md) 
+
+### [Kleinpertenschlag.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.private.md) 
+
+### [Kleinpertenschlag.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.personal.md) 
+
+### [Kleinpertenschlag.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityKleinpertenschlag.secret.md)
+

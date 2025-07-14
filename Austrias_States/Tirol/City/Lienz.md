@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.82,12.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Lienz|Lienz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Lienz.public|Lienz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Lienz.internal|Lienz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Lienz.protect|Lienz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Lienz.private|Lienz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Lienz.personal|Lienz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Lienz.secret|Lienz.secret]] 
+
+### [Lienz.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.public.md) 
+
+### [Lienz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.internal.md) 
+
+### [Lienz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.protect.md) 
+
+### [Lienz.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.private.md) 
+
+### [Lienz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.personal.md) 
+
+### [Lienz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Tirol\CityLienz.secret.md)
+

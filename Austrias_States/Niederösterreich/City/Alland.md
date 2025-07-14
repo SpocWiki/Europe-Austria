@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.05,16.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Alland|Alland]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Alland.public|Alland.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Alland.internal|Alland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Alland.protect|Alland.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Alland.private|Alland.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Alland.personal|Alland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Alland.secret|Alland.secret]] 
+
+### [Alland.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAlland.public.md) 
+
+### [Alland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAlland.internal.md) 
+
+### [Alland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAlland.protect.md) 
+
+### [Alland.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAlland.private.md) 
+
+### [Alland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAlland.personal.md) 
+
+### [Alland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAlland.secret.md)
+

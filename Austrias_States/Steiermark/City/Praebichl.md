@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.52,14.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Praebichl|Praebichl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Praebichl.public|Praebichl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Praebichl.internal|Praebichl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Praebichl.protect|Praebichl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Praebichl.private|Praebichl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Praebichl.personal|Praebichl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Praebichl.secret|Praebichl.secret]] 
+
+### [Praebichl.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.public.md) 
+
+### [Praebichl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.internal.md) 
+
+### [Praebichl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.protect.md) 
+
+### [Praebichl.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.private.md) 
+
+### [Praebichl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.personal.md) 
+
+### [Praebichl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityPraebichl.secret.md)
+

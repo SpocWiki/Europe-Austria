@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.3,15.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Aggsbach|Aggsbach]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Aggsbach.public|Aggsbach.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Aggsbach.internal|Aggsbach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Aggsbach.protect|Aggsbach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Aggsbach.private|Aggsbach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Aggsbach.personal|Aggsbach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Aggsbach.secret|Aggsbach.secret]] 
+
+### [Aggsbach.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAggsbach.public.md) 
+
+### [Aggsbach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAggsbach.internal.md) 
+
+### [Aggsbach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAggsbach.protect.md) 
+
+### [Aggsbach.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAggsbach.private.md) 
+
+### [Aggsbach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAggsbach.personal.md) 
+
+### [Aggsbach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityAggsbach.secret.md)
+

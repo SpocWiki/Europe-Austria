@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.4,15.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Leoben|Leoben]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Leoben.public|Leoben.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Leoben.internal|Leoben.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Leoben.protect|Leoben.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Leoben.private|Leoben.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Leoben.personal|Leoben.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Leoben.secret|Leoben.secret]] 
+
+### [Leoben.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityLeoben.public.md) 
+
+### [Leoben.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityLeoben.internal.md) 
+
+### [Leoben.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityLeoben.protect.md) 
+
+### [Leoben.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityLeoben.private.md) 
+
+### [Leoben.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityLeoben.personal.md) 
+
+### [Leoben.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityLeoben.secret.md)
+

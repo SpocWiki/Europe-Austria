@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.7,16] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Radkersburg|Radkersburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Radkersburg.public|Radkersburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Radkersburg.internal|Radkersburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Radkersburg.protect|Radkersburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Radkersburg.private|Radkersburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Radkersburg.personal|Radkersburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Radkersburg.secret|Radkersburg.secret]] 
+
+### [Radkersburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.public.md) 
+
+### [Radkersburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.internal.md) 
+
+### [Radkersburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.protect.md) 
+
+### [Radkersburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.private.md) 
+
+### [Radkersburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.personal.md) 
+
+### [Radkersburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityRadkersburg.secret.md)
+

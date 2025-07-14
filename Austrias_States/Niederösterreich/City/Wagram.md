@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.28,16.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Wagram|Wagram]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wagram.public|Wagram.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wagram.internal|Wagram.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wagram.protect|Wagram.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wagram.private|Wagram.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wagram.personal|Wagram.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wagram.secret|Wagram.secret]] 
+
+### [Wagram.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWagram.public.md) 
+
+### [Wagram.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWagram.internal.md) 
+
+### [Wagram.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWagram.protect.md) 
+
+### [Wagram.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWagram.private.md) 
+
+### [Wagram.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWagram.personal.md) 
+
+### [Wagram.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWagram.secret.md)
+

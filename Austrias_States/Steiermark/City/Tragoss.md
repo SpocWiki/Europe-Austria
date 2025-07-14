@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.52,15.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Tragoss|Tragoss]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Tragoss.public|Tragoss.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Tragoss.internal|Tragoss.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Tragoss.protect|Tragoss.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Tragoss.private|Tragoss.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Tragoss.personal|Tragoss.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Tragoss.secret|Tragoss.secret]] 
+
+### [Tragoss.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTragoss.public.md) 
+
+### [Tragoss.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTragoss.internal.md) 
+
+### [Tragoss.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTragoss.protect.md) 
+
+### [Tragoss.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTragoss.private.md) 
+
+### [Tragoss.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTragoss.personal.md) 
+
+### [Tragoss.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Steiermark\CityTragoss.secret.md)
+

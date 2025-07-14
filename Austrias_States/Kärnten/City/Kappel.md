@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.53,14.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Kappel|Kappel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kappel.public|Kappel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kappel.internal|Kappel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kappel.protect|Kappel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kappel.private|Kappel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kappel.personal|Kappel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kappel.secret|Kappel.secret]] 
+
+### [Kappel.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKappel.public.md) 
+
+### [Kappel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKappel.internal.md) 
+
+### [Kappel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKappel.protect.md) 
+
+### [Kappel.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKappel.private.md) 
+
+### [Kappel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKappel.personal.md) 
+
+### [Kappel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKappel.secret.md)
+

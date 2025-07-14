@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.68,12.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Kornat|Kornat]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Kornat.public|Kornat.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Kornat.internal|Kornat.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Kornat.protect|Kornat.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Kornat.private|Kornat.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Kornat.personal|Kornat.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Kornat.secret|Kornat.secret]] 
+
+### [Kornat.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.public.md) 
+
+### [Kornat.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.internal.md) 
+
+### [Kornat.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.protect.md) 
+
+### [Kornat.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.private.md) 
+
+### [Kornat.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.personal.md) 
+
+### [Kornat.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKornat.secret.md)
+

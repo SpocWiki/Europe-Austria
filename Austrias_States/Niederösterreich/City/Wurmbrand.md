@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.6,14.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Wurmbrand|Wurmbrand]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Wurmbrand.public|Wurmbrand.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Wurmbrand.internal|Wurmbrand.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Wurmbrand.protect|Wurmbrand.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Wurmbrand.private|Wurmbrand.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Wurmbrand.personal|Wurmbrand.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Wurmbrand.secret|Wurmbrand.secret]] 
+
+### [Wurmbrand.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.public.md) 
+
+### [Wurmbrand.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.internal.md) 
+
+### [Wurmbrand.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.protect.md) 
+
+### [Wurmbrand.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.private.md) 
+
+### [Wurmbrand.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.personal.md) 
+
+### [Wurmbrand.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Niederösterreich\CityWurmbrand.secret.md)
+

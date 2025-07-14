@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.6,14.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Klagenfurt|Klagenfurt]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Klagenfurt.public|Klagenfurt.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Klagenfurt.internal|Klagenfurt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Klagenfurt.protect|Klagenfurt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Klagenfurt.private|Klagenfurt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Klagenfurt.personal|Klagenfurt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Klagenfurt.secret|Klagenfurt.secret]] 
+
+### [Klagenfurt.public](/_public/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.public.md) 
+
+### [Klagenfurt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.internal.md) 
+
+### [Klagenfurt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.protect.md) 
+
+### [Klagenfurt.private](/_private/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.private.md) 
+
+### [Klagenfurt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.personal.md) 
+
+### [Klagenfurt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Austria\Austrias_States\Kärnten\CityKlagenfurt.secret.md)
+
