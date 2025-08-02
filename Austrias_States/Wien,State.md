@@ -12,8 +12,10 @@ aliases:
 ---
 
 [StateId::] 
-isDeleted: false
-confidential: public
+isDeleted :: false
+confidential :: public
+
+
 ```leaflet
 id: Wien
 zoomFeatures: true 
