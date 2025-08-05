@@ -8,14 +8,7 @@ tags:
 aliases:
   - Tyrol
 ---
-﻿---
-location: [ 47.3 , 11.1 ] 
 
-type: State
-tags:
-- geo/State
-
----
 [StateId::] 
 isDeleted: false
 confidential: public
