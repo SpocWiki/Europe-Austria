@@ -1,39 +1,40 @@
 ---
 title: Austria
-linkTitle: 
+linkTitle:
 type: Country
 has_id_wikidata: Q40
 location:
-- 47.712
-- 14.381
+  - 47.712
+  - 14.381
 SpocWebEntityId: 26837
 tags:
-- geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
-keywords: 
-layout: 
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Austria
-- Autriche
-- النمسا
-- 奥地利
-- Австрия
-- the Republic of Austria
-- la República de Austria
+  - Austria
+  - Autriche
+  - النمسا
+  - 奥地利
+  - Австрия
+  - the Republic of Austria
+  - la República de Austria
 Languages:
-- de-AT
-- hr
-- hu
-- sl
+  - de-AT
+  - hr
+  - hu
+  - sl
 icon: flag-at
 ---
 
