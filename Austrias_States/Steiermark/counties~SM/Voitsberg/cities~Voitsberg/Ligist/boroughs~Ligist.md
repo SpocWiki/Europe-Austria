@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Ligist
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Ligist//
 markerFolder: ./boroughs~Ligist/

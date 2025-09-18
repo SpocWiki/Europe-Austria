@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Lang
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Lang//
 markerFolder: ./boroughs~Lang/

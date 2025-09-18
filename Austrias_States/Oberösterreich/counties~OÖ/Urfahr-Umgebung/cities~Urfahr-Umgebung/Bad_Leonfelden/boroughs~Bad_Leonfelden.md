@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Bad_Leonfelden
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Bad_Leonfelden//
 markerFolder: ./boroughs~Bad_Leonfelden/

@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Kitzeck~Sausal
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Kitzeck~Sausal//
 markerFolder: ./boroughs~Kitzeck~Sausal/

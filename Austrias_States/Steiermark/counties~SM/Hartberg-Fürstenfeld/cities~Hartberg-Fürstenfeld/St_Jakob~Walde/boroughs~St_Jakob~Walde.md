@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~St_Jakob~Walde
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Jakob~Walde//
 markerFolder: ./boroughs~St_Jakob~Walde/

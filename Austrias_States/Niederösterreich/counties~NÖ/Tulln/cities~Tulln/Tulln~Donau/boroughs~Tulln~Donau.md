@@ -9,7 +9,7 @@
 ```leaflet
 id: boroughs~Tulln~Donau
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Tulln~Donau//
 markerFolder: ./boroughs~Tulln~Donau/

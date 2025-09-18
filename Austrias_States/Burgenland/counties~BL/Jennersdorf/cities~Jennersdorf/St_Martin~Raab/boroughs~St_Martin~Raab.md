@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Sankt_Martin~Raab
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Sankt_Martin~Raab//
 markerFolder: ./boroughs~Sankt_Martin~Raab/

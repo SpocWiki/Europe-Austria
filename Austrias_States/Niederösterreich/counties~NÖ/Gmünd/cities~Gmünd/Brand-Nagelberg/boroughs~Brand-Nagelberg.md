@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Brand-Nagelberg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Brand-Nagelberg//
 markerFolder: ./boroughs~Brand-Nagelberg/

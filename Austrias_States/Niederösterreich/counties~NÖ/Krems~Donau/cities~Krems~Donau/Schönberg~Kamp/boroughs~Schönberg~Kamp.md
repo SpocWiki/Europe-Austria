@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Schönberg~Kamp
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Schönberg~Kamp//
 markerFolder: ./boroughs~Schönberg~Kamp/

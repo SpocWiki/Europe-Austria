@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Angern~March
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Angern~March//
 markerFolder: ./boroughs~Angern~March/

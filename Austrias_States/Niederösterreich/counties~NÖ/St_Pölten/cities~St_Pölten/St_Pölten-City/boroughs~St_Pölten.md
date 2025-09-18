@@ -9,7 +9,7 @@
 ```leaflet
 id: boroughs~St_Pölten
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Pölten//
 markerFolder: ./boroughs~St_Pölten/

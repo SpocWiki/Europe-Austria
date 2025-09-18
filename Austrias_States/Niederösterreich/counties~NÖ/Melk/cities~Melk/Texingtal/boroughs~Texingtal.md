@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Texingtal
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Texingtal//
 markerFolder: ./boroughs~Texingtal/

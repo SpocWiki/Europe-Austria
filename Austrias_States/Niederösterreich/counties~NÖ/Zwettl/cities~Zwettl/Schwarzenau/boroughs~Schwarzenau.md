@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Schwarzenau
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Schwarzenau//
 markerFolder: ./boroughs~Schwarzenau/

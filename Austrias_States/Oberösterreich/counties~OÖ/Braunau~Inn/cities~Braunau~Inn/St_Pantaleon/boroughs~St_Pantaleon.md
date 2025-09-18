@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~St_Pantaleon
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Pantaleon//
 markerFolder: ./boroughs~St_Pantaleon/

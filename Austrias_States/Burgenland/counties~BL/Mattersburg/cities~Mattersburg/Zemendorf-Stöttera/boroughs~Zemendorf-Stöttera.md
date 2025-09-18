@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Zemendorf-Stöttera
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Zemendorf-Stöttera//
 markerFolder: ./boroughs~Zemendorf-Stöttera/

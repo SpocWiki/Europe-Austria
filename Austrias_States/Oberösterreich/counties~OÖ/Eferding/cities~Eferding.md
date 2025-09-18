@@ -8,7 +8,7 @@
 ```leaflet
 id: cities~Eferding
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~Eferding//
 markerFolder: ./cities~Eferding/

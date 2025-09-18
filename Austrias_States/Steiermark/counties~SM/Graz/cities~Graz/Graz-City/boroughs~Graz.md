@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Graz
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Graz//
 markerFolder: ./boroughs~Graz/

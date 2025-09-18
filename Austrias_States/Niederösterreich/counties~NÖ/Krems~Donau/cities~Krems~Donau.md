@@ -8,7 +8,7 @@
 ```leaflet
 id: cities~Krems_Land
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~Krems_Land//
 markerFolder: ./cities~Krems_Land/

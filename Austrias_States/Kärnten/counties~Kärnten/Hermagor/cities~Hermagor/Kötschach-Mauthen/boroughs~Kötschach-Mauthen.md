@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Kötschach-Mauthen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Kötschach-Mauthen//
 markerFolder: ./boroughs~Kötschach-Mauthen/

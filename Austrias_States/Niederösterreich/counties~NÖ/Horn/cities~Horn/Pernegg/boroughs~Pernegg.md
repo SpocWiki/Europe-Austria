@@ -9,7 +9,7 @@
 ```leaflet
 id: boroughs~Pernegg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Pernegg//
 markerFolder: ./boroughs~Pernegg/

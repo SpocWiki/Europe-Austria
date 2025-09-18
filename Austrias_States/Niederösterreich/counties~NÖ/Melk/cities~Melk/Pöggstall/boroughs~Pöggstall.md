@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Pöggstall
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Pöggstall//
 markerFolder: ./boroughs~Pöggstall/

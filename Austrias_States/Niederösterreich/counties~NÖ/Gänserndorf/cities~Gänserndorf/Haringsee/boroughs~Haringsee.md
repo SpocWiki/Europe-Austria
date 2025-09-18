@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Haringsee
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Haringsee//
 markerFolder: ./boroughs~Haringsee/

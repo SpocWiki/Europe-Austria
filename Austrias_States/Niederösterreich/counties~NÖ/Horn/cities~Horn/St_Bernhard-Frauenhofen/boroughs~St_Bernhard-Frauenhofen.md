@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~St_Bernhard-Frauenhofen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Bernhard-Frauenhofen//
 markerFolder: ./boroughs~St_Bernhard-Frauenhofen/

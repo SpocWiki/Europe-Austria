@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Grafendorf~Hartberg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Grafendorf~Hartberg//
 markerFolder: ./boroughs~Grafendorf~Hartberg/

@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Gutenberg-Stenzengreith
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Gutenberg-Stenzengreith//
 markerFolder: ./boroughs~Gutenberg-Stenzengreith/

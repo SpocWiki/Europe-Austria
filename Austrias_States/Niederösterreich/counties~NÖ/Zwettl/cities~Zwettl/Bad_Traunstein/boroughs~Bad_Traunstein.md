@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Bad_Traunstein
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Bad_Traunstein//
 markerFolder: ./boroughs~Bad_Traunstein/

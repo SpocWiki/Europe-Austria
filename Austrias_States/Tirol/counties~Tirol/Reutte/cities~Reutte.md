@@ -8,7 +8,7 @@
 ```leaflet
 id: cities~Reutte
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~Reutte//
 markerFolder: ./cities~Reutte/

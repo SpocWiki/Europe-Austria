@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Kirchschlag~Buckligen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Kirchschlag~Buckligen//
 markerFolder: ./boroughs~Kirchschlag~Buckligen/

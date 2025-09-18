@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Langschlag
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Langschlag//
 markerFolder: ./boroughs~Langschlag/

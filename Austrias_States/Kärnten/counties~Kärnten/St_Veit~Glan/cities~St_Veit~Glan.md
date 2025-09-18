@@ -8,7 +8,7 @@
 ```leaflet
 id: cities~Sankt_Veit~Glan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~Sankt_Veit~Glan//
 markerFolder: ./cities~Sankt_Veit~Glan/

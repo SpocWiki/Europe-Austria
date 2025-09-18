@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Pölla
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Pölla//
 markerFolder: ./boroughs~Pölla/

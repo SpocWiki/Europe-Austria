@@ -9,7 +9,7 @@
 ```leaflet
 id: cities~St_Pölten
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~St_Pölten//
 markerFolder: ./cities~St_Pölten/

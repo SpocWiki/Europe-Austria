@@ -9,7 +9,7 @@
 ```leaflet
 id: cities~Korneuburg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~Korneuburg//
 markerFolder: ./cities~Korneuburg/

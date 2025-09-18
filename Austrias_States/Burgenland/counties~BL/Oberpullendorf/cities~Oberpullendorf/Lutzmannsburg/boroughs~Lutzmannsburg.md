@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Lutzmannsburg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Lutzmannsburg//
 markerFolder: ./boroughs~Lutzmannsburg/

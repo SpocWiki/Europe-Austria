@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Altheim
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Altheim//
 markerFolder: ./boroughs~Altheim/

@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Trautmannsdorf~Leitha
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Trautmannsdorf~Leitha//
 markerFolder: ./boroughs~Trautmannsdorf~Leitha/

@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Stronsdorf
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Stronsdorf//
 markerFolder: ./boroughs~Stronsdorf/

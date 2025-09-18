@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~St_Nikola~Donau
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Nikola~Donau//
 markerFolder: ./boroughs~St_Nikola~Donau/

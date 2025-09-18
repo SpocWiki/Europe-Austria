@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Stadl-Paura
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Stadl-Paura//
 markerFolder: ./boroughs~Stadl-Paura/

@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Großmugl
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Großmugl//
 markerFolder: ./boroughs~Großmugl/

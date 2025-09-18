@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Drasenhofen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Drasenhofen//
 markerFolder: ./boroughs~Drasenhofen/

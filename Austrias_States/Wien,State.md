@@ -19,7 +19,7 @@ confidential :: public
 ```leaflet
 id: Wien
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./State~Wien/
 markerFolder: ./State~Wien/

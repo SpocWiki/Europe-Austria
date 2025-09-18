@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~St_Georgen~Lavanttal
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Georgen~Lavanttal//
 markerFolder: ./boroughs~St_Georgen~Lavanttal/

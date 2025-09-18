@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~St_Stefanob_Stainz
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Stefanob_Stainz//
 markerFolder: ./boroughs~St_Stefanob_Stainz/

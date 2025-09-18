@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Göstling~Ybbs
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Göstling~Ybbs//
 markerFolder: ./boroughs~Göstling~Ybbs/

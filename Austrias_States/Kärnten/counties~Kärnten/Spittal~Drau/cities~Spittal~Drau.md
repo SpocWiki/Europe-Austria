@@ -8,7 +8,7 @@
 ```leaflet
 id: cities~Spittal~Drau
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~Spittal~Drau//
 markerFolder: ./cities~Spittal~Drau/

@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Allentsteig
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Allentsteig//
 markerFolder: ./boroughs~Allentsteig/

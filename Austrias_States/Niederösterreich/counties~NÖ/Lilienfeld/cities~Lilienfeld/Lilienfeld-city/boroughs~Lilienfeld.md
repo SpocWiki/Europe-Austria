@@ -7,7 +7,7 @@
 ```leaflet
 id: boroughs~Lilienfeld
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Lilienfeld//
 markerFolder: ./boroughs~Lilienfeld/

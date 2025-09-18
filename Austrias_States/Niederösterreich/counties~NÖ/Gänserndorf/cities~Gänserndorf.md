@@ -39,7 +39,7 @@ zoomFeatures: true
 coordinates: [[Gaenserndorf_bei_Wien]] 
 markerFile: [[Gaenserndorf_bei_Wien]] 
 defaultZoom: 11 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~Gänserndorf//
 markerFolder: ./cities~Gänserndorf/

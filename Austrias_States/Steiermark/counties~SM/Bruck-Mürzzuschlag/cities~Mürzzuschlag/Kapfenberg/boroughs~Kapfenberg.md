@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Kapfenberg
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Kapfenberg//
 markerFolder: ./boroughs~Kapfenberg/

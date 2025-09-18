@@ -15,7 +15,7 @@ confidential: public
 ```leaflet
 id: Steiermark
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Steiermark/
 markerFolder: ./Steiermark/

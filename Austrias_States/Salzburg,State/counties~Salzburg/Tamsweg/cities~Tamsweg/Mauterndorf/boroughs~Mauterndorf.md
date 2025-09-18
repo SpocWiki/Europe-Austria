@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Mauterndorf
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Mauterndorf//
 markerFolder: ./boroughs~Mauterndorf/

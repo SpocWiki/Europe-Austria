@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Kirchberg~Raab
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Kirchberg~Raab//
 markerFolder: ./boroughs~Kirchberg~Raab/

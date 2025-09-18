@@ -8,7 +8,7 @@
 ```leaflet
 id: cities~Oberpullendorf
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./cities~Oberpullendorf//
 markerFolder: ./cities~Oberpullendorf/

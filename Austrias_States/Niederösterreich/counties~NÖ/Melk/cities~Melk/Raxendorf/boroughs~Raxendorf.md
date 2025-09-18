@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Raxendorf
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Raxendorf//
 markerFolder: ./boroughs~Raxendorf/

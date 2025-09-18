@@ -8,7 +8,7 @@
 ```leaflet
 id: boroughs~Dellach~Drautal
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./boroughs~Dellach~Drautal//
 markerFolder: ./boroughs~Dellach~Drautal/
