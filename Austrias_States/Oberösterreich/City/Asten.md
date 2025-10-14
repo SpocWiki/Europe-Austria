@@ -20,7 +20,7 @@ confidential: public
 Country :: [[Germany]]  
 State :: [[../../Bayern]] ] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

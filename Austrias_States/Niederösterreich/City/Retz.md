@@ -21,7 +21,7 @@ State ::
 Country :: [[Hungary]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

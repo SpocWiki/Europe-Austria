@@ -296,7 +296,7 @@ State ::  [[../Wien,State]]
 Country :: [[Austria]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #has_/name_/en_ :: Vienna 
 #has_/name_/de_ :: Wien 
