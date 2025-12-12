@@ -310,6 +310,8 @@ Country :: [[Austria]]
 id: Wien,City
 coordinates: [[Wien,City]] 
 markerFile: [[Wien,City]] 
+geojsonFolder: ./Wien,City/
+markerFolder: ./Wien,City/
 defaultZoom: 11 
 maxZoom: 18
 ```
