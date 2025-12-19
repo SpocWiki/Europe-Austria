@@ -12,7 +12,7 @@ part_of:
   - "[[_Standards/WikiData/WD~joining_technology,266328]]"
   - "[[_Standards/WikiData/WD~bolted_joint,1077037]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
 physically_interacts_with:
   - "[[_Standards/WikiData/WD~component,1310239]]"
