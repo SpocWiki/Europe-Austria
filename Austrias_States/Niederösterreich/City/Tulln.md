@@ -1,16 +1,19 @@
 ---
-location: [48.33,16.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tulln
+location:
+  - 48.33
+  - 16.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35040
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

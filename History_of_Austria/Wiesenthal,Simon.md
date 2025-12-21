@@ -3,86 +3,87 @@ aliases:
   - Simon_Wiesenthal
   - Simon Wiesenthal
   - Wiesenthal
+  - Wiesenthal,Simon
 has_id_wikidata: Q49086
 place_of_detention:
-  - "[[_Standards/WikiData/WD~Buchenwald_concentration_camp,152802]]"
-  - "[[_Standards/WikiData/WD~Mauthausen_concentration_camp,160139]]"
-  - "[[_Standards/WikiData/WD~Gross_Rosen_concentration_camp,160268]]"
-  - "[[_Standards/WikiData/WD~Kraków_Płaszów_concentration_camp,160408]]"
-  - "[[_Standards/WikiData/WD~Auschwitz_II_Birkenau_concentration_camp,663764]]"
-  - "[[_Standards/WikiData/WD~Lvov_Ghetto,707561]]"
-  - "[[_Standards/WikiData/WD~Brygidki,2034440]]"
-  - "[[_Standards/WikiData/WD~Janowska_concentration_camp,2422842]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Anne_Frank_House,165366]]"
+  - '[[_Standards/WikiData/WD~Buchenwald_concentration_camp,152802]]'
+  - '[[_Standards/WikiData/WD~Mauthausen_concentration_camp,160139]]'
+  - '[[_Standards/WikiData/WD~Gross_Rosen_concentration_camp,160268]]'
+  - '[[_Standards/WikiData/WD~Kraków_Płaszów_concentration_camp,160408]]'
+  - '[[_Standards/WikiData/WD~Auschwitz_II_Birkenau_concentration_camp,663764]]'
+  - '[[_Standards/WikiData/WD~Lvov_Ghetto,707561]]'
+  - '[[_Standards/WikiData/WD~Brygidki,2034440]]'
+  - '[[_Standards/WikiData/WD~Janowska_concentration_camp,2422842]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Anne_Frank_House,165366]]'
 member_of_political_party: "[[_Standards/WikiData/WD~Austrian_People's_Party,186867]]"
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]"
-  - "[[_Standards/WikiData/WD~Austria_Hungary,28513]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
+  - '[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]'
+  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+  - '[[_Standards/WikiData/WD~Hungary,28]]'
+  - '[[_Standards/WikiData/WD~Austria,40]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Otto_Hahn_Peace_Medal,314209]]"
-  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
-  - "[[_Standards/WikiData/WD~Ehrenpreis_des_österreichischen_Buchhandels_für_Toleranz_in_Denken_und_Handeln,1300468]]"
-  - "[[_Standards/WikiData/WD~Decoration_for_Services_to_the_Liberation_of_Austria,1300730]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_Orange_Nassau,1861904]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
+  - '[[_Standards/WikiData/WD~Otto_Hahn_Peace_Medal,314209]]'
+  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+  - '[[_Standards/WikiData/WD~Ehrenpreis_des_österreichischen_Buchhandels_für_Toleranz_in_Denken_und_Handeln,1300468]]'
+  - '[[_Standards/WikiData/WD~Decoration_for_Services_to_the_Liberation_of_Austria,1300730]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Orange_Nassau,1861904]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
   - "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
-  - "[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_Polonia_Restituta,15715252]]"
-  - "[[_Standards/WikiData/WD~Great_Golden_Medal_of_Honour_for_Services_to_the_Republic_of_Austria,17505835]]"
-  - "[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_from_Fear,20204999]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Jagiellonian_University_of_Krakow,20853550]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Grand_Duchy_of_Luxembourg,20896006]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Lion_3rd_Class,20966578]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Vienna,34476636]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Ben_Gurion_University,42293667]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Bar_Ilan_University,42293686]]"
+  - '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Polonia_Restituta,15715252]]'
+  - '[[_Standards/WikiData/WD~Great_Golden_Medal_of_Honour_for_Services_to_the_Republic_of_Austria,17505835]]'
+  - '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_from_Fear,20204999]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Jagiellonian_University_of_Krakow,20853550]]'
+  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Grand_Duchy_of_Luxembourg,20896006]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_White_Lion_3rd_Class,20966578]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Vienna,34476636]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Ben_Gurion_University,42293667]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Bar_Ilan_University,42293686]]'
   - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_Bernardo_O'Higgins,56607536]]"
-  - "[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art_First_Class,61716864]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Comenius_University,88466601]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Palacký_University_Olomouc,112152054]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+  - '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art_First_Class,61716864]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_Comenius_University,88466601]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Palacký_University_Olomouc,112152054]]'
+  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 occupation:
-  - "[[_Standards/WikiData/WD~advocate,380075]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~Nazis_hunter,2462215]]"
-  - "[[_Standards/WikiData/WD~opinion_journalist,6051619]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~architect,42973]]"
-place_of_birth: "[[_Standards/WikiData/WD~Buchach,849109]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-given_name: "[[_Standards/WikiData/WD~Simon,4117588]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-family_name: "[[_Standards/WikiData/WD~Wiesenthal,37530924]]"
-place_of_burial: "[[_Standards/WikiData/WD~Old_Cemetery_of_Herzliya,64784802]]"
+  - '[[_Standards/WikiData/WD~advocate,380075]]'
+  - '[[_Standards/WikiData/WD~musician,639669]]'
+  - '[[_Standards/WikiData/WD~journalist,1930187]]'
+  - '[[_Standards/WikiData/WD~Nazis_hunter,2462215]]'
+  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - '[[_Standards/WikiData/WD~architect,42973]]'
+place_of_birth: '[[_Standards/WikiData/WD~Buchach,849109]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+given_name: '[[_Standards/WikiData/WD~Simon,4117588]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+family_name: '[[_Standards/WikiData/WD~Wiesenthal,37530924]]'
+place_of_burial: '[[_Standards/WikiData/WD~Old_Cemetery_of_Herzliya,64784802]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]"
-  - "[[_Standards/WikiData/WD~I_Hunted_Eichmann,130241514]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-spouse: "[[_Standards/WikiData/WD~Cyla_Wiesenthal,86239192]]"
-place_of_death: "[[_Standards/WikiData/WD~Vienna,1741]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]'
+  - '[[_Standards/WikiData/WD~I_Hunted_Eichmann,130241514]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+spouse: '[[_Standards/WikiData/WD~Cyla_Wiesenthal,86239192]]'
+place_of_death: '[[_Standards/WikiData/WD~Vienna,1741]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Yiddish,8641]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Judaism,9268]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~Yiddish,8641]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 1
 BHCL_UUID: 4c54251c-bd9e-4667-829a-f7347c6ff4c9
 date_of_birth: 1908-12-31T00:00:00Z
 Commons_category: Simon Wiesenthal
-U_S_National_Archives_Identifier: "10581169"
+U_S_National_Archives_Identifier: 10581169
 date_of_death: 2005-09-20T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20%281982%29.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Wiesenthal%27s%20grave%2C%20Herzliya.jpg
 described_at_URL: https://www.fruehe-texte-holocaustliteratur.de/wiki/Wiesenthal,_Simon_(1908-2005)
 official_website: https://www.wiesenthal.com/
-ISNI: "0000000121478423"
+ISNI: 0000000121478423
 Libris_URI: 42gjj0nn2tzpfgr
 Wolfram_Language_entity_code: Entity["Person", "SimonWiesenthal::3knh2"]
 name_in_native_language: Simon Wiesenthal

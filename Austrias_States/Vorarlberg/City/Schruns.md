@@ -1,16 +1,19 @@
 ---
-location: [47.08,9.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Schruns
+location:
+  - 47.08
+  - 9.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34078
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

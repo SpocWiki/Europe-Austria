@@ -1,16 +1,19 @@
 ---
-location: [46.92,15.55] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tihang
+location:
+  - 46.92
+  - 15.55
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34869
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,10 +1,12 @@
 ---
-location: [ 47.5 , 16.5 ] 
-
+aliases:
+  - Burgenland
+location:
+  - 47.5
+  - 16.5
 type: State
 tags:
-- geo/State
-
+  - geo/State
 ---
 [StateId::] 
 isDeleted: false

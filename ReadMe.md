@@ -1,8 +1,17 @@
 ---
-title: Austria
-linkTitle:
-type: Country
+aliases:
+  - Austria
+  - Autriche
+  - النمسا
+  - 奥地利
+  - Австрия
+  - the Republic of Austria
+  - la República de Austria
+  - ReadMe
 has_id_wikidata: Q40
+title: Austria
+linkTitle: ''
+type: Country
 location:
   - 47.712
   - 14.381
@@ -17,19 +26,11 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-keywords:
-layout:
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Austria
-  - Autriche
-  - النمسا
-  - 奥地利
-  - Австрия
-  - the Republic of Austria
-  - la República de Austria
+publishDate: ''
+expiryDate: ''
 Languages:
   - de-AT
   - hr

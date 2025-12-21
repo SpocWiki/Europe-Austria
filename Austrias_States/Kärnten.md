@@ -1,12 +1,13 @@
 ---
+aliases:
+  - Carinthia
+  - Kärnten
 location:
   - 46.8
   - 14
 type: State
 tags:
   - geo/State
-aliases:
-  - Carinthia
 ---
 [StateId::] 
 isDeleted: false

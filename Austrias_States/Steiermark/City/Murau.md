@@ -1,16 +1,19 @@
 ---
-location: [47.12,14.17] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Murau
+location:
+  - 47.12
+  - 14.17
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32628
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [47.52,16.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Moenichkirchen
+location:
+  - 47.52
+  - 16.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32697
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

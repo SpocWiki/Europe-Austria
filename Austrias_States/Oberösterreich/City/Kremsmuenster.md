@@ -1,16 +1,19 @@
 ---
-location: [48.05,14.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kremsmuenster
+location:
+  - 48.05
+  - 14.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31636
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

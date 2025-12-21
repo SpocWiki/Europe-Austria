@@ -1,25 +1,27 @@
 ---
+aliases:
+  - Belvedere,Vienna
 has_id_wikidata: Q211818
-architect: "[[_Standards/WikiData/WD~Johann_Lukas_von_Hildebrandt,84507]]"
-owned_by: "[[_Standards/WikiData/WD~Eugene_of_Savoy,152428]]"
-founded_by: "[[_Standards/WikiData/WD~Eugene_of_Savoy,152428]]"
-has_use: "[[_Standards/WikiData/WD~art_museum,207694]]"
-occupant: "[[_Standards/WikiData/WD~Belvedere,303139]]"
+architect: '[[_Standards/WikiData/WD~Johann_Lukas_von_Hildebrandt,84507]]'
+owned_by: '[[_Standards/WikiData/WD~Eugene_of_Savoy,152428]]'
+founded_by: '[[_Standards/WikiData/WD~Eugene_of_Savoy,152428]]'
+has_use: '[[_Standards/WikiData/WD~art_museum,207694]]'
+occupant: '[[_Standards/WikiData/WD~Belvedere,303139]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Landstraße,519552]]"
-  - "[[_Standards/WikiData/WD~Vienna,1741]]"
-architectural_style: "[[_Standards/WikiData/WD~baroque_architecture,840829]]"
-heritage_designation: "[[_Standards/WikiData/WD~Listed_objects_in_Austria,1188447]]"
-appears_in_the_heritage_monument_list: "[[_Standards/WikiData/WD~Cultural_heritage_monuments_in_Landstraße,1859753]]"
+  - '[[_Standards/WikiData/WD~Landstraße,519552]]'
+  - '[[_Standards/WikiData/WD~Vienna,1741]]'
+architectural_style: '[[_Standards/WikiData/WD~baroque_architecture,840829]]'
+heritage_designation: '[[_Standards/WikiData/WD~Listed_objects_in_Austria,1188447]]'
+appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~Cultural_heritage_monuments_in_Landstraße,1859753]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Upper_Belvedere,87193291]]"
-  - "[[_Standards/WikiData/WD~Lower_Belvedere,87193289]]"
-  - "[[_Standards/WikiData/WD~Q134979586,134979586]]"
+  - '[[_Standards/WikiData/WD~Upper_Belvedere,87193291]]'
+  - '[[_Standards/WikiData/WD~Lower_Belvedere,87193289]]'
+  - '[[_Standards/WikiData/WD~Q134979586,134979586]]'
 coordinate_location: Point(16.380519444 48.1934)
 inception: 1714-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~palace,16560]]"
-country: "[[_Standards/WikiData/WD~Austria,40]]"
-Cultural_heritage_database_in_Austria_ObjektID: "68612"
+instance_of: '[[_Standards/WikiData/WD~palace,16560]]'
+country: '[[_Standards/WikiData/WD~Austria,40]]'
+Cultural_heritage_database_in_Austria_ObjektID: 68612
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-at-Belvedere.oga
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20Belvedere%2C%20Viena%2C%20Austria%2C%202020-02-01%2C%20DD%2093-95%20HDR.jpg
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20Belvedere%20Sept%202020%201.jpg
@@ -27,10 +29,10 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20Schloss%20B
 official_website:
   - https://www.belvedere.at/
   - https://www.belvedere.at/en
-ISNI: "0000000122599294"
+ISNI: 0000000122599294
 P8189:
-  - "987007287922405171"
-  - "987007303359705171"
+  - 987007287922405171
+  - 987007303359705171
 Commons_Institution_page: Belvedere (Vienna)
 Commons_category: Belvedere (Vienna)
 Facebook_username: belvederemuseum

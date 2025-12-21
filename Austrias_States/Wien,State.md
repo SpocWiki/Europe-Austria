@@ -1,14 +1,15 @@
 ---
+aliases:
+  - Vienna
+  - Vienna State
+  - Vienna,State
+  - Wien,State
 location:
   - 48.2
   - 16.4
 type: State
 tags:
   - geo/State
-aliases:
-  - Vienna 
-  - Vienna State
-  - Vienna,State
 ---
 
 [StateId::] 

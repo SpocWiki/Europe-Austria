@@ -1,16 +1,19 @@
 ---
-location: [47.45,9.75] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Schwarzach
+location:
+  - 47.45
+  - 9.75
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34098
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [47.47,15.17] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Katharein
+location:
+  - 47.47
+  - 15.17
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34467
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

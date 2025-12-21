@@ -1,10 +1,12 @@
 ---
-location: [ 47.2 , 9.9 ] 
-
+aliases:
+  - Vorarlberg
+location:
+  - 47.2
+  - 9.9
 type: State
 tags:
-- geo/State
-
+  - geo/State
 ---
 [StateId::] 
 isDeleted: false

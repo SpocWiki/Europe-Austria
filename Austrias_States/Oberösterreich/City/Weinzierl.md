@@ -1,16 +1,19 @@
 ---
-location: [47.9,14.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Weinzierl
+location:
+  - 47.9
+  - 14.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35508
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

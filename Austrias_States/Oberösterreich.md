@@ -1,12 +1,13 @@
 ---
+aliases:
+  - Upper Austria
+  - Oberösterreich
 location:
   - 48.1
   - 13.6
 type: State
 tags:
   - geo/State
-aliases:
-  - Upper Austria
 ---
 
 

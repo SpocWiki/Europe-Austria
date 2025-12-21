@@ -1,16 +1,19 @@
 ---
-location: [48.35,16.48] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Korneuburg
+location:
+  - 48.35
+  - 16.48
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31577
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

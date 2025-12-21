@@ -1,16 +1,20 @@
 ---
-location: [47.83,16.17] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Fischau_Bad
+  - Fischau Bad
+location:
+  - 47.83
+  - 16.17
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30174
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

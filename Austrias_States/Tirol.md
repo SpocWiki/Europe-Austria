@@ -1,12 +1,13 @@
 ---
+aliases:
+  - Tyrol
+  - Tirol
 location:
   - 47.3
   - 11.1
 type: State
 tags:
   - geo/State
-aliases:
-  - Tyrol
 ---
 
 [StateId::] 

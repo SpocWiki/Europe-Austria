@@ -1,16 +1,19 @@
 ---
-location: [48.25,13.07] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Braunau
+location:
+  - 48.25
+  - 13.07
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29322
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

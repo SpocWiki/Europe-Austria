@@ -1,16 +1,19 @@
 ---
-location: [47.12,11.45] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Kathrein
+location:
+  - 47.12
+  - 11.45
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34468
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

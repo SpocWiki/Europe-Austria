@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Salzburg
+  - Salzburg,City
 location:
   - 47.79
   - 13.05
@@ -12,8 +15,6 @@ tags:
 SpocWebEntityId: 33896
 isDeleted: false
 confidential: public
-aliases:
-  - Salzburg
 ---
 ﻿
 ﻿#is_a_/Place  

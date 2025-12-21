@@ -1,12 +1,13 @@
 ---
-location: [ 48.2 , 15.6 ] 
-
-type: State
-tags:
-- geo/State
 aliases:
   - Lower Austria
-
+  - Niederösterreich
+location:
+  - 48.2
+  - 15.6
+type: State
+tags:
+  - geo/State
 ---
 
 

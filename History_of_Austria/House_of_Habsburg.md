@@ -2,34 +2,36 @@
 aliases:
   - Haus Habsburg
   - House of Austria
+  - House_of_Habsburg
+  - House of Habsburg
 has_id_wikidata: Q65968
 native_label: Habsburger
 dissolved_abolished_or_demolished_date: 1780-01-01T00:00:00Z
-part_of: "[[_Standards/WikiData/WD~Etichonids,73966]]"
-instance_of: "[[_Standards/WikiData/WD~dynasty,164950]]"
+part_of: '[[_Standards/WikiData/WD~Etichonids,73966]]'
+instance_of: '[[_Standards/WikiData/WD~dynasty,164950]]'
 country:
-  - "[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]"
-  - "[[_Standards/WikiData/WD~Crown_of_Castile,217196]]"
-  - "[[_Standards/WikiData/WD~Iberian_Union,377350]]"
-  - "[[_Standards/WikiData/WD~Archduchy_of_Austria,699964]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]"
-motto: "[[_Standards/WikiData/WD~A.E.I.O.U.,257546]]"
-has_list: "[[_Standards/WikiData/WD~Habsburg_family_tree,315619]]"
+  - '[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]'
+  - '[[_Standards/WikiData/WD~Crown_of_Castile,217196]]'
+  - '[[_Standards/WikiData/WD~Iberian_Union,377350]]'
+  - '[[_Standards/WikiData/WD~Archduchy_of_Austria,699964]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]'
+motto: '[[_Standards/WikiData/WD~A.E.I.O.U.,257546]]'
+has_list: '[[_Standards/WikiData/WD~Habsburg_family_tree,315619]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Habsburg_Castle,317096]]"
-  - "[[_Standards/WikiData/WD~Habsburg,64131]]"
+  - '[[_Standards/WikiData/WD~Habsburg_Castle,317096]]'
+  - '[[_Standards/WikiData/WD~Habsburg,64131]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
-different_from: "[[_Standards/WikiData/WD~House_of_Habsburg_Lorraine,645719]]"
-founded_by: "[[_Standards/WikiData/WD~Guntram_the_Rich,697232]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+different_from: '[[_Standards/WikiData/WD~House_of_Habsburg_Lorraine,645719]]'
+founded_by: '[[_Standards/WikiData/WD~Guntram_the_Rich,697232]]'
 BHCL_UUID: 2b3b60ec-a630-4f90-84be-a11b3b804eaa
 Provenio_UUID:
   - fc3b481e-fe13-426a-9e70-b946a449991b
@@ -39,7 +41,7 @@ Commons_category: House of Habsburg
 coat_of_arms_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/COA%20Habsburg%20early%20crest.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Habspurg-Wappen%20ZWB.png
-Dewey_Decimal_Classification: "929.736"
+Dewey_Decimal_Classification: 929.736
 Krugosvet_article_archived_: istoriya/GABSBURGI.html
 ---
 
