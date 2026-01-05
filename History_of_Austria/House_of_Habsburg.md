@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1001-01-01 
+has_time_stopped: 1780-01-01 
 aliases:
   - Haus Habsburg
   - House of Austria
