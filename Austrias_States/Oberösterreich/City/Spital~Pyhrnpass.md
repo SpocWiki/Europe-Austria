@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.33
 dv_has_place_latitude: 47.67
-dv_name: Spital am Pyhrnpass
+dv_has_name_: Spital am Pyhrnpass
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

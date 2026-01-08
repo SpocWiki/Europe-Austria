@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.7
 dv_has_place_latitude: 48.27
-dv_name: Obersiebenbrunn
+dv_has_name_: Obersiebenbrunn
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.83
 dv_has_place_latitude: 48.23
-dv_name: Griesskirchen
+dv_has_name_: Griesskirchen
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.07
 dv_has_place_latitude: 48.57
-dv_name: Oberhollabrunn
+dv_has_name_: Oberhollabrunn
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

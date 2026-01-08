@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.23
 dv_has_place_latitude: 48.2
-dv_name: Mariabrunn
+dv_has_name_: Mariabrunn
 dv_Country: "[[../../../../../../Austria]]"
 ---
 #is_a_/Place  

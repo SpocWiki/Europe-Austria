@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.28
 dv_has_place_latitude: 48.08
-dv_name: Moedling
+dv_has_name_: Moedling
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

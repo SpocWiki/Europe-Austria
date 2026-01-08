@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.88
 dv_has_place_latitude: 47.55
-dv_name: Eisenerz
+dv_has_name_: Eisenerz
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

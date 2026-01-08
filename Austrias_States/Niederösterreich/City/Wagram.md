@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.58
 dv_has_place_latitude: 48.28
-dv_name: Wagram
+dv_has_name_: Wagram
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

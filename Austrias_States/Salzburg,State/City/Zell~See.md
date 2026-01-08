@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.8
 dv_has_place_latitude: 47.32
-dv_name: Zell am See
+dv_has_name_: Zell am See
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

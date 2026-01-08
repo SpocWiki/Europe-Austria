@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.67
 dv_has_place_latitude: 47.83
-dv_name: Oggau
+dv_has_name_: Oggau
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

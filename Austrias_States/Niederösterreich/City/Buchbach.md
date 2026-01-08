@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.22
 dv_has_place_latitude: 48.82
-dv_name: Buchbach
+dv_has_name_: Buchbach
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

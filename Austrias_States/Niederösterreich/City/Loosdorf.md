@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.43
 dv_has_place_latitude: 48.65
-dv_name: Loosdorf
+dv_has_name_: Loosdorf
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

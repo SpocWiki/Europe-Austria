@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.83
 dv_has_place_latitude: 48.6
-dv_name: Kollerschlag
+dv_has_name_: Kollerschlag
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

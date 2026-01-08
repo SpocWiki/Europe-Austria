@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.58
 dv_has_place_latitude: 48.02
-dv_name: Lilienfeld
+dv_has_name_: Lilienfeld
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.28
 dv_has_place_latitude: 47.42
-dv_name: Bruck~Mur
+dv_has_name_: Bruck~Mur
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

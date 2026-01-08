@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.83
 dv_has_place_latitude: 47.3
-dv_name: Poellau
+dv_has_name_: Poellau
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

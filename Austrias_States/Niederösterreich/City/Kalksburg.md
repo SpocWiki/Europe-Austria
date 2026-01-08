@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.23
 dv_has_place_latitude: 48.13
-dv_name: Kalksburg
+dv_has_name_: Kalksburg
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

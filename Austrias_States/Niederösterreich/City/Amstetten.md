@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.88
 dv_has_place_latitude: 48.12
-dv_name: Amstetten
+dv_has_name_: Amstetten
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

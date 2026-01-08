@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.95
 dv_has_place_latitude: 48.77
-dv_name: Retz
+dv_has_name_: Retz
 dv_Country: "[[../../../../../Europe~East/Hungary]]"
 ---
 #is_a_/Place  

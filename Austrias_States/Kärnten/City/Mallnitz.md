@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.18
 dv_has_place_latitude: 46.98
-dv_name: Mallnitz
+dv_has_name_: Mallnitz
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

@@ -12,7 +12,7 @@ tags:
   - geo/State
 dv_isDeleted: false
 dv_confidential: public
-dv_name: Wien
+dv_has_name_: Wien
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 

@@ -7,7 +7,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_name: Burgenland
+dv_has_name_: Burgenland
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 [StateId::] 

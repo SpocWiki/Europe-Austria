@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.23
 dv_has_place_latitude: 48.02
-dv_name: Baden bei Wien
+dv_has_name_: Baden bei Wien
 dv_Country: "[[../../../../../../../../Austria]]"
 ---
 #is_a_/Place  

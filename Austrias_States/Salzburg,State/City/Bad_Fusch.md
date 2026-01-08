@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.82
 dv_has_place_latitude: 47.22
-dv_name: Bad Fusch
+dv_has_name_: Bad Fusch
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

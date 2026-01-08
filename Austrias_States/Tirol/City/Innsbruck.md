@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.4
 dv_has_place_latitude: 47.27
-dv_name: Innsbruck
+dv_has_name_: Innsbruck
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

@@ -6,7 +6,7 @@ aliases:
 type: State
 tags:
   - geo/State
-dv_name: Salzburg
+dv_has_name_: Salzburg
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 

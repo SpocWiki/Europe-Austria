@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.08
 dv_has_place_latitude: 47.52
-dv_name: Tragoss
+dv_has_name_: Tragoss
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

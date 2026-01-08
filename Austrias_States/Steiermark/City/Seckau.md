@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.78
 dv_has_place_latitude: 47.27
-dv_name: Seckau
+dv_has_name_: Seckau
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.05
 dv_has_place_latitude: 47.79
-dv_name: Salzburg
+dv_has_name_: Salzburg
 dv_Country: "[[../../../../Austria]]"
 ---
 ﻿

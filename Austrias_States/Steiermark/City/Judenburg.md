@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.65
 dv_has_place_latitude: 47.17
-dv_name: Judenburg
+dv_has_name_: Judenburg
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

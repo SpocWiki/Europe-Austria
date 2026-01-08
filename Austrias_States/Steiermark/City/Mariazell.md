@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.32
 dv_has_place_latitude: 47.77
-dv_name: Mariazell
+dv_has_name_: Mariazell
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

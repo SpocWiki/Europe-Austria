@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.3
 dv_has_place_latitude: 46.6
-dv_name: Klagenfurt
+dv_has_name_: Klagenfurt
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

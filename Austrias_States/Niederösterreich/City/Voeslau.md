@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.22
 dv_has_place_latitude: 47.97
-dv_name: Voeslau
+dv_has_name_: Voeslau
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

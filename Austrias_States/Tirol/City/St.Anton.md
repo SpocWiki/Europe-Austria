@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.27
 dv_has_place_latitude: 47.13
-dv_name: St.Anton
+dv_has_name_: St.Anton
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

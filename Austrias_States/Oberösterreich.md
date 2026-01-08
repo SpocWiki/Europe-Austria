@@ -8,7 +8,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_name: Oberösterreich
+dv_has_name_: Oberösterreich
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.5
 dv_has_place_latitude: 46.8
-dv_name: Spittal an der Drau
+dv_has_name_: Spittal an der Drau
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

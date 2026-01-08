@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.48
 dv_has_place_latitude: 47.58
-dv_name: Veitsch
+dv_has_name_: Veitsch
 dv_Country: "[[../../../../../Europe~East/Poland]]"
 ---
 #is_a_/Place  

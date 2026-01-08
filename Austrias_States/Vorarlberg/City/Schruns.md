@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.93
 dv_has_place_latitude: 47.08
-dv_name: Schruns
+dv_has_name_: Schruns
 dv_State: Vlbg]
 dv_Country: "[[../../../../Austria]]"
 ---

@@ -8,7 +8,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_name: Tirol
+dv_has_name_: Tirol
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 

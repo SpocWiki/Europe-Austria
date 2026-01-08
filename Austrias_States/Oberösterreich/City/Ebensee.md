@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.78
 dv_has_place_latitude: 47.82
-dv_name: Ebensee
+dv_has_name_: Ebensee
 dv_State: Oberösterreich]
 dv_Country: "[[../../../../Austria]]"
 ---

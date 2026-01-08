@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.62
 dv_has_place_latitude: 48.2
-dv_name: St.Poelten
+dv_has_name_: St.Poelten
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

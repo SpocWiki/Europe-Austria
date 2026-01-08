@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.75
 dv_has_place_latitude: 47.45
-dv_name: Schwarzach
+dv_has_name_: Schwarzach
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

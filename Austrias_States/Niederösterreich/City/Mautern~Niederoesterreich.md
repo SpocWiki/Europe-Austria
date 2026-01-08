@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.58
 dv_has_place_latitude: 48.38
-dv_name: Mautern~Niederoesterreich
+dv_has_name_: Mautern~Niederoesterreich
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

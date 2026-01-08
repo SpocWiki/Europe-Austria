@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.13
 dv_has_place_latitude: 48.05
-dv_name: Kremsmuenster
+dv_has_name_: Kremsmuenster
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

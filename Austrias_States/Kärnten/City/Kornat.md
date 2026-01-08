@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.88
 dv_has_place_latitude: 46.68
-dv_name: Kornat
+dv_has_name_: Kornat
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

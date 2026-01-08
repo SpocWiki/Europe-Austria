@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.33
 dv_has_place_latitude: 47.05
-dv_name: Gussing
+dv_has_name_: Gussing
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

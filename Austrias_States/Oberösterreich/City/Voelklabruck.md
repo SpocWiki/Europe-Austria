@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.67
 dv_has_place_latitude: 48
-dv_name: Voelklabruck
+dv_has_name_: Voelklabruck
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.12
 dv_has_place_latitude: 47.88
-dv_name: Piesting
+dv_has_name_: Piesting
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

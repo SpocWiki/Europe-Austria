@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.23
 dv_has_place_latitude: 47.92
-dv_name: Dornau
+dv_has_name_: Dornau
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

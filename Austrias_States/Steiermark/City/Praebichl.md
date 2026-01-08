@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.95
 dv_has_place_latitude: 47.52
-dv_name: Praebichl
+dv_has_name_: Praebichl
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

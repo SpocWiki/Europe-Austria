@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.48
 dv_has_place_latitude: 48.15
-dv_name: Schwechat
+dv_has_name_: Schwechat
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

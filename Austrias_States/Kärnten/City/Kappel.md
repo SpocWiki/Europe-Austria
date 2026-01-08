@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.25
 dv_has_place_latitude: 46.53
-dv_name: Kappel
+dv_has_name_: Kappel
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

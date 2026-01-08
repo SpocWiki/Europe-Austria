@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.72
 dv_has_place_latitude: 48.33
-dv_name: Gaenserndorf bei Wien
+dv_has_name_: Gaenserndorf bei Wien
 dv_Country: "[[../../../../../Austria]]"
 ---
 #is_a_/Place  

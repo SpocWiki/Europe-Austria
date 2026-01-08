@@ -8,7 +8,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_name: Niederösterreich
+dv_has_name_: Niederösterreich
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 

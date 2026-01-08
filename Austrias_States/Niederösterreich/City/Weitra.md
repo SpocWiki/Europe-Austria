@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.9
 dv_has_place_latitude: 48.7
-dv_name: Weitra
+dv_has_name_: Weitra
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

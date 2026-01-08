@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.48
 dv_has_place_latitude: 48.35
-dv_name: Korneuburg
+dv_has_name_: Korneuburg
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

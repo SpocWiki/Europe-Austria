@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.62
 dv_has_place_latitude: 47.92
-dv_name: Hohenberg
+dv_has_name_: Hohenberg
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

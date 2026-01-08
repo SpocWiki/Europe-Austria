@@ -7,7 +7,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_name: Vorarlberg
+dv_has_name_: Vorarlberg
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 [StateId::] 

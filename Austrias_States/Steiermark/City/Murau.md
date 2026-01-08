@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.17
 dv_has_place_latitude: 47.12
-dv_name: Murau
+dv_has_name_: Murau
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

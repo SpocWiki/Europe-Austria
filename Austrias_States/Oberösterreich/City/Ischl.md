@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.78
 dv_has_place_latitude: 47.72
-dv_name: Ischl
+dv_has_name_: Ischl
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

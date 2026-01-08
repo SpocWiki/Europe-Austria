@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.44
 dv_has_place_latitude: 47.08
-dv_name: Graz
+dv_has_name_: Graz
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

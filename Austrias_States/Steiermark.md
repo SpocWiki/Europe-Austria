@@ -8,7 +8,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_name: Steiermark
+dv_has_name_: Steiermark
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 ﻿

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.37
 dv_has_place_latitude: 48.33
-dv_name: Reichersberg
+dv_has_name_: Reichersberg
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

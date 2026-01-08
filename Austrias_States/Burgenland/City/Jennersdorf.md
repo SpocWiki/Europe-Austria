@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.15
 dv_has_place_latitude: 46.93
-dv_name: Jennersdorf
+dv_has_name_: Jennersdorf
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

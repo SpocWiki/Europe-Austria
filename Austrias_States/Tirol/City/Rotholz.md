@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.8
 dv_has_place_latitude: 47.38
-dv_name: Rotholz
+dv_has_name_: Rotholz
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

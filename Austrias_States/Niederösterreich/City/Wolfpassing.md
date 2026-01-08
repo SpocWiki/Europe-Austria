@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.07
 dv_has_place_latitude: 48.08
-dv_name: Wolfpassing
+dv_has_name_: Wolfpassing
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

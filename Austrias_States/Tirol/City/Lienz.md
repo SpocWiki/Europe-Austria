@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.78
 dv_has_place_latitude: 46.82
-dv_name: Lienz
+dv_has_name_: Lienz
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

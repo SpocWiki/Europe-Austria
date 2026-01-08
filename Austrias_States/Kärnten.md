@@ -8,7 +8,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_name: Kärnten
+dv_has_name_: Kärnten
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 [StateId::] 

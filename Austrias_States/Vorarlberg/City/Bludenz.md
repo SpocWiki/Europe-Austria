@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.8
 dv_has_place_latitude: 47.17
-dv_name: Bludenz
+dv_has_name_: Bludenz
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

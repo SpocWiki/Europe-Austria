@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.55
 dv_has_place_latitude: 46.92
-dv_name: Tihang
+dv_has_name_: Tihang
 dv_Country: "[[../../../../../Europe~East/Hungary]]"
 ---
 #is_a_/Place  

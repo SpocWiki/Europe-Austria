@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.97
 dv_has_place_latitude: 47.13
-dv_name: Bucheben
+dv_has_name_: Bucheben
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

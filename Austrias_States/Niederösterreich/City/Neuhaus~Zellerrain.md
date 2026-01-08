@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.18
 dv_has_place_latitude: 47.8
-dv_name: Neuhaus~Zellerrain
+dv_has_name_: Neuhaus~Zellerrain
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

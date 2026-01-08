@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.47
 dv_has_place_latitude: 47.32
-dv_name: Hall
+dv_has_name_: Hall
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

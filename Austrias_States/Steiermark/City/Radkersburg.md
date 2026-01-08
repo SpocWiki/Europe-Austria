@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16
 dv_has_place_latitude: 46.7
-dv_name: Radkersburg
+dv_has_name_: Radkersburg
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

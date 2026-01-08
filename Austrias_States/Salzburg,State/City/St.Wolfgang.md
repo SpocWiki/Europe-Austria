@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.45
 dv_has_place_latitude: 47.73
-dv_name: St.Wolfgang
+dv_has_name_: St.Wolfgang
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

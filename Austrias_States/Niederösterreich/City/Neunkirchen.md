@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.08
 dv_has_place_latitude: 47.72
-dv_name: Neunkirchen
+dv_has_name_: Neunkirchen
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

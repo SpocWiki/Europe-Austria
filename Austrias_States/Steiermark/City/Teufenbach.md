@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.37
 dv_has_place_latitude: 47.13
-dv_name: Teufenbach
+dv_has_name_: Teufenbach
 dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  

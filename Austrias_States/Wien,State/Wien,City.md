@@ -287,7 +287,7 @@ Dewey_Decimal_Classification: 2--43613
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.38
 dv_has_place_latitude: 48.21
-dv_name: Vienna
+dv_has_name_: Vienna
 dv_State: "[[../Wien,State]]"
 dv_has_:
   name_:
