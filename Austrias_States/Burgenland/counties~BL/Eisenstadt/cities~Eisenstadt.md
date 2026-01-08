@@ -17,17 +17,17 @@ markerFolder: ./cities~Eisenstadt/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Eisenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt|cities~Eisenstadt]] 
 
-### [cities~Eisenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.public|cities~Eisenstadt.public]] 
 
-### [cities~Eisenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.internal|cities~Eisenstadt.internal]] 
 
-### [cities~Eisenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.protect|cities~Eisenstadt.protect]] 
 
-### [cities~Eisenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.private|cities~Eisenstadt.private]] 
 
-### [cities~Eisenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.personal|cities~Eisenstadt.personal]] 
 
-### [cities~Eisenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Eisenstadt/cities~Eisenstadt.secret|cities~Eisenstadt.secret]] 
 

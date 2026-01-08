@@ -18,17 +18,17 @@ markerFolder: ./cities~Villach/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Villach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach|cities~Villach]] 
 
-### [cities~Villach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.public|cities~Villach.public]] 
 
-### [cities~Villach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.internal|cities~Villach.internal]] 
 
-### [cities~Villach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.protect|cities~Villach.protect]] 
 
-### [cities~Villach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.private|cities~Villach.private]] 
 
-### [cities~Villach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.personal|cities~Villach.personal]] 
 
-### [cities~Villach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Villach/cities~Villach.secret|cities~Villach.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Stainz/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Stainz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz|boroughs~Stainz]] 
 
-### [boroughs~Stainz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.public|boroughs~Stainz.public]] 
 
-### [boroughs~Stainz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.internal|boroughs~Stainz.internal]] 
 
-### [boroughs~Stainz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.protect|boroughs~Stainz.protect]] 
 
-### [boroughs~Stainz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.private|boroughs~Stainz.private]] 
 
-### [boroughs~Stainz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.personal|boroughs~Stainz.personal]] 
 
-### [boroughs~Stainz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Stainz/boroughs~Stainz.secret|boroughs~Stainz.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Schweiggers/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Schweiggers](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers|boroughs~Schweiggers]] 
 
-### [boroughs~Schweiggers.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.public|boroughs~Schweiggers.public]] 
 
-### [boroughs~Schweiggers.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.internal|boroughs~Schweiggers.internal]] 
 
-### [boroughs~Schweiggers.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.protect|boroughs~Schweiggers.protect]] 
 
-### [boroughs~Schweiggers.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.private|boroughs~Schweiggers.private]] 
 
-### [boroughs~Schweiggers.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.personal|boroughs~Schweiggers.personal]] 
 
-### [boroughs~Schweiggers.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Schweiggers/boroughs~Schweiggers.secret|boroughs~Schweiggers.secret]] 
 

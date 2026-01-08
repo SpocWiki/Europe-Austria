@@ -18,17 +18,17 @@ markerFolder: ./Fels~Wagram/
 
 ## Confidential Links & Embeds: 
 
-### [Fels~Wagram](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram|Fels~Wagram]] 
 
-### [Fels~Wagram.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.public|Fels~Wagram.public]] 
 
-### [Fels~Wagram.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.internal|Fels~Wagram.internal]] 
 
-### [Fels~Wagram.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.protect|Fels~Wagram.protect]] 
 
-### [Fels~Wagram.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.private|Fels~Wagram.private]] 
 
-### [Fels~Wagram.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.personal|Fels~Wagram.personal]] 
 
-### [Fels~Wagram.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Tulln/cities~Tulln/Fels~Wagram.secret|Fels~Wagram.secret]] 
 

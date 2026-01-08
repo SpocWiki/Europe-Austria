@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Langschlag/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Langschlag](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag|boroughs~Langschlag]] 
 
-### [boroughs~Langschlag.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.public|boroughs~Langschlag.public]] 
 
-### [boroughs~Langschlag.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.internal|boroughs~Langschlag.internal]] 
 
-### [boroughs~Langschlag.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.protect|boroughs~Langschlag.protect]] 
 
-### [boroughs~Langschlag.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.private|boroughs~Langschlag.private]] 
 
-### [boroughs~Langschlag.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.personal|boroughs~Langschlag.personal]] 
 
-### [boroughs~Langschlag.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Langschlag/boroughs~Langschlag.secret|boroughs~Langschlag.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Straßwalchen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Straden](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden|boroughs~Straden]] 
 
-### [boroughs~Straden.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.public|boroughs~Straden.public]] 
 
-### [boroughs~Straden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.internal|boroughs~Straden.internal]] 
 
-### [boroughs~Straden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.protect|boroughs~Straden.protect]] 
 
-### [boroughs~Straden.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.private|boroughs~Straden.private]] 
 
-### [boroughs~Straden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.personal|boroughs~Straden.personal]] 
 
-### [boroughs~Straden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Südoststeiermark/cities~Südoststeiermark/Straden/boroughs~Straden.secret|boroughs~Straden.secret]] 
 

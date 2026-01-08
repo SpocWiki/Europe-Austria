@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Eibiswald/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Eibiswald](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald|boroughs~Eibiswald]] 
 
-### [boroughs~Eibiswald.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.public|boroughs~Eibiswald.public]] 
 
-### [boroughs~Eibiswald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.internal|boroughs~Eibiswald.internal]] 
 
-### [boroughs~Eibiswald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.protect|boroughs~Eibiswald.protect]] 
 
-### [boroughs~Eibiswald.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.private|boroughs~Eibiswald.private]] 
 
-### [boroughs~Eibiswald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.personal|boroughs~Eibiswald.personal]] 
 
-### [boroughs~Eibiswald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/Eibiswald/boroughs~Eibiswald.secret|boroughs~Eibiswald.secret]] 
 

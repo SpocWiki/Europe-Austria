@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Lang/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Lang](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang|boroughs~Lang]] 
 
-### [boroughs~Lang.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.public|boroughs~Lang.public]] 
 
-### [boroughs~Lang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.internal|boroughs~Lang.internal]] 
 
-### [boroughs~Lang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.protect|boroughs~Lang.protect]] 
 
-### [boroughs~Lang.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.private|boroughs~Lang.private]] 
 
-### [boroughs~Lang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.personal|boroughs~Lang.personal]] 
 
-### [boroughs~Lang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Lang/boroughs~Lang.secret|boroughs~Lang.secret]] 
 

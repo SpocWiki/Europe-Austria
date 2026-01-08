@@ -17,17 +17,17 @@ markerFolder: ./boroughs~St_Jakob~Walde/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~St_Jakob~Walde](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde|boroughs~St_Jakob~Walde]] 
 
-### [boroughs~St_Jakob~Walde.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.public|boroughs~St_Jakob~Walde.public]] 
 
-### [boroughs~St_Jakob~Walde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.internal|boroughs~St_Jakob~Walde.internal]] 
 
-### [boroughs~St_Jakob~Walde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.protect|boroughs~St_Jakob~Walde.protect]] 
 
-### [boroughs~St_Jakob~Walde.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.private|boroughs~St_Jakob~Walde.private]] 
 
-### [boroughs~St_Jakob~Walde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.personal|boroughs~St_Jakob~Walde.personal]] 
 
-### [boroughs~St_Jakob~Walde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/St_Jakob~Walde/boroughs~St_Jakob~Walde.secret|boroughs~St_Jakob~Walde.secret]] 
 

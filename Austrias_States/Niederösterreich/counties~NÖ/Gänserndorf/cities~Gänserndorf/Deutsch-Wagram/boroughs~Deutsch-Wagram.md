@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Deutsch-Wagram/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Deutsch-Wagram](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram|boroughs~Deutsch-Wagram]] 
 
-### [boroughs~Deutsch-Wagram.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.public|boroughs~Deutsch-Wagram.public]] 
 
-### [boroughs~Deutsch-Wagram.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.internal|boroughs~Deutsch-Wagram.internal]] 
 
-### [boroughs~Deutsch-Wagram.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.protect|boroughs~Deutsch-Wagram.protect]] 
 
-### [boroughs~Deutsch-Wagram.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.private|boroughs~Deutsch-Wagram.private]] 
 
-### [boroughs~Deutsch-Wagram.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.personal|boroughs~Deutsch-Wagram.personal]] 
 
-### [boroughs~Deutsch-Wagram.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Deutsch-Wagram/boroughs~Deutsch-Wagram.secret|boroughs~Deutsch-Wagram.secret]] 
 

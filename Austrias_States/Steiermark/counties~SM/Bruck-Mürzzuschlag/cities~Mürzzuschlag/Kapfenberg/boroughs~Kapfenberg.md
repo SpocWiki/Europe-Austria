@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Kapfenberg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Kapfenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg|boroughs~Kapfenberg]] 
 
-### [boroughs~Kapfenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.public|boroughs~Kapfenberg.public]] 
 
-### [boroughs~Kapfenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.internal|boroughs~Kapfenberg.internal]] 
 
-### [boroughs~Kapfenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.protect|boroughs~Kapfenberg.protect]] 
 
-### [boroughs~Kapfenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.private|boroughs~Kapfenberg.private]] 
 
-### [boroughs~Kapfenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.personal|boroughs~Kapfenberg.personal]] 
 
-### [boroughs~Kapfenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Kapfenberg/boroughs~Kapfenberg.secret|boroughs~Kapfenberg.secret]] 
 

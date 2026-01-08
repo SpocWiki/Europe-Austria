@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Strobl/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Strobl](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl|boroughs~Strobl]] 
 
-### [boroughs~Strobl.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.public|boroughs~Strobl.public]] 
 
-### [boroughs~Strobl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.internal|boroughs~Strobl.internal]] 
 
-### [boroughs~Strobl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.protect|boroughs~Strobl.protect]] 
 
-### [boroughs~Strobl.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.private|boroughs~Strobl.private]] 
 
-### [boroughs~Strobl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.personal|boroughs~Strobl.personal]] 
 
-### [boroughs~Strobl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Strobl/boroughs~Strobl.secret|boroughs~Strobl.secret]] 
 

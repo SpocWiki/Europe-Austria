@@ -17,17 +17,17 @@ markerFolder: ./cities~Feldkirchen/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Feldkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen|cities~Feldkirchen]] 
 
-### [cities~Feldkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.public|cities~Feldkirchen.public]] 
 
-### [cities~Feldkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.internal|cities~Feldkirchen.internal]] 
 
-### [cities~Feldkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.protect|cities~Feldkirchen.protect]] 
 
-### [cities~Feldkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.private|cities~Feldkirchen.private]] 
 
-### [cities~Feldkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.personal|cities~Feldkirchen.personal]] 
 
-### [cities~Feldkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen.secret|cities~Feldkirchen.secret]] 
 

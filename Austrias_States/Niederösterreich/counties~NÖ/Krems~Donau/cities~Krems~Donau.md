@@ -17,17 +17,17 @@ markerFolder: ./cities~Krems_Land/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Krems~Donau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau|cities~Krems~Donau]] 
 
-### [cities~Krems~Donau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.public|cities~Krems~Donau.public]] 
 
-### [cities~Krems~Donau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.internal|cities~Krems~Donau.internal]] 
 
-### [cities~Krems~Donau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.protect|cities~Krems~Donau.protect]] 
 
-### [cities~Krems~Donau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.private|cities~Krems~Donau.private]] 
 
-### [cities~Krems~Donau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.personal|cities~Krems~Donau.personal]] 
 
-### [cities~Krems~Donau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau.secret|cities~Krems~Donau.secret]] 
 

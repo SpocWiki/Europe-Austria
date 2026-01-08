@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Brand-Nagelberg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Brand-Nagelberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg|boroughs~Brand-Nagelberg]] 
 
-### [boroughs~Brand-Nagelberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.public|boroughs~Brand-Nagelberg.public]] 
 
-### [boroughs~Brand-Nagelberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.internal|boroughs~Brand-Nagelberg.internal]] 
 
-### [boroughs~Brand-Nagelberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.protect|boroughs~Brand-Nagelberg.protect]] 
 
-### [boroughs~Brand-Nagelberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.private|boroughs~Brand-Nagelberg.private]] 
 
-### [boroughs~Brand-Nagelberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.personal|boroughs~Brand-Nagelberg.personal]] 
 
-### [boroughs~Brand-Nagelberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Brand-Nagelberg/boroughs~Brand-Nagelberg.secret|boroughs~Brand-Nagelberg.secret]] 
 

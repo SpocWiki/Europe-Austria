@@ -18,17 +18,17 @@ markerFolder: ./cities~Mistelbach/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Mistelbach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach|cities~Mistelbach]] 
 
-### [cities~Mistelbach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.public|cities~Mistelbach.public]] 
 
-### [cities~Mistelbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.internal|cities~Mistelbach.internal]] 
 
-### [cities~Mistelbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.protect|cities~Mistelbach.protect]] 
 
-### [cities~Mistelbach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.private|cities~Mistelbach.private]] 
 
-### [cities~Mistelbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.personal|cities~Mistelbach.personal]] 
 
-### [cities~Mistelbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach.secret|cities~Mistelbach.secret]] 
 

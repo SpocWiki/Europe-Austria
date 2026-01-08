@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Straßwalchen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Straßwalchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen|boroughs~Straßwalchen]] 
 
-### [boroughs~Straßwalchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.public|boroughs~Straßwalchen.public]] 
 
-### [boroughs~Straßwalchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.internal|boroughs~Straßwalchen.internal]] 
 
-### [boroughs~Straßwalchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.protect|boroughs~Straßwalchen.protect]] 
 
-### [boroughs~Straßwalchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.private|boroughs~Straßwalchen.private]] 
 
-### [boroughs~Straßwalchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.personal|boroughs~Straßwalchen.personal]] 
 
-### [boroughs~Straßwalchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg/cities~Salzburg/Straßwalchen/boroughs~Straßwalchen.secret|boroughs~Straßwalchen.secret]] 
 

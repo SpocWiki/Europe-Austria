@@ -8,6 +8,8 @@ location:
 type: State
 tags:
   - geo/State
+dv_name: Oberösterreich
+dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
 
@@ -24,10 +26,10 @@ geojsonFolder: ./Oberösterreich/
 markerFolder: ./Oberösterreich/
 ```
 
-[ name :: Oberösterreich ] 
+name = `=this.dv_name` 
 [CountryId::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
@@ -35,17 +37,17 @@ markerFolder: ./Oberösterreich/
 
 ## Confidential Links & Embeds: 
 
-### [Oberösterreich](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich|Oberösterreich]] 
 
-### [Oberösterreich.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.public|Oberösterreich.public]] 
 
-### [Oberösterreich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.internal|Oberösterreich.internal]] 
 
-### [Oberösterreich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.protect|Oberösterreich.protect]] 
 
-### [Oberösterreich.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.private|Oberösterreich.private]] 
 
-### [Oberösterreich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.personal|Oberösterreich.personal]] 
 
-### [Oberösterreich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich.secret|Oberösterreich.secret]] 
 

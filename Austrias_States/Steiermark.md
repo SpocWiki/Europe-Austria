@@ -8,6 +8,8 @@ location:
 type: State
 tags:
   - geo/State
+dv_name: Steiermark
+dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 ﻿
 ﻿[StateId::] 
@@ -22,10 +24,10 @@ geojsonFolder: ./Steiermark/
 markerFolder: ./Steiermark/
 ```
 
-[ name :: Steiermark ] 
+name = `=this.dv_name` 
 [CountryId::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
@@ -33,17 +35,17 @@ markerFolder: ./Steiermark/
 
 ## Confidential Links & Embeds: 
 
-### [Steiermark](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark|Steiermark]] 
 
-### [Steiermark.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.public|Steiermark.public]] 
 
-### [Steiermark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.internal|Steiermark.internal]] 
 
-### [Steiermark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.protect|Steiermark.protect]] 
 
-### [Steiermark.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.private|Steiermark.private]] 
 
-### [Steiermark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.personal|Steiermark.personal]] 
 
-### [Steiermark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark.secret|Steiermark.secret]] 
 

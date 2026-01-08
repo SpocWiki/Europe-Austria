@@ -356,17 +356,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_CityDB](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/_CityDB|_CityDB]] 
 
-### [_CityDB.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.public|_CityDB.public]] 
 
-### [_CityDB.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.internal|_CityDB.internal]] 
 
-### [_CityDB.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.protect|_CityDB.protect]] 
 
-### [_CityDB.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.private|_CityDB.private]] 
 
-### [_CityDB.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.personal|_CityDB.personal]] 
 
-### [_CityDB.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/_CityDB.secret|_CityDB.secret]] 
 

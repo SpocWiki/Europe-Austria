@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Pennewang/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Pennewang](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang|boroughs~Pennewang]] 
 
-### [boroughs~Pennewang.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.public|boroughs~Pennewang.public]] 
 
-### [boroughs~Pennewang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.internal|boroughs~Pennewang.internal]] 
 
-### [boroughs~Pennewang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.protect|boroughs~Pennewang.protect]] 
 
-### [boroughs~Pennewang.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.private|boroughs~Pennewang.private]] 
 
-### [boroughs~Pennewang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.personal|boroughs~Pennewang.personal]] 
 
-### [boroughs~Pennewang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Pennewang/boroughs~Pennewang.secret|boroughs~Pennewang.secret]] 
 

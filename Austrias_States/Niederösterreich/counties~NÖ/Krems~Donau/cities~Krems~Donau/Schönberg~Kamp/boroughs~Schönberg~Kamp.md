@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Schönberg~Kamp/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Schönberg~Kamp](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp|boroughs~Schönberg~Kamp]] 
 
-### [boroughs~Schönberg~Kamp.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.public|boroughs~Schönberg~Kamp.public]] 
 
-### [boroughs~Schönberg~Kamp.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.internal|boroughs~Schönberg~Kamp.internal]] 
 
-### [boroughs~Schönberg~Kamp.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.protect|boroughs~Schönberg~Kamp.protect]] 
 
-### [boroughs~Schönberg~Kamp.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.private|boroughs~Schönberg~Kamp.private]] 
 
-### [boroughs~Schönberg~Kamp.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.personal|boroughs~Schönberg~Kamp.personal]] 
 
-### [boroughs~Schönberg~Kamp.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Schönberg~Kamp/boroughs~Schönberg~Kamp.secret|boroughs~Schönberg~Kamp.secret]] 
 

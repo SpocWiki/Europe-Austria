@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32356
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.32
+dv_has_place_latitude: 47.4
+dv_name: Mautern~Steiermark
+dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.32] 
-[has_place_latitude::47.4] 
-[name::Mautern~Steiermark] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mautern~Steiermark](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark|Mautern~Steiermark]] 
 
-### [Mautern~Steiermark.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.public|Mautern~Steiermark.public]] 
 
-### [Mautern~Steiermark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.internal|Mautern~Steiermark.internal]] 
 
-### [Mautern~Steiermark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.protect|Mautern~Steiermark.protect]] 
 
-### [Mautern~Steiermark.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.private|Mautern~Steiermark.private]] 
 
-### [Mautern~Steiermark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.personal|Mautern~Steiermark.personal]] 
 
-### [Mautern~Steiermark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.secret|Mautern~Steiermark.secret]] 
 

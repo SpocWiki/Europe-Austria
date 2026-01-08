@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Puchberg~Schneeberg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Puchberg~Schneeberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg|boroughs~Puchberg~Schneeberg]] 
 
-### [boroughs~Puchberg~Schneeberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.public|boroughs~Puchberg~Schneeberg.public]] 
 
-### [boroughs~Puchberg~Schneeberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.internal|boroughs~Puchberg~Schneeberg.internal]] 
 
-### [boroughs~Puchberg~Schneeberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.protect|boroughs~Puchberg~Schneeberg.protect]] 
 
-### [boroughs~Puchberg~Schneeberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.private|boroughs~Puchberg~Schneeberg.private]] 
 
-### [boroughs~Puchberg~Schneeberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.personal|boroughs~Puchberg~Schneeberg.personal]] 
 
-### [boroughs~Puchberg~Schneeberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Puchberg~Schneeberg/boroughs~Puchberg~Schneeberg.secret|boroughs~Puchberg~Schneeberg.secret]] 
 

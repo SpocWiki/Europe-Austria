@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Ligist/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Ligist](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist|boroughs~Ligist]] 
 
-### [boroughs~Ligist.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.public|boroughs~Ligist.public]] 
 
-### [boroughs~Ligist.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.internal|boroughs~Ligist.internal]] 
 
-### [boroughs~Ligist.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.protect|boroughs~Ligist.protect]] 
 
-### [boroughs~Ligist.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.private|boroughs~Ligist.private]] 
 
-### [boroughs~Ligist.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.personal|boroughs~Ligist.personal]] 
 
-### [boroughs~Ligist.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Ligist/boroughs~Ligist.secret|boroughs~Ligist.secret]] 
 

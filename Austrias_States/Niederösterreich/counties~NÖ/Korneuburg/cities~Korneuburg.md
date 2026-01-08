@@ -18,17 +18,17 @@ markerFolder: ./cities~Korneuburg/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Korneuburg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg|cities~Korneuburg]] 
 
-### [cities~Korneuburg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.public|cities~Korneuburg.public]] 
 
-### [cities~Korneuburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.internal|cities~Korneuburg.internal]] 
 
-### [cities~Korneuburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.protect|cities~Korneuburg.protect]] 
 
-### [cities~Korneuburg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.private|cities~Korneuburg.private]] 
 
-### [cities~Korneuburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.personal|cities~Korneuburg.personal]] 
 
-### [cities~Korneuburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg.secret|cities~Korneuburg.secret]] 
 

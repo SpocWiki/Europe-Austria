@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Sanktyregg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Steyregg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg|boroughs~Steyregg]] 
 
-### [boroughs~Steyregg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.public|boroughs~Steyregg.public]] 
 
-### [boroughs~Steyregg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.internal|boroughs~Steyregg.internal]] 
 
-### [boroughs~Steyregg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.protect|boroughs~Steyregg.protect]] 
 
-### [boroughs~Steyregg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.private|boroughs~Steyregg.private]] 
 
-### [boroughs~Steyregg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.personal|boroughs~Steyregg.personal]] 
 
-### [boroughs~Steyregg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Steyregg/boroughs~Steyregg.secret|boroughs~Steyregg.secret]] 
 

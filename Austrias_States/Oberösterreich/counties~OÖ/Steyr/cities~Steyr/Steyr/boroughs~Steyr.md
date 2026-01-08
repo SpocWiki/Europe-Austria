@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Steyr/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Steyr](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr|boroughs~Steyr]] 
 
-### [boroughs~Steyr.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.public|boroughs~Steyr.public]] 
 
-### [boroughs~Steyr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.internal|boroughs~Steyr.internal]] 
 
-### [boroughs~Steyr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.protect|boroughs~Steyr.protect]] 
 
-### [boroughs~Steyr.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.private|boroughs~Steyr.private]] 
 
-### [boroughs~Steyr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.personal|boroughs~Steyr.personal]] 
 
-### [boroughs~Steyr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Steyr/boroughs~Steyr.secret|boroughs~Steyr.secret]] 
 

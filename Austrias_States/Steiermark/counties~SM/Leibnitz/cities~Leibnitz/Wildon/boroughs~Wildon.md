@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Wildon/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Wildon](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon|boroughs~Wildon]] 
 
-### [boroughs~Wildon.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.public|boroughs~Wildon.public]] 
 
-### [boroughs~Wildon.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.internal|boroughs~Wildon.internal]] 
 
-### [boroughs~Wildon.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.protect|boroughs~Wildon.protect]] 
 
-### [boroughs~Wildon.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.private|boroughs~Wildon.private]] 
 
-### [boroughs~Wildon.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.personal|boroughs~Wildon.personal]] 
 
-### [boroughs~Wildon.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Wildon/boroughs~Wildon.secret|boroughs~Wildon.secret]] 
 

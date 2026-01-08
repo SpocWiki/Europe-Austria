@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Tumeltsham/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Tumeltsham](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham|boroughs~Tumeltsham]] 
 
-### [boroughs~Tumeltsham.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.public|boroughs~Tumeltsham.public]] 
 
-### [boroughs~Tumeltsham.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.internal|boroughs~Tumeltsham.internal]] 
 
-### [boroughs~Tumeltsham.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.protect|boroughs~Tumeltsham.protect]] 
 
-### [boroughs~Tumeltsham.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.private|boroughs~Tumeltsham.private]] 
 
-### [boroughs~Tumeltsham.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.personal|boroughs~Tumeltsham.personal]] 
 
-### [boroughs~Tumeltsham.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Tumeltsham/boroughs~Tumeltsham.secret|boroughs~Tumeltsham.secret]] 
 

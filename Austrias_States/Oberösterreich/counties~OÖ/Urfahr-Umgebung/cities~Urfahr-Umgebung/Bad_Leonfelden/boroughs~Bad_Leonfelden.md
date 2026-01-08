@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Bad_Leonfelden/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Bad_Leonfelden](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden|boroughs~Bad_Leonfelden]] 
 
-### [boroughs~Bad_Leonfelden.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.public|boroughs~Bad_Leonfelden.public]] 
 
-### [boroughs~Bad_Leonfelden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.internal|boroughs~Bad_Leonfelden.internal]] 
 
-### [boroughs~Bad_Leonfelden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.protect|boroughs~Bad_Leonfelden.protect]] 
 
-### [boroughs~Bad_Leonfelden.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.private|boroughs~Bad_Leonfelden.private]] 
 
-### [boroughs~Bad_Leonfelden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.personal|boroughs~Bad_Leonfelden.personal]] 
 
-### [boroughs~Bad_Leonfelden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Bad_Leonfelden/boroughs~Bad_Leonfelden.secret|boroughs~Bad_Leonfelden.secret]] 
 

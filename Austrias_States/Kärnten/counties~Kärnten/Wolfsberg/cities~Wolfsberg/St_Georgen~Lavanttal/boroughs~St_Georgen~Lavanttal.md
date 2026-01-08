@@ -17,17 +17,17 @@ markerFolder: ./boroughs~St_Georgen~Lavanttal/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~St_Georgen~Lavanttal](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal|boroughs~St_Georgen~Lavanttal]] 
 
-### [boroughs~St_Georgen~Lavanttal.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.public|boroughs~St_Georgen~Lavanttal.public]] 
 
-### [boroughs~St_Georgen~Lavanttal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.internal|boroughs~St_Georgen~Lavanttal.internal]] 
 
-### [boroughs~St_Georgen~Lavanttal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.protect|boroughs~St_Georgen~Lavanttal.protect]] 
 
-### [boroughs~St_Georgen~Lavanttal.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.private|boroughs~St_Georgen~Lavanttal.private]] 
 
-### [boroughs~St_Georgen~Lavanttal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.personal|boroughs~St_Georgen~Lavanttal.personal]] 
 
-### [boroughs~St_Georgen~Lavanttal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Wolfsberg/cities~Wolfsberg/St_Georgen~Lavanttal/boroughs~St_Georgen~Lavanttal.secret|boroughs~St_Georgen~Lavanttal.secret]] 
 

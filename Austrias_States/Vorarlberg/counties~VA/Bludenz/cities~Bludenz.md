@@ -17,17 +17,17 @@ markerFolder: ./cities~Bludenz/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Bludenz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz|cities~Bludenz]] 
 
-### [cities~Bludenz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.public|cities~Bludenz.public]] 
 
-### [cities~Bludenz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.internal|cities~Bludenz.internal]] 
 
-### [cities~Bludenz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.protect|cities~Bludenz.protect]] 
 
-### [cities~Bludenz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.private|cities~Bludenz.private]] 
 
-### [cities~Bludenz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.personal|cities~Bludenz.personal]] 
 
-### [cities~Bludenz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bludenz/cities~Bludenz.secret|cities~Bludenz.secret]] 
 

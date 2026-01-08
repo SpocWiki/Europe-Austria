@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Bernstein/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Bernstein](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein|boroughs~Bernstein]] 
 
-### [boroughs~Bernstein.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.public|boroughs~Bernstein.public]] 
 
-### [boroughs~Bernstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.internal|boroughs~Bernstein.internal]] 
 
-### [boroughs~Bernstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.protect|boroughs~Bernstein.protect]] 
 
-### [boroughs~Bernstein.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.private|boroughs~Bernstein.private]] 
 
-### [boroughs~Bernstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.personal|boroughs~Bernstein.personal]] 
 
-### [boroughs~Bernstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart/Bernstein/boroughs~Bernstein.secret|boroughs~Bernstein.secret]] 
 

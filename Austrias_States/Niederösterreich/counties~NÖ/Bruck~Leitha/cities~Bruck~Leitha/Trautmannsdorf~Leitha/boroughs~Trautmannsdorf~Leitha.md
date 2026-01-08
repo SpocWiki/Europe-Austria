@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Trautmannsdorf~Leitha/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Trautmannsdorf~Leitha](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha|boroughs~Trautmannsdorf~Leitha]] 
 
-### [boroughs~Trautmannsdorf~Leitha.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.public|boroughs~Trautmannsdorf~Leitha.public]] 
 
-### [boroughs~Trautmannsdorf~Leitha.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.internal|boroughs~Trautmannsdorf~Leitha.internal]] 
 
-### [boroughs~Trautmannsdorf~Leitha.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.protect|boroughs~Trautmannsdorf~Leitha.protect]] 
 
-### [boroughs~Trautmannsdorf~Leitha.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.private|boroughs~Trautmannsdorf~Leitha.private]] 
 
-### [boroughs~Trautmannsdorf~Leitha.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.personal|boroughs~Trautmannsdorf~Leitha.personal]] 
 
-### [boroughs~Trautmannsdorf~Leitha.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck~Leitha/cities~Bruck~Leitha/Trautmannsdorf~Leitha/boroughs~Trautmannsdorf~Leitha.secret|boroughs~Trautmannsdorf~Leitha.secret]] 
 

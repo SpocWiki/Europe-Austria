@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30668
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.72
+dv_has_place_latitude: 48.33
+dv_name: Gaenserndorf bei Wien
+dv_Country: "[[../../../../../Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.72] 
-[has_place_latitude::48.33] 
-[name::Gaenserndorf bei Wien] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -51,17 +56,17 @@ markerFolder: ./cities~Gänserndorf/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Gänserndorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf|cities~Gänserndorf]] 
 
-### [cities~Gänserndorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.public|cities~Gänserndorf.public]] 
 
-### [cities~Gänserndorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.internal|cities~Gänserndorf.internal]] 
 
-### [cities~Gänserndorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.protect|cities~Gänserndorf.protect]] 
 
-### [cities~Gänserndorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.private|cities~Gänserndorf.private]] 
 
-### [cities~Gänserndorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.personal|cities~Gänserndorf.personal]] 
 
-### [cities~Gänserndorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf.secret|cities~Gänserndorf.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./cities~Spittal~Drau/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Spittal~Drau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau|cities~Spittal~Drau]] 
 
-### [cities~Spittal~Drau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.public|cities~Spittal~Drau.public]] 
 
-### [cities~Spittal~Drau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.internal|cities~Spittal~Drau.internal]] 
 
-### [cities~Spittal~Drau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.protect|cities~Spittal~Drau.protect]] 
 
-### [cities~Spittal~Drau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.private|cities~Spittal~Drau.private]] 
 
-### [cities~Spittal~Drau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.personal|cities~Spittal~Drau.personal]] 
 
-### [cities~Spittal~Drau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau.secret|cities~Spittal~Drau.secret]] 
 

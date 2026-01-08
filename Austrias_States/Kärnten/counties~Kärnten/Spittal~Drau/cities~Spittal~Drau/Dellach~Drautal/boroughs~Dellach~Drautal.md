@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Dellach~Drautal/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Dellach~Drautal](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal|boroughs~Dellach~Drautal]] 
 
-### [boroughs~Dellach~Drautal.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.public|boroughs~Dellach~Drautal.public]] 
 
-### [boroughs~Dellach~Drautal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.internal|boroughs~Dellach~Drautal.internal]] 
 
-### [boroughs~Dellach~Drautal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.protect|boroughs~Dellach~Drautal.protect]] 
 
-### [boroughs~Dellach~Drautal.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.private|boroughs~Dellach~Drautal.private]] 
 
-### [boroughs~Dellach~Drautal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.personal|boroughs~Dellach~Drautal.personal]] 
 
-### [boroughs~Dellach~Drautal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Dellach~Drautal/boroughs~Dellach~Drautal.secret|boroughs~Dellach~Drautal.secret]] 
 

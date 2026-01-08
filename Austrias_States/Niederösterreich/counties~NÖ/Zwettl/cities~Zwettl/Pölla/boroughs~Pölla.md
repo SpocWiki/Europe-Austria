@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Pölla/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Pölla](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla|boroughs~Pölla]] 
 
-### [boroughs~Pölla.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.public|boroughs~Pölla.public]] 
 
-### [boroughs~Pölla.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.internal|boroughs~Pölla.internal]] 
 
-### [boroughs~Pölla.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.protect|boroughs~Pölla.protect]] 
 
-### [boroughs~Pölla.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.private|boroughs~Pölla.private]] 
 
-### [boroughs~Pölla.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.personal|boroughs~Pölla.personal]] 
 
-### [boroughs~Pölla.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Zwettl/cities~Zwettl/Pölla/boroughs~Pölla.secret|boroughs~Pölla.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Hernstein/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Hernstein](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein|boroughs~Hernstein]] 
 
-### [boroughs~Hernstein.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.public|boroughs~Hernstein.public]] 
 
-### [boroughs~Hernstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.internal|boroughs~Hernstein.internal]] 
 
-### [boroughs~Hernstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.protect|boroughs~Hernstein.protect]] 
 
-### [boroughs~Hernstein.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.private|boroughs~Hernstein.private]] 
 
-### [boroughs~Hernstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.personal|boroughs~Hernstein.personal]] 
 
-### [boroughs~Hernstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Hernstein/boroughs~Hernstein.secret|boroughs~Hernstein.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Kirchschlag~Buckligen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Kirchschlag~Buckligen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen|boroughs~Kirchschlag~Buckligen]] 
 
-### [boroughs~Kirchschlag~Buckligen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.public|boroughs~Kirchschlag~Buckligen.public]] 
 
-### [boroughs~Kirchschlag~Buckligen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.internal|boroughs~Kirchschlag~Buckligen.internal]] 
 
-### [boroughs~Kirchschlag~Buckligen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.protect|boroughs~Kirchschlag~Buckligen.protect]] 
 
-### [boroughs~Kirchschlag~Buckligen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.private|boroughs~Kirchschlag~Buckligen.private]] 
 
-### [boroughs~Kirchschlag~Buckligen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.personal|boroughs~Kirchschlag~Buckligen.personal]] 
 
-### [boroughs~Kirchschlag~Buckligen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Wiener_Neustadt/cities~Wiener_Neustadt/Kirchschlag~Buckligen_Welt/boroughs~Kirchschlag~Buckligen.secret|boroughs~Kirchschlag~Buckligen.secret]] 
 

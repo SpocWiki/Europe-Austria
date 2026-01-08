@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Rohrbach-Berg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Rohrbach-Berg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg|boroughs~Rohrbach-Berg]] 
 
-### [boroughs~Rohrbach-Berg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.public|boroughs~Rohrbach-Berg.public]] 
 
-### [boroughs~Rohrbach-Berg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.internal|boroughs~Rohrbach-Berg.internal]] 
 
-### [boroughs~Rohrbach-Berg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.protect|boroughs~Rohrbach-Berg.protect]] 
 
-### [boroughs~Rohrbach-Berg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.private|boroughs~Rohrbach-Berg.private]] 
 
-### [boroughs~Rohrbach-Berg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.personal|boroughs~Rohrbach-Berg.personal]] 
 
-### [boroughs~Rohrbach-Berg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Rohrbach-Berg/boroughs~Rohrbach-Berg.secret|boroughs~Rohrbach-Berg.secret]] 
 

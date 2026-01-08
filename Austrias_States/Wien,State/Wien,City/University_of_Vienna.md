@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"University", "UniversitatWien: f66rr"
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~University_of_Vienna,165980|WD~University_of_Vienna,165980]]"
+dv_university-universitatwien: f66rr"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~University_of_Vienna,165980|WD~University_of_Vienna,165980]]"
+
 has_time_started: 1365-03-20 
 aliases:
 has_id_wikidata: Q165980
@@ -8,7 +14,7 @@ Libris_URI: 20dhqw3l1j2jh1h
 P1015: "90297799"
 EU_Participant_Identification_Code: "999866883"
 EU_VAT_number: ATU37586901
-Wolfram_Language_entity_code: Entity["University", "UniversitatWien::f66rr"]
+Wolfram_Language_entity_code: Entity"University", "UniversitatWien = `=this.dv_"University", "UniversitatWien`
 Commons_category: University of Vienna
 Facebook_username: univienna
 Instagram_username: univienna
@@ -92,7 +98,7 @@ ISNI: "0000000122861424"
 
 # [[University_of_Vienna]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~University_of_Vienna,165980|WD~University_of_Vienna,165980]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -108,4 +114,21 @@ ISNI: "0000000122861424"
 > including Erwin Schrödinger, Karl Popper, Stefan Zweig, Friedrich Hayek, Gustav Mahler, Sigmund Freud, Gregor Mendel, Ludwig von Mises, among others.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Vienna) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/University_of_Vienna|University_of_Vienna]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/University_of_Vienna.public|University_of_Vienna.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/University_of_Vienna.internal|University_of_Vienna.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/University_of_Vienna.protect|University_of_Vienna.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/University_of_Vienna.private|University_of_Vienna.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/University_of_Vienna.personal|University_of_Vienna.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/University_of_Vienna.secret|University_of_Vienna.secret]] 
 

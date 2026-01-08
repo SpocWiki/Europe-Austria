@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Grafendorf~Hartberg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Grafendorf~Hartberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg|boroughs~Grafendorf~Hartberg]] 
 
-### [boroughs~Grafendorf~Hartberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.public|boroughs~Grafendorf~Hartberg.public]] 
 
-### [boroughs~Grafendorf~Hartberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.internal|boroughs~Grafendorf~Hartberg.internal]] 
 
-### [boroughs~Grafendorf~Hartberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.protect|boroughs~Grafendorf~Hartberg.protect]] 
 
-### [boroughs~Grafendorf~Hartberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.private|boroughs~Grafendorf~Hartberg.private]] 
 
-### [boroughs~Grafendorf~Hartberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.personal|boroughs~Grafendorf~Hartberg.personal]] 
 
-### [boroughs~Grafendorf~Hartberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Grafendorf~Hartberg/boroughs~Grafendorf~Hartberg.secret|boroughs~Grafendorf~Hartberg.secret]] 
 

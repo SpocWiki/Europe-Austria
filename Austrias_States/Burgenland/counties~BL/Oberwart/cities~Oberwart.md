@@ -17,17 +17,17 @@ markerFolder: ./cities~Oberwart/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Oberwart](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart|cities~Oberwart]] 
 
-### [cities~Oberwart.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.public|cities~Oberwart.public]] 
 
-### [cities~Oberwart.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.internal|cities~Oberwart.internal]] 
 
-### [cities~Oberwart.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.protect|cities~Oberwart.protect]] 
 
-### [cities~Oberwart.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.private|cities~Oberwart.private]] 
 
-### [cities~Oberwart.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.personal|cities~Oberwart.personal]] 
 
-### [cities~Oberwart.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberwart/cities~Oberwart.secret|cities~Oberwart.secret]] 
 

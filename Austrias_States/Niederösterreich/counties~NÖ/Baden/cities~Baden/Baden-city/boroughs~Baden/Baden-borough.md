@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28980
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.23
+dv_has_place_latitude: 48.02
+dv_name: Baden bei Wien
+dv_Country: "[[../../../../../../../../Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.23] 
-[has_place_latitude::48.02] 
-[name::Baden bei Wien] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Baden-borough](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough|Baden-borough]] 
 
-### [Baden-borough.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.public|Baden-borough.public]] 
 
-### [Baden-borough.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.internal|Baden-borough.internal]] 
 
-### [Baden-borough.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.protect|Baden-borough.protect]] 
 
-### [Baden-borough.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.private|Baden-borough.private]] 
 
-### [Baden-borough.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.personal|Baden-borough.personal]] 
 
-### [Baden-borough.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Baden/cities~Baden/Baden-city/boroughs~Baden/Baden-borough.secret|Baden-borough.secret]] 
 

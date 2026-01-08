@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Hofkirchen~Trattnach/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Hofkirchen~Trattnach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach|boroughs~Hofkirchen~Trattnach]] 
 
-### [boroughs~Hofkirchen~Trattnach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.public|boroughs~Hofkirchen~Trattnach.public]] 
 
-### [boroughs~Hofkirchen~Trattnach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.internal|boroughs~Hofkirchen~Trattnach.internal]] 
 
-### [boroughs~Hofkirchen~Trattnach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.protect|boroughs~Hofkirchen~Trattnach.protect]] 
 
-### [boroughs~Hofkirchen~Trattnach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.private|boroughs~Hofkirchen~Trattnach.private]] 
 
-### [boroughs~Hofkirchen~Trattnach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.personal|boroughs~Hofkirchen~Trattnach.personal]] 
 
-### [boroughs~Hofkirchen~Trattnach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Hofkirchen~Trattnach/boroughs~Hofkirchen~Trattnach.secret|boroughs~Hofkirchen~Trattnach.secret]] 
 

@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Lilienfeld/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Lilienfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld|boroughs~Lilienfeld]] 
 
-### [boroughs~Lilienfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.public|boroughs~Lilienfeld.public]] 
 
-### [boroughs~Lilienfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.internal|boroughs~Lilienfeld.internal]] 
 
-### [boroughs~Lilienfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.protect|boroughs~Lilienfeld.protect]] 
 
-### [boroughs~Lilienfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.private|boroughs~Lilienfeld.private]] 
 
-### [boroughs~Lilienfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.personal|boroughs~Lilienfeld.personal]] 
 
-### [boroughs~Lilienfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/Lilienfeld-city/boroughs~Lilienfeld.secret|boroughs~Lilienfeld.secret]] 
 

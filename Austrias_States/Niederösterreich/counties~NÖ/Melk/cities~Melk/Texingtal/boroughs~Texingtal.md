@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Texingtal/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Texingtal](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal|boroughs~Texingtal]] 
 
-### [boroughs~Texingtal.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.public|boroughs~Texingtal.public]] 
 
-### [boroughs~Texingtal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.internal|boroughs~Texingtal.internal]] 
 
-### [boroughs~Texingtal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.protect|boroughs~Texingtal.protect]] 
 
-### [boroughs~Texingtal.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.private|boroughs~Texingtal.private]] 
 
-### [boroughs~Texingtal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.personal|boroughs~Texingtal.personal]] 
 
-### [boroughs~Texingtal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Texingtal/boroughs~Texingtal.secret|boroughs~Texingtal.secret]] 
 

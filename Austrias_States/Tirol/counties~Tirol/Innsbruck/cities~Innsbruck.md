@@ -17,17 +17,17 @@ markerFolder: ./cities~Innsbruck/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Innsbruck](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck|cities~Innsbruck]] 
 
-### [cities~Innsbruck.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.public|cities~Innsbruck.public]] 
 
-### [cities~Innsbruck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.internal|cities~Innsbruck.internal]] 
 
-### [cities~Innsbruck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.protect|cities~Innsbruck.protect]] 
 
-### [cities~Innsbruck.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.private|cities~Innsbruck.private]] 
 
-### [cities~Innsbruck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.personal|cities~Innsbruck.personal]] 
 
-### [cities~Innsbruck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck.secret|cities~Innsbruck.secret]] 
 

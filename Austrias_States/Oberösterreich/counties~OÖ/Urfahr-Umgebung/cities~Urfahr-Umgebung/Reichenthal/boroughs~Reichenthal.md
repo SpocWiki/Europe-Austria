@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Reichenthal/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Reichenthal](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal|boroughs~Reichenthal]] 
 
-### [boroughs~Reichenthal.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.public|boroughs~Reichenthal.public]] 
 
-### [boroughs~Reichenthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.internal|boroughs~Reichenthal.internal]] 
 
-### [boroughs~Reichenthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.protect|boroughs~Reichenthal.protect]] 
 
-### [boroughs~Reichenthal.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.private|boroughs~Reichenthal.private]] 
 
-### [boroughs~Reichenthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.personal|boroughs~Reichenthal.personal]] 
 
-### [boroughs~Reichenthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Reichenthal/boroughs~Reichenthal.secret|boroughs~Reichenthal.secret]] 
 

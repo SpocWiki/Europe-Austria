@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Raxendorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Raxendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf|boroughs~Raxendorf]] 
 
-### [boroughs~Raxendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.public|boroughs~Raxendorf.public]] 
 
-### [boroughs~Raxendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.internal|boroughs~Raxendorf.internal]] 
 
-### [boroughs~Raxendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.protect|boroughs~Raxendorf.protect]] 
 
-### [boroughs~Raxendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.private|boroughs~Raxendorf.private]] 
 
-### [boroughs~Raxendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.personal|boroughs~Raxendorf.personal]] 
 
-### [boroughs~Raxendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Raxendorf/boroughs~Raxendorf.secret|boroughs~Raxendorf.secret]] 
 

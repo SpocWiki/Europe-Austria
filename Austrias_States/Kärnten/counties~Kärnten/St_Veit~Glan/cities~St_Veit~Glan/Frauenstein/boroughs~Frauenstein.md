@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Frauenstein/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Frauenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein|boroughs~Frauenstein]] 
 
-### [boroughs~Frauenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.public|boroughs~Frauenstein.public]] 
 
-### [boroughs~Frauenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.internal|boroughs~Frauenstein.internal]] 
 
-### [boroughs~Frauenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.protect|boroughs~Frauenstein.protect]] 
 
-### [boroughs~Frauenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.private|boroughs~Frauenstein.private]] 
 
-### [boroughs~Frauenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.personal|boroughs~Frauenstein.personal]] 
 
-### [boroughs~Frauenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/St_Veit~Glan/cities~St_Veit~Glan/Frauenstein/boroughs~Frauenstein.secret|boroughs~Frauenstein.secret]] 
 

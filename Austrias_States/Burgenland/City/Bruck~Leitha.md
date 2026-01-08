@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29370
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.78
+dv_has_place_latitude: 48.02
+dv_name: Bruck~Leitha
+dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.78] 
-[has_place_latitude::48.02] 
-[name::Bruck~Leitha] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bruck~Leitha](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha|Bruck~Leitha]] 
 
-### [Bruck~Leitha.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.public|Bruck~Leitha.public]] 
 
-### [Bruck~Leitha.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.internal|Bruck~Leitha.internal]] 
 
-### [Bruck~Leitha.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.protect|Bruck~Leitha.protect]] 
 
-### [Bruck~Leitha.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.private|Bruck~Leitha.private]] 
 
-### [Bruck~Leitha.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.personal|Bruck~Leitha.personal]] 
 
-### [Bruck~Leitha.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.secret|Bruck~Leitha.secret]] 
 

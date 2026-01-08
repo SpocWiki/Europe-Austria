@@ -17,17 +17,17 @@ markerFolder: ./cities~Oberpullendorf/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Oberpullendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf|cities~Oberpullendorf]] 
 
-### [cities~Oberpullendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.public|cities~Oberpullendorf.public]] 
 
-### [cities~Oberpullendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.internal|cities~Oberpullendorf.internal]] 
 
-### [cities~Oberpullendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.protect|cities~Oberpullendorf.protect]] 
 
-### [cities~Oberpullendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.private|cities~Oberpullendorf.private]] 
 
-### [cities~Oberpullendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.personal|cities~Oberpullendorf.personal]] 
 
-### [cities~Oberpullendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf.secret|cities~Oberpullendorf.secret]] 
 

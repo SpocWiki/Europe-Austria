@@ -17,17 +17,17 @@ markerFolder: ./boroughs~St_Pantaleon/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~St_Pantaleon](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon|boroughs~St_Pantaleon]] 
 
-### [boroughs~St_Pantaleon.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.public|boroughs~St_Pantaleon.public]] 
 
-### [boroughs~St_Pantaleon.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.internal|boroughs~St_Pantaleon.internal]] 
 
-### [boroughs~St_Pantaleon.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.protect|boroughs~St_Pantaleon.protect]] 
 
-### [boroughs~St_Pantaleon.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.private|boroughs~St_Pantaleon.private]] 
 
-### [boroughs~St_Pantaleon.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.personal|boroughs~St_Pantaleon.personal]] 
 
-### [boroughs~St_Pantaleon.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Braunau~Inn/cities~Braunau~Inn/St_Pantaleon/boroughs~St_Pantaleon.secret|boroughs~St_Pantaleon.secret]] 
 

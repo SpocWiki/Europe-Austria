@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Deutschfeistritz/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Deutschfeistritz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz|boroughs~Deutschfeistritz]] 
 
-### [boroughs~Deutschfeistritz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.public|boroughs~Deutschfeistritz.public]] 
 
-### [boroughs~Deutschfeistritz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.internal|boroughs~Deutschfeistritz.internal]] 
 
-### [boroughs~Deutschfeistritz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.protect|boroughs~Deutschfeistritz.protect]] 
 
-### [boroughs~Deutschfeistritz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.private|boroughs~Deutschfeistritz.private]] 
 
-### [boroughs~Deutschfeistritz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.personal|boroughs~Deutschfeistritz.personal]] 
 
-### [boroughs~Deutschfeistritz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Deutschfeistritz/boroughs~Deutschfeistritz.secret|boroughs~Deutschfeistritz.secret]] 
 

@@ -16,17 +16,17 @@ markerFolder: ./boroughs~St_Oswald/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~St_Oswald](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald|boroughs~St_Oswald]] 
 
-### [boroughs~St_Oswald.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.public|boroughs~St_Oswald.public]] 
 
-### [boroughs~St_Oswald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.internal|boroughs~St_Oswald.internal]] 
 
-### [boroughs~St_Oswald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.protect|boroughs~St_Oswald.protect]] 
 
-### [boroughs~St_Oswald.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.private|boroughs~St_Oswald.private]] 
 
-### [boroughs~St_Oswald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.personal|boroughs~St_Oswald.personal]] 
 
-### [boroughs~St_Oswald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/St_Oswald/boroughs~St_Oswald.secret|boroughs~St_Oswald.secret]] 
 

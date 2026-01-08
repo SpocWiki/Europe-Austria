@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Bad_Aussee/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Bad_Aussee](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee|boroughs~Bad_Aussee]] 
 
-### [boroughs~Bad_Aussee.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.public|boroughs~Bad_Aussee.public]] 
 
-### [boroughs~Bad_Aussee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.internal|boroughs~Bad_Aussee.internal]] 
 
-### [boroughs~Bad_Aussee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.protect|boroughs~Bad_Aussee.protect]] 
 
-### [boroughs~Bad_Aussee.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.private|boroughs~Bad_Aussee.private]] 
 
-### [boroughs~Bad_Aussee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.personal|boroughs~Bad_Aussee.personal]] 
 
-### [boroughs~Bad_Aussee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Bad_Aussee/boroughs~Bad_Aussee.secret|boroughs~Bad_Aussee.secret]] 
 

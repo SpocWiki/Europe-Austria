@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Kreuzstetten/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Kreuzstetten](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten|boroughs~Kreuzstetten]] 
 
-### [boroughs~Kreuzstetten.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.public|boroughs~Kreuzstetten.public]] 
 
-### [boroughs~Kreuzstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.internal|boroughs~Kreuzstetten.internal]] 
 
-### [boroughs~Kreuzstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.protect|boroughs~Kreuzstetten.protect]] 
 
-### [boroughs~Kreuzstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.private|boroughs~Kreuzstetten.private]] 
 
-### [boroughs~Kreuzstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.personal|boroughs~Kreuzstetten.personal]] 
 
-### [boroughs~Kreuzstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Kreuzstetten/boroughs~Kreuzstetten.secret|boroughs~Kreuzstetten.secret]] 
 

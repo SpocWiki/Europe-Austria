@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Kronstorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Kronstorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf|boroughs~Kronstorf]] 
 
-### [boroughs~Kronstorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.public|boroughs~Kronstorf.public]] 
 
-### [boroughs~Kronstorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.internal|boroughs~Kronstorf.internal]] 
 
-### [boroughs~Kronstorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.protect|boroughs~Kronstorf.protect]] 
 
-### [boroughs~Kronstorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.private|boroughs~Kronstorf.private]] 
 
-### [boroughs~Kronstorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.personal|boroughs~Kronstorf.personal]] 
 
-### [boroughs~Kronstorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Kronstorf/boroughs~Kronstorf.secret|boroughs~Kronstorf.secret]] 
 

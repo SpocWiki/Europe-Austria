@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Gerersdorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Gerersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf|boroughs~Gerersdorf]] 
 
-### [boroughs~Gerersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.public|boroughs~Gerersdorf.public]] 
 
-### [boroughs~Gerersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.internal|boroughs~Gerersdorf.internal]] 
 
-### [boroughs~Gerersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.protect|boroughs~Gerersdorf.protect]] 
 
-### [boroughs~Gerersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.private|boroughs~Gerersdorf.private]] 
 
-### [boroughs~Gerersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.personal|boroughs~Gerersdorf.personal]] 
 
-### [boroughs~Gerersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Gerersdorf/boroughs~Gerersdorf.secret|boroughs~Gerersdorf.secret]] 
 

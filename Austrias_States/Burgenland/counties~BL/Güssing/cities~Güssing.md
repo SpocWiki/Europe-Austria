@@ -17,17 +17,17 @@ markerFolder: ./cities~Güssing/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Güssing](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing|cities~Güssing]] 
 
-### [cities~Güssing.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.public|cities~Güssing.public]] 
 
-### [cities~Güssing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.internal|cities~Güssing.internal]] 
 
-### [cities~Güssing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.protect|cities~Güssing.protect]] 
 
-### [cities~Güssing.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.private|cities~Güssing.private]] 
 
-### [cities~Güssing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.personal|cities~Güssing.personal]] 
 
-### [cities~Güssing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Güssing/cities~Güssing.secret|cities~Güssing.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Mooskirchen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Mooskirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen|boroughs~Mooskirchen]] 
 
-### [boroughs~Mooskirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.public|boroughs~Mooskirchen.public]] 
 
-### [boroughs~Mooskirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.internal|boroughs~Mooskirchen.internal]] 
 
-### [boroughs~Mooskirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.protect|boroughs~Mooskirchen.protect]] 
 
-### [boroughs~Mooskirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.private|boroughs~Mooskirchen.private]] 
 
-### [boroughs~Mooskirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.personal|boroughs~Mooskirchen.personal]] 
 
-### [boroughs~Mooskirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Voitsberg/cities~Voitsberg/Mooskirchen/boroughs~Mooskirchen.secret|boroughs~Mooskirchen.secret]] 
 

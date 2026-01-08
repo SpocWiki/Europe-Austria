@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Steindorf~Ossiacher_See/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Steindorf~Ossiacher_See](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See|boroughs~Steindorf~Ossiacher_See]] 
 
-### [boroughs~Steindorf~Ossiacher_See.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.public|boroughs~Steindorf~Ossiacher_See.public]] 
 
-### [boroughs~Steindorf~Ossiacher_See.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.internal|boroughs~Steindorf~Ossiacher_See.internal]] 
 
-### [boroughs~Steindorf~Ossiacher_See.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.protect|boroughs~Steindorf~Ossiacher_See.protect]] 
 
-### [boroughs~Steindorf~Ossiacher_See.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.private|boroughs~Steindorf~Ossiacher_See.private]] 
 
-### [boroughs~Steindorf~Ossiacher_See.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.personal|boroughs~Steindorf~Ossiacher_See.personal]] 
 
-### [boroughs~Steindorf~Ossiacher_See.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/cities~Feldkirchen/Steindorf~Ossiacher_See/boroughs~Steindorf~Ossiacher_See.secret|boroughs~Steindorf~Ossiacher_See.secret]] 
 

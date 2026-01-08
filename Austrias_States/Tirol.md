@@ -8,6 +8,8 @@ location:
 type: State
 tags:
   - geo/State
+dv_name: Tirol
+dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
 [StateId::] 
@@ -22,10 +24,10 @@ geojsonFolder: ./Tirol/
 markerFolder: ./Tirol/
 ```
 
-[ name :: Tirol ] 
+name = `=this.dv_name` 
 [CountryId::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
@@ -33,17 +35,17 @@ markerFolder: ./Tirol/
 
 ## Confidential Links & Embeds: 
 
-### [Tirol](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol|Tirol]] 
 
-### [Tirol.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.public|Tirol.public]] 
 
-### [Tirol.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.internal|Tirol.internal]] 
 
-### [Tirol.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.protect|Tirol.protect]] 
 
-### [Tirol.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.private|Tirol.private]] 
 
-### [Tirol.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.personal|Tirol.personal]] 
 
-### [Tirol.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol.secret|Tirol.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Turnau/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Turnau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau|boroughs~Turnau]] 
 
-### [boroughs~Turnau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.public|boroughs~Turnau.public]] 
 
-### [boroughs~Turnau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.internal|boroughs~Turnau.internal]] 
 
-### [boroughs~Turnau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.protect|boroughs~Turnau.protect]] 
 
-### [boroughs~Turnau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.private|boroughs~Turnau.private]] 
 
-### [boroughs~Turnau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.personal|boroughs~Turnau.personal]] 
 
-### [boroughs~Turnau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Turnau/boroughs~Turnau.secret|boroughs~Turnau.secret]] 
 

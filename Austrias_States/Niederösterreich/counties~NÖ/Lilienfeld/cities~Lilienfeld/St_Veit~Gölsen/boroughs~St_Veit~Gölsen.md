@@ -16,17 +16,17 @@ markerFolder: ./boroughs~St_Veit~Gölsen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~St_Veit~Gölsen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen|boroughs~St_Veit~Gölsen]] 
 
-### [boroughs~St_Veit~Gölsen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.public|boroughs~St_Veit~Gölsen.public]] 
 
-### [boroughs~St_Veit~Gölsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.internal|boroughs~St_Veit~Gölsen.internal]] 
 
-### [boroughs~St_Veit~Gölsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.protect|boroughs~St_Veit~Gölsen.protect]] 
 
-### [boroughs~St_Veit~Gölsen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.private|boroughs~St_Veit~Gölsen.private]] 
 
-### [boroughs~St_Veit~Gölsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.personal|boroughs~St_Veit~Gölsen.personal]] 
 
-### [boroughs~St_Veit~Gölsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Lilienfeld/cities~Lilienfeld/St_Veit~Gölsen/boroughs~St_Veit~Gölsen.secret|boroughs~St_Veit~Gölsen.secret]] 
 

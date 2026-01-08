@@ -17,17 +17,17 @@ markerFolder: ./cities~Imst/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Imst](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst|cities~Imst]] 
 
-### [cities~Imst.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.public|cities~Imst.public]] 
 
-### [cities~Imst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.internal|cities~Imst.internal]] 
 
-### [cities~Imst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.protect|cities~Imst.protect]] 
 
-### [cities~Imst.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.private|cities~Imst.private]] 
 
-### [cities~Imst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.personal|cities~Imst.personal]] 
 
-### [cities~Imst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Imst/cities~Imst.secret|cities~Imst.secret]] 
 

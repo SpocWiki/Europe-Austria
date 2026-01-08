@@ -10,11 +10,15 @@ location:
 type: State
 tags:
   - geo/State
+dv_isDeleted: false
+dv_confidential: public
+dv_name: Wien
+dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
 [StateId::] 
-isDeleted :: false
-confidential :: public
+isDeleted = `=this.dv_isDeleted`
+confidential = `=this.dv_confidential`
 
 
 ```leaflet
@@ -26,10 +30,10 @@ geojsonFolder: ./State~Wien/
 markerFolder: ./State~Wien/
 ```
 
-[ name :: Wien ] 
+name = `=this.dv_name` 
 [CountryId::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
@@ -37,17 +41,17 @@ markerFolder: ./State~Wien/
 
 ## Confidential Links & Embeds: 
 
-### [Wien,State](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State|Wien,State]] 
 
-### [Wien,State.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.public|Wien,State.public]] 
 
-### [Wien,State.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.internal|Wien,State.internal]] 
 
-### [Wien,State.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.protect|Wien,State.protect]] 
 
-### [Wien,State.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.private|Wien,State.private]] 
 
-### [Wien,State.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.personal|Wien,State.personal]] 
 
-### [Wien,State.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State.secret|Wien,State.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Rosenburg-Mold/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Rosenburg-Mold](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold|boroughs~Rosenburg-Mold]] 
 
-### [boroughs~Rosenburg-Mold.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.public|boroughs~Rosenburg-Mold.public]] 
 
-### [boroughs~Rosenburg-Mold.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.internal|boroughs~Rosenburg-Mold.internal]] 
 
-### [boroughs~Rosenburg-Mold.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.protect|boroughs~Rosenburg-Mold.protect]] 
 
-### [boroughs~Rosenburg-Mold.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.private|boroughs~Rosenburg-Mold.private]] 
 
-### [boroughs~Rosenburg-Mold.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.personal|boroughs~Rosenburg-Mold.personal]] 
 
-### [boroughs~Rosenburg-Mold.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Rosenburg-Mold/boroughs~Rosenburg-Mold.secret|boroughs~Rosenburg-Mold.secret]] 
 

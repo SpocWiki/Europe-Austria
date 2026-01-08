@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Kematen~Innbach/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Kematen~Innbach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach|boroughs~Kematen~Innbach]] 
 
-### [boroughs~Kematen~Innbach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.public|boroughs~Kematen~Innbach.public]] 
 
-### [boroughs~Kematen~Innbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.internal|boroughs~Kematen~Innbach.internal]] 
 
-### [boroughs~Kematen~Innbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.protect|boroughs~Kematen~Innbach.protect]] 
 
-### [boroughs~Kematen~Innbach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.private|boroughs~Kematen~Innbach.private]] 
 
-### [boroughs~Kematen~Innbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.personal|boroughs~Kematen~Innbach.personal]] 
 
-### [boroughs~Kematen~Innbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen/Kematen~Innbach/boroughs~Kematen~Innbach.secret|boroughs~Kematen~Innbach.secret]] 
 

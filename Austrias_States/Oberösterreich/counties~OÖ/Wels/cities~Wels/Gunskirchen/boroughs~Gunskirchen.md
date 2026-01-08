@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Gunskirchen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Gunskirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen|boroughs~Gunskirchen]] 
 
-### [boroughs~Gunskirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.public|boroughs~Gunskirchen.public]] 
 
-### [boroughs~Gunskirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.internal|boroughs~Gunskirchen.internal]] 
 
-### [boroughs~Gunskirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.protect|boroughs~Gunskirchen.protect]] 
 
-### [boroughs~Gunskirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.private|boroughs~Gunskirchen.private]] 
 
-### [boroughs~Gunskirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.personal|boroughs~Gunskirchen.personal]] 
 
-### [boroughs~Gunskirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Gunskirchen/boroughs~Gunskirchen.secret|boroughs~Gunskirchen.secret]] 
 

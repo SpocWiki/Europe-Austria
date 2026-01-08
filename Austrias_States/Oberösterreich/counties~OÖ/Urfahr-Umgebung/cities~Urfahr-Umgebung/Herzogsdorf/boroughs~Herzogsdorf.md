@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Herzogsdorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Herzogsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf|boroughs~Herzogsdorf]] 
 
-### [boroughs~Herzogsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.public|boroughs~Herzogsdorf.public]] 
 
-### [boroughs~Herzogsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.internal|boroughs~Herzogsdorf.internal]] 
 
-### [boroughs~Herzogsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.protect|boroughs~Herzogsdorf.protect]] 
 
-### [boroughs~Herzogsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.private|boroughs~Herzogsdorf.private]] 
 
-### [boroughs~Herzogsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.personal|boroughs~Herzogsdorf.personal]] 
 
-### [boroughs~Herzogsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Urfahr-Umgebung/cities~Urfahr-Umgebung/Herzogsdorf/boroughs~Herzogsdorf.secret|boroughs~Herzogsdorf.secret]] 
 

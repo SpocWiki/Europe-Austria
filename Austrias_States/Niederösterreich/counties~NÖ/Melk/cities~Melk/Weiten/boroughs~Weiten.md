@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Weiten/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Weiten](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten|boroughs~Weiten]] 
 
-### [boroughs~Weiten.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.public|boroughs~Weiten.public]] 
 
-### [boroughs~Weiten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.internal|boroughs~Weiten.internal]] 
 
-### [boroughs~Weiten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.protect|boroughs~Weiten.protect]] 
 
-### [boroughs~Weiten.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.private|boroughs~Weiten.private]] 
 
-### [boroughs~Weiten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.personal|boroughs~Weiten.personal]] 
 
-### [boroughs~Weiten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Weiten/boroughs~Weiten.secret|boroughs~Weiten.secret]] 
 

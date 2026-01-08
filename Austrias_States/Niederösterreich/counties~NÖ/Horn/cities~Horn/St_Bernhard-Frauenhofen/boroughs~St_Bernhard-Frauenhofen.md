@@ -17,17 +17,17 @@ markerFolder: ./boroughs~St_Bernhard-Frauenhofen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~St_Bernhard-Frauenhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen|boroughs~St_Bernhard-Frauenhofen]] 
 
-### [boroughs~St_Bernhard-Frauenhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.public|boroughs~St_Bernhard-Frauenhofen.public]] 
 
-### [boroughs~St_Bernhard-Frauenhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.internal|boroughs~St_Bernhard-Frauenhofen.internal]] 
 
-### [boroughs~St_Bernhard-Frauenhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.protect|boroughs~St_Bernhard-Frauenhofen.protect]] 
 
-### [boroughs~St_Bernhard-Frauenhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.private|boroughs~St_Bernhard-Frauenhofen.private]] 
 
-### [boroughs~St_Bernhard-Frauenhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.personal|boroughs~St_Bernhard-Frauenhofen.personal]] 
 
-### [boroughs~St_Bernhard-Frauenhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/St_Bernhard-Frauenhofen/boroughs~St_Bernhard-Frauenhofen.secret|boroughs~St_Bernhard-Frauenhofen.secret]] 
 

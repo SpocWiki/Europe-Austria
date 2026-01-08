@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Lutzmannsburg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Lutzmannsburg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg|boroughs~Lutzmannsburg]] 
 
-### [boroughs~Lutzmannsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.public|boroughs~Lutzmannsburg.public]] 
 
-### [boroughs~Lutzmannsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.internal|boroughs~Lutzmannsburg.internal]] 
 
-### [boroughs~Lutzmannsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.protect|boroughs~Lutzmannsburg.protect]] 
 
-### [boroughs~Lutzmannsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.private|boroughs~Lutzmannsburg.private]] 
 
-### [boroughs~Lutzmannsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.personal|boroughs~Lutzmannsburg.personal]] 
 
-### [boroughs~Lutzmannsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Oberpullendorf/cities~Oberpullendorf/Lutzmannsburg/boroughs~Lutzmannsburg.secret|boroughs~Lutzmannsburg.secret]] 
 

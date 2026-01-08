@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32282
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.23
+dv_has_place_latitude: 48.2
+dv_name: Mariabrunn
+dv_Country: "[[../../../../../../Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.23] 
-[has_place_latitude::48.2] 
-[name::Mariabrunn] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mariabrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Hadersdorf/Mariabrunn|Mariabrunn]] 
 
-### [Mariabrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Hadersdorf/Mariabrunn.public|Mariabrunn.public]] 
 
-### [Mariabrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Hadersdorf/Mariabrunn.internal|Mariabrunn.internal]] 
 
-### [Mariabrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Hadersdorf/Mariabrunn.protect|Mariabrunn.protect]] 
 
-### [Mariabrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Hadersdorf/Mariabrunn.private|Mariabrunn.private]] 
 
-### [Mariabrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Hadersdorf/Mariabrunn.personal|Mariabrunn.personal]] 
 
-### [Mariabrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien/Hadersdorf/Mariabrunn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Hadersdorf/Mariabrunn.secret|Mariabrunn.secret]] 
 

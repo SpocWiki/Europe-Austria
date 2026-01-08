@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Stubenberg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Stubenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg|boroughs~Stubenberg]] 
 
-### [boroughs~Stubenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.public|boroughs~Stubenberg.public]] 
 
-### [boroughs~Stubenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.internal|boroughs~Stubenberg.internal]] 
 
-### [boroughs~Stubenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.protect|boroughs~Stubenberg.protect]] 
 
-### [boroughs~Stubenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.private|boroughs~Stubenberg.private]] 
 
-### [boroughs~Stubenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.personal|boroughs~Stubenberg.personal]] 
 
-### [boroughs~Stubenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Stubenberg/boroughs~Stubenberg.secret|boroughs~Stubenberg.secret]] 
 

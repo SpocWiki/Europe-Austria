@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Stadl-Predlitz/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Stadl-Predlitz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz|boroughs~Stadl-Predlitz]] 
 
-### [boroughs~Stadl-Predlitz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.public|boroughs~Stadl-Predlitz.public]] 
 
-### [boroughs~Stadl-Predlitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.internal|boroughs~Stadl-Predlitz.internal]] 
 
-### [boroughs~Stadl-Predlitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.protect|boroughs~Stadl-Predlitz.protect]] 
 
-### [boroughs~Stadl-Predlitz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.private|boroughs~Stadl-Predlitz.private]] 
 
-### [boroughs~Stadl-Predlitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.personal|boroughs~Stadl-Predlitz.personal]] 
 
-### [boroughs~Stadl-Predlitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Stadl-Predlitz/boroughs~Stadl-Predlitz.secret|boroughs~Stadl-Predlitz.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Weikendorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Weikendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf|boroughs~Weikendorf]] 
 
-### [boroughs~Weikendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.public|boroughs~Weikendorf.public]] 
 
-### [boroughs~Weikendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.internal|boroughs~Weikendorf.internal]] 
 
-### [boroughs~Weikendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.protect|boroughs~Weikendorf.protect]] 
 
-### [boroughs~Weikendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.private|boroughs~Weikendorf.private]] 
 
-### [boroughs~Weikendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.personal|boroughs~Weikendorf.personal]] 
 
-### [boroughs~Weikendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Weikendorf/boroughs~Weikendorf.secret|boroughs~Weikendorf.secret]] 
 

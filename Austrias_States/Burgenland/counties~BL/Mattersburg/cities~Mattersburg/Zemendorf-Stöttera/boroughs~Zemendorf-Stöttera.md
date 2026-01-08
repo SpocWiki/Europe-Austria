@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Zemendorf-Stöttera/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Zemendorf-Stöttera](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera|boroughs~Zemendorf-Stöttera]] 
 
-### [boroughs~Zemendorf-Stöttera.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.public|boroughs~Zemendorf-Stöttera.public]] 
 
-### [boroughs~Zemendorf-Stöttera.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.internal|boroughs~Zemendorf-Stöttera.internal]] 
 
-### [boroughs~Zemendorf-Stöttera.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.protect|boroughs~Zemendorf-Stöttera.protect]] 
 
-### [boroughs~Zemendorf-Stöttera.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.private|boroughs~Zemendorf-Stöttera.private]] 
 
-### [boroughs~Zemendorf-Stöttera.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.personal|boroughs~Zemendorf-Stöttera.personal]] 
 
-### [boroughs~Zemendorf-Stöttera.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Mattersburg/cities~Mattersburg/Zemendorf-Stöttera/boroughs~Zemendorf-Stöttera.secret|boroughs~Zemendorf-Stöttera.secret]] 
 

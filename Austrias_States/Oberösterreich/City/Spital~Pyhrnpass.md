@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34415
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.33
+dv_has_place_latitude: 47.67
+dv_name: Spital am Pyhrnpass
+dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.33] 
-[has_place_latitude::47.67] 
-[name::Spital am Pyhrnpass] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spital~Pyhrnpass](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass|Spital~Pyhrnpass]] 
 
-### [Spital~Pyhrnpass.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.public|Spital~Pyhrnpass.public]] 
 
-### [Spital~Pyhrnpass.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.internal|Spital~Pyhrnpass.internal]] 
 
-### [Spital~Pyhrnpass.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.protect|Spital~Pyhrnpass.protect]] 
 
-### [Spital~Pyhrnpass.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.private|Spital~Pyhrnpass.private]] 
 
-### [Spital~Pyhrnpass.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.personal|Spital~Pyhrnpass.personal]] 
 
-### [Spital~Pyhrnpass.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Spital~Pyhrnpass.secret|Spital~Pyhrnpass.secret]] 
 

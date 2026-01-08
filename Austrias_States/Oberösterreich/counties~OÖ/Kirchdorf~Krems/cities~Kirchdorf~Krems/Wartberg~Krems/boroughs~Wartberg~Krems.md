@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Wartberg~Krems/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Wartberg~Krems](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems|boroughs~Wartberg~Krems]] 
 
-### [boroughs~Wartberg~Krems.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.public|boroughs~Wartberg~Krems.public]] 
 
-### [boroughs~Wartberg~Krems.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.internal|boroughs~Wartberg~Krems.internal]] 
 
-### [boroughs~Wartberg~Krems.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.protect|boroughs~Wartberg~Krems.protect]] 
 
-### [boroughs~Wartberg~Krems.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.private|boroughs~Wartberg~Krems.private]] 
 
-### [boroughs~Wartberg~Krems.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.personal|boroughs~Wartberg~Krems.personal]] 
 
-### [boroughs~Wartberg~Krems.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Wartberg~Krems/boroughs~Wartberg~Krems.secret|boroughs~Wartberg~Krems.secret]] 
 

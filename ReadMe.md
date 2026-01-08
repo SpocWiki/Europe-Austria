@@ -10,7 +10,7 @@ aliases:
   - ReadMe
 has_id_wikidata: Q40
 title: Austria
-linkTitle: ''
+linkTitle: ""
 type: Country
 location:
   - 47.712
@@ -26,36 +26,111 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - de-AT
   - hr
   - hu
   - sl
 icon: flag-at
+dv_name: Austria
+dv_name-en: Austria
+dv_name-es: Austria
+dv_name-fr: Autriche
+dv_name-cn: 奥地利
+dv_name-ar: النمسا
+dv_name-ru: Австрия
+dv_name-de: Österreich
+dv_ISO2: AT
+dv_ISO3: AUT
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Austria
+  image_for_:
+    flag: "![[./Austria/Flag_of_Austria.svg|200]] ![](./Austria/Flag_of_Austria.svg)"
+    coat_of_arms: "![[./Coat_of_arms_of_Austria.svg|150]] ![](./Coat_of_arms_of_Austria.svg)"
+  sound_of_:
+    anthem: "![[Anthem-Austria.mp3]]"
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: AUSTRIA
+dv_Telephone: 43
+dv_Global: true
+dv_Global_Name: World
+dv_CLDR_display_name: Austria
+dv_UNTERM_English: Austria
+dv_UNTERM_English_Formal: the Republic of Austria
+dv_UNTERM_Spanish_Formal: la República de Austria
+dv_UNTERM_Spanish: Austria
+dv_UNTERM_French: Autriche (l') [fém.]
+dv_UNTERM_Arabic: النمسا
+dv_UNTERM_Arabic_Formal: جمهورية النمسا
+dv_UNTERM_Chinese: 奥地利
+dv_UNTERM_Chinese_Formal: 奥地利共和国
+dv_UNTERM_French_Formal: la République d'Autriche
+dv_UNTERM_Russian: Австрия
+dv_UNTERM_Russian_Formal: Австрийская Республика
+dv_Region_Name: "[[../../../Europe]]"
+dv_Intermediate_Region_Name: "[[ReadMe]]"
+dv_Sub-region_Name: "[[Western Europe]]"
+dv_Region: 150
+dv_Sub-region: 155
+dv_Geoname-ID: 2782113
+dv_FIPS: AU
+dv_FIFA: AUT
+dv_IOC: AUT
+dv_MARC: au
+dv_GAUL: 18
+dv_WMO: OS
+dv_ITU: AUT
+dv_DS: A
+dv_TLD: .at
+dv_EDGAR: C4
+dv_M49: 40
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 40
+dv_Area-Total: 8273
+dv_Area-Land: 82730
+dv_has_place_continent: "[[../../../Europe]]"
+dv_VehicleCode: A
+dv_Capital: "[[Austrias_States/Wien,State/Wien,City]]"
+dv_Alcohol-l: 13.2
+dv_Language-Id: 497
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 14.381
+dv_has_place_latitude: 47.712
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Austria
+dv_has_image_for_flag: "![[./Austria/Flag_of_Austria.svg|200]] ![](./Austria/Flag_of_Austria.svg)"
+dv_has_image_for_coat_of_arms: "![[./Coat_of_arms_of_Austria.svg|150]] ![](./Coat_of_arms_of_Austria.svg)"
+dv_has_sound_of_anthem: "![[Anthem-Austria.mp3]]"
+dv_developed_developing_countries: Developed
 ---
 
 # Austria (Österreich)
 
 ## International Names
 
-[	name	 :: Austria ]
-[name-en::Austria] 
-[	name-es	 :: Austria ]
-[	name-fr	 :: Autriche ]
-[	name-cn	 :: 奥地利 ]
-[	name-ar	 :: النمسا ]
-[	name-ru	 :: Австрия ]
-[name-de::Österreich] 
+name = `=this.dv_name`
+name-en = `=this.dv_name-en` 
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
+name-de = `=this.dv_name-de` 
 
-[ISO2::AT] 
-[ISO3::AUT] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Austria 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
 covering the European country of [Austria](https://en.wikipedia.org/wiki/Austria). 
@@ -82,7 +157,7 @@ Check out this Repository into this Subfolder:
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./Austria/Flag_of_Austria.svg|200]] <img src="./Austria/Flag_of_Austria.svg" width="200"/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 ## #has_/text_of_/abstract  
 
@@ -156,10 +231,10 @@ Check out this Repository into this Subfolder:
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Austria.svg|150]] <img src="./Coat_of_arms_of_Austria.svg" width="150"/> 
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 
-#has_/sound_of_/anthem :: ![[Anthem-Austria.mp3]]
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
 
 ### #has_/map  
 
@@ -175,91 +250,91 @@ markerFolder: .///
 ```
 
 
-[	ISO4217-currency_alphabetic	 :: EUR ] 
-[	ISO4217-currency_name	 :: Euro ] 
-[	ISO4217-currency_numeric	 :: 978 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: AUSTRIA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 43 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	CLDR_display_name	 :: Austria ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Austria ] 
-[	UNTERM_English_Formal	 :: the Republic of Austria ] 
-[	UNTERM_Spanish_Formal	 :: la República de Austria ] 
-[	UNTERM_Spanish	 :: Austria ] 
-[	UNTERM_French	 :: Autriche (l') [fém.] ] 
-[	UNTERM_Arabic	 :: النمسا ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية النمسا ] 
-[	UNTERM_Chinese	 :: 奥地利 ] 
-[	UNTERM_Chinese_Formal	 :: 奥地利共和国 ] 
-[	UNTERM_French_Formal	 :: la République d'Autriche ] 
-[	UNTERM_Russian	 :: Австрия ] 
-[	UNTERM_Russian_Formal	 :: Австрийская Республика ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 155 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 2782113 ] 
-[	FIPS	 :: AU ] 
-[	FIFA	 :: AUT ] 
-[	IOC	 :: AUT ] 
-[	MARC	 :: au ] 
-[	GAUL	 :: 18 ] 
-[	WMO	 :: OS ] 
-[	ITU	 :: AUT ] 
-[	DS	 :: A ] 
-[	TLD	 :: .at ] 
-[	EDGAR	 :: C4 ] 
-[	M49	 :: 40 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developed ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 040 ] 
-
-
-
-[Area-Total::8273] 
-[Area-Land::82730] 
-has_place_continent:: [[Europe]]  
-[VehicleCode::A] 
-Capital :: [[Austrias_States/Wien,State/Wien,City]]  
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
-[Alcohol-l::13.2] 
-[Language-Id::497] 
+
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+
+
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.381]
-[has_place_latitude::47.712]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/ReadMe.secret|ReadMe.secret]] 
 

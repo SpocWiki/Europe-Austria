@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Gedersdorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Gedersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf|boroughs~Gedersdorf]] 
 
-### [boroughs~Gedersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.public|boroughs~Gedersdorf.public]] 
 
-### [boroughs~Gedersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.internal|boroughs~Gedersdorf.internal]] 
 
-### [boroughs~Gedersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.protect|boroughs~Gedersdorf.protect]] 
 
-### [boroughs~Gedersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.private|boroughs~Gedersdorf.private]] 
 
-### [boroughs~Gedersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.personal|boroughs~Gedersdorf.personal]] 
 
-### [boroughs~Gedersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Gedersdorf/boroughs~Gedersdorf.secret|boroughs~Gedersdorf.secret]] 
 

@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Linz,City](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City|Linz,City]] 
 
-### [Linz,City.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.public|Linz,City.public]] 
 
-### [Linz,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.internal|Linz,City.internal]] 
 
-### [Linz,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.protect|Linz,City.protect]] 
 
-### [Linz,City.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.private|Linz,City.private]] 
 
-### [Linz,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.personal|Linz,City.personal]] 
 
-### [Linz,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City.secret|Linz,City.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Wartmannstetten/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Wartmannstetten](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten|boroughs~Wartmannstetten]] 
 
-### [boroughs~Wartmannstetten.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.public|boroughs~Wartmannstetten.public]] 
 
-### [boroughs~Wartmannstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.internal|boroughs~Wartmannstetten.internal]] 
 
-### [boroughs~Wartmannstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.protect|boroughs~Wartmannstetten.protect]] 
 
-### [boroughs~Wartmannstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.private|boroughs~Wartmannstetten.private]] 
 
-### [boroughs~Wartmannstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.personal|boroughs~Wartmannstetten.personal]] 
 
-### [boroughs~Wartmannstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Wartmannstetten/boroughs~Wartmannstetten.secret|boroughs~Wartmannstetten.secret]] 
 

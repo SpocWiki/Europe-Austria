@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Kötschach-Mauthen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Kötschach-Mauthen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen|boroughs~Kötschach-Mauthen]] 
 
-### [boroughs~Kötschach-Mauthen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.public|boroughs~Kötschach-Mauthen.public]] 
 
-### [boroughs~Kötschach-Mauthen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.internal|boroughs~Kötschach-Mauthen.internal]] 
 
-### [boroughs~Kötschach-Mauthen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.protect|boroughs~Kötschach-Mauthen.protect]] 
 
-### [boroughs~Kötschach-Mauthen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.private|boroughs~Kötschach-Mauthen.private]] 
 
-### [boroughs~Kötschach-Mauthen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.personal|boroughs~Kötschach-Mauthen.personal]] 
 
-### [boroughs~Kötschach-Mauthen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Hermagor/cities~Hermagor/Kötschach-Mauthen/boroughs~Kötschach-Mauthen.secret|boroughs~Kötschach-Mauthen.secret]] 
 

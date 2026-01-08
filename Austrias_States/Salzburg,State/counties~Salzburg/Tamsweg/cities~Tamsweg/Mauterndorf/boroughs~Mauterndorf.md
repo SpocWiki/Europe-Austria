@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Mauterndorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Mauterndorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf|boroughs~Mauterndorf]] 
 
-### [boroughs~Mauterndorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.public|boroughs~Mauterndorf.public]] 
 
-### [boroughs~Mauterndorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.internal|boroughs~Mauterndorf.internal]] 
 
-### [boroughs~Mauterndorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.protect|boroughs~Mauterndorf.protect]] 
 
-### [boroughs~Mauterndorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.private|boroughs~Mauterndorf.private]] 
 
-### [boroughs~Mauterndorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.personal|boroughs~Mauterndorf.personal]] 
 
-### [boroughs~Mauterndorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Tamsweg/cities~Tamsweg/Mauterndorf/boroughs~Mauterndorf.secret|boroughs~Mauterndorf.secret]] 
 

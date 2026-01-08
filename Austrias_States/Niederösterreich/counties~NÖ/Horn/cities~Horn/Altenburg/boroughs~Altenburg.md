@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Altenburg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Altenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg|boroughs~Altenburg]] 
 
-### [boroughs~Altenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.public|boroughs~Altenburg.public]] 
 
-### [boroughs~Altenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.internal|boroughs~Altenburg.internal]] 
 
-### [boroughs~Altenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.protect|boroughs~Altenburg.protect]] 
 
-### [boroughs~Altenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.private|boroughs~Altenburg.private]] 
 
-### [boroughs~Altenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.personal|boroughs~Altenburg.personal]] 
 
-### [boroughs~Altenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Altenburg/boroughs~Altenburg.secret|boroughs~Altenburg.secret]] 
 

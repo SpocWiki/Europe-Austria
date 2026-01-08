@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Angern~March/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Angern~March](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March|boroughs~Angern~March]] 
 
-### [boroughs~Angern~March.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.public|boroughs~Angern~March.public]] 
 
-### [boroughs~Angern~March.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.internal|boroughs~Angern~March.internal]] 
 
-### [boroughs~Angern~March.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.protect|boroughs~Angern~March.protect]] 
 
-### [boroughs~Angern~March.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.private|boroughs~Angern~March.private]] 
 
-### [boroughs~Angern~March.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.personal|boroughs~Angern~March.personal]] 
 
-### [boroughs~Angern~March.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gänserndorf/cities~Gänserndorf/Angern~March/boroughs~Angern~March.secret|boroughs~Angern~March.secret]] 
 

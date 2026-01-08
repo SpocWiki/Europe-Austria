@@ -18,17 +18,17 @@ markerFolder: ./boroughs~Meiseldorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Meiseldorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf|boroughs~Meiseldorf]] 
 
-### [boroughs~Meiseldorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.public|boroughs~Meiseldorf.public]] 
 
-### [boroughs~Meiseldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.internal|boroughs~Meiseldorf.internal]] 
 
-### [boroughs~Meiseldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.protect|boroughs~Meiseldorf.protect]] 
 
-### [boroughs~Meiseldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.private|boroughs~Meiseldorf.private]] 
 
-### [boroughs~Meiseldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.personal|boroughs~Meiseldorf.personal]] 
 
-### [boroughs~Meiseldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Meiseldorf/boroughs~Meiseldorf.secret|boroughs~Meiseldorf.secret]] 
 

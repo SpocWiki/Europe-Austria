@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~House_of_Habsburg,65968]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~House_of_Habsburg,65968]]"
+
 has_time_started: 1001-01-01 
 has_time_stopped: 1780-01-01 
 aliases:
@@ -49,7 +53,7 @@ Krugosvet_article_archived_: istoriya/GABSBURGI.html
 
 # [[House_of_Habsburg]] 
 
-#is_/same_as :: [[WD~House_of_Habsburg,65968]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract  
 
@@ -91,4 +95,21 @@ Krugosvet_article_archived_: istoriya/GABSBURGI.html
 > The current head of the family is Karl von Habsburg.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/House%20of%20Habsburg) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria/House_of_Habsburg|House_of_Habsburg]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria/House_of_Habsburg.public|House_of_Habsburg.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria/House_of_Habsburg.internal|House_of_Habsburg.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria/House_of_Habsburg.protect|House_of_Habsburg.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria/House_of_Habsburg.private|House_of_Habsburg.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria/House_of_Habsburg.personal|House_of_Habsburg.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria/House_of_Habsburg.secret|House_of_Habsburg.secret]] 
 

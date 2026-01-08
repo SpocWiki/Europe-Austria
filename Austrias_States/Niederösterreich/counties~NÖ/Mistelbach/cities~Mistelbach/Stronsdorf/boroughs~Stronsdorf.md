@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Stronsdorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Stronsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf|boroughs~Stronsdorf]] 
 
-### [boroughs~Stronsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.public|boroughs~Stronsdorf.public]] 
 
-### [boroughs~Stronsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.internal|boroughs~Stronsdorf.internal]] 
 
-### [boroughs~Stronsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.protect|boroughs~Stronsdorf.protect]] 
 
-### [boroughs~Stronsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.private|boroughs~Stronsdorf.private]] 
 
-### [boroughs~Stronsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.personal|boroughs~Stronsdorf.personal]] 
 
-### [boroughs~Stronsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Mistelbach/cities~Mistelbach/Stronsdorf/boroughs~Stronsdorf.secret|boroughs~Stronsdorf.secret]] 
 

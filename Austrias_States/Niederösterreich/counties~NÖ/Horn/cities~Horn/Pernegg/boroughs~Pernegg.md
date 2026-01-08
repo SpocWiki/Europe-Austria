@@ -18,17 +18,17 @@ markerFolder: ./boroughs~Pernegg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Pernegg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg|boroughs~Pernegg]] 
 
-### [boroughs~Pernegg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.public|boroughs~Pernegg.public]] 
 
-### [boroughs~Pernegg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.internal|boroughs~Pernegg.internal]] 
 
-### [boroughs~Pernegg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.protect|boroughs~Pernegg.protect]] 
 
-### [boroughs~Pernegg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.private|boroughs~Pernegg.private]] 
 
-### [boroughs~Pernegg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.personal|boroughs~Pernegg.personal]] 
 
-### [boroughs~Pernegg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Pernegg/boroughs~Pernegg.secret|boroughs~Pernegg.secret]] 
 

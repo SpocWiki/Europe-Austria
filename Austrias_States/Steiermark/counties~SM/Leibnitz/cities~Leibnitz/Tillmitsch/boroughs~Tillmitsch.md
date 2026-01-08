@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Tillmitsch/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Tillmitsch](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch|boroughs~Tillmitsch]] 
 
-### [boroughs~Tillmitsch.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.public|boroughs~Tillmitsch.public]] 
 
-### [boroughs~Tillmitsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.internal|boroughs~Tillmitsch.internal]] 
 
-### [boroughs~Tillmitsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.protect|boroughs~Tillmitsch.protect]] 
 
-### [boroughs~Tillmitsch.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.private|boroughs~Tillmitsch.private]] 
 
-### [boroughs~Tillmitsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.personal|boroughs~Tillmitsch.personal]] 
 
-### [boroughs~Tillmitsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Tillmitsch/boroughs~Tillmitsch.secret|boroughs~Tillmitsch.secret]] 
 

@@ -16,17 +16,17 @@ markerFolder: ./cities~Landeck/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Landeck](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck|cities~Landeck]] 
 
-### [cities~Landeck.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.public|cities~Landeck.public]] 
 
-### [cities~Landeck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.internal|cities~Landeck.internal]] 
 
-### [cities~Landeck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.protect|cities~Landeck.protect]] 
 
-### [cities~Landeck.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.private|cities~Landeck.private]] 
 
-### [cities~Landeck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.personal|cities~Landeck.personal]] 
 
-### [cities~Landeck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck.secret|cities~Landeck.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Randegg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Randegg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg|boroughs~Randegg]] 
 
-### [boroughs~Randegg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.public|boroughs~Randegg.public]] 
 
-### [boroughs~Randegg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.internal|boroughs~Randegg.internal]] 
 
-### [boroughs~Randegg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.protect|boroughs~Randegg.protect]] 
 
-### [boroughs~Randegg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.private|boroughs~Randegg.private]] 
 
-### [boroughs~Randegg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.personal|boroughs~Randegg.personal]] 
 
-### [boroughs~Randegg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Randegg/boroughs~Randegg.secret|boroughs~Randegg.secret]] 
 

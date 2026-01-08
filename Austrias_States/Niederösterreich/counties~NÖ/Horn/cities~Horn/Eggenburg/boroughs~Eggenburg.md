@@ -18,17 +18,17 @@ markerFolder: ./boroughs~Eggenburg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Eggenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg|boroughs~Eggenburg]] 
 
-### [boroughs~Eggenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.public|boroughs~Eggenburg.public]] 
 
-### [boroughs~Eggenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.internal|boroughs~Eggenburg.internal]] 
 
-### [boroughs~Eggenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.protect|boroughs~Eggenburg.protect]] 
 
-### [boroughs~Eggenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.private|boroughs~Eggenburg.private]] 
 
-### [boroughs~Eggenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.personal|boroughs~Eggenburg.personal]] 
 
-### [boroughs~Eggenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Eggenburg/boroughs~Eggenburg.secret|boroughs~Eggenburg.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Hitzendorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Hitzendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf|boroughs~Hitzendorf]] 
 
-### [boroughs~Hitzendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.public|boroughs~Hitzendorf.public]] 
 
-### [boroughs~Hitzendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.internal|boroughs~Hitzendorf.internal]] 
 
-### [boroughs~Hitzendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.protect|boroughs~Hitzendorf.protect]] 
 
-### [boroughs~Hitzendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.private|boroughs~Hitzendorf.private]] 
 
-### [boroughs~Hitzendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.personal|boroughs~Hitzendorf.personal]] 
 
-### [boroughs~Hitzendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Hitzendorf/boroughs~Hitzendorf.secret|boroughs~Hitzendorf.secret]] 
 

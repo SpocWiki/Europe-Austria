@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Dölsach/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Dölsach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach|boroughs~Dölsach]] 
 
-### [boroughs~Dölsach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.public|boroughs~Dölsach.public]] 
 
-### [boroughs~Dölsach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.internal|boroughs~Dölsach.internal]] 
 
-### [boroughs~Dölsach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.protect|boroughs~Dölsach.protect]] 
 
-### [boroughs~Dölsach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.private|boroughs~Dölsach.private]] 
 
-### [boroughs~Dölsach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.personal|boroughs~Dölsach.personal]] 
 
-### [boroughs~Dölsach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz/Dölsach/boroughs~Dölsach.secret|boroughs~Dölsach.secret]] 
 

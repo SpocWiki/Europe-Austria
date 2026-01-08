@@ -17,17 +17,17 @@ markerFolder: ./cities~Schwaz/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Schwaz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz|cities~Schwaz]] 
 
-### [cities~Schwaz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.public|cities~Schwaz.public]] 
 
-### [cities~Schwaz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.internal|cities~Schwaz.internal]] 
 
-### [cities~Schwaz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.protect|cities~Schwaz.protect]] 
 
-### [cities~Schwaz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.private|cities~Schwaz.private]] 
 
-### [cities~Schwaz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.personal|cities~Schwaz.personal]] 
 
-### [cities~Schwaz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Schwaz/cities~Schwaz.secret|cities~Schwaz.secret]] 
 

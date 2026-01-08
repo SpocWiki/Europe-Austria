@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Bruck~Mur/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Bruck~Mur](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur|boroughs~Bruck~Mur]] 
 
-### [boroughs~Bruck~Mur.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.public|boroughs~Bruck~Mur.public]] 
 
-### [boroughs~Bruck~Mur.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.internal|boroughs~Bruck~Mur.internal]] 
 
-### [boroughs~Bruck~Mur.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.protect|boroughs~Bruck~Mur.protect]] 
 
-### [boroughs~Bruck~Mur.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.private|boroughs~Bruck~Mur.private]] 
 
-### [boroughs~Bruck~Mur.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.personal|boroughs~Bruck~Mur.personal]] 
 
-### [boroughs~Bruck~Mur.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Bruck-Mürzzuschlag/cities~Mürzzuschlag/Bruck~Mur/boroughs~Bruck~Mur.secret|boroughs~Bruck~Mur.secret]] 
 

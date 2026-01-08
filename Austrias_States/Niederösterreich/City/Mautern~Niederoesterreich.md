@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32355
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.58
+dv_has_place_latitude: 48.38
+dv_name: Mautern~Niederoesterreich
+dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.58] 
-[has_place_latitude::48.38] 
-[name::Mautern~Niederoesterreich] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mautern~Niederoesterreich](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich|Mautern~Niederoesterreich]] 
 
-### [Mautern~Niederoesterreich.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.public|Mautern~Niederoesterreich.public]] 
 
-### [Mautern~Niederoesterreich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.internal|Mautern~Niederoesterreich.internal]] 
 
-### [Mautern~Niederoesterreich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.protect|Mautern~Niederoesterreich.protect]] 
 
-### [Mautern~Niederoesterreich.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.private|Mautern~Niederoesterreich.private]] 
 
-### [Mautern~Niederoesterreich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.personal|Mautern~Niederoesterreich.personal]] 
 
-### [Mautern~Niederoesterreich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.secret|Mautern~Niederoesterreich.secret]] 
 

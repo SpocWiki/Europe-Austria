@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Niederhollabrunn/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Niederhollabrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn|boroughs~Niederhollabrunn]] 
 
-### [boroughs~Niederhollabrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.public|boroughs~Niederhollabrunn.public]] 
 
-### [boroughs~Niederhollabrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.internal|boroughs~Niederhollabrunn.internal]] 
 
-### [boroughs~Niederhollabrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.protect|boroughs~Niederhollabrunn.protect]] 
 
-### [boroughs~Niederhollabrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.private|boroughs~Niederhollabrunn.private]] 
 
-### [boroughs~Niederhollabrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.personal|boroughs~Niederhollabrunn.personal]] 
 
-### [boroughs~Niederhollabrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Niederhollabrunn/boroughs~Niederhollabrunn.secret|boroughs~Niederhollabrunn.secret]] 
 

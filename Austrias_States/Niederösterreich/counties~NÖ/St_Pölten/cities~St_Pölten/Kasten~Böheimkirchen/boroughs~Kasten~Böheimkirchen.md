@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Kasten~Böheimkirchen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Kasten~Böheimkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen|boroughs~Kasten~Böheimkirchen]] 
 
-### [boroughs~Kasten~Böheimkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.public|boroughs~Kasten~Böheimkirchen.public]] 
 
-### [boroughs~Kasten~Böheimkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.internal|boroughs~Kasten~Böheimkirchen.internal]] 
 
-### [boroughs~Kasten~Böheimkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.protect|boroughs~Kasten~Böheimkirchen.protect]] 
 
-### [boroughs~Kasten~Böheimkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.private|boroughs~Kasten~Böheimkirchen.private]] 
 
-### [boroughs~Kasten~Böheimkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.personal|boroughs~Kasten~Böheimkirchen.personal]] 
 
-### [boroughs~Kasten~Böheimkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Kasten~Böheimkirchen/boroughs~Kasten~Böheimkirchen.secret|boroughs~Kasten~Böheimkirchen.secret]] 
 

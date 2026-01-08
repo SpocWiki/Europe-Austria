@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Mörtschach/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Mörtschach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach|boroughs~Mörtschach]] 
 
-### [boroughs~Mörtschach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.public|boroughs~Mörtschach.public]] 
 
-### [boroughs~Mörtschach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.internal|boroughs~Mörtschach.internal]] 
 
-### [boroughs~Mörtschach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.protect|boroughs~Mörtschach.protect]] 
 
-### [boroughs~Mörtschach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.private|boroughs~Mörtschach.private]] 
 
-### [boroughs~Mörtschach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.personal|boroughs~Mörtschach.personal]] 
 
-### [boroughs~Mörtschach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Spittal~Drau/cities~Spittal~Drau/Mörtschach/boroughs~Mörtschach.secret|boroughs~Mörtschach.secret]] 
 

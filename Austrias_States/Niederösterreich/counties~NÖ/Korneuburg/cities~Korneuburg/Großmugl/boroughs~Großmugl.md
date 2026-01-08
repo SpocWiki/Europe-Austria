@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Großmugl/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Großmugl](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl|boroughs~Großmugl]] 
 
-### [boroughs~Großmugl.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.public|boroughs~Großmugl.public]] 
 
-### [boroughs~Großmugl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.internal|boroughs~Großmugl.internal]] 
 
-### [boroughs~Großmugl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.protect|boroughs~Großmugl.protect]] 
 
-### [boroughs~Großmugl.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.private|boroughs~Großmugl.private]] 
 
-### [boroughs~Großmugl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.personal|boroughs~Großmugl.personal]] 
 
-### [boroughs~Großmugl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Großmugl/boroughs~Großmugl.secret|boroughs~Großmugl.secret]] 
 

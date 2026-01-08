@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Strallegg/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Strallegg](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg|boroughs~Strallegg]] 
 
-### [boroughs~Strallegg.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.public|boroughs~Strallegg.public]] 
 
-### [boroughs~Strallegg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.internal|boroughs~Strallegg.internal]] 
 
-### [boroughs~Strallegg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.protect|boroughs~Strallegg.protect]] 
 
-### [boroughs~Strallegg.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.private|boroughs~Strallegg.private]] 
 
-### [boroughs~Strallegg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.personal|boroughs~Strallegg.personal]] 
 
-### [boroughs~Strallegg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Strallegg/boroughs~Strallegg.secret|boroughs~Strallegg.secret]] 
 

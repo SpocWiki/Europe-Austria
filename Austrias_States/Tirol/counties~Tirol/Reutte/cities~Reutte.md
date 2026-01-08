@@ -17,17 +17,17 @@ markerFolder: ./cities~Reutte/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Reutte](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte|cities~Reutte]] 
 
-### [cities~Reutte.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.public|cities~Reutte.public]] 
 
-### [cities~Reutte.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.internal|cities~Reutte.internal]] 
 
-### [cities~Reutte.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.protect|cities~Reutte.protect]] 
 
-### [cities~Reutte.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.private|cities~Reutte.private]] 
 
-### [cities~Reutte.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.personal|cities~Reutte.personal]] 
 
-### [cities~Reutte.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Reutte/cities~Reutte.secret|cities~Reutte.secret]] 
 

@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Kitzeck~Sausal/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Kitzeck~Sausal](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal|boroughs~Kitzeck~Sausal]] 
 
-### [boroughs~Kitzeck~Sausal.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.public|boroughs~Kitzeck~Sausal.public]] 
 
-### [boroughs~Kitzeck~Sausal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.internal|boroughs~Kitzeck~Sausal.internal]] 
 
-### [boroughs~Kitzeck~Sausal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.protect|boroughs~Kitzeck~Sausal.protect]] 
 
-### [boroughs~Kitzeck~Sausal.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.private|boroughs~Kitzeck~Sausal.private]] 
 
-### [boroughs~Kitzeck~Sausal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.personal|boroughs~Kitzeck~Sausal.personal]] 
 
-### [boroughs~Kitzeck~Sausal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Kitzeck~Sausal/boroughs~Kitzeck~Sausal.secret|boroughs~Kitzeck~Sausal.secret]] 
 

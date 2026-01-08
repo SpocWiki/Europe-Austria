@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Klagenfurt~Wörthersee/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Klagenfurt~Wörthersee](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee|boroughs~Klagenfurt~Wörthersee]] 
 
-### [boroughs~Klagenfurt~Wörthersee.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.public|boroughs~Klagenfurt~Wörthersee.public]] 
 
-### [boroughs~Klagenfurt~Wörthersee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.internal|boroughs~Klagenfurt~Wörthersee.internal]] 
 
-### [boroughs~Klagenfurt~Wörthersee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.protect|boroughs~Klagenfurt~Wörthersee.protect]] 
 
-### [boroughs~Klagenfurt~Wörthersee.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.private|boroughs~Klagenfurt~Wörthersee.private]] 
 
-### [boroughs~Klagenfurt~Wörthersee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.personal|boroughs~Klagenfurt~Wörthersee.personal]] 
 
-### [boroughs~Klagenfurt~Wörthersee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Klagenfurt~Wörthersee/boroughs~Klagenfurt~Wörthersee.secret|boroughs~Klagenfurt~Wörthersee.secret]] 
 

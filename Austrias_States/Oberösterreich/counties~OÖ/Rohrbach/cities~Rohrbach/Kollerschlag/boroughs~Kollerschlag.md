@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Kollerschlag/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Kollerschlag](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag|boroughs~Kollerschlag]] 
 
-### [boroughs~Kollerschlag.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.public|boroughs~Kollerschlag.public]] 
 
-### [boroughs~Kollerschlag.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.internal|boroughs~Kollerschlag.internal]] 
 
-### [boroughs~Kollerschlag.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.protect|boroughs~Kollerschlag.protect]] 
 
-### [boroughs~Kollerschlag.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.private|boroughs~Kollerschlag.private]] 
 
-### [boroughs~Kollerschlag.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.personal|boroughs~Kollerschlag.personal]] 
 
-### [boroughs~Kollerschlag.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Kollerschlag/boroughs~Kollerschlag.secret|boroughs~Kollerschlag.secret]] 
 

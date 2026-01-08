@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Graz/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Graz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz|boroughs~Graz]] 
 
-### [boroughs~Graz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.public|boroughs~Graz.public]] 
 
-### [boroughs~Graz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.internal|boroughs~Graz.internal]] 
 
-### [boroughs~Graz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.protect|boroughs~Graz.protect]] 
 
-### [boroughs~Graz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.private|boroughs~Graz.private]] 
 
-### [boroughs~Graz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.personal|boroughs~Graz.personal]] 
 
-### [boroughs~Graz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Graz/cities~Graz/Graz-City/boroughs~Graz.secret|boroughs~Graz.secret]] 
 

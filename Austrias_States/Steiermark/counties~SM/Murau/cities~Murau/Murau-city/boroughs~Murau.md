@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Murau/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Murau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau|boroughs~Murau]] 
 
-### [boroughs~Murau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.public|boroughs~Murau.public]] 
 
-### [boroughs~Murau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.internal|boroughs~Murau.internal]] 
 
-### [boroughs~Murau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.protect|boroughs~Murau.protect]] 
 
-### [boroughs~Murau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.private|boroughs~Murau.private]] 
 
-### [boroughs~Murau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.personal|boroughs~Murau.personal]] 
 
-### [boroughs~Murau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murau/cities~Murau/Murau-city/boroughs~Murau.secret|boroughs~Murau.secret]] 
 

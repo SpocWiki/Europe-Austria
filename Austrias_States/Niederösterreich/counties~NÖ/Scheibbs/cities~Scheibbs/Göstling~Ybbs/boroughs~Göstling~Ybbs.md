@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Göstling~Ybbs/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Göstling~Ybbs](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs|boroughs~Göstling~Ybbs]] 
 
-### [boroughs~Göstling~Ybbs.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.public|boroughs~Göstling~Ybbs.public]] 
 
-### [boroughs~Göstling~Ybbs.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.internal|boroughs~Göstling~Ybbs.internal]] 
 
-### [boroughs~Göstling~Ybbs.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.protect|boroughs~Göstling~Ybbs.protect]] 
 
-### [boroughs~Göstling~Ybbs.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.private|boroughs~Göstling~Ybbs.private]] 
 
-### [boroughs~Göstling~Ybbs.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.personal|boroughs~Göstling~Ybbs.personal]] 
 
-### [boroughs~Göstling~Ybbs.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Göstling~Ybbs/boroughs~Göstling~Ybbs.secret|boroughs~Göstling~Ybbs.secret]] 
 

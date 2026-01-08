@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Laakirchen/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Laakirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen|boroughs~Laakirchen]] 
 
-### [boroughs~Laakirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.public|boroughs~Laakirchen.public]] 
 
-### [boroughs~Laakirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.internal|boroughs~Laakirchen.internal]] 
 
-### [boroughs~Laakirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.protect|boroughs~Laakirchen.protect]] 
 
-### [boroughs~Laakirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.private|boroughs~Laakirchen.private]] 
 
-### [boroughs~Laakirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.personal|boroughs~Laakirchen.personal]] 
 
-### [boroughs~Laakirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Laakirchen/boroughs~Laakirchen.secret|boroughs~Laakirchen.secret]] 
 

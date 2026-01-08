@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Ernstbrunn/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Ernstbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn|boroughs~Ernstbrunn]] 
 
-### [boroughs~Ernstbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.public|boroughs~Ernstbrunn.public]] 
 
-### [boroughs~Ernstbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.internal|boroughs~Ernstbrunn.internal]] 
 
-### [boroughs~Ernstbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.protect|boroughs~Ernstbrunn.protect]] 
 
-### [boroughs~Ernstbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.private|boroughs~Ernstbrunn.private]] 
 
-### [boroughs~Ernstbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.personal|boroughs~Ernstbrunn.personal]] 
 
-### [boroughs~Ernstbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Ernstbrunn/boroughs~Ernstbrunn.secret|boroughs~Ernstbrunn.secret]] 
 

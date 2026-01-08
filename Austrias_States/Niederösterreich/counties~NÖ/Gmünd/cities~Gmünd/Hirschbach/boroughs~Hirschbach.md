@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Hirschbach/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Hirschbach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach|boroughs~Hirschbach]] 
 
-### [boroughs~Hirschbach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.public|boroughs~Hirschbach.public]] 
 
-### [boroughs~Hirschbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.internal|boroughs~Hirschbach.internal]] 
 
-### [boroughs~Hirschbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.protect|boroughs~Hirschbach.protect]] 
 
-### [boroughs~Hirschbach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.private|boroughs~Hirschbach.private]] 
 
-### [boroughs~Hirschbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.personal|boroughs~Hirschbach.personal]] 
 
-### [boroughs~Hirschbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Gmünd/cities~Gmünd/Hirschbach/boroughs~Hirschbach.secret|boroughs~Hirschbach.secret]] 
 

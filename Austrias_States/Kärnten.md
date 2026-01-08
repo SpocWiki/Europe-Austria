@@ -8,6 +8,8 @@ location:
 type: State
 tags:
   - geo/State
+dv_name: Kärnten
+dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 [StateId::] 
 isDeleted: false
@@ -21,10 +23,10 @@ geojsonFolder: ./Kärnten//
 markerFolder: ./Kärnten/
 ```
 
-[ name :: Kärnten ] 
+name = `=this.dv_name` 
 [CountryId::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
@@ -32,17 +34,17 @@ markerFolder: ./Kärnten/
 
 ## Confidential Links & Embeds: 
 
-### [Kärnten](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten|Kärnten]] 
 
-### [Kärnten.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.public|Kärnten.public]] 
 
-### [Kärnten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.internal|Kärnten.internal]] 
 
-### [Kärnten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.protect|Kärnten.protect]] 
 
-### [Kärnten.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.private|Kärnten.private]] 
 
-### [Kärnten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.personal|Kärnten.personal]] 
 
-### [Kärnten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten.secret|Kärnten.secret]] 
 

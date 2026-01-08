@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Furth~Göttweig/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Furth~Göttweig](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig|boroughs~Furth~Göttweig]] 
 
-### [boroughs~Furth~Göttweig.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.public|boroughs~Furth~Göttweig.public]] 
 
-### [boroughs~Furth~Göttweig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.internal|boroughs~Furth~Göttweig.internal]] 
 
-### [boroughs~Furth~Göttweig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.protect|boroughs~Furth~Göttweig.protect]] 
 
-### [boroughs~Furth~Göttweig.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.private|boroughs~Furth~Göttweig.private]] 
 
-### [boroughs~Furth~Göttweig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.personal|boroughs~Furth~Göttweig.personal]] 
 
-### [boroughs~Furth~Göttweig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig.secret|boroughs~Furth~Göttweig.secret]] 
 

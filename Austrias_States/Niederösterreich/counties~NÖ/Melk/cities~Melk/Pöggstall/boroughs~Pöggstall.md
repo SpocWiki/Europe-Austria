@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Pöggstall/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Pöggstall](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall|boroughs~Pöggstall]] 
 
-### [boroughs~Pöggstall.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.public|boroughs~Pöggstall.public]] 
 
-### [boroughs~Pöggstall.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.internal|boroughs~Pöggstall.internal]] 
 
-### [boroughs~Pöggstall.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.protect|boroughs~Pöggstall.protect]] 
 
-### [boroughs~Pöggstall.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.private|boroughs~Pöggstall.private]] 
 
-### [boroughs~Pöggstall.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.personal|boroughs~Pöggstall.personal]] 
 
-### [boroughs~Pöggstall.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Melk/cities~Melk/Pöggstall/boroughs~Pöggstall.secret|boroughs~Pöggstall.secret]] 
 

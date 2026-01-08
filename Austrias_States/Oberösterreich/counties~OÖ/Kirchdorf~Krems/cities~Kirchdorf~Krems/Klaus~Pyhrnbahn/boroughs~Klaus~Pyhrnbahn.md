@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Klaus~Pyhrnbahn/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Klaus~Pyhrnbahn](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn|boroughs~Klaus~Pyhrnbahn]] 
 
-### [boroughs~Klaus~Pyhrnbahn.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.public|boroughs~Klaus~Pyhrnbahn.public]] 
 
-### [boroughs~Klaus~Pyhrnbahn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.internal|boroughs~Klaus~Pyhrnbahn.internal]] 
 
-### [boroughs~Klaus~Pyhrnbahn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.protect|boroughs~Klaus~Pyhrnbahn.protect]] 
 
-### [boroughs~Klaus~Pyhrnbahn.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.private|boroughs~Klaus~Pyhrnbahn.private]] 
 
-### [boroughs~Klaus~Pyhrnbahn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.personal|boroughs~Klaus~Pyhrnbahn.personal]] 
 
-### [boroughs~Klaus~Pyhrnbahn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Klaus~Pyhrnbahn/boroughs~Klaus~Pyhrnbahn.secret|boroughs~Klaus~Pyhrnbahn.secret]] 
 

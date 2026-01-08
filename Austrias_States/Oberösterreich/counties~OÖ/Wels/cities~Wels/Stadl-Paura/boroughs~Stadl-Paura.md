@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Stadl-Paura/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Stadl-Paura](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura|boroughs~Stadl-Paura]] 
 
-### [boroughs~Stadl-Paura.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.public|boroughs~Stadl-Paura.public]] 
 
-### [boroughs~Stadl-Paura.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.internal|boroughs~Stadl-Paura.internal]] 
 
-### [boroughs~Stadl-Paura.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.protect|boroughs~Stadl-Paura.protect]] 
 
-### [boroughs~Stadl-Paura.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.private|boroughs~Stadl-Paura.private]] 
 
-### [boroughs~Stadl-Paura.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.personal|boroughs~Stadl-Paura.personal]] 
 
-### [boroughs~Stadl-Paura.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Wels/cities~Wels/Stadl-Paura/boroughs~Stadl-Paura.secret|boroughs~Stadl-Paura.secret]] 
 

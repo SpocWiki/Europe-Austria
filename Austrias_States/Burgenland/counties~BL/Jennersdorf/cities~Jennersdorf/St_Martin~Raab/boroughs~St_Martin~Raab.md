@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Sankt_Martin~Raab/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~St_Martin~Raab](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab|boroughs~St_Martin~Raab]] 
 
-### [boroughs~St_Martin~Raab.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.public|boroughs~St_Martin~Raab.public]] 
 
-### [boroughs~St_Martin~Raab.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.internal|boroughs~St_Martin~Raab.internal]] 
 
-### [boroughs~St_Martin~Raab.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.protect|boroughs~St_Martin~Raab.protect]] 
 
-### [boroughs~St_Martin~Raab.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.private|boroughs~St_Martin~Raab.private]] 
 
-### [boroughs~St_Martin~Raab.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.personal|boroughs~St_Martin~Raab.personal]] 
 
-### [boroughs~St_Martin~Raab.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Jennersdorf/cities~Jennersdorf/St_Martin~Raab/boroughs~St_Martin~Raab.secret|boroughs~St_Martin~Raab.secret]] 
 

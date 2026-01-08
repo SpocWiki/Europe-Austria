@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Rußbach/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Rußbach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach|boroughs~Rußbach]] 
 
-### [boroughs~Rußbach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.public|boroughs~Rußbach.public]] 
 
-### [boroughs~Rußbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.internal|boroughs~Rußbach.internal]] 
 
-### [boroughs~Rußbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.protect|boroughs~Rußbach.protect]] 
 
-### [boroughs~Rußbach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.private|boroughs~Rußbach.private]] 
 
-### [boroughs~Rußbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.personal|boroughs~Rußbach.personal]] 
 
-### [boroughs~Rußbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Rußbach/boroughs~Rußbach.secret|boroughs~Rußbach.secret]] 
 

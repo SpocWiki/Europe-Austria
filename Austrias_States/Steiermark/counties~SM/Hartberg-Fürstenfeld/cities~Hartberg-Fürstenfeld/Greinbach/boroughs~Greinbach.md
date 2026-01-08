@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Greinbach/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Greinbach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach|boroughs~Greinbach]] 
 
-### [boroughs~Greinbach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.public|boroughs~Greinbach.public]] 
 
-### [boroughs~Greinbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.internal|boroughs~Greinbach.internal]] 
 
-### [boroughs~Greinbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.protect|boroughs~Greinbach.protect]] 
 
-### [boroughs~Greinbach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.private|boroughs~Greinbach.private]] 
 
-### [boroughs~Greinbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.personal|boroughs~Greinbach.personal]] 
 
-### [boroughs~Greinbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Greinbach/boroughs~Greinbach.secret|boroughs~Greinbach.secret]] 
 

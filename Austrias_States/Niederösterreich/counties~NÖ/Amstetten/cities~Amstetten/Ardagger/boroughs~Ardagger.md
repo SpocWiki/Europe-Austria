@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Ardagger/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Ardagger](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger|boroughs~Ardagger]] 
 
-### [boroughs~Ardagger.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.public|boroughs~Ardagger.public]] 
 
-### [boroughs~Ardagger.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.internal|boroughs~Ardagger.internal]] 
 
-### [boroughs~Ardagger.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.protect|boroughs~Ardagger.protect]] 
 
-### [boroughs~Ardagger.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.private|boroughs~Ardagger.private]] 
 
-### [boroughs~Ardagger.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.personal|boroughs~Ardagger.personal]] 
 
-### [boroughs~Ardagger.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten/Ardagger/boroughs~Ardagger.secret|boroughs~Ardagger.secret]] 
 

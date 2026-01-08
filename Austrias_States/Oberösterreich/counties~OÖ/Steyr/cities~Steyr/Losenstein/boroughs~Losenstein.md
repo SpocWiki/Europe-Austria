@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Losenstein/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Losenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein|boroughs~Losenstein]] 
 
-### [boroughs~Losenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.public|boroughs~Losenstein.public]] 
 
-### [boroughs~Losenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.internal|boroughs~Losenstein.internal]] 
 
-### [boroughs~Losenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.protect|boroughs~Losenstein.protect]] 
 
-### [boroughs~Losenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.private|boroughs~Losenstein.private]] 
 
-### [boroughs~Losenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.personal|boroughs~Losenstein.personal]] 
 
-### [boroughs~Losenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Losenstein/boroughs~Losenstein.secret|boroughs~Losenstein.secret]] 
 

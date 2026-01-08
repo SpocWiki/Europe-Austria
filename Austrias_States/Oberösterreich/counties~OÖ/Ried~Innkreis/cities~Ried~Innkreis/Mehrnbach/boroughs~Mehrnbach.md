@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Mehrnbach/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Mehrnbach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach|boroughs~Mehrnbach]] 
 
-### [boroughs~Mehrnbach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.public|boroughs~Mehrnbach.public]] 
 
-### [boroughs~Mehrnbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.internal|boroughs~Mehrnbach.internal]] 
 
-### [boroughs~Mehrnbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.protect|boroughs~Mehrnbach.protect]] 
 
-### [boroughs~Mehrnbach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.private|boroughs~Mehrnbach.private]] 
 
-### [boroughs~Mehrnbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.personal|boroughs~Mehrnbach.personal]] 
 
-### [boroughs~Mehrnbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Ried~Innkreis/cities~Ried~Innkreis/Mehrnbach/boroughs~Mehrnbach.secret|boroughs~Mehrnbach.secret]] 
 

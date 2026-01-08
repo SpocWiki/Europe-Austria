@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Uttendorf/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Uttendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf|boroughs~Uttendorf]] 
 
-### [boroughs~Uttendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.public|boroughs~Uttendorf.public]] 
 
-### [boroughs~Uttendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.internal|boroughs~Uttendorf.internal]] 
 
-### [boroughs~Uttendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.protect|boroughs~Uttendorf.protect]] 
 
-### [boroughs~Uttendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.private|boroughs~Uttendorf.private]] 
 
-### [boroughs~Uttendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.personal|boroughs~Uttendorf.personal]] 
 
-### [boroughs~Uttendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/Zell~See/cities~Zell~See/Uttendorf/boroughs~Uttendorf.secret|boroughs~Uttendorf.secret]] 
 

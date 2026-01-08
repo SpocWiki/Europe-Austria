@@ -6,6 +6,8 @@ aliases:
 type: State
 tags:
   - geo/State
+dv_name: Salzburg
+dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
 [StateId::] 
@@ -20,10 +22,10 @@ geojsonFolder: ./State~Salzburg/
 markerFolder: ./State~Salzburg/
 ```
 
-[ name :: Salzburg ] 
+name = `=this.dv_name` 
 [CountryId::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
@@ -31,17 +33,17 @@ markerFolder: ./State~Salzburg/
 
 ## Confidential Links & Embeds: 
 
-### [Salzburg,State](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State|Salzburg,State]] 
 
-### [Salzburg,State.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.public|Salzburg,State.public]] 
 
-### [Salzburg,State.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.internal|Salzburg,State.internal]] 
 
-### [Salzburg,State.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.protect|Salzburg,State.protect]] 
 
-### [Salzburg,State.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.private|Salzburg,State.private]] 
 
-### [Salzburg,State.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.personal|Salzburg,State.personal]] 
 
-### [Salzburg,State.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State.secret|Salzburg,State.secret]] 
 

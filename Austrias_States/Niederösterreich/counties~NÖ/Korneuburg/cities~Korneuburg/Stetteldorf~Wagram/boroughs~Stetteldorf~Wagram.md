@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Stetteldorf~Wagram/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Stetteldorf~Wagram](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram|boroughs~Stetteldorf~Wagram]] 
 
-### [boroughs~Stetteldorf~Wagram.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.public|boroughs~Stetteldorf~Wagram.public]] 
 
-### [boroughs~Stetteldorf~Wagram.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.internal|boroughs~Stetteldorf~Wagram.internal]] 
 
-### [boroughs~Stetteldorf~Wagram.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.protect|boroughs~Stetteldorf~Wagram.protect]] 
 
-### [boroughs~Stetteldorf~Wagram.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.private|boroughs~Stetteldorf~Wagram.private]] 
 
-### [boroughs~Stetteldorf~Wagram.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.personal|boroughs~Stetteldorf~Wagram.personal]] 
 
-### [boroughs~Stetteldorf~Wagram.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Korneuburg/cities~Korneuburg/Stetteldorf~Wagram/boroughs~Stetteldorf~Wagram.secret|boroughs~Stetteldorf~Wagram.secret]] 
 

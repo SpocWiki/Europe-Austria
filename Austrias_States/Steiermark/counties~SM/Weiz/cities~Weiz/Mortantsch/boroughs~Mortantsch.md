@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Mortantsch/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Mortantsch](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch|boroughs~Mortantsch]] 
 
-### [boroughs~Mortantsch.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.public|boroughs~Mortantsch.public]] 
 
-### [boroughs~Mortantsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.internal|boroughs~Mortantsch.internal]] 
 
-### [boroughs~Mortantsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.protect|boroughs~Mortantsch.protect]] 
 
-### [boroughs~Mortantsch.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.private|boroughs~Mortantsch.private]] 
 
-### [boroughs~Mortantsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.personal|boroughs~Mortantsch.personal]] 
 
-### [boroughs~Mortantsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Mortantsch/boroughs~Mortantsch.secret|boroughs~Mortantsch.secret]] 
 

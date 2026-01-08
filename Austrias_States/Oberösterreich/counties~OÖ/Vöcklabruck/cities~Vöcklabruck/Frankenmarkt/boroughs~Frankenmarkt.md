@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Frankenmarkt/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Frankenmarkt](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt|boroughs~Frankenmarkt]] 
 
-### [boroughs~Frankenmarkt.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.public|boroughs~Frankenmarkt.public]] 
 
-### [boroughs~Frankenmarkt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.internal|boroughs~Frankenmarkt.internal]] 
 
-### [boroughs~Frankenmarkt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.protect|boroughs~Frankenmarkt.protect]] 
 
-### [boroughs~Frankenmarkt.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.private|boroughs~Frankenmarkt.private]] 
 
-### [boroughs~Frankenmarkt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.personal|boroughs~Frankenmarkt.personal]] 
 
-### [boroughs~Frankenmarkt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Frankenmarkt/boroughs~Frankenmarkt.secret|boroughs~Frankenmarkt.secret]] 
 

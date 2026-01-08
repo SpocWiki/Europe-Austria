@@ -17,17 +17,17 @@ markerFolder: ./cities~Grieskirchen/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Grieskirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen|cities~Grieskirchen]] 
 
-### [cities~Grieskirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.public|cities~Grieskirchen.public]] 
 
-### [cities~Grieskirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.internal|cities~Grieskirchen.internal]] 
 
-### [cities~Grieskirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.protect|cities~Grieskirchen.protect]] 
 
-### [cities~Grieskirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.private|cities~Grieskirchen.private]] 
 
-### [cities~Grieskirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.personal|cities~Grieskirchen.personal]] 
 
-### [cities~Grieskirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Grieskirchen/cities~Grieskirchen.secret|cities~Grieskirchen.secret]] 
 

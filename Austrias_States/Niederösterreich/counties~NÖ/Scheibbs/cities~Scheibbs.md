@@ -18,17 +18,17 @@ markerFolder: ./cities~Scheibbs/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Scheibbs](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs|cities~Scheibbs]] 
 
-### [cities~Scheibbs.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.public|cities~Scheibbs.public]] 
 
-### [cities~Scheibbs.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.internal|cities~Scheibbs.internal]] 
 
-### [cities~Scheibbs.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.protect|cities~Scheibbs.protect]] 
 
-### [cities~Scheibbs.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.private|cities~Scheibbs.private]] 
 
-### [cities~Scheibbs.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.personal|cities~Scheibbs.personal]] 
 
-### [cities~Scheibbs.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs.secret|cities~Scheibbs.secret]] 
 

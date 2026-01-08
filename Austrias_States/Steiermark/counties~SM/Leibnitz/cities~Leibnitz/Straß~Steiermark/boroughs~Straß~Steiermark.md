@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Straß~Steiermark/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Straß~Steiermark](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark|boroughs~Straß~Steiermark]] 
 
-### [boroughs~Straß~Steiermark.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.public|boroughs~Straß~Steiermark.public]] 
 
-### [boroughs~Straß~Steiermark.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.internal|boroughs~Straß~Steiermark.internal]] 
 
-### [boroughs~Straß~Steiermark.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.protect|boroughs~Straß~Steiermark.protect]] 
 
-### [boroughs~Straß~Steiermark.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.private|boroughs~Straß~Steiermark.private]] 
 
-### [boroughs~Straß~Steiermark.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.personal|boroughs~Straß~Steiermark.personal]] 
 
-### [boroughs~Straß~Steiermark.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leibnitz/cities~Leibnitz/Straß~Steiermark/boroughs~Straß~Steiermark.secret|boroughs~Straß~Steiermark.secret]] 
 

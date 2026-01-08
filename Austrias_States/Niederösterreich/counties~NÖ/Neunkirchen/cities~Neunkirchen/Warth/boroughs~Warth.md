@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Warth/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Warth](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth|boroughs~Warth]] 
 
-### [boroughs~Warth.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.public|boroughs~Warth.public]] 
 
-### [boroughs~Warth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.internal|boroughs~Warth.internal]] 
 
-### [boroughs~Warth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.protect|boroughs~Warth.protect]] 
 
-### [boroughs~Warth.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.private|boroughs~Warth.private]] 
 
-### [boroughs~Warth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.personal|boroughs~Warth.personal]] 
 
-### [boroughs~Warth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Neunkirchen/cities~Neunkirchen/Warth/boroughs~Warth.secret|boroughs~Warth.secret]] 
 

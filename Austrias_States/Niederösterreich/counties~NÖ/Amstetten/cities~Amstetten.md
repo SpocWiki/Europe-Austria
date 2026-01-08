@@ -18,17 +18,17 @@ markerFolder: ./cities~Amstetten/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Amstetten](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten|cities~Amstetten]] 
 
-### [cities~Amstetten.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.public|cities~Amstetten.public]] 
 
-### [cities~Amstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.internal|cities~Amstetten.internal]] 
 
-### [cities~Amstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.protect|cities~Amstetten.protect]] 
 
-### [cities~Amstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.private|cities~Amstetten.private]] 
 
-### [cities~Amstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.personal|cities~Amstetten.personal]] 
 
-### [cities~Amstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Amstetten/cities~Amstetten.secret|cities~Amstetten.secret]] 
 

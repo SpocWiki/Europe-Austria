@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Hafnerbach/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Hafnerbach](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach|boroughs~Hafnerbach]] 
 
-### [boroughs~Hafnerbach.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.public|boroughs~Hafnerbach.public]] 
 
-### [boroughs~Hafnerbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.internal|boroughs~Hafnerbach.internal]] 
 
-### [boroughs~Hafnerbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.protect|boroughs~Hafnerbach.protect]] 
 
-### [boroughs~Hafnerbach.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.private|boroughs~Hafnerbach.private]] 
 
-### [boroughs~Hafnerbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.personal|boroughs~Hafnerbach.personal]] 
 
-### [boroughs~Hafnerbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/St_Pölten/cities~St_Pölten/Hafnerbach/boroughs~Hafnerbach.secret|boroughs~Hafnerbach.secret]] 
 

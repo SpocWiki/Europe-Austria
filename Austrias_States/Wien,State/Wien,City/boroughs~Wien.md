@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Wien/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Wien](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien|boroughs~Wien]] 
 
-### [boroughs~Wien.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien.public|boroughs~Wien.public]] 
 
-### [boroughs~Wien.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien.internal|boroughs~Wien.internal]] 
 
-### [boroughs~Wien.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien.protect|boroughs~Wien.protect]] 
 
-### [boroughs~Wien.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien.private|boroughs~Wien.private]] 
 
-### [boroughs~Wien.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien.personal|boroughs~Wien.personal]] 
 
-### [boroughs~Wien.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/boroughs~Wien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien.secret|boroughs~Wien.secret]] 
 

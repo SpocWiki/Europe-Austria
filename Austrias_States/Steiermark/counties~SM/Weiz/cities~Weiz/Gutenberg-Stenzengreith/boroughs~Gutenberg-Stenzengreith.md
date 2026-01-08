@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Gutenberg-Stenzengreith/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Gutenberg-Stenzengreith](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith|boroughs~Gutenberg-Stenzengreith]] 
 
-### [boroughs~Gutenberg-Stenzengreith.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.public|boroughs~Gutenberg-Stenzengreith.public]] 
 
-### [boroughs~Gutenberg-Stenzengreith.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.internal|boroughs~Gutenberg-Stenzengreith.internal]] 
 
-### [boroughs~Gutenberg-Stenzengreith.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.protect|boroughs~Gutenberg-Stenzengreith.protect]] 
 
-### [boroughs~Gutenberg-Stenzengreith.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.private|boroughs~Gutenberg-Stenzengreith.private]] 
 
-### [boroughs~Gutenberg-Stenzengreith.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.personal|boroughs~Gutenberg-Stenzengreith.personal]] 
 
-### [boroughs~Gutenberg-Stenzengreith.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Weiz/cities~Weiz/Gutenberg-Stenzengreith/boroughs~Gutenberg-Stenzengreith.secret|boroughs~Gutenberg-Stenzengreith.secret]] 
 

@@ -16,17 +16,17 @@ markerFolder: ./boroughs~Weinzierl~Walde/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Weinzierl~Walde](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde|boroughs~Weinzierl~Walde]] 
 
-### [boroughs~Weinzierl~Walde.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.public|boroughs~Weinzierl~Walde.public]] 
 
-### [boroughs~Weinzierl~Walde.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.internal|boroughs~Weinzierl~Walde.internal]] 
 
-### [boroughs~Weinzierl~Walde.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.protect|boroughs~Weinzierl~Walde.protect]] 
 
-### [boroughs~Weinzierl~Walde.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.private|boroughs~Weinzierl~Walde.private]] 
 
-### [boroughs~Weinzierl~Walde.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.personal|boroughs~Weinzierl~Walde.personal]] 
 
-### [boroughs~Weinzierl~Walde.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems~Donau/cities~Krems~Donau/Weinzierl~Walde/boroughs~Weinzierl~Walde.secret|boroughs~Weinzierl~Walde.secret]] 
 

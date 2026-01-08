@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Weitersfeld/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Weitersfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld|boroughs~Weitersfeld]] 
 
-### [boroughs~Weitersfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.public|boroughs~Weitersfeld.public]] 
 
-### [boroughs~Weitersfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.internal|boroughs~Weitersfeld.internal]] 
 
-### [boroughs~Weitersfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.protect|boroughs~Weitersfeld.protect]] 
 
-### [boroughs~Weitersfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.private|boroughs~Weitersfeld.private]] 
 
-### [boroughs~Weitersfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.personal|boroughs~Weitersfeld.personal]] 
 
-### [boroughs~Weitersfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Horn/cities~Horn/Weitersfeld/boroughs~Weitersfeld.secret|boroughs~Weitersfeld.secret]] 
 

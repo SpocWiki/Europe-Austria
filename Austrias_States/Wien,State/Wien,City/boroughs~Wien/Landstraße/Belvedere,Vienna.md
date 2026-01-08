@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Belvedere,211818|WD~Belvedere,211818]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Belvedere,211818|WD~Belvedere,211818]]"
+
 has_time_started: 1714-01-01 
 aliases:
   - Belvedere,Vienna
@@ -44,7 +48,7 @@ street_address: Prinz-Eugen-Straße 27
 
 # [[Belvedere,Vienna]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Belvedere,211818|WD~Belvedere,211818]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -59,4 +63,21 @@ street_address: Prinz-Eugen-Straße 27
 > The Belvedere was built during a period of extensive construction in Vienna, which at the time was both the imperial capital and home to the ruling Habsburg dynasty. This period of prosperity followed on from the commander-in-chief Prince Eugene of Savoy's successful conclusion of a series of wars against the Ottoman Empire.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Belvedere,%20Vienna) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Landstraße/Belvedere,Vienna|Belvedere,Vienna]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Landstraße/Belvedere,Vienna.public|Belvedere,Vienna.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Landstraße/Belvedere,Vienna.internal|Belvedere,Vienna.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Landstraße/Belvedere,Vienna.protect|Belvedere,Vienna.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Landstraße/Belvedere,Vienna.private|Belvedere,Vienna.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Landstraße/Belvedere,Vienna.personal|Belvedere,Vienna.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City/boroughs~Wien/Landstraße/Belvedere,Vienna.secret|Belvedere,Vienna.secret]] 
 

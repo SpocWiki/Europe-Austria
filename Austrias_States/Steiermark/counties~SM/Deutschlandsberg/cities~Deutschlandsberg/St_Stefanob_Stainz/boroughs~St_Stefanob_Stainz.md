@@ -17,17 +17,17 @@ markerFolder: ./boroughs~St_Stefanob_Stainz/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~St_Stefanob_Stainz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz|boroughs~St_Stefanob_Stainz]] 
 
-### [boroughs~St_Stefanob_Stainz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.public|boroughs~St_Stefanob_Stainz.public]] 
 
-### [boroughs~St_Stefanob_Stainz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.internal|boroughs~St_Stefanob_Stainz.internal]] 
 
-### [boroughs~St_Stefanob_Stainz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.protect|boroughs~St_Stefanob_Stainz.protect]] 
 
-### [boroughs~St_Stefanob_Stainz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.private|boroughs~St_Stefanob_Stainz.private]] 
 
-### [boroughs~St_Stefanob_Stainz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.personal|boroughs~St_Stefanob_Stainz.personal]] 
 
-### [boroughs~St_Stefanob_Stainz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Deutschlandsberg/cities~Deutschlandsberg/St_Stefanob_Stainz/boroughs~St_Stefanob_Stainz.secret|boroughs~St_Stefanob_Stainz.secret]] 
 

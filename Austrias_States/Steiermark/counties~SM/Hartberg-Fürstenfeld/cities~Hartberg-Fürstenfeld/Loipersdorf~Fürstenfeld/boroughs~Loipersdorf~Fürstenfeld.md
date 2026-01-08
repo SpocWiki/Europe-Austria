@@ -17,17 +17,17 @@ markerFolder: ./boroughs~Loipersdorf~Fürstenfeld/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Loipersdorf~Fürstenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld|boroughs~Loipersdorf~Fürstenfeld]] 
 
-### [boroughs~Loipersdorf~Fürstenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.public|boroughs~Loipersdorf~Fürstenfeld.public]] 
 
-### [boroughs~Loipersdorf~Fürstenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.internal|boroughs~Loipersdorf~Fürstenfeld.internal]] 
 
-### [boroughs~Loipersdorf~Fürstenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.protect|boroughs~Loipersdorf~Fürstenfeld.protect]] 
 
-### [boroughs~Loipersdorf~Fürstenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.private|boroughs~Loipersdorf~Fürstenfeld.private]] 
 
-### [boroughs~Loipersdorf~Fürstenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.personal|boroughs~Loipersdorf~Fürstenfeld.personal]] 
 
-### [boroughs~Loipersdorf~Fürstenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Hartberg-Fürstenfeld/cities~Hartberg-Fürstenfeld/Loipersdorf~Fürstenfeld/boroughs~Loipersdorf~Fürstenfeld.secret|boroughs~Loipersdorf~Fürstenfeld.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34468
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 11.45
+dv_has_place_latitude: 47.12
+dv_name: St.Kathrein
+dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::11.45] 
-[has_place_latitude::47.12] 
-[name::St.Kathrein] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Kathrein](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein|St.Kathrein]] 
 
-### [St.Kathrein.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.public|St.Kathrein.public]] 
 
-### [St.Kathrein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.internal|St.Kathrein.internal]] 
 
-### [St.Kathrein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.protect|St.Kathrein.protect]] 
 
-### [St.Kathrein.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.private|St.Kathrein.private]] 
 
-### [St.Kathrein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.personal|St.Kathrein.personal]] 
 
-### [St.Kathrein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.secret|St.Kathrein.secret]] 
 

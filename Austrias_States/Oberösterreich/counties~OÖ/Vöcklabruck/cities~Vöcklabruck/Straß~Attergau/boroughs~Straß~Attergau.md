@@ -18,17 +18,17 @@ markerFolder: ./boroughs~Straß~Attergau/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~Straß~Attergau](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau|boroughs~Straß~Attergau]] 
 
-### [boroughs~Straß~Attergau.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.public|boroughs~Straß~Attergau.public]] 
 
-### [boroughs~Straß~Attergau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.internal|boroughs~Straß~Attergau.internal]] 
 
-### [boroughs~Straß~Attergau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.protect|boroughs~Straß~Attergau.protect]] 
 
-### [boroughs~Straß~Attergau.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.private|boroughs~Straß~Attergau.private]] 
 
-### [boroughs~Straß~Attergau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.personal|boroughs~Straß~Attergau.personal]] 
 
-### [boroughs~Straß~Attergau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Vöcklabruck/cities~Vöcklabruck/Straß~Attergau/boroughs~Straß~Attergau.secret|boroughs~Straß~Attergau.secret]] 
 

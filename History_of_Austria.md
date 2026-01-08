@@ -6,11 +6,14 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Austria,105224
 instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 facet_of: "[[_Standards/WikiData/WD~Austria,40]]"
 Commons_category: History of Austria
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Austria,187830|WD~History_of_Austria,187830]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Austria,187830|WD~History_of_Austria,187830]]"
 ---
 
 # [[History_of_Austria]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Austria,187830|WD~History_of_Austria,187830]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -24,3 +27,21 @@ Commons_category: History of Austria
 > Following the First Republic, Kurt Schuschnigg and the Fatherland Front tried to keep Austria independent from the German Reich. Engelbert Dollfuss accepted that most Austrians were German and Austrian, but wanted Austria to remain independent from Germany. In 1938, Austrian-born Adolf Hitler annexed Austria to Germany, which was supported by a large majority of Austrians. After the German defeat in World War II, the German identity in Austria was weakened. Ten years after the Second World War Austria again became an independent republic as the Second Austrian Republic in 1955. Austria joined the European Union in 1995.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Austria) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria|History_of_Austria]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria.public|History_of_Austria.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria.internal|History_of_Austria.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria.protect|History_of_Austria.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria.private|History_of_Austria.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria.personal|History_of_Austria.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/History_of_Austria.secret|History_of_Austria.secret]] 
+

@@ -17,17 +17,17 @@ markerFolder: ./cities~Lienz/
 
 ## Confidential Links & Embeds: 
 
-### [cities~Lienz](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz|cities~Lienz]] 
 
-### [cities~Lienz.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.public|cities~Lienz.public]] 
 
-### [cities~Lienz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.internal|cities~Lienz.internal]] 
 
-### [cities~Lienz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.protect|cities~Lienz.protect]] 
 
-### [cities~Lienz.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.private|cities~Lienz.private]] 
 
-### [cities~Lienz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.personal|cities~Lienz.personal]] 
 
-### [cities~Lienz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Lienz/cities~Lienz.secret|cities~Lienz.secret]] 
 

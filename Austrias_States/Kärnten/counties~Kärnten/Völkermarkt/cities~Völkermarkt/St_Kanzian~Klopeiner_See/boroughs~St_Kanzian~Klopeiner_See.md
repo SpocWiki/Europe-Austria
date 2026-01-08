@@ -17,17 +17,17 @@ markerFolder: ./boroughs~St_Kanzian~Klopeiner_See/
 
 ## Confidential Links & Embeds: 
 
-### [boroughs~St_Kanzian~Klopeiner_See](/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See|boroughs~St_Kanzian~Klopeiner_See]] 
 
-### [boroughs~St_Kanzian~Klopeiner_See.public](/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.public|boroughs~St_Kanzian~Klopeiner_See.public]] 
 
-### [boroughs~St_Kanzian~Klopeiner_See.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.internal|boroughs~St_Kanzian~Klopeiner_See.internal]] 
 
-### [boroughs~St_Kanzian~Klopeiner_See.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.protect|boroughs~St_Kanzian~Klopeiner_See.protect]] 
 
-### [boroughs~St_Kanzian~Klopeiner_See.private](/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.private|boroughs~St_Kanzian~Klopeiner_See.private]] 
 
-### [boroughs~St_Kanzian~Klopeiner_See.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.personal|boroughs~St_Kanzian~Klopeiner_See.personal]] 
 
-### [boroughs~St_Kanzian~Klopeiner_See.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/St_Kanzian~Klopeiner_See/boroughs~St_Kanzian~Klopeiner_See.secret|boroughs~St_Kanzian~Klopeiner_See.secret]] 
 
