@@ -12,7 +12,7 @@ tags:
   - geo/State
 dv_isDeleted: false
 dv_confidential: public
-dv_has_name_: Wien
+dv_has_name: Wien
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
@@ -30,7 +30,7 @@ geojsonFolder: ./State~Wien/
 markerFolder: ./State~Wien/
 ```
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [CountryId::] 
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

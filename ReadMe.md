@@ -37,7 +37,7 @@ Languages:
   - hu
   - sl
 icon: flag-at
-dv_has_name_: Austria
+dv_has_name: Austria
 dv_has_name_en: Austria
 dv_has_name_es: Austria
 dv_has_name_fr: Autriche
@@ -119,7 +119,7 @@ dv_developed_developing_countries: Developed
 
 ## International Names
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 has_name_en = `=this.dv_has_name_en` 
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

@@ -7,7 +7,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_has_name_: Burgenland
+dv_has_name: Burgenland
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 [StateId::] 
@@ -23,7 +23,7 @@ geojsonFolder: ./Burgenland//
 markerFolder: ./Burgenland/
 ```
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [CountryId::] 
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

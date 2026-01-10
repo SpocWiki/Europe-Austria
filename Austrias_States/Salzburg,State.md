@@ -6,7 +6,7 @@ aliases:
 type: State
 tags:
   - geo/State
-dv_has_name_: Salzburg
+dv_has_name: Salzburg
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
@@ -22,7 +22,7 @@ geojsonFolder: ./State~Salzburg/
 markerFolder: ./State~Salzburg/
 ```
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [CountryId::] 
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

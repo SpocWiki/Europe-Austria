@@ -287,7 +287,7 @@ Dewey_Decimal_Classification: 2--43613
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.38
 dv_has_place_latitude: 48.21
-dv_has_name_: Vienna
+dv_has_name: Vienna
 dv_State: "[[../Wien,State]]"
 dv_has_:
   name_:
@@ -308,7 +308,7 @@ dv_is_same_as: "[[../../../../../../../WikiData/WD~Vienna,1741|WD~Vienna,1741]]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State = `=this.dv_State`
 Country :: [[Austria]]  
 [StateId::] 

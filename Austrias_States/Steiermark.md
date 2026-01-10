@@ -8,7 +8,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_has_name_: Steiermark
+dv_has_name: Steiermark
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 ﻿
@@ -24,7 +24,7 @@ geojsonFolder: ./Steiermark/
 markerFolder: ./Steiermark/
 ```
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [CountryId::] 
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

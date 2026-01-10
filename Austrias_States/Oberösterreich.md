@@ -8,7 +8,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_has_name_: Oberösterreich
+dv_has_name: Oberösterreich
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
@@ -26,7 +26,7 @@ geojsonFolder: ./Oberösterreich/
 markerFolder: ./Oberösterreich/
 ```
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [CountryId::] 
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

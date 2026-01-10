@@ -8,7 +8,7 @@ location:
 type: State
 tags:
   - geo/State
-dv_has_name_: Kärnten
+dv_has_name: Kärnten
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 [StateId::] 
@@ -23,7 +23,7 @@ geojsonFolder: ./Kärnten//
 markerFolder: ./Kärnten/
 ```
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [CountryId::] 
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
