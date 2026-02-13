@@ -1,34 +1,117 @@
 ---
 aliases:
-  - Unterlegscheibe
-  - Washer
+- Aluslaatta
+- arandela
+- arruela
+- bricka
+- Pengendas
+- podkładka
+- Podloška
+- podložka
+- Poveržlė
+- Raneła
+- ring
+- Ringeto
+- Rondela
+- rondella
+- rondelle
+- Seib
+- Skive
+- Unterlegscheibe
+- volandera
+- Washeli
+- Washer
+- Zirrindola
+- Șaibă
+- Подлошка
+- Тығырық
+- Шайба
+- Տափօղակ
+- שייבה
+- حلقة
+- شايبا
+- واشر
+- அடை வில்லை
+- ဝါရှာ
+- 介子
+- 墊圈
+- 座金
+- 와셔
 has_id_wikidata: Q637321
 has_use:
-  - "[[_Standards/WikiData/WD~spring,102836]]"
-  - "[[_Standards/WikiData/WD~prevention,1717246]]"
-  - "[[_Standards/WikiData/WD~reduction,47496130]]"
-  - "[[_Standards/WikiData/WD~spacer,52161601]]"
-shape: "[[_Standards/WikiData/WD~disk,238231]]"
+- '[[_Standards/WikiData/WD~spring,102836]]'
+- '[[_Standards/WikiData/WD~prevention,1717246]]'
+- '[[_Standards/WikiData/WD~reduction,47496130]]'
+- '[[_Standards/WikiData/WD~spacer,52161601]]'
+shape: '[[_Standards/WikiData/WD~disk,238231]]'
 part_of:
-  - "[[_Standards/WikiData/WD~joining_technology,266328]]"
-  - "[[_Standards/WikiData/WD~bolted_joint,1077037]]"
+- '[[_Standards/WikiData/WD~joining_technology,266328]]'
+- '[[_Standards/WikiData/WD~bolted_joint,1077037]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 physically_interacts_with:
-  - "[[_Standards/WikiData/WD~component,1310239]]"
-  - "[[_Standards/WikiData/WD~threaded_fastener,7797167]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~flange_nut,5457384]]"
-subclass_of: "[[_Standards/WikiData/WD~spacer,52161601]]"
+- '[[_Standards/WikiData/WD~component,1310239]]'
+- '[[_Standards/WikiData/WD~threaded_fastener,7797167]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~flange_nut,5457384]]'
+subclass_of: '[[_Standards/WikiData/WD~spacer,52161601]]'
 Nomenclature_for_Museum_Cataloging: 6580
 GS1_GPC_code: 10003180
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ARFISA%2015.jpg
 Commons_category: Washers (hardware)
 dv_is_:
-  same_as: "[[../../../../../../../../../../../../WikiData/WD~Washer,637321|WD~Washer,637321]]"
-dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Washer,637321|WD~Washer,637321]]"
+  same_as: '[[../../../../../../../../../../../../WikiData/WD~Washer,637321|WD~Washer,637321]]'
+dv_is_same_as: '[[../../../../../../../../../../../../WikiData/WD~Washer,637321|WD~Washer,637321]]'
+dv_has_:
+  name_:
+    ar: حلقة
+    ast: Arandela
+    be-tarask: шайба
+    bg: Шайба
+    ca: volandera
+    cs: podložka
+    de: Unterlegscheibe
+    en: washer
+    eo: Ringeto
+    es: arandela
+    et: Seib
+    eu: Zirrindola
+    fa: واشر
+    fi: Aluslaatta
+    fr: rondelle
+    gl: Arandela
+    he: שייבה
+    hr: Podloška
+    hy: Տափօղակ
+    id: Pengendas
+    it: rondella
+    ja: 座金
+    kk: Тығырық
+    ko: 와셔
+    lt: Poveržlė
+    mk: Подлошка
+    my: ဝါရှာ
+    nb: Skive
+    nl: ring
+    pl: podkładka
+    pms: Rondela
+    pt: arruela
+    pt-br: arruela
+    ro: Șaibă
+    ru: Шайба
+    sh: Podloška
+    sl: podložka
+    sr: Подлошка
+    sv: bricka
+    sw: Washeli
+    ta: அடை வில்லை
+    tr: Rondela
+    ug: شايبا
+    uk: шайба
+    vec: Raneła
+    yue: 介子
+    zh: 墊圈
 ---
-
 # [[Washer]] 
 
 is_same_as = `=this.dv_is_same_as`

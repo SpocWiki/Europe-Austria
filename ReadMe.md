@@ -1,41 +1,213 @@
 ---
 aliases:
-  - Austria
-  - Autriche
-  - النمسا
-  - 奥地利
-  - Австрия
-  - the Republic of Austria
-  - la República de Austria
-  - ReadMe
+- Aastriek
+- an Ostair
+- Aostria
+- Aotrisy
+- Aschria
+- Ateria
+- Audeihleih
+- Austerrike
+- Austilia
+- Austreja
+- Austria
+- Austrick
+- Austrie
+- Austrij
+- Austrija
+- Austrijo
+- Austriya
+- Austrya
+- Austríà
+- Austrėjė
+- Austurríki
+- Ausztria
+- Auteteria
+- Autriche
+- Avstrii
+- Avstrija
+- Avstrijə
+- Avstriya
+- Avusturya
+- Awistirya
+- Awstiriya
+- Awstria
+- Awstrija
+- Awstriska
+- Awstriya
+- Awstriýa
+- Awıstırya
+- Aùstrëjackô
+- Aŭstrio
+- Aвстрал
+- Eastenryk
+- Eestereich
+- Eestraisch
+- Estrych
+- Eysturríki
+- I-Ostriya
+- Itävalta
+- IYosithiya
+- la República de Austria
+- Lullerijkka
+- Luvlieriike
+- Lösterän
+- ma Esalasi
+- Nuortariika
+- Nuorttârijkkâ
+- Nuõrttväʹldd
+- O-thi-li
+- Oesteriek
+- Oostenrijk
+- Oostenryk
+- Oosteriek
+- Oosterikj
+- Oostiriyaa
+- Oostnriek
+- Ositiriya
+- Ostenrik
+- Ostenrèk
+- Ostera
+- Osteraic
+- Ostria
+- Ostriah
+- Ostriya
+- Ostriyakondre
+- Oteriya
+- Otiris
+- Otirisi
+- Otrich
+- Otriche
+- Otris
+- Otrish
+- Rakousko
+- Rakúsko
+- ReadMe
+- the Republic of Austria
+- Tutrict
+- Uasterrik
+- Uṭṛic
+- yn Austeyr
+- ysteraic
+- Àostria
+- Àustria
+- Áo
+- Áustria
+- Áuteria
+- Éisträich
+- Ò-tē-lī
+- Óóswiya
+- Ó̤-dê-lé
+- Ôostnryk
+- Ôtrich·e
+- Öschtriich
+- Östareich
+- Österreich
+- Österrike
+- Öösterriek
+- Østerrike
+- Østrig
+- Østrigi
+- Ēastrīce
+- ʻAositulia
+- ʻAukekulia
+- Αυστρία
+- Αὐστρία
+- Аўстрыя
+- Австрія
+- Австри
+- Австрија
+- Австриа
+- Австрий
+- Австрия
+- Австрия Мастор
+- Аустрија
+- Аустрие
+- Аустрия
+- Аустрэ
+- Аѵстрїꙗ
+- Утриш
+- Өстрмүдин Орн
+- Ավստրիա
+- Աւստրիա
+- אוסטריה
+- עסטרייך
+- آسٹرٛیا
+- آسٹریا
+- آسٽريا
+- ئاۋستىرىيە
+- ئوتریش
+- اؤتريش
+- اتريش
+- اتریش
+- اسٹریا
+- النمسا
+- اوتریش
+- لوطريش
+- نەمسا
+- ܢܡܣܐ
+- އޮސްޓްރިއާ
+- ߏߕߙߌߛ߭
+- अष्ट्रिया
+- अस्ट्रिया
+- आस्ट्रिया
+- ऑस्ट्रिया
+- অষ্ট্ৰিয়া
+- অস্ট্রিয়া
+- ਆਸਟਰੀਆ
+- ઑસ્ટ્રિયા
+- ଅଷ୍ଟ୍ରିଆ
+- ஆஸ்திரியா
+- ఆస్ట్రియా
+- ಆಸ್ಟ್ರಿಯ
+- ഓസ്ട്രിയ
+- ඔස්ට් රියාව
+- ประเทศออสเตรีย
+- ປະເທດໂອຕະລິດ
+- ཨས་ཊི་ཡ
+- ཨོ་སི་ཐྲི་ཡ།
+- မိူင်းဢေႃးသထရီးယႃး
+- သြစတြီးယားနိုင်ငံ
+- ავსტრია
+- ኦስትሪያ
+- ᎠᏍᏟᏯ
+- អូទ្រីស
+- ᱚᱥᱴᱨᱤᱭᱟ
+- ⵓⵜⵔⵉⵛ
+- オーストリア
+- 奥地利
+- 奧地利
+- ꯑꯁꯇ꯭ꯔꯤꯌꯥ
+- 오스트리아
+- "\U00010330\U0001033F\U00010343\U00010344\U00010342\U00010330\U00010342\U00010334\U00010339\U0001033A\U00010339"
 has_id_wikidata: Q40
 title: Austria
-linkTitle: ""
+linkTitle: ''
 type: Country
 location:
-  - 47.712
-  - 14.381
+- 47.712
+- 14.381
 SpocWebEntityId: 26837
 tags:
-  - geo/Country
+- geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
-keywords: ""
-layout: ""
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - de-AT
-  - hr
-  - hu
-  - sl
+- de-AT
+- hr
+- hu
+- sl
 icon: flag-at
 dv_has_name: Austria
 dv_has_name_en: Austria
@@ -48,14 +220,347 @@ dv_has_name_de: Österreich
 dv_ISO2: AT
 dv_ISO3: AUT
 dv_has_:
+  image_for_:
+    flag: '![[./Austria/Flag_of_Austria.svg|200]] ![](./Austria/Flag_of_Austria.svg)'
+    coat_of_arms: '![[./Coat_of_arms_of_Austria.svg|150]] ![](./Coat_of_arms_of_Austria.svg)'
   name_:
+    ab: Австриа
+    ace: Austria
+    ady: Аустрие
+    aeb-arab: النمسا
+    af: Oostenryk
+    am: ኦስትሪያ
+    ami: Austria
+    an: Austria
+    ang: Ēastrīce
+    anp: ऑस्ट्रिया
+    ar: النمسا
+    arc: ܢܡܣܐ
+    ary: لوطريش
+    arz: النمسا
+    as: অষ্ট্ৰিয়া
+    ast: Austria
+    av: Австрия
+    avk: Ostera
+    awa: ऑस्ट्रिया
+    ay: Austriya
+    az: Avstriya
+    azb: اوتریش
+    ba: Австрия
+    ban: Austria
+    bar: Östareich
+    bcl: Austriya
+    be: Аўстрыя
+    be-tarask: Аўстрыя
+    bew: Ostenrèk
+    bg: Австрия
+    bgn: اتریش
+    bho: ऑस्ट्रिया
+    bi: Ostria
+    bn: অস্ট্রিয়া
+    bo: ཨོ་སི་ཐྲི་ཡ།
+    bpy: অস্ট্রিয়া
+    br: Aostria
+    bs: Austrija
+    btm: Austria
+    bug: Austria
+    bxr: Австри
+    ca: Àustria
+    cbk-zam: Austria
+    cdo: Ó̤-dê-lé
+    ce: Австри
+    ceb: Awstriya
+    ch: Austria
+    chr: ᎠᏍᏟᏯ
+    chy: Austria
+    ckb: نەمسا
+    co: Austria
+    crh: Avstriya
+    crh-latn: Avstriya
+    cs: Rakousko
+    csb: Aùstrëjackô
+    cu: Аѵстрїꙗ
+    cv: Австри
+    cy: Awstria
+    da: Østrig
+    dag: Austria
+    de: Österreich
+    de-at: Österreich
+    de-ch: Österreich
+    diq: Awıstırya
+    dsb: Awstriska
+    dty: अष्ट्रिया
+    dv: އޮސްޓްރިއާ
+    dz: ཨས་ཊི་ཡ
+    ee: Austria
+    el: Αυστρία
+    eml: Àustria
+    en: Austria
+    en-ca: Austria
+    en-gb: Austria
+    en-us: Austria
+    eo: Aŭstrio
+    es: Austria
+    et: Austria
+    eu: Austria
+    ext: Áustria
+    fa: اتریش
+    ff: Otiris
+    fi: Itävalta
+    fj: Austria
+    fo: Eysturríki
+    fr: Autriche
+    frp: Ôtrich·e
+    frr: Uasterrik
+    fur: Austrie
+    fy: Eastenryk
+    ga: an Ostair
+    gag: Avstriya
+    gcr: Otrich
+    gd: An Ostair
+    gl: Austria
+    glk: اؤتريش
+    gn: Áuteria
+    gom: ऑस्ट्रिया
+    gom-deva: ऑस्ट्रिया
+    gom-latn: Austria
+    got: "\U00010330\U0001033F\U00010343\U00010344\U00010342\U00010330\U00010342\U00010334\U00010339\U0001033A\U00010339"
+    gpe: Austria
+    grc: Αὐστρία
+    gsw: Öschtriich
+    gu: ઑસ્ટ્રિયા
+    gv: yn Austeyr
+    ha: Austriya
+    hak: O-thi-li
+    haw: ʻAukekulia
+    he: אוסטריה
+    hi: ऑस्ट्रिया
+    hif: Austria
+    hr: Austrija
+    hsb: Awstriska
+    ht: Otrich
+    hu: Ausztria
+    hy: Ավստրիա
+    hyw: Աւստրիա
+    ia: Austria
+    iba: Austria
+    id: Austria
+    ie: Austria
+    ig: Austria
+    ilo: Austria
+    inh: Австри
+    io: Austria
+    is: Austurríki
+    it: Austria
+    ja: オーストリア
+    jam: Aschria
+    jbo: ysteraic
+    jv: Ostenrik
+    ka: ავსტრია
+    kaa: Avstriya
+    kab: Tutrict
+    kbd: Аустрэ
+    kbp: Otirisi
+    kea: Áustria
+    kg: Autriche
+    kge: Austria
+    ki: Austria
+    kk: Аустрия
+    kl: Østrigi
+    km: អូទ្រីស
+    kn: ಆಸ್ಟ್ರಿಯ
+    knc: Austria
+    ko: 오스트리아
+    koi: Австрия
+    krc: Австрия
+    krj: Awstriya
+    ks: آسٹرٛیا
+    ksh: Österreich
+    ku: Awistirya
+    kv: Австрия
+    kw: Estrych
+    ky: Австрия
+    la: Austria
+    lad: Ostria
+    lb: Éisträich
+    lbe: Австрия
+    lez: Австрия
+    lfn: Osteraic
+    lg: Austria
+    li: Oosteriek
+    lij: Àostria
+    liv: Austrij
+    lld: Austria
+    lmo: Austria
+    ln: Otrish
+    lo: ປະເທດໂອຕະລິດ
+    lrc: ئوتریش
+    lt: Austrija
+    ltg: Austreja
+    lv: Austrija
+    lzh: 奧地利
+    mad: Austria
+    mai: ऑस्ट्रिया
+    map-bms: Austria
+    mdf: Австрия
+    mg: Aotrisy
+    mhr: Австрий
+    mi: Ateria
+    min: Austria
+    mk: Австрија
+    ml: ഓസ്ട്രിയ
+    mn: Австри
+    mni: ꯑꯁꯇ꯭ꯔꯤꯌꯥ
+    mo: Аустрия
+    mos: Austria
+    mr: ऑस्ट्रिया
+    mrj: Австри
+    ms: Austria
+    mt: Awstrija
+    mwl: Áustria
+    my: သြစတြီးယားနိုင်ငံ
+    myv: Австрия Мастор
+    mzn: اتریش
+    na: Oteriya
+    nah: Ostriah
+    nan: Ò-tē-lī
+    nap: Austria
+    nb: Østerrike
+    nds: Öösterriek
+    nds-nl: Oostnriek
+    ne: अस्ट्रिया
+    new: अष्ट्रिया
+    nl: Oostenrijk
+    nn: Austerrike
+    nov: Austria
+    nqo: ߏߕߙߌߛ߭
+    nrm: Autriche
+    nso: Austria
+    nv: Óóswiya
+    oc: Àustria
+    olo: Avstrii
+    om: Oostiriyaa
+    or: ଅଷ୍ଟ୍ରିଆ
+    os: Австри
+    pa: ਆਸਟਰੀਆ
+    pag: Austria
+    pam: Austria
+    pap: Austria
+    pcd: Otriche
+    pdc: Eestereich
+    pdt: Oosterikj
+    pfl: Eestraisch
+    pi: आस्ट्रिया
+    pih: Ostriya
+    pl: Austria
+    pms: Àustria
+    pnb: اسٹریا
+    pnt: Αυστρία
+    ps: اتريش
+    pt: Áustria
+    pt-br: Áustria
+    qu: Awstiriya
+    rm: Austria
+    rmy: Austriya
+    ro: Austria
+    roa-tara: Austrie
+    ru: Австрия
+    rue: Австрія
+    rup: Austria
+    rw: Ositiriya
+    sa: आस्ट्रिया
+    sah: Австрия
+    sat: ᱚᱥᱴᱨᱤᱭᱟ
+    sc: Àustria
+    scn: Austria
+    sco: Austrick
+    sd: آسٽريا
+    se: Nuortariika
+    sgs: Austrėjė
+    sh: Austrija
+    shi: Uṭṛic
+    shn: မိူင်းဢေႃးသထရီးယႃး
+    si: ඔස්ට් රියාව
+    sk: Rakúsko
+    skr: آسٹریا
+    sl: Avstrija
+    sm: Austilia
+    sma: Luvlieriike
+    smj: Lullerijkka
+    smn: Nuorttârijkkâ
+    sms: Nuõrttväʹldd
+    sn: Austria
+    so: Austriya
+    sq: Austria
+    sr: Аустрија
+    sr-ec: Аустрија
+    sr-el: Austrija
+    srn: Ostriyakondre
+    ss: IYosithiya
+    st: Austria
+    stq: Aastriek
+    su: Austria
+    sv: Österrike
+    sw: Austria
+    szl: Austrijo
+    szy: Austria
+    ta: ஆஸ்திரியா
+    tay: Austria
+    te: ఆస్ట్రియా
+    tet: Áustria
+    tg: Утриш
+    th: ประเทศออสเตรีย
+    tk: Awstriýa
+    tl: Austria
+    tly: Avstrijə
+    to: ʻAositulia
+    tok: ma Esalasi
+    tpi: Ostria
+    tr: Avusturya
+    trv: Austria
+    ts: Austria
+    tt: Австрия
+    tum: Austria
+    tw: Austria
+    ty: Auteteria
+    tyv: Aвстрал
+    udm: Австрия
+    ug: ئاۋستىرىيە
+    uk: Австрія
+    ur: آسٹریا
+    uz: Avstriya
+    vec: Àustria
+    vep: Avstrii
+    vi: Áo
+    vls: Ôostnryk
+    vo: Lösterän
+    vro: Austria
+    wa: Otriche
+    war: Austrya
+    wo: Otris
+    wuu: 奥地利
+    xal: Өстрмүдин Орн
+    xmf: ავსტრია
+    yi: עסטרייך
+    yo: Austríà
+    yue: 奧地利
+    za: Audeihleih
+    zea: Oesteriek
+    zgh: ⵓⵜⵔⵉⵛ
+    zh: 奧地利
+    zh-cn: 奥地利
+    zh-hans: 奥地利
+    zh-hant: 奧地利
+    zh-hk: 奧地利
+    zh-mo: 奧地利
+    zh-my: 奥地利
+    zh-sg: 奥地利
+    zh-tw: 奧地利
+    zu: I-Ostriya
+  sound_of_:
+    anthem: '![[Anthem-Austria.mp3]]'
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Austria
-  image_for_:
-    flag: "![[./Austria/Flag_of_Austria.svg|200]] ![](./Austria/Flag_of_Austria.svg)"
-    coat_of_arms: "![[./Coat_of_arms_of_Austria.svg|150]] ![](./Coat_of_arms_of_Austria.svg)"
-  sound_of_:
-    anthem: "![[Anthem-Austria.mp3]]"
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -77,9 +582,9 @@ dv_UNTERM_Chinese_Formal: 奥地利共和国
 dv_UNTERM_French_Formal: la République d'Autriche
 dv_UNTERM_Russian: Австрия
 dv_UNTERM_Russian_Formal: Австрийская Республика
-dv_Region_Name: "[[../../../Europe]]"
-dv_Intermediate_Region_Name: "[[ReadMe]]"
-dv_Sub-region_Name: "[[Western Europe]]"
+dv_Region_Name: '[[../../../Europe]]'
+dv_Intermediate_Region_Name: '[[ReadMe]]'
+dv_Sub-region_Name: '[[Western Europe]]'
 dv_Region: 150
 dv_Sub-region: 155
 dv_Geoname-ID: 2782113
@@ -100,21 +605,20 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 40
 dv_Area-Total: 8273
 dv_Area-Land: 82730
-dv_has_place_continent: "[[../../../Europe]]"
+dv_has_place_continent: '[[../../../Europe]]'
 dv_VehicleCode: A
-dv_Capital: "[[Austrias_States/Wien,State/Wien,City]]"
+dv_Capital: '[[Austrias_States/Wien,State/Wien,City]]'
 dv_Alcohol-l: 13.2
 dv_Language-Id: 497
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: '[[../../../../Geography/Place]]'
 dv_has_place_longitude: 14.381
 dv_has_place_latitude: 47.712
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Austria
-dv_has_image_for_flag: "![[./Austria/Flag_of_Austria.svg|200]] ![](./Austria/Flag_of_Austria.svg)"
-dv_has_image_for_coat_of_arms: "![[./Coat_of_arms_of_Austria.svg|150]] ![](./Coat_of_arms_of_Austria.svg)"
-dv_has_sound_of_anthem: "![[Anthem-Austria.mp3]]"
+dv_has_image_for_flag: '![[./Austria/Flag_of_Austria.svg|200]] ![](./Austria/Flag_of_Austria.svg)'
+dv_has_image_for_coat_of_arms: '![[./Coat_of_arms_of_Austria.svg|150]] ![](./Coat_of_arms_of_Austria.svg)'
+dv_has_sound_of_anthem: '![[Anthem-Austria.mp3]]'
 dv_developed_developing_countries: Developed
 ---
-
 # Austria (Österreich)
 
 ## International Names

@@ -1,11 +1,52 @@
 ---
 dv_is_:
-  same_as: "[[../../../../../../../../../../WikiData/WD~Belvedere,211818|WD~Belvedere,211818]]"
-dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Belvedere,211818|WD~Belvedere,211818]]"
-
-has_time_started: 1714-01-01 
+  same_as: '[[../../../../../../../../../../WikiData/WD~Belvedere,211818|WD~Belvedere,211818]]'
+dv_is_same_as: '[[../../../../../../../../../../WikiData/WD~Belvedere,211818|WD~Belvedere,211818]]'
+has_time_started: 1714-01-01
 aliases:
-  - Belvedere,Vienna
+- Belveder
+- Belveder sarayı
+- Belvedere
+- Belvedere (Viin)
+- Belvedere jauregia
+- Belvedere Sarayı
+- Belvedere, Wina
+- Belvedere,Vienna
+- Belvedero
+- Belvedér
+- Belweder w Wiedniu
+- Cung điện Belvedere
+- Dvorac Belvedere u Beču
+- Kastelo Belvedere (Vieno)
+- Palacio Belvedere
+- Palaciu Belvedere
+- Palais dau Bèlvéser
+- palais du Belvédère
+- Palatium Belvedere (Vindobona)
+- Palatul Belvedere
+- Palau Belvedere
+- Palazz Belvedere
+- Palácio Belvedere
+- Schloss Belvedere
+- Slot Belvedere
+- Μπελβεντέρε
+- Белведере
+- Бельведер
+- Бельведэр
+- Бэльвэдэр
+- Բելվեդեր
+- ארמון בלוודר
+- بلودر وین
+- بلورده
+- بيلفيدير
+- बेल्वदर
+- బెల్వెడెరే
+- ಬೆಲ್ವೆಡೆರೆ
+- ბელვედერის სასახლე
+- ベルヴェデーレ宮殿
+- 美景宫
+- 美景宮
+- 벨베데레궁
 has_id_wikidata: Q211818
 architect: '[[_Standards/WikiData/WD~Johann_Lukas_von_Hildebrandt,84507]]'
 owned_by: '[[_Standards/WikiData/WD~Eugene_of_Savoy,152428]]'
@@ -13,15 +54,15 @@ founded_by: '[[_Standards/WikiData/WD~Eugene_of_Savoy,152428]]'
 has_use: '[[_Standards/WikiData/WD~art_museum,207694]]'
 occupant: '[[_Standards/WikiData/WD~Belvedere,303139]]'
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Landstraße,519552]]'
-  - '[[_Standards/WikiData/WD~Vienna,1741]]'
+- '[[_Standards/WikiData/WD~Landstraße,519552]]'
+- '[[_Standards/WikiData/WD~Vienna,1741]]'
 architectural_style: '[[_Standards/WikiData/WD~baroque_architecture,840829]]'
 heritage_designation: '[[_Standards/WikiData/WD~Listed_objects_in_Austria,1188447]]'
 appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~Cultural_heritage_monuments_in_Landstraße,1859753]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Upper_Belvedere,87193291]]'
-  - '[[_Standards/WikiData/WD~Lower_Belvedere,87193289]]'
-  - '[[_Standards/WikiData/WD~Q134979586,134979586]]'
+- '[[_Standards/WikiData/WD~Upper_Belvedere,87193291]]'
+- '[[_Standards/WikiData/WD~Lower_Belvedere,87193289]]'
+- '[[_Standards/WikiData/WD~Q134979586,134979586]]'
 coordinate_location: Point(16.380519444 48.1934)
 inception: 1714-01-01T00:00:00Z
 instance_of: '[[_Standards/WikiData/WD~palace,16560]]'
@@ -32,20 +73,89 @@ nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20Bel
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20Belvedere%20Sept%202020%201.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20-%20Schloss%20Belvedere%2C%20oberes%20%282%29.JPG
 official_website:
-  - https://www.belvedere.at/
-  - https://www.belvedere.at/en
+- https://www.belvedere.at/
+- https://www.belvedere.at/en
 ISNI: 0000000122599294
 P8189:
-  - 987007287922405171
-  - 987007303359705171
+- 987007287922405171
+- 987007303359705171
 Commons_Institution_page: Belvedere (Vienna)
 Commons_category: Belvedere (Vienna)
 Facebook_username: belvederemuseum
 Instagram_username: belvederemuseum
 Commons_gallery: Schloss Belvedere
 street_address: Prinz-Eugen-Straße 27
+dv_has_:
+  name_:
+    an: Palacio Belvedere
+    ar: بيلفيدير
+    ast: Palaciu Belvedere
+    az: Belveder sarayı
+    ba: Бельведер
+    be: Бельведэр
+    be-tarask: Бэльвэдэр
+    bg: Белведере
+    ca: Palau Belvedere
+    cs: Belveder
+    da: Belvedere
+    de: Schloss Belvedere
+    de-at: Schloss Belvedere
+    el: Μπελβεντέρε
+    en: Belvedere
+    eo: Kastelo Belvedere (Vieno)
+    es: Palacio Belvedere
+    et: Belvedere (Viin)
+    eu: Belvedere jauregia
+    fa: بلودر وین
+    fi: Belvedere
+    fr: palais du Belvédère
+    he: ארמון בלוודר
+    hi: बेल्वदर
+    hr: Dvorac Belvedere u Beču
+    hu: Belvedere
+    hy: Բելվեդեր
+    id: Belvedere, Wina
+    io: Belvedero
+    it: Belvedere
+    ja: ベルヴェデーレ宮殿
+    jv: Belvedere
+    ka: ბელვედერის სასახლე
+    kn: ಬೆಲ್ವೆಡೆರೆ
+    ko: 벨베데레궁
+    la: Palatium Belvedere (Vindobona)
+    lv: Belvedere
+    mt: Palazz Belvedere
+    mzn: بلورده
+    nb: Belvedere
+    nl: Slot Belvedere
+    oc: Palais dau Bèlvéser
+    pl: Belweder w Wiedniu
+    pt: Palácio Belvedere
+    ro: Palatul Belvedere
+    ru: Бельведер
+    sco: Belvedere
+    sh: Belvedere
+    sk: Belvedér
+    sl: Belvedere
+    sr: Белведере
+    sr-ec: Белведере
+    sr-el: Belvedere
+    sv: Schloss Belvedere
+    te: బెల్వెడెరే
+    tr: Belvedere Sarayı
+    uk: Бельведер
+    vi: Cung điện Belvedere
+    war: Belvedere
+    wuu: 美景宫
+    yue: 美景宮
+    zh: 美景宮
+    zh-cn: 美景宫
+    zh-hans: 美景宫
+    zh-hant: 美景宮
+    zh-hk: 美景宮
+    zh-sg: 美景宫
+    zh-tw: 美景宮
 ---
-
 # [[Belvedere,Vienna]] 
 
 is_same_as = `=this.dv_is_same_as`
