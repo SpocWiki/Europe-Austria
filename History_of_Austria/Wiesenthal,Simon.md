@@ -220,6 +220,7 @@ dv_has_:
     zh-tw: 西蒙·维森塔尔
     zu: Simon Wiesenthal
 ---
+
 # [[Wiesenthal,Simon]] 
 
 is_same_as = `=this.dv_is_same_as`

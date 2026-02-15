@@ -171,6 +171,9 @@ aliases:
 - 린츠
 - "\U0001033B\U00010339\U0001033D\U00010336"
 ---
+
+# [[Linz,City]]  
+
 > **Linz** ( LINTS, German: [ˈlɪnts] ; Czech: Linec [ˈlɪnɛt͡s]) is the capital of Upper Austria 
 > and third-largest city in Austria. 
 > 

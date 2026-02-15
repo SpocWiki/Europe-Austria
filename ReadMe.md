@@ -618,8 +618,12 @@ dv_has_image_for_flag: '![[./Austria/Flag_of_Austria.svg|200]] ![](./Austria/Fla
 dv_has_image_for_coat_of_arms: '![[./Coat_of_arms_of_Austria.svg|150]] ![](./Coat_of_arms_of_Austria.svg)'
 dv_has_sound_of_anthem: '![[Anthem-Austria.mp3]]'
 dv_developed_developing_countries: Developed
+Unicode_character: 🇦🇹
 ---
-# Austria (Österreich)
+
+# [[ReadMe]] 🇦🇹 
+
+
 
 ## International Names
 
