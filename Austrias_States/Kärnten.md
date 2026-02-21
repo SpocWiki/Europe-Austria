@@ -41,6 +41,27 @@ is_a_ = `=this.dv_is_a_`
 [Population::] 
 
 
+## #has_/text_of_/abstract 
+
+> Carinthia (German: **Kärnten** [ˈkɛʁntn̩] ; Slovene:  avstrijska Koroška [kɔˈɾóːʃka]  
+> Italian: Carinzia [kaˈrintsja]) 
+> is the southernmost and least densely populated Austrian state, 
+> in the Eastern Alps, and is noted for its mountains and lakes. 
+> 
+> The Lake Wolayer is a mountain lake 
+> on the Carinthian side of the Carnic Main Ridge, near the Plöcken Pass. 
+> 
+> The main language is Austrian German, 
+> with its non-standard dialects belonging to the Southern Bavarian group; 
+> 
+> Carinthian Slovene dialects, forms of a South Slavic language 
+> that predominated in the southeastern part of the region 
+> up to the first half of the 20th century, are now spoken by a small minority in the area.
+> 
+> Carinthia's main industries are tourism, electronics, engineering, forestry, and agriculture.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Carinthia)  
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten|Kärnten]] 
