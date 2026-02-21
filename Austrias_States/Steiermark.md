@@ -25,7 +25,7 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Steiermark/
+geojsonFolder: ./Steiermark//
 markerFolder: ./Steiermark/
 markerFile: [[Steiermark]] 
 coordinates: [[Steiermark]] 
@@ -38,6 +38,28 @@ is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
+
+## #has_/text_of_/abstract 
+
+> Styria (German: **Steiermark** [ˈʃtaɪɐmark] ; Bavarian: Steiamårk; Slovene: Štajerska; Hungarian: Stájerország [ˈʃtaːjɛrorsaːɡ]) 
+> is an Austrian state in the southeast of the country. 
+> 
+> With an area of approximately 16,399 km2 (6,332 sq mi), 
+> Styria is Austria's second largest state, after Lower Austria. 
+> 
+> It is bordered to the south by Slovenia, and clockwise, from the southwest, 
+> by the other Austrian states of 
+> - Carinthia, 
+> - Salzburg, 
+> - Upper Austria, 
+> - Lower Austria, and 
+> - Burgenland. 
+> 
+> The state's capital is Graz, the second largest city in Austria after Vienna.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Styria)  
+
+
 
 
 ## Confidential Links & Embeds: 

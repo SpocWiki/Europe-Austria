@@ -27,7 +27,7 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Salzburg,State/
+geojsonFolder: ./Salzburg,State//
 markerFolder: ./Salzburg,State/
 markerFile: [[Salzburg,State]] 
 coordinates: [[Salzburg,State]] 
