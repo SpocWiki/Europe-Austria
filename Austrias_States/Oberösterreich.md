@@ -26,8 +26,8 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Oberösterreich/
-markerFolder: ./Oberösterreich/
+geojsonFolder: ./Oberösterreich//
+markerFolder: ./Oberösterreich/City
 markerFile: [[Oberösterreich]] 
 coordinates: [[Oberösterreich]] 
 ```
@@ -39,6 +39,21 @@ is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
+
+## #has_/text_of_/abstract 
+
+> Upper Austria (German: **Oberösterreich** [ˈoːbɐˌ(ʔ)øːstɐraɪç] ; Bavarian: Obaöstareich; 
+> Czech: Horní Rakousy [ˈɦorɲiː ˈrakousɪ]) is one of the nine states of Austria. 
+> 
+> Its capital is Linz. 
+> Upper Austria borders Germany and the Czech Republic, 
+> as well as the other Austrian states of Lower Austria, Styria, and Salzburg. 
+> 
+> With an area of 11,982 km2 (4,626 sq mi) and 1.49 million inhabitants, 
+> Upper Austria is the fourth-largest Austrian state by land area 
+> and the third-largest by population.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Upper%20Austria)  
 
 
 ## Confidential Links & Embeds: 

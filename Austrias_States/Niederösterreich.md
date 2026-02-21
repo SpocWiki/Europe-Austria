@@ -27,7 +27,7 @@ defaultZoom: 8
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Niederösterreich//
-markerFolder: ./Niederösterreich/
+markerFolder: ./Niederösterreich// 
 markerFile: [[Niederösterreich]] 
 coordinates: [[Niederösterreich]] 
 ```
