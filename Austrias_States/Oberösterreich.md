@@ -12,18 +12,24 @@ dv_has_name: Oberösterreich
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
+# [[Oberösterreich]] 
 
 [StateId::] 
 isDeleted: false
 confidential: public
 
+## #has_/map  
+
 ```leaflet
 id: Oberösterreich
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Oberösterreich/
 markerFolder: ./Oberösterreich/
+markerFile: [[Oberösterreich]] 
+coordinates: [[Oberösterreich]] 
 ```
 
 name = `=this.dv_has_name` 

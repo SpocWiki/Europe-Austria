@@ -20,30 +20,32 @@ dv_has_place_latitude: 47.58
 dv_has_name: Kufstein
 dv_Country: "[[../../../../Austria]]"
 ---
+
+# [[Kufstein]] 
+
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 
-State ::  
-Country = `=this.dv_Country`
+State :: [[../../Tirol|Tyrol]] [[../../Tirol|Tyrol]] 
+Country = `=this.dv_Country` 
 [StateId::] 
 [Population::] 
 
-
+## #has_/map  
 
 ```leaflet
 id: Kufstein
 coordinates: [[Kufstein]] 
 markerFile: [[Kufstein]] 
-defaultZoom: 11 
+defaultZoom: 8 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kufstein|Kufstein]] 
+[[Kufstein|Kufstein]]y/Kufstein|Kufstein]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kufstein.public|Kufstein.public]] 
 

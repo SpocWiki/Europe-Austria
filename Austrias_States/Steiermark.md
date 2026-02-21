@@ -11,17 +11,24 @@ tags:
 dv_has_name: Steiermark
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
-﻿
+# [[Steiermark]] 
+
 ﻿[StateId::] 
 isDeleted: false
-confidential: public
+confidential: public 
+
+## #has_/map  
+
 ```leaflet
 id: Steiermark
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Steiermark/
 markerFolder: ./Steiermark/
+markerFile: [[Steiermark]] 
+coordinates: [[Steiermark]] 
 ```
 
 name = `=this.dv_has_name` 

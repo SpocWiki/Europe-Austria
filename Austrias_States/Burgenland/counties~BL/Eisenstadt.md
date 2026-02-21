@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Eisenstadt|Eisenstadt]] 
+### #is_/same_as :: [[Eisenstadt|Eisenstadt]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Eisenstadt.public|Eisenstadt.public]] 
 

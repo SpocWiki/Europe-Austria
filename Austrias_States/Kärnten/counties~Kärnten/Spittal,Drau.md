@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Spittal~Drau|Spittal~Drau]] 
+### #is_/same_as :: [[Spittal~Drau|Spittal~Drau]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Spittal~Drau.public|Spittal~Drau.public]] 
 

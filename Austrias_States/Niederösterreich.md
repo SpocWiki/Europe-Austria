@@ -12,17 +12,24 @@ dv_has_name: Niederösterreich
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
+# [[Niederösterreich]] 
 
 [StateId::] 
 isDeleted: false
-confidential: public
+confidential: public 
+
+## #has_/map 
+
 ```leaflet
 id: Niederösterreich
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Niederösterreich//
 markerFolder: ./Niederösterreich/
+markerFile: [[Niederösterreich]] 
+coordinates: [[Niederösterreich]] 
 ```
 
 name = `=this.dv_has_name` 
@@ -32,6 +39,7 @@ is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
+
 
 
 ## Confidential Links & Embeds: 

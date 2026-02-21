@@ -7,19 +7,30 @@ type: State
 tags:
   - geo/State
 dv_has_name: Salzburg
+location:
+  - 47.79
+  - 13.05
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
 
+# [[Salzburg,State]] 
+
 [StateId::] 
 isDeleted: false
-confidential: public
+confidential: public 
+
+## #has_/map  
+
 ```leaflet
-id: Salzburg
-zoomFeatures: true 
+id: Salzburg,State
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./State~Salzburg/
-markerFolder: ./State~Salzburg/
+geojsonFolder: ./Salzburg,State/
+markerFolder: ./Salzburg,State/
+markerFile: [[Salzburg,State]] 
+coordinates: [[Salzburg,State]] 
 ```
 
 name = `=this.dv_has_name` 

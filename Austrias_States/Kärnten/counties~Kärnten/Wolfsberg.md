@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Wolfsberg|Wolfsberg]] 
+### #is_/same_as :: [[Wolfsberg|Wolfsberg]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Wolfsberg.public|Wolfsberg.public]] 
 

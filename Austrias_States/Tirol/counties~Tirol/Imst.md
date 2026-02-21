@@ -25,7 +25,7 @@ is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 
-State ::  
+State :: [[../../Tirol|Tyrol]] 
 Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
@@ -42,8 +42,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Imst|Imst]] 
+[[Imst|Imst]]irol/City/Imst|Imst]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Imst.public|Imst.public]] 
 

@@ -14,23 +14,26 @@ tags:
 SpocWebEntityId: 34468
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 11.45
 dv_has_place_latitude: 47.12
 dv_has_name: St.Kathrein
-dv_Country: "[[../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria]]"
 ---
+
+# [[St.Kathrein]] 
+
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 
-State ::  
+State :: [[../../Tirol|Tyrol]] 
 Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-
+## #has_/map  
 
 ```leaflet
 id: St.Kathrein
@@ -42,8 +45,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein|St.Kathrein]] 
+[[St.Kathrein|St.Kathrein]]athrein|St.Kathrein]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.public|St.Kathrein.public]] 
 

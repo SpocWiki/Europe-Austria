@@ -14,18 +14,18 @@ tags:
 SpocWebEntityId: 35243
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.92
 dv_has_place_latitude: 46.87
 dv_has_name: Vent
-dv_Country: "[[../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 
-State ::  
+State :: [[../../../../Tirol|Tyrol]] 
 Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Vent|Vent]] 
+### #is_/same_as :: [[Vent|Vent]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Vent.public|Vent.public]] 
 

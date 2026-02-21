@@ -11,16 +11,25 @@ tags:
 dv_has_name: Kärnten
 dv_is_a_: "[[../../../../../Geography/Place]]"
 ---
+
+# [[Kärnten]] 
+
 [StateId::] 
 isDeleted: false
 confidential: public
+
+## #has_/map  
+
 ```leaflet
 id: Kärnten
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kärnten//
 markerFolder: ./Kärnten/
+markerFile: [[Kärnten]] 
+coordinates: [[Kärnten]] 
 ```
 
 name = `=this.dv_has_name` 

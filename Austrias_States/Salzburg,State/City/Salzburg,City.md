@@ -21,7 +21,9 @@ dv_has_place_latitude: 47.79
 dv_has_name: Salzburg
 dv_Country: "[[../../../../Austria]]"
 ---
-﻿
+
+# [[Salzburg,City]] 
+
 ﻿#is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
@@ -32,12 +34,16 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-
+## #has_/map  
 
 ```leaflet
-id: Salzburg
-coordinates: [[Salzburg]] 
-markerFile: [[Salzburg]] 
+id: Salzburg,City
+geojsonFolder: ./Salzburg,City/
+markerFolder: ./Salzburg,City/
+coordinates: [[Salzburg,City]] 
+markerFile: [[Salzburg,City]] 
+zoomFeatures: false 
+defaultZoom: 8 
 defaultZoom: 11 
 maxZoom: 18
 ```
