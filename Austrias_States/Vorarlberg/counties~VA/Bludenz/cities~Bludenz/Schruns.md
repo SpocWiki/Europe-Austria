@@ -14,12 +14,12 @@ tags:
 SpocWebEntityId: 34078
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.93
 dv_has_place_latitude: 47.08
 dv_has_name: Schruns
 dv_State: Vlbg]
-dv_Country: "[[../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
@@ -44,7 +44,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schruns|Schruns]] 
+### #is_/same_as :: [[Schruns|Schruns]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schruns.public|Schruns.public]] 
 
