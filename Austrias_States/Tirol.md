@@ -27,7 +27,7 @@ defaultZoom: 8
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tirol//
-markerFolder: ./Tirol/City
+markerFolder: ./Tirol/
 markerFile: [[Tirol]] 
 coordinates: [[Tirol]] 
 ```

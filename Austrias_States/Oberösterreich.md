@@ -27,7 +27,7 @@ defaultZoom: 8
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Oberösterreich//
-markerFolder: ./Oberösterreich/City
+markerFolder: ./Oberösterreich/
 markerFile: [[Oberösterreich]] 
 coordinates: [[Oberösterreich]] 
 ```
