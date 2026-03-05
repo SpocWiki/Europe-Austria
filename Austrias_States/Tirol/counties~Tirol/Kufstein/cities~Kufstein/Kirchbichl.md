@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 31464
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 12.08
 dv_has_place_latitude: 47.52
 dv_has_name: Kirchbichl
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 ---
 
 # [[Kirchbichl]] 

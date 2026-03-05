@@ -16,11 +16,11 @@ tags:
 SpocWebEntityId: 31128
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 13.78
 dv_has_place_latitude: 47.72
 dv_has_name: Bad Ischl
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 cssclasses:
   - private
   - note

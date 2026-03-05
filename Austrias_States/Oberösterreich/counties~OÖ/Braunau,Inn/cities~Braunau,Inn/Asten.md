@@ -14,12 +14,12 @@ tags:
 SpocWebEntityId: 28907
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 12.75
 dv_has_place_latitude: 48.1
 dv_has_name: Asten
-dv_Country: "[[../../../../../../Germany]]"
-dv_State: "[[../../Bayern]] ]"
+dv_Country: "[[../../../../../../Germany|Germany]]"
+dv_State: "[[../../Bayern|Bayern]] ]"
 ---
 
 # [[Asten]]

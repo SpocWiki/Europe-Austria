@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 31575
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 12.88
 dv_has_place_latitude: 46.68
 dv_has_name: Kornat
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

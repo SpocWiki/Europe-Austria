@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 32356
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 14.32
 dv_has_place_latitude: 47.4
 dv_has_name: Mautern~Steiermark
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 ---
 
 # [[Mautern,Steiermark]] 

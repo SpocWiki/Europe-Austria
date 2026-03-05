@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 31298
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 14.25
 dv_has_place_latitude: 46.53
 dv_has_name: Kappel
-dv_Country: "[[../../../../../../../../Austria]]"
+dv_Country: "[[../../../../../../../../Austria|Austria]]"
 ---
 
 # [[Kappel,Drau]] 

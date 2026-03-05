@@ -9,7 +9,7 @@ type: State
 tags:
   - geo/State
 dv_has_name: Oberösterreich
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place|Place]]"
 ---
 
 # [[Oberösterreich]] 

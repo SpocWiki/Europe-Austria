@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 35387
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 16.58
 dv_has_place_latitude: 48.28
 dv_has_name: Wagram
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

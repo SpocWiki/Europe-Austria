@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 32694
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 16.28
 dv_has_place_latitude: 48.08
 dv_has_name: Moedling
-dv_Country: "[[../../../../Austria]]"
+dv_Country: "[[../../../../Austria|Austria]]"
 ---
 
 # [[Mödling]] 

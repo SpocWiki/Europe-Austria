@@ -15,11 +15,11 @@ tags:
 SpocWebEntityId: 29955
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 13.88
 dv_has_place_latitude: 46.87
 dv_has_name: Ebene Reichenau
-dv_Country: "[[../../../../../Austria]]"
+dv_Country: "[[../../../../../Austria|Austria]]"
 ---
 
 # [[Reichenau,Carinthia]] 

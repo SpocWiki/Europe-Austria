@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 34643
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 16.22
 dv_has_place_latitude: 48.38
 dv_has_name: Stoeckerau
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 ---
 
 # [[Stockerau]] 

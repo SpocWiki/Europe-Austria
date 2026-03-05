@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 34499
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 13.45
 dv_has_place_latitude: 47.73
 dv_has_name: St.Wolfgang
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 ---
 
 # [[St.Wolfgang,Salzkammergut]] 

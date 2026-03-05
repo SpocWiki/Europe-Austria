@@ -14,12 +14,12 @@ tags:
 SpocWebEntityId: 34078
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 9.93
 dv_has_place_latitude: 47.08
 dv_has_name: Schruns
 dv_State: Vlbg]
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

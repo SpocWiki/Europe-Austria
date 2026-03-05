@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 32828
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 13.98
 dv_has_place_latitude: 48.42
 dv_has_name: Neuhaus,Donau
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 ---
 
 # [[Neuhaus,Donau]]

@@ -14,7 +14,7 @@ tags:
 SpocWebEntityId: 30647
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 14.5
 dv_has_place_latitude: 46.9
 dv_has_name: Guttaring

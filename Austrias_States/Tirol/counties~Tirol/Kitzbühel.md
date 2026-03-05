@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 31475
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 12.38
 dv_has_place_latitude: 47.45
 dv_has_name: Kitzbuehel
-dv_Country: "[[../../../../Austria]]"
+dv_Country: "[[../../../../Austria|Austria]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 28759
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 13.77
 dv_has_place_latitude: 47.65
 dv_has_name: Alt-Aussee
-dv_Country: "[[../../../../../../Austria]]"
+dv_Country: "[[../../../../../../Austria|Austria]]"
 ---
 
 # [[Altaussee]] 

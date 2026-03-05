@@ -15,11 +15,11 @@ tags:
 SpocWebEntityId: 29371
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 15.28
 dv_has_place_latitude: 47.42
 dv_has_name: Bruck~Mur
-dv_Country: "[[../../../../Austria]]"
+dv_Country: "[[../../../../Austria|Austria]]"
 ---
 
 # [[Bruck,Mur]] 

@@ -582,7 +582,7 @@ dv_UNTERM_Chinese_Formal: 奥地利共和国
 dv_UNTERM_French_Formal: la République d'Autriche
 dv_UNTERM_Russian: Австрия
 dv_UNTERM_Russian_Formal: Австрийская Республика
-dv_Region_Name: '[[../../../Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[ReadMe]]'
 dv_Sub-region_Name: '[[Western Europe]]'
 dv_Region: 150
@@ -605,12 +605,12 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 40
 dv_Area-Total: 8273
 dv_Area-Land: 82730
-dv_has_place_continent: '[[../../../Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: A
-dv_Capital: '[[Austrias_States/Wien,State/Wien,City]]'
+dv_Capital: '[[Austrias_States/Wien,State/Wien,City|Wien,City]]'
 dv_Alcohol-l: 13.2
 dv_Language-Id: 497
-dv_is_a_: '[[../../../../Geography/Place]]'
+dv_is_a_: '[[../../../../Geography/Place|Place]]'
 dv_has_place_longitude: 14.381
 dv_has_place_latitude: 47.712
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Austria

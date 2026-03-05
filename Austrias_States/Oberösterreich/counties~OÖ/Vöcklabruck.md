@@ -17,11 +17,11 @@ tags:
 SpocWebEntityId: 35371
 isDeleted: false
 confidential: private
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 13.67
 dv_has_place_latitude: 48
 dv_has_name: Voecklabruck
-dv_Country: "[[../../../../Austria]]"
+dv_Country: "[[../../../../Austria|Austria]]"
 cssclasses:
   - private
   - note

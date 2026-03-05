@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 28871
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 10.2
 dv_has_place_latitude: 47.15
 dv_has_name: Arlberg
-dv_Country: "[[../../../Austria]]"
+dv_Country: "[[../../../Austria|Austria]]"
 ---
 
 # [[Arlberg]] 

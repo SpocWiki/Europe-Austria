@@ -13,7 +13,7 @@ tags:
 dv_isDeleted: false
 dv_confidential: public
 dv_has_name: Wien
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place|Place]]"
 ---
 
 # [[Wien,State]] 

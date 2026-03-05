@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 31577
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 16.48
 dv_has_place_latitude: 48.35
 dv_has_name: Korneuburg
-dv_Country: "[[../../../../Austria]]"
+dv_Country: "[[../../../../Austria|Austria]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

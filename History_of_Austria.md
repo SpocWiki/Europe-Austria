@@ -63,10 +63,10 @@ aliases:
 - 奧地利歷史
 - 오스트리아의 역사
 has_id_wikidata: Q187830
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Austria,10522469]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-facet_of: '[[_Standards/WikiData/WD~Austria,40]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Austria,10522469|WD~Template_History_of_Austria,10522469]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]'
+facet_of: '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
 Commons_category: History of Austria
 dv_is_:
   same_as: '[[../../../../../WikiData/WD~History_of_Austria,187830|WD~History_of_Austria,187830]]'
