@@ -10,7 +10,9 @@ dv_has_name: Salzburg
 location:
   - 47.79
   - 13.05
-dv_is_a_: "[[../../../../../Geography/Place|Place]]"
+dv_is_a_:
+  - "[[../../../../../Geography/Place|Place]]"
+  - "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 ---
 
 # [[Salzburg,State]] 

@@ -8,7 +8,9 @@ type: State
 tags:
   - geo/State
 dv_has_name: Vorarlberg
-dv_is_a_: "[[../../../../../Geography/Place|Place]]"
+dv_is_a_:
+  - "[[../../../../../Geography/Place|Place]]"
+  - "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 ---
 
 # [[Vorarlberg]] 
