@@ -11,9 +11,45 @@ dv_has_name: Burgenland
 dv_is_a_:
   - "[[../../../../../Geography/Place|Place]]"
   - "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
+hist_area_km2:
+  100: 129.23
+  125: 729.712
+  150: 235.421
+  175: 211.574
+  200: 152.553
+  225: 254.842
+  250: 329.094
+  275: 361.231
+  300: 341.571
+  325: 283.434
+  350: 210.862
+  375: 142.659
+  400: 115.664
+  425: 92.545
+  450: 72.097
+  475: 58.741
+  500: 45.804
+  525: 38.188
+  550: 32.426
+  575: 26.573
+  600: 22.218
+  625: 19.509
+  650: 13.69
+  675: 10.123
+  700: 6.742
+  725: 5.108
+  750: 3.761
+  775: 2.901
+  800: 2.255
+  825: 1.695
+  850: 0.733
+  875: 0.33
+has_id_wikidata: Q43210
 ---
 
 # [[Burgenland]] 
+
+#is_/same_as :: [[WD~# Burgenland,43210]] 
 
 [StateId::] 
 isDeleted: false
@@ -40,6 +76,33 @@ is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
 [has_place_latitude::] 
 [Population::] 
+
+
+### Area by Elevation 
+
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 20
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 20
+, widthFrom : "all"
+});
+```
+
+
 
 ## #has_/text_of_/abstract 
 
