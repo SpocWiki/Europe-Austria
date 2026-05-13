@@ -38,22 +38,22 @@ coordinates: [[Knittelfeld]]
 markerFile: [[Knittelfeld]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Knittelfeld|Knittelfeld]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murtal/cities~Murtal/Knittelfeld|Knittelfeld]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.public|Knittelfeld.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murtal/cities~Murtal/Knittelfeld.public|Knittelfeld.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.internal|Knittelfeld.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murtal/cities~Murtal/Knittelfeld.internal|Knittelfeld.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.protect|Knittelfeld.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murtal/cities~Murtal/Knittelfeld.protect|Knittelfeld.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.private|Knittelfeld.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murtal/cities~Murtal/Knittelfeld.private|Knittelfeld.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.personal|Knittelfeld.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murtal/cities~Murtal/Knittelfeld.personal|Knittelfeld.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Knittelfeld.secret|Knittelfeld.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Murtal/cities~Murtal/Knittelfeld.secret|Knittelfeld.secret]] 
 

@@ -38,21 +38,22 @@ coordinates: [[Kitzbuehel]]
 markerFile: [[Kitzbuehel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
-[[Kitzbühel|Kitzbühel]]tzbuehel|Kitzbuehel]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.public|Kitzbuehel.public]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kitzbühel|Kitzbühel]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.internal|Kitzbuehel.internal]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kitzbühel.public|Kitzbühel.public]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.protect|Kitzbuehel.protect]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kitzbühel.internal|Kitzbühel.internal]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.private|Kitzbuehel.private]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kitzbühel.protect|Kitzbühel.protect]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.personal|Kitzbuehel.personal]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kitzbühel.private|Kitzbühel.private]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kitzbuehel.secret|Kitzbuehel.secret]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kitzbühel.personal|Kitzbühel.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kitzbühel.secret|Kitzbühel.secret]] 
 

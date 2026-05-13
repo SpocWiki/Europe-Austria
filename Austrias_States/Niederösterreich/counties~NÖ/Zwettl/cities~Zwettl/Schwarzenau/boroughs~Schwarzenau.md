@@ -11,7 +11,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Schwarzenau//
 markerFolder: ./boroughs~Schwarzenau/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

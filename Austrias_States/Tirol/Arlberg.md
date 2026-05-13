@@ -64,21 +64,22 @@ maxZoom: 18
 > It is the mountain pass from which the Austrian State of Vorarlberg, 
 > meaning 'before the Arl mountain', gets its name.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Arlberg)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Arlberg) 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Arlberg|Arlberg]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Arlberg|Arlberg]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Arlberg.public|Arlberg.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Arlberg.public|Arlberg.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Arlberg.internal|Arlberg.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Arlberg.internal|Arlberg.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Arlberg.protect|Arlberg.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Arlberg.protect|Arlberg.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Arlberg.private|Arlberg.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Arlberg.private|Arlberg.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Arlberg.personal|Arlberg.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Arlberg.personal|Arlberg.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Arlberg.secret|Arlberg.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Arlberg.secret|Arlberg.secret]] 
 

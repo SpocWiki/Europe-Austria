@@ -54,17 +54,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[St.Wolfgang,Salzkammergut|St.Wolfgang]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/St.Wolfgang,Salzkammergut|St.Wolfgang,Salzkammergut]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.public|St.Wolfgang.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/St.Wolfgang,Salzkammergut.public|St.Wolfgang,Salzkammergut.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.internal|St.Wolfgang.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/St.Wolfgang,Salzkammergut.internal|St.Wolfgang,Salzkammergut.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.protect|St.Wolfgang.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/St.Wolfgang,Salzkammergut.protect|St.Wolfgang,Salzkammergut.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.private|St.Wolfgang.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/St.Wolfgang,Salzkammergut.private|St.Wolfgang,Salzkammergut.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.personal|St.Wolfgang.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/St.Wolfgang,Salzkammergut.personal|St.Wolfgang,Salzkammergut.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/St.Wolfgang.secret|St.Wolfgang.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/St.Wolfgang,Salzkammergut.secret|St.Wolfgang,Salzkammergut.secret]] 
 

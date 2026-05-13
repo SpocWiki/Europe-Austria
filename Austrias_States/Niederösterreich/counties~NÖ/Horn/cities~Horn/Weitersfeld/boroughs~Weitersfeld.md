@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Weitersfeld//
 markerFolder: ./boroughs~Weitersfeld/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

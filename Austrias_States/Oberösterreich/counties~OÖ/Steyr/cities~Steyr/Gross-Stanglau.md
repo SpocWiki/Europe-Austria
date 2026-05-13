@@ -38,22 +38,22 @@ coordinates: [[Gross-Stanglau]]
 markerFile: [[Gross-Stanglau]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Gross-Stanglau|Gross-Stanglau]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Gross-Stanglau|Gross-Stanglau]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.public|Gross-Stanglau.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Gross-Stanglau.public|Gross-Stanglau.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.internal|Gross-Stanglau.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Gross-Stanglau.internal|Gross-Stanglau.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.protect|Gross-Stanglau.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Gross-Stanglau.protect|Gross-Stanglau.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.private|Gross-Stanglau.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Gross-Stanglau.private|Gross-Stanglau.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.personal|Gross-Stanglau.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Gross-Stanglau.personal|Gross-Stanglau.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Gross-Stanglau.secret|Gross-Stanglau.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Steyr/cities~Steyr/Gross-Stanglau.secret|Gross-Stanglau.secret]] 
 

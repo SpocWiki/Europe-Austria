@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Waldneukirchen//
 markerFolder: ./boroughs~Waldneukirchen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -294,7 +294,7 @@ value: dv.current().hist_area_km2
 > Upper Austria is the fourth-largest Austrian state by land area 
 > and the third-largest by population.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Upper%20Austria)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Upper%20Austria) 
 
 
 ## Confidential Links & Embeds: 

@@ -41,22 +41,22 @@ coordinates: [[Mannersdorf]]
 markerFile: [[Mannersdorf]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Mannersdorf,Leithagebirge|Mannersdorf]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck,Leitha/cities~Bruck,Leitha/Mannersdorf,Leithagebirge|Mannersdorf,Leithagebirge]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.public|Mannersdorf.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck,Leitha/cities~Bruck,Leitha/Mannersdorf,Leithagebirge.public|Mannersdorf,Leithagebirge.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.internal|Mannersdorf.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck,Leitha/cities~Bruck,Leitha/Mannersdorf,Leithagebirge.internal|Mannersdorf,Leithagebirge.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.protect|Mannersdorf.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck,Leitha/cities~Bruck,Leitha/Mannersdorf,Leithagebirge.protect|Mannersdorf,Leithagebirge.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.private|Mannersdorf.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck,Leitha/cities~Bruck,Leitha/Mannersdorf,Leithagebirge.private|Mannersdorf,Leithagebirge.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.personal|Mannersdorf.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck,Leitha/cities~Bruck,Leitha/Mannersdorf,Leithagebirge.personal|Mannersdorf,Leithagebirge.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mannersdorf.secret|Mannersdorf.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Bruck,Leitha/cities~Bruck,Leitha/Mannersdorf,Leithagebirge.secret|Mannersdorf,Leithagebirge.secret]] 
 

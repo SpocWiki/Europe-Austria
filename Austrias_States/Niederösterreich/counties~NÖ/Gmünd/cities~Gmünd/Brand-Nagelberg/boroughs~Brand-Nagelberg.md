@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Brand-Nagelberg//
 markerFolder: ./boroughs~Brand-Nagelberg/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

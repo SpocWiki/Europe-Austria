@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Mauterndorf//
 markerFolder: ./boroughs~Mauterndorf/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

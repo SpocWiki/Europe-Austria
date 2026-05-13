@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Losenstein//
 markerFolder: ./boroughs~Losenstein/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

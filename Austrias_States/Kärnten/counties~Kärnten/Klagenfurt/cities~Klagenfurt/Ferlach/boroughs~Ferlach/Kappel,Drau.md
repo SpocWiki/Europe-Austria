@@ -42,22 +42,22 @@ coordinates: [[Kappel]]
 markerFile: [[Kappel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Kappel,Drau|Kappel]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Ferlach/boroughs~Ferlach/Kappel,Drau|Kappel,Drau]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kappel.public|Kappel.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Ferlach/boroughs~Ferlach/Kappel,Drau.public|Kappel,Drau.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kappel.internal|Kappel.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Ferlach/boroughs~Ferlach/Kappel,Drau.internal|Kappel,Drau.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kappel.protect|Kappel.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Ferlach/boroughs~Ferlach/Kappel,Drau.protect|Kappel,Drau.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kappel.private|Kappel.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Ferlach/boroughs~Ferlach/Kappel,Drau.private|Kappel,Drau.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kappel.personal|Kappel.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Ferlach/boroughs~Ferlach/Kappel,Drau.personal|Kappel,Drau.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Kappel.secret|Kappel.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Klagenfurt/cities~Klagenfurt/Ferlach/boroughs~Ferlach/Kappel,Drau.secret|Kappel,Drau.secret]] 
 

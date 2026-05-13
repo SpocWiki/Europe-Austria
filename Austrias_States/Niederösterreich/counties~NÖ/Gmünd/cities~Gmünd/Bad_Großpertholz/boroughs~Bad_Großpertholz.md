@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Bad_Großpertholz//
 markerFolder: ./boroughs~Bad_Großpertholz/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

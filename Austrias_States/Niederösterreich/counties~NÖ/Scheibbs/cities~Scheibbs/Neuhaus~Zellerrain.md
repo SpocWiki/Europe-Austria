@@ -38,22 +38,22 @@ coordinates: [[Neuhaus~Zellerrain]]
 markerFile: [[Neuhaus~Zellerrain]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Neuhaus~Zellerrain|Neuhaus~Zellerrain]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Neuhaus~Zellerrain|Neuhaus~Zellerrain]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.public|Neuhaus~Zellerrain.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Neuhaus~Zellerrain.public|Neuhaus~Zellerrain.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.internal|Neuhaus~Zellerrain.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Neuhaus~Zellerrain.internal|Neuhaus~Zellerrain.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.protect|Neuhaus~Zellerrain.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Neuhaus~Zellerrain.protect|Neuhaus~Zellerrain.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.private|Neuhaus~Zellerrain.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Neuhaus~Zellerrain.private|Neuhaus~Zellerrain.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.personal|Neuhaus~Zellerrain.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Neuhaus~Zellerrain.personal|Neuhaus~Zellerrain.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Neuhaus~Zellerrain.secret|Neuhaus~Zellerrain.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Scheibbs/cities~Scheibbs/Neuhaus~Zellerrain.secret|Neuhaus~Zellerrain.secret]] 
 

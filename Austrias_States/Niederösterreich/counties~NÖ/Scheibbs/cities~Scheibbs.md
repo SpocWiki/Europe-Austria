@@ -13,7 +13,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Scheibbs//
 markerFolder: ./cities~Scheibbs/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Güssing//
 markerFolder: ./boroughs~Güssing/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

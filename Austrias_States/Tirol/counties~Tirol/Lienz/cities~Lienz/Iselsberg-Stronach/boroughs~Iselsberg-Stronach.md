@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Iselsberg-Stronach//
 markerFolder: ./boroughs~Iselsberg-Stronach/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

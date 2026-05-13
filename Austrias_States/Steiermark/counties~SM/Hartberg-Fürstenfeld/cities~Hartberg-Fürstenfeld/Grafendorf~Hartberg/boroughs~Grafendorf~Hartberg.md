@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Grafendorf~Hartberg//
 markerFolder: ./boroughs~Grafendorf~Hartberg/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

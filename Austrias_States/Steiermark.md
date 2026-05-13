@@ -291,9 +291,7 @@ value: dv.current().hist_area_km2
 > 
 > The state's capital is Graz, the second largest city in Austria after Vienna.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Styria)  
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Styria) 
 
 
 ## Confidential Links & Embeds: 

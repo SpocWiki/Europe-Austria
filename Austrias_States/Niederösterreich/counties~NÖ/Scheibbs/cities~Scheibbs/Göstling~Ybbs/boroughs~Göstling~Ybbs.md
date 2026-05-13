@@ -11,7 +11,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Göstling~Ybbs//
 markerFolder: ./boroughs~Göstling~Ybbs/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Lutzmannsburg//
 markerFolder: ./boroughs~Lutzmannsburg/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

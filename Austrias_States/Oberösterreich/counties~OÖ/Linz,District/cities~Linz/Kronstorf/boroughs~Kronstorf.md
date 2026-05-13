@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Kronstorf//
 markerFolder: ./boroughs~Kronstorf/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

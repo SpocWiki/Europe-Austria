@@ -41,22 +41,22 @@ coordinates: [[Mehrerau]]
 markerFile: [[Mehrerau]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Mehrerau|Mehrerau]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Mehrerau|Mehrerau]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.public|Mehrerau.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Mehrerau.public|Mehrerau.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.internal|Mehrerau.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Mehrerau.internal|Mehrerau.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.protect|Mehrerau.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Mehrerau.protect|Mehrerau.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.private|Mehrerau.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Mehrerau.private|Mehrerau.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.personal|Mehrerau.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Mehrerau.personal|Mehrerau.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Mehrerau.secret|Mehrerau.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Mehrerau.secret|Mehrerau.secret]] 
 

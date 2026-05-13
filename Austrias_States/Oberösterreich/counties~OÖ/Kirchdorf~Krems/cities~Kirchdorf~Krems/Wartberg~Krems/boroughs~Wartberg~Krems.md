@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Wartberg~Krems//
 markerFolder: ./boroughs~Wartberg~Krems/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

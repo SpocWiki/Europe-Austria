@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Zemendorf-Stöttera//
 markerFolder: ./boroughs~Zemendorf-Stöttera/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

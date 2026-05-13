@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Kematen~Innbach//
 markerFolder: ./boroughs~Kematen~Innbach/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

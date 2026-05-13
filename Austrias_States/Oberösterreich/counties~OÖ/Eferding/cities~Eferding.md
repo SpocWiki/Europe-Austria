@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Eferding//
 markerFolder: ./cities~Eferding/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

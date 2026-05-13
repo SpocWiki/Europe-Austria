@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Erlauf//
 markerFolder: ./boroughs~Erlauf/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

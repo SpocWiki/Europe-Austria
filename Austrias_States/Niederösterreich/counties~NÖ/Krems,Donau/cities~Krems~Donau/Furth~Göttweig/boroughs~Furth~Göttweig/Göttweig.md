@@ -38,22 +38,22 @@ coordinates: [[Goettweig]]
 markerFile: [[Goettweig]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Göttweig|Goettweig]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig/Göttweig|Göttweig]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.public|Goettweig.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig/Göttweig.public|Göttweig.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.internal|Goettweig.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig/Göttweig.internal|Göttweig.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.protect|Goettweig.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig/Göttweig.protect|Göttweig.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.private|Goettweig.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig/Göttweig.private|Göttweig.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.personal|Goettweig.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig/Göttweig.personal|Göttweig.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Goettweig.secret|Goettweig.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Furth~Göttweig/boroughs~Furth~Göttweig/Göttweig.secret|Göttweig.secret]] 
 

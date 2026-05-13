@@ -38,22 +38,22 @@ coordinates: [[Schwarzach]]
 markerFile: [[Schwarzach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Schwarzach|Schwarzach]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Schwarzach|Schwarzach]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.public|Schwarzach.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Schwarzach.public|Schwarzach.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.internal|Schwarzach.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Schwarzach.internal|Schwarzach.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.protect|Schwarzach.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Schwarzach.protect|Schwarzach.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.private|Schwarzach.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Schwarzach.private|Schwarzach.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.personal|Schwarzach.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Schwarzach.personal|Schwarzach.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/City/Schwarzach.secret|Schwarzach.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Vorarlberg/counties~VA/Bregenz/cities~Bregenz/Schwarzach.secret|Schwarzach.secret]] 
 

@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Imst//
 markerFolder: ./cities~Imst/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

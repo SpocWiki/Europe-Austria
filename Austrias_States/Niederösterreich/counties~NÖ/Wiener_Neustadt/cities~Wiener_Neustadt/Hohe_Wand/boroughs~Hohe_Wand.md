@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Hohe_Wand//
 markerFolder: ./boroughs~Hohe_Wand/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Wartmannstetten//
 markerFolder: ./boroughs~Wartmannstetten/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

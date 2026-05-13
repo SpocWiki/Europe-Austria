@@ -302,7 +302,8 @@ value: dv.current().hist_area_km2
 > 
 > Carinthia's main industries are tourism, electronics, engineering, forestry, and agriculture.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Carinthia)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Carinthia) 
+
 
 ## Confidential Links & Embeds: 
 

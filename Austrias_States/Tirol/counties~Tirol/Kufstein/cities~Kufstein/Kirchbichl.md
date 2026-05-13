@@ -52,21 +52,22 @@ maxZoom: 18
 > 
 > It has six parts and its main source of income is cement industry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kirchbichl)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Kirchbichl) 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Kirchbichl|Kirchbichl]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kufstein/cities~Kufstein/Kirchbichl|Kirchbichl]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirchbichl.public|Kirchbichl.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kufstein/cities~Kufstein/Kirchbichl.public|Kirchbichl.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirchbichl.internal|Kirchbichl.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kufstein/cities~Kufstein/Kirchbichl.internal|Kirchbichl.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirchbichl.protect|Kirchbichl.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kufstein/cities~Kufstein/Kirchbichl.protect|Kirchbichl.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirchbichl.private|Kirchbichl.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kufstein/cities~Kufstein/Kirchbichl.private|Kirchbichl.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirchbichl.personal|Kirchbichl.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kufstein/cities~Kufstein/Kirchbichl.personal|Kirchbichl.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Kirchbichl.secret|Kirchbichl.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Kufstein/cities~Kufstein/Kirchbichl.secret|Kirchbichl.secret]] 
 

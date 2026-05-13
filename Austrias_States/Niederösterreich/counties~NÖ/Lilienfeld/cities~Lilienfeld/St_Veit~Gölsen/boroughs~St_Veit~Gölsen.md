@@ -11,7 +11,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Veit~Gölsen//
 markerFolder: ./boroughs~St_Veit~Gölsen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

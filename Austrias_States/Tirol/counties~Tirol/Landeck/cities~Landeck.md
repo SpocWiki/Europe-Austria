@@ -11,7 +11,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Landeck//
 markerFolder: ./cities~Landeck/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -38,22 +38,22 @@ coordinates: [[Mautern~Niederoesterreich]]
 markerFile: [[Mautern~Niederoesterreich]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Mautern,Donau|Mautern~Niederoesterreich]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Mautern,Donau|Mautern,Donau]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.public|Mautern~Niederoesterreich.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Mautern,Donau.public|Mautern,Donau.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.internal|Mautern~Niederoesterreich.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Mautern,Donau.internal|Mautern,Donau.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.protect|Mautern~Niederoesterreich.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Mautern,Donau.protect|Mautern,Donau.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.private|Mautern~Niederoesterreich.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Mautern,Donau.private|Mautern,Donau.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.personal|Mautern~Niederoesterreich.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Mautern,Donau.personal|Mautern,Donau.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/Mautern~Niederoesterreich.secret|Mautern~Niederoesterreich.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/Mautern,Donau.secret|Mautern,Donau.secret]] 
 

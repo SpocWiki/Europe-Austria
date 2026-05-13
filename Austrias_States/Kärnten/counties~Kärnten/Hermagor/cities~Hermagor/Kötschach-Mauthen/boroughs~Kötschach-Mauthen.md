@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Kötschach-Mauthen//
 markerFolder: ./boroughs~Kötschach-Mauthen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

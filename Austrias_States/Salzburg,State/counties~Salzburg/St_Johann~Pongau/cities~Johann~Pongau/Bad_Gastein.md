@@ -39,22 +39,22 @@ coordinates: [[Bad_Gastein]]
 markerFile: [[Bad_Gastein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Bad_Gastein|Bad_Gastein]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/St_Johann~Pongau/cities~Johann~Pongau/Bad_Gastein|Bad_Gastein]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.public|Bad_Gastein.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/St_Johann~Pongau/cities~Johann~Pongau/Bad_Gastein.public|Bad_Gastein.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.internal|Bad_Gastein.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/St_Johann~Pongau/cities~Johann~Pongau/Bad_Gastein.internal|Bad_Gastein.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.protect|Bad_Gastein.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/St_Johann~Pongau/cities~Johann~Pongau/Bad_Gastein.protect|Bad_Gastein.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.private|Bad_Gastein.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/St_Johann~Pongau/cities~Johann~Pongau/Bad_Gastein.private|Bad_Gastein.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.personal|Bad_Gastein.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/St_Johann~Pongau/cities~Johann~Pongau/Bad_Gastein.personal|Bad_Gastein.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/City/Bad_Gastein.secret|Bad_Gastein.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Salzburg,State/counties~Salzburg/St_Johann~Pongau/cities~Johann~Pongau/Bad_Gastein.secret|Bad_Gastein.secret]] 
 

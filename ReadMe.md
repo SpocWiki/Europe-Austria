@@ -828,7 +828,7 @@ Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
-has_place_latitude = `=this.dv_has_place_latitude`
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 

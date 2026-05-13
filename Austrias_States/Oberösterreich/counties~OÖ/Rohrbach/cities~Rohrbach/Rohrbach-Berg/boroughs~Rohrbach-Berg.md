@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Rohrbach-Berg//
 markerFolder: ./boroughs~Rohrbach-Berg/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

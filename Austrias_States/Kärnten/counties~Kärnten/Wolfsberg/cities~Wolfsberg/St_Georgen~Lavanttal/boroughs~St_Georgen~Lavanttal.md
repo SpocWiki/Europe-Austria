@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Georgen~Lavanttal//
 markerFolder: ./boroughs~St_Georgen~Lavanttal/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

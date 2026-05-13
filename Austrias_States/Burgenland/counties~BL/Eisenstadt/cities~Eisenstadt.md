@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Eisenstadt//
 markerFolder: ./cities~Eisenstadt/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

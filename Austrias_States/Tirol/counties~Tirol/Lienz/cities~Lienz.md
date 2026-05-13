@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Lienz//
 markerFolder: ./cities~Lienz/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

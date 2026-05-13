@@ -41,22 +41,22 @@ coordinates: [[Neuhaus,Donau]]
 markerFile: [[Neuhaus,Donau]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Neuhaus,Donau|Neuhaus,Donau]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Neuhaus,Donau|Neuhaus,Donau]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus,Donau.public|Neuhaus,Donau.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Neuhaus,Donau.public|Neuhaus,Donau.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus,Donau.internal|Neuhaus,Donau.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Neuhaus,Donau.internal|Neuhaus,Donau.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus,Donau.protect|Neuhaus,Donau.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Neuhaus,Donau.protect|Neuhaus,Donau.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus,Donau.private|Neuhaus,Donau.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Neuhaus,Donau.private|Neuhaus,Donau.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus,Donau.personal|Neuhaus,Donau.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Neuhaus,Donau.personal|Neuhaus,Donau.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Neuhaus,Donau.secret|Neuhaus,Donau.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Rohrbach/cities~Rohrbach/Neuhaus,Donau.secret|Neuhaus,Donau.secret]] 
 

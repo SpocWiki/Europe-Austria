@@ -13,7 +13,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Mistelbach//
 markerFolder: ./cities~Mistelbach/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

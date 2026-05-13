@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Stuhlfelden//
 markerFolder: ./boroughs~Stuhlfelden/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

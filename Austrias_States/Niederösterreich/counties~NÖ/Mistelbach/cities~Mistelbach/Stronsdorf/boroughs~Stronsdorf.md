@@ -11,7 +11,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Stronsdorf//
 markerFolder: ./boroughs~Stronsdorf/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -50,21 +50,22 @@ maxZoom: 18
 > Reichenau (Austrian German pronunciation: [ˈraɪçənaʊ] ; Slovene: Rajnava) 
 > is a municipality in the district of Feldkirchen in the Austrian state of Carinthia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Reichenau,%20Carinthia)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Reichenau,%20Carinthia) 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Reichenau,Carinthia|Ebene_Reichenau]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/Reichenau,Carinthia|Reichenau,Carinthia]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Ebene_Reichenau.public|Ebene_Reichenau.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/Reichenau,Carinthia.public|Reichenau,Carinthia.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Ebene_Reichenau.internal|Ebene_Reichenau.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/Reichenau,Carinthia.internal|Reichenau,Carinthia.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Ebene_Reichenau.protect|Ebene_Reichenau.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/Reichenau,Carinthia.protect|Reichenau,Carinthia.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Ebene_Reichenau.private|Ebene_Reichenau.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/Reichenau,Carinthia.private|Reichenau,Carinthia.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Ebene_Reichenau.personal|Ebene_Reichenau.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/Reichenau,Carinthia.personal|Reichenau,Carinthia.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Ebene_Reichenau.secret|Ebene_Reichenau.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Feldkirchen/Reichenau,Carinthia.secret|Reichenau,Carinthia.secret]] 
 

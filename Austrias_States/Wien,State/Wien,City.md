@@ -717,7 +717,8 @@ maxZoom: 18
 > 
 > Vienna is renowned for its rich musical heritage, having been home to many celebrated classical composers, including Beethoven, Brahms, Bruckner, Haydn, Mahler, Mozart, Schoenberg, Schubert, Johann Strauss I, and Johann Strauss II. It played a pivotal role as a leading European music centre, from the age of Viennese Classicism through the early part of the 20th century. The city was home to the world's first psychoanalyst, Sigmund Freud. The historic centre of Vienna is rich in architectural ensembles, including Baroque palaces and gardens, and the late-19th-century Ringstraße, which is lined with grand buildings, monuments and parks.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vienna)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Vienna) 
+
 
 ## Confidential Links & Embeds: 
 

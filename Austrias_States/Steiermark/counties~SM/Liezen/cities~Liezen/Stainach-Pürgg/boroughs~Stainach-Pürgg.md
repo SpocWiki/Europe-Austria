@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Sanktinach-Pürgg//
 markerFolder: ./boroughs~Sanktinach-Pürgg/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

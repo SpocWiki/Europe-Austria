@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Haidershofen//
 markerFolder: ./boroughs~Haidershofen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Bad_Aussee//
 markerFolder: ./boroughs~Bad_Aussee/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

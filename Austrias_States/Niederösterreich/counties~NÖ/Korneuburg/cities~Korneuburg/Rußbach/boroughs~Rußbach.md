@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Rußbach//
 markerFolder: ./boroughs~Rußbach/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

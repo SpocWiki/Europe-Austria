@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Feldkirchen//
 markerFolder: ./cities~Feldkirchen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

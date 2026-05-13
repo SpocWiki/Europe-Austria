@@ -41,21 +41,22 @@ coordinates: [[St.Kathrein]]
 markerFile: [[St.Kathrein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
-[[St.Kathrein|St.Kathrein]]athrein|St.Kathrein]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.public|St.Kathrein.public]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck/St.Kathrein|St.Kathrein]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.internal|St.Kathrein.internal]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck/St.Kathrein.public|St.Kathrein.public]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.protect|St.Kathrein.protect]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck/St.Kathrein.internal|St.Kathrein.internal]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.private|St.Kathrein.private]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck/St.Kathrein.protect|St.Kathrein.protect]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.personal|St.Kathrein.personal]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck/St.Kathrein.private|St.Kathrein.private]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Kathrein.secret|St.Kathrein.secret]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck/St.Kathrein.personal|St.Kathrein.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck/cities~Innsbruck/St.Kathrein.secret|St.Kathrein.secret]] 
 

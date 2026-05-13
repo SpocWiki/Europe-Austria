@@ -38,22 +38,22 @@ coordinates: [[Weinzierl]]
 markerFile: [[Weinzierl]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Weinzierl|Weinzierl]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Weinzierl|Weinzierl]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Weinzierl.public|Weinzierl.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Weinzierl.public|Weinzierl.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Weinzierl.internal|Weinzierl.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Weinzierl.internal|Weinzierl.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Weinzierl.protect|Weinzierl.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Weinzierl.protect|Weinzierl.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Weinzierl.private|Weinzierl.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Weinzierl.private|Weinzierl.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Weinzierl.personal|Weinzierl.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Weinzierl.personal|Weinzierl.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Weinzierl.secret|Weinzierl.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Kirchdorf~Krems/cities~Kirchdorf~Krems/Weinzierl.secret|Weinzierl.secret]] 
 

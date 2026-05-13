@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Eibiswald//
 markerFolder: ./boroughs~Eibiswald/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

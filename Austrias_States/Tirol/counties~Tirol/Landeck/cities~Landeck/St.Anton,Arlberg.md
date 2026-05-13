@@ -62,21 +62,22 @@ maxZoom: 18
 > and is frequently listed as one of the world's top skiing resorts 
 > both in terms of skiing available and après-ski entertainment.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/St%20Anton%20am%20Arlberg)  
+> [Wikipedia](https://en.wikipedia.org/wiki/St%20Anton%20am%20Arlberg) 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[St.Anton,Arlberg|St.Anton,Arlberg]]
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck/St.Anton,Arlberg|St.Anton,Arlberg]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.public|St.Anton.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck/St.Anton,Arlberg.public|St.Anton,Arlberg.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.internal|St.Anton.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck/St.Anton,Arlberg.internal|St.Anton,Arlberg.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.protect|St.Anton.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck/St.Anton,Arlberg.protect|St.Anton,Arlberg.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.private|St.Anton.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck/St.Anton,Arlberg.private|St.Anton,Arlberg.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.personal|St.Anton.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck/St.Anton,Arlberg.personal|St.Anton,Arlberg.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/St.Anton.secret|St.Anton.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/counties~Tirol/Landeck/cities~Landeck/St.Anton,Arlberg.secret|St.Anton,Arlberg.secret]] 
 

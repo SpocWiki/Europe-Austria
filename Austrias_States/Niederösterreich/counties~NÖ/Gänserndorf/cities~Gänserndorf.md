@@ -51,7 +51,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Gänserndorf//
 markerFolder: ./cities~Gänserndorf/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

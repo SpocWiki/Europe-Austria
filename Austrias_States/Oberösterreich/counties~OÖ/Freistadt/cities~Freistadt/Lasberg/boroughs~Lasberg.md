@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Lasberg//
 markerFolder: ./boroughs~Lasberg/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

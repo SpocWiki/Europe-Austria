@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Reutte//
 markerFolder: ./cities~Reutte/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

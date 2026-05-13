@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Sanktllhofen//
 markerFolder: ./boroughs~Sanktllhofen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

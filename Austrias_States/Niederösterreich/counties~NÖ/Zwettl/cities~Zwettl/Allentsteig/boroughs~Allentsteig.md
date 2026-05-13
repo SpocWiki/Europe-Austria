@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Allentsteig//
 markerFolder: ./boroughs~Allentsteig/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

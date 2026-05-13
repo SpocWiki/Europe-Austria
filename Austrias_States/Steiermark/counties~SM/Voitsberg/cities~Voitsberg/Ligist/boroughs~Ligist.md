@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Ligist//
 markerFolder: ./boroughs~Ligist/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Kitzeck~Sausal//
 markerFolder: ./boroughs~Kitzeck~Sausal/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

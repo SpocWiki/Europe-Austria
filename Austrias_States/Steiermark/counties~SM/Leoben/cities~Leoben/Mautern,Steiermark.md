@@ -41,22 +41,22 @@ coordinates: [[Mautern~Steiermark]]
 markerFile: [[Mautern~Steiermark]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Mautern,Steiermark|Mautern~Steiermark]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leoben/cities~Leoben/Mautern,Steiermark|Mautern,Steiermark]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.public|Mautern~Steiermark.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leoben/cities~Leoben/Mautern,Steiermark.public|Mautern,Steiermark.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.internal|Mautern~Steiermark.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leoben/cities~Leoben/Mautern,Steiermark.internal|Mautern,Steiermark.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.protect|Mautern~Steiermark.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leoben/cities~Leoben/Mautern,Steiermark.protect|Mautern,Steiermark.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.private|Mautern~Steiermark.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leoben/cities~Leoben/Mautern,Steiermark.private|Mautern,Steiermark.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.personal|Mautern~Steiermark.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leoben/cities~Leoben/Mautern,Steiermark.personal|Mautern,Steiermark.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Mautern~Steiermark.secret|Mautern~Steiermark.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Leoben/cities~Leoben/Mautern,Steiermark.secret|Mautern,Steiermark.secret]] 
 

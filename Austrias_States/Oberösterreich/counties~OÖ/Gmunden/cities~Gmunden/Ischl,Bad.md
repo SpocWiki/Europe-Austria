@@ -61,26 +61,24 @@ coordinates: [[Ischl,Bad]]
 markerFile: [[Ischl,Bad]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Ischl,Bad|Ischl,Bad]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Ischl,Bad|Ischl,Bad]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ischl,Bad.public|Ischl,Bad.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Ischl,Bad.public|Ischl,Bad.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ischl,Bad.internal|Ischl,Bad.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Ischl,Bad.internal|Ischl,Bad.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ischl,Bad.protect|Ischl,Bad.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Ischl,Bad.protect|Ischl,Bad.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ischl,Bad.private|Ischl,Bad.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Ischl,Bad.private|Ischl,Bad.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ischl,Bad.personal|Ischl,Bad.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Ischl,Bad.personal|Ischl,Bad.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/City/Ischl,Bad.secret|Ischl,Bad.secret]] 
-
-
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Ischl,Bad.secret|Ischl,Bad.secret]] 
 ## Embedded Graph 
 
 ![[Ischl,Bad.svg]] 

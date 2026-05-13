@@ -282,7 +282,8 @@ value: dv.current().hist_area_km2
 > 
 > Vorarlberg is to a large extent mountainous, and two-thirds of the state is situated above 1,000m elevation. About 37% (97,000 hectares or 240,000 acres) of its surface is forest.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vorarlberg)   
+> [Wikipedia](https://en.wikipedia.org/wiki/Vorarlberg) 
+
 
 ## Confidential Links & Embeds: 
 

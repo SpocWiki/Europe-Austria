@@ -58,21 +58,22 @@ maxZoom: 18
 > The designated climatic spa is within the Salzkammergut region. 
 > Altaussee has the biggest salt deposits of Austria, which are still mined today.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Altaussee)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Altaussee) 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Altaussee|Alt-Aussee]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Altaussee|Altaussee]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.public|Alt-Aussee.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Altaussee.public|Altaussee.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.internal|Alt-Aussee.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Altaussee.internal|Altaussee.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.protect|Alt-Aussee.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Altaussee.protect|Altaussee.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.private|Alt-Aussee.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Altaussee.private|Altaussee.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.personal|Alt-Aussee.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Altaussee.personal|Altaussee.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/City/Alt-Aussee.secret|Alt-Aussee.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Steiermark/counties~SM/Liezen/cities~Liezen/Altaussee.secret|Altaussee.secret]] 
 

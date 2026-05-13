@@ -55,19 +55,20 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Bruck%20an%20der%20Leitha)  
 > 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Bruck,Leitha|Bruck~Leitha]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Neusiedl,See/Bruck,Leitha|Bruck,Leitha]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.public|Bruck~Leitha.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Neusiedl,See/Bruck,Leitha.public|Bruck,Leitha.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.internal|Bruck~Leitha.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Neusiedl,See/Bruck,Leitha.internal|Bruck,Leitha.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.protect|Bruck~Leitha.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Neusiedl,See/Bruck,Leitha.protect|Bruck,Leitha.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.private|Bruck~Leitha.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Neusiedl,See/Bruck,Leitha.private|Bruck,Leitha.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.personal|Bruck~Leitha.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Neusiedl,See/Bruck,Leitha.personal|Bruck,Leitha.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/City/Bruck~Leitha.secret|Bruck~Leitha.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Burgenland/counties~BL/Neusiedl,See/Bruck,Leitha.secret|Bruck,Leitha.secret]] 
 

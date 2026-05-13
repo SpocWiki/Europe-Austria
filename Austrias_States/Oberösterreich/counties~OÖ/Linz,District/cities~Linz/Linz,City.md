@@ -182,7 +182,7 @@ aliases:
 > As of 1 January 2024, the city has a population of 212,538. 
 > It is the 7th largest of all cities on the Danube river.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Linz)
+> [Wikipedia](https://en.wikipedia.org/wiki/Linz) 
 
 
 ## Confidential Links & Embeds: 

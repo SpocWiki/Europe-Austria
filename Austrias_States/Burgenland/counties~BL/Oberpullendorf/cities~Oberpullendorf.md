@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Oberpullendorf//
 markerFolder: ./cities~Oberpullendorf/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -41,22 +41,22 @@ coordinates: [[Eisenkrappel]]
 markerFile: [[Eisenkrappel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Eisenkrappel|Eisenkrappel]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/Eisenkappel-Vellach/boroughs~Eisenkappel-Vellach/Eisenkrappel|Eisenkrappel]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.public|Eisenkrappel.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/Eisenkappel-Vellach/boroughs~Eisenkappel-Vellach/Eisenkrappel.public|Eisenkrappel.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.internal|Eisenkrappel.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/Eisenkappel-Vellach/boroughs~Eisenkappel-Vellach/Eisenkrappel.internal|Eisenkrappel.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.protect|Eisenkrappel.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/Eisenkappel-Vellach/boroughs~Eisenkappel-Vellach/Eisenkrappel.protect|Eisenkrappel.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.private|Eisenkrappel.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/Eisenkappel-Vellach/boroughs~Eisenkappel-Vellach/Eisenkrappel.private|Eisenkrappel.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.personal|Eisenkrappel.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/Eisenkappel-Vellach/boroughs~Eisenkappel-Vellach/Eisenkrappel.personal|Eisenkrappel.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/City/Eisenkrappel.secret|Eisenkrappel.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Kärnten/counties~Kärnten/Völkermarkt/cities~Völkermarkt/Eisenkappel-Vellach/boroughs~Eisenkappel-Vellach/Eisenkrappel.secret|Eisenkrappel.secret]] 
 

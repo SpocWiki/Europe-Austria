@@ -13,7 +13,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Amstetten//
 markerFolder: ./cities~Amstetten/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

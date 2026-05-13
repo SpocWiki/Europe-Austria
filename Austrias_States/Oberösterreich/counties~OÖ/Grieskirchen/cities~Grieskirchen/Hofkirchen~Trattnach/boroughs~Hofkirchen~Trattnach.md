@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Hofkirchen~Trattnach//
 markerFolder: ./boroughs~Hofkirchen~Trattnach/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

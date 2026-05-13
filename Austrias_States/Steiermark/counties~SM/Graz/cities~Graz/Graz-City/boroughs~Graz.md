@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Graz//
 markerFolder: ./boroughs~Graz/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

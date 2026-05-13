@@ -13,7 +13,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Michelhausen//
 markerFolder: ./Michelhausen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

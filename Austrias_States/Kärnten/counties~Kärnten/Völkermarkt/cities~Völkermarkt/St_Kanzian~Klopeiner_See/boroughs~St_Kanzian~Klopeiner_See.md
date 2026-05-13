@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Kanzian~Klopeiner_See//
 markerFolder: ./boroughs~St_Kanzian~Klopeiner_See/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

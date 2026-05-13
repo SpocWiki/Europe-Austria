@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Kirchschlag~Buckligen//
 markerFolder: ./boroughs~Kirchschlag~Buckligen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

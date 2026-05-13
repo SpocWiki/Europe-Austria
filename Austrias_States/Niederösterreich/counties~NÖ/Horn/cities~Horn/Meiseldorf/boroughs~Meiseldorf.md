@@ -13,7 +13,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Meiseldorf//
 markerFolder: ./boroughs~Meiseldorf/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

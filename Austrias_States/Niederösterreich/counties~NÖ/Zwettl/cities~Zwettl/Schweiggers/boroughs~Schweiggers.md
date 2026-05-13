@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Schweiggers//
 markerFolder: ./boroughs~Schweiggers/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

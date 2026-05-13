@@ -11,7 +11,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Bad_Traunstein//
 markerFolder: ./boroughs~Bad_Traunstein/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

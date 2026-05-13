@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Uttendorf//
 markerFolder: ./boroughs~Uttendorf/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

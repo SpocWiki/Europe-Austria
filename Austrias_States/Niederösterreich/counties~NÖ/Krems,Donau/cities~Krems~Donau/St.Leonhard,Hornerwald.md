@@ -38,22 +38,22 @@ coordinates: [[St.Leonhard]]
 markerFile: [[St.Leonhard]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[St.Leonhard,Hornerwald|St.Leonhard]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/St.Leonhard,Hornerwald|St.Leonhard,Hornerwald]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.public|St.Leonhard.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/St.Leonhard,Hornerwald.public|St.Leonhard,Hornerwald.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.internal|St.Leonhard.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/St.Leonhard,Hornerwald.internal|St.Leonhard,Hornerwald.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.protect|St.Leonhard.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/St.Leonhard,Hornerwald.protect|St.Leonhard,Hornerwald.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.private|St.Leonhard.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/St.Leonhard,Hornerwald.private|St.Leonhard,Hornerwald.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.personal|St.Leonhard.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/St.Leonhard,Hornerwald.personal|St.Leonhard,Hornerwald.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/City/St.Leonhard.secret|St.Leonhard.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Niederösterreich/counties~NÖ/Krems,Donau/cities~Krems~Donau/St.Leonhard,Hornerwald.secret|St.Leonhard,Hornerwald.secret]] 
 

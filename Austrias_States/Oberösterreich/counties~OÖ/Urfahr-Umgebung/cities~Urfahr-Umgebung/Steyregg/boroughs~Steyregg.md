@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Sanktyregg//
 markerFolder: ./boroughs~Sanktyregg/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Klagenfurt~Wörthersee//
 markerFolder: ./boroughs~Klagenfurt~Wörthersee/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

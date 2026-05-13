@@ -223,7 +223,7 @@ value: dv.current().hist_area_km2
 > 
 > With the founding of the European region Tyrol-South Tyrol-Trentino, the area has had its own legal entity since 2011. It is known as  a European Grouping for Territorial Cooperation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tyrol)   
+> [Wikipedia](https://en.wikipedia.org/wiki/Tyrol) 
 
 
 ## Confidential Links & Embeds: 

@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Güssing//
 markerFolder: ./cities~Güssing/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

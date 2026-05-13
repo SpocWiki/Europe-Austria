@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Haringsee//
 markerFolder: ./boroughs~Haringsee/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

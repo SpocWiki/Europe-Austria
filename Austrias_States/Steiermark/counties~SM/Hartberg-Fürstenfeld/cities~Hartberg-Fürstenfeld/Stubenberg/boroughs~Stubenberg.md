@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Stubenberg//
 markerFolder: ./boroughs~Stubenberg/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

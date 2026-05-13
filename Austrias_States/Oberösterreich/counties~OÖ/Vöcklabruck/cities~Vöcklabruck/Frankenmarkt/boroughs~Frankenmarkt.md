@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~Frankenmarkt//
 markerFolder: ./boroughs~Frankenmarkt/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

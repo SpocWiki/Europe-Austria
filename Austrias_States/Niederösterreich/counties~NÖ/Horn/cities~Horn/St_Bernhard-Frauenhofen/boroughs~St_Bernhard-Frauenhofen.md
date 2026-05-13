@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./boroughs~St_Bernhard-Frauenhofen//
 markerFolder: ./boroughs~St_Bernhard-Frauenhofen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

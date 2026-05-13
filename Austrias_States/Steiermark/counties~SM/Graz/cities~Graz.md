@@ -12,7 +12,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./cities~Graz//
 markerFolder: ./cities~Graz/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
