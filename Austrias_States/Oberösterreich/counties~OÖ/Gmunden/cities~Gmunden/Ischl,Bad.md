@@ -81,7 +81,7 @@ maxZoom: 18
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Oberösterreich/counties~OÖ/Gmunden/cities~Gmunden/Ischl,Bad.secret|Ischl,Bad.secret]] 
 ## Embedded Graph 
 
-![[Ischl,Bad.svg]] 
+![[Ischl,Bad.md]] 
 
 
 %%

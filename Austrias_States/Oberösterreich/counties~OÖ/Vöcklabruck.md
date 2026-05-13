@@ -86,13 +86,10 @@ maxZoom: 18
 
 #is_/part_of :: [[Voelklabruck]] 
 
-![[Vöcklabruck.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Vöcklabruck.svg]] 
+![[Vöcklabruck.md]] 
 
 
 %%
