@@ -60,5 +60,22 @@ Commons_category: Brennerpass
 > 
 > It has a population of 400 to 600 (as of 2011).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Brenner%20Pass)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Brenner%20Pass) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Brenner_Pass|Brenner_Pass]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Brenner_Pass.public|Brenner_Pass.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Brenner_Pass.internal|Brenner_Pass.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Brenner_Pass.protect|Brenner_Pass.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Brenner_Pass.private|Brenner_Pass.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Brenner_Pass.personal|Brenner_Pass.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/Brenner_Pass.secret|Brenner_Pass.secret]] 
 
